@@ -2538,5 +2538,23 @@
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL.COMMERCIAL"]
     },
+    {
+     "tenant": "pb.arniwala",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.begowal",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.patran",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    }
   ]
 }
