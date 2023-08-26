@@ -2558,27 +2558,66 @@
     },
     {
       "tenant": "pb.jalandhar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.batala",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.hoshiarpur",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true,
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.jalandhar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true,
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.mohali",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true,
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.bathinda",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.phagwara",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.moga",
       "enabled": true,
       "financialyear": "2023-24",
       "isRented": true
@@ -2588,7 +2627,8 @@
       "enabled": true,
       "financialyear": "2023-24",
       "isRented": true,
-      "propertytype": ["RESIDENTIAL"]
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     }
+    
   ]
 }
