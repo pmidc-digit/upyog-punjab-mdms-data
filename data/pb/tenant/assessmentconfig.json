@@ -2599,14 +2599,14 @@
     },
     {
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["RESIDENTIAL"]
     },
     {
       "tenant": "pb.bathinda",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
