@@ -2612,22 +2612,35 @@
     },
     {
       "tenant": "pb.phagwara",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.moga",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.hoshiarpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
+    },
+    {
+      "tenant": "pb.pathankot",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true,
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.abohar",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
     }
     
   ]
