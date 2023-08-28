@@ -2631,14 +2631,14 @@
     },
     {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["RESIDENTIAL"]
     },
     {
       "tenant": "pb.abohar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     }
