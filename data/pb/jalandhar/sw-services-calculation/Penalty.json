@@ -1,11 +1,12 @@
+
 {
-  "tenantId": "pb.jalandhar",
-  "moduleName": "ws-services-calculation",
-  "Interest": [
+  "tenantId": "pb.khamano",
+  "moduleName": "sw-services-calculation",
+  "Penalty": [
     {
       "rate": 0,
       "minAmount": null,
-      "applicableAfterDays":0,
+      "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",

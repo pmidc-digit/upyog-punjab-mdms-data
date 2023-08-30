@@ -1,6 +1,6 @@
 {
-  "tenantId": "pb.jalandhar",
-  "moduleName": "sw-services-calculation",
+  "tenantId": "pb.khamano",
+  "moduleName": "sw-services-masters",
   "billingPeriod": [
    
     {
@@ -9,8 +9,8 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1672531200000,
-      "taxPeriodTo": 1680287399000,
+      "taxPeriodFrom": 1664582400000,
+      "taxPeriodTo": 1672511399000,
       "demandGenerationDateMillis": 345600000
     }
   ]
