@@ -14362,7 +14362,22 @@
       "serviceCode": "pb-digilocker",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+         "id": 181218,
+         "name": "Customer Detail Report",
+         "url": "url",
+         "displayName": "Customer Detail Report",
+         "orderNumber": 1,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "path": "w_s.WS Reports.customerdetail",
+         "navigationURL": "report/rainmaker-ws/CustomerDetailReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+       }
 	  
 	  
   ]
