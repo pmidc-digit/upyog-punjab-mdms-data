@@ -6432,6 +6432,43 @@
       },
       "address": "Not available",
       "contactNumber": "1676242567"
+    },
+     {
+      "code": "pb.ferozepurpwssb",
+      "name": "Ferozepurpwssb",
+      "description": "Ferozepur",
+      "logoId": "http://mseva.lgpunjab.gov.in/pb-egov-assets/pb.ferozepurpwssb/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/ferozepurpwssb/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eepwssdfzr@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Ferozepurpwssb",
+        "localName": "Ferozepurpwssb",
+        "districtCode": "7",
+        "districtName": "Ferozepurpwssb",
+        "districtTenantCode": "pb.ferozepurpwssb",
+        "regionName": "Ferozepur Region",
+        "ulbGrade": "MC Class I",
+        "ulbType": "Municipal Council",
+        "longitude": 74.6225,
+        "latitude": 30.9331,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "701",
+        "regionCode": "3",
+        "municipalityName": "Ferozepur",
+        "ddrName": "Ferozepur-DDR",
+        "pwssb": true,
+        "pwssbGrade": "Punjab Water Supply and Sewerage Board"
+      },
+      "address": "Not available",
+      "contactNumber": "1676242567"
     }
   ]
 }
