@@ -2771,30 +2771,66 @@
     },
     {
       "tenant": "pb.talwandisabo",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.amargarh",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.amloh",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.baghapurana",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.kurali",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+     {
+      "tenant": "pb.mandigobindgarh",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.mandikalan",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.mansa",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.maur",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.mehatpur",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.mehraj",
       "enabled": true,
       "financialyear": "2023-24",
       "isRented": true
