@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.ferozepur",
+  "tenantId": "pb.ferozepurpwssb",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ferozepur",
-        "localname": "Ferozepur",
+        "name": "Ferozepurpwssb",
+        "localname": "Ferozepurpwssb",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.ferozepur",
+        "code": "pb.ferozepurpwssb",
         "children": [
           {
             "id": "4ad4b69e-8fe0-41d2-b6ed-2282d2f5e134",
