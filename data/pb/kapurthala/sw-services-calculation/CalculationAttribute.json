@@ -1,11 +1,12 @@
 {
   "tenantId": "pb.kapurthala",
-  "moduleName": "ws-services-masters",
-  "connectionType": [
+  "moduleName": "sw-services-calculation",
+  "CalculationAttribute": [
+   
     {
       "name": "Non Metered",
       "code": "Non Metered",
-      "description": "Non-Metered Connection",
+      "attribute": "PLOT_BASED",
       "active": true
     }
   ]

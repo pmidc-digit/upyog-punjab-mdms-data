@@ -2,11 +2,11 @@
 {
   "tenantId": "pb.kapurthala",
   "moduleName": "sw-services-calculation",
-  "Interest": [
+  "Penalty": [
     {
       "rate": 0,
       "minAmount": null,
-      "applicableAfterDays":0,
+      "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",
