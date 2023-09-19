@@ -2368,6 +2368,49 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get" 
        
        
+    },
+       {
+      "businessService": "Sanitation.Septic_tank",
+      "code": "SNT.Septic_tank",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+   {
+      "businessService": "Sanitation.Waste_water_fees",
+      "code": "SNT.Waste_water_fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+   {
+      "businessService": "Sanitation.Faecal_sludge_disposal",
+      "code": "SNT.Faecal_sludge_disposal",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     }
+
   ]
 }
