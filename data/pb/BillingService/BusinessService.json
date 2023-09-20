@@ -2370,7 +2370,7 @@
        
     },
        {
-      "businessService": "Sanitation.Septic_tank",
+      "businessService": "Sanitation.Septic tank",
       "code": "SNT.Septic_tank",
       "collectionModesNotAllowed": [
         ""
@@ -2384,7 +2384,7 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
    {
-      "businessService": "Sanitation.Waste_water_fees",
+      "businessService": "Sanitation.Waste water fees",
       "code": "SNT.Waste_water_fees",
       "collectionModesNotAllowed": [
         ""
@@ -2398,7 +2398,7 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
    {
-      "businessService": "Sanitation.Faecal_sludge_disposal",
+      "businessService": "Sanitation.Faecal sludge disposal",
       "code": "SNT.Faecal_sludge_disposal",
       "collectionModesNotAllowed": [
         ""
