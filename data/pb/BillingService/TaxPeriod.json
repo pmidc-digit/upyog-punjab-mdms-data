@@ -2212,10 +2212,31 @@
       "service": "PT",
       "code": "PTAN2023",
       "financialYear": "2023-24" 
-   
-	        
-	    
-	    
-    }
+   },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Septic_tank",
+      "code": "SNTSEPTICTANK",
+      "financialYear": "2014-24"
+    },
+
+   {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Waste_water_fees",
+      "code": "SNTWASTEWATERFEES",
+      "financialYear": "2014-24"
+    },
+  {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Faecal_sludge_disposal",
+      "code": "SNTFAECALSLUDGEDISPOSAL",
+      "financialYear": "2014-24"
+    }	  
   ]
 }
