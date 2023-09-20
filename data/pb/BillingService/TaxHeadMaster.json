@@ -6813,26 +6813,6 @@
       "order": "0",
       "isRequired": false    
     },
-    {
-      "category": "TAX",
-      "service": "SNT.Septic_tank",
-      "name": "SNT.SEPTIC_TANK_TAX",
-      "code": "SNT.SEPTIC_TANK_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "SNT.Septic_tank",
-      "name": "SNT.SEPTIC_TANK_FIELD_FEE",
-      "code": "SNT.SEPTIC_TANK_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
    {
       "category": "TAX",
       "service": "SNT.Waste_water_fees",
@@ -6853,6 +6833,66 @@
       "order": "0",
       "isRequired": false
     },
+	{
+      "category": "TAX",
+      "service": "SNT.Waste_water_fees",
+      "name": "SNT.WASTE_WATER_FEES_CGST",
+      "code": "SNT.WASTE_WATER_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SNT.Waste_water_fees",
+      "name": "SNT.WASTE_WATER_FEES_SGST",
+      "code": "SNT.WASTE_WATER_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false    
+    },
+       {
+      "category": "TAX",
+      "service": "SNT.Septic_tank",
+      "name": "SNT.SEPTIC_TANK_TAX",
+      "code": "SNT.SEPTIC_TANK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "SNT.Septic_tank",
+      "name": "SNT.SEPTIC_TANK_FIELD_FEE",
+      "code": "SNT.SEPTIC_TANK_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "TAX",
+      "service": "SNT.Septic_tank",
+      "name": "SNT.SEPTIC_TANK_CGST",
+      "code": "SNT.SEPTIC_TANK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SNT.Septic_tank",
+      "name": "SNT.SEPTIC_TANK_SGST",
+      "code": "SNT.SEPTIC_TANK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false    
+    },
     {
       "category": "TAX",
       "service": "SNT.Faecal_sludge_disposal",
@@ -6871,7 +6911,27 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
+      "isRequired":false
+    },
+	{
+      "category": "TAX",
+      "service": "SNT.Faecal_sludge_disposal",
+      "name": "SNT.FAECAL_SLUDGE_DISPOSAL_CGST",
+      "code": "SNT.FAECAL_SLUDGE_DISPOSAL_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "SNT.Faecal_sludge_disposal",
+      "name": "SNT.FAECAL_SLUDGE_DISPOSAL_SGST",
+      "code": "SNT.FAECAL_SLUDGE_DISPOSAL_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false    
     }
   ]
 }
