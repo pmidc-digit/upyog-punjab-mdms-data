@@ -6815,7 +6815,7 @@
     },
     {
       "category": "TAX",
-      "service": "SNT.Septic_Tank",
+      "service": "SNT.Septic_tank",
       "name": "SNT.SEPTIC_TANK_TAX",
       "code": "SNT.SEPTIC_TANK_TAX",
       "isDebit": false,
@@ -6825,7 +6825,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "SNT.Septic_Tank",
+      "service": "SNT.Septic_tank",
       "name": "SNT.SEPTIC_TANK_FIELD_FEE",
       "code": "SNT.SEPTIC_TANK_FIELD_FEE",
       "isDebit": false,
@@ -6835,7 +6835,7 @@
     },
    {
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_TAX",
       "code": "SNT.WASTE_WATER_FEES_TAX",
       "isDebit": false,
@@ -6845,7 +6845,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "code": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "isDebit": false,
@@ -6855,7 +6855,7 @@
     },
     {
       "category": "TAX",
-      "service": "SNT.Faecal_Sludge_Disposal",
+      "service": "SNT.Faecal_sludge_disposal",
       "name": "SNT.FAECAL_SLUDGE_DISPOSAL_TAX",
       "code": "SNT.FAECAL_SLUDGE_DISPOSAL_TAX",
       "isDebit": false,
@@ -6865,7 +6865,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "SNT.Faecal_Sludge_Disposal",
+      "service": "SNT.Faecal_sludge_disposal",
       "name": "SNT.FAECAL_SLUDGE_DISPOSAL_FIELD_FEE",
       "code": "SNT.FAECAL_SLUDGE_DISPOSAL_FIELD_FEE",
       "isDebit": false,
