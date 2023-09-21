@@ -6773,7 +6773,7 @@
   },
   {
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_TAX",
       "code": "SNT.WASTE_WATER_FEES_TAX",
       "isDebit": false,
@@ -6783,7 +6783,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "code": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "isDebit": false,
@@ -6793,7 +6793,7 @@
     },
 	{
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_CGST",
       "code": "SNT.WASTE_WATER_FEES_CGST",
       "isDebit": false,
@@ -6803,7 +6803,7 @@
     },
     {
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_SGST",
       "code": "SNT.WASTE_WATER_FEES_SGST",
       "isDebit": false,
