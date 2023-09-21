@@ -3239,7 +3239,7 @@
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2022-23",
       "isRented": true,
       "locality": ["ALOC-231"]
@@ -3247,13 +3247,18 @@
     {
 
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2022-23",
       "isRented": true,
       "locality": ["ALOC-66"]
       
+    },
+    {
+      "tenant": "pb.patiala",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
     }
-
 
     
   ]
