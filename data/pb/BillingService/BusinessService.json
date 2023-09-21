@@ -2368,8 +2368,8 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
    {
-      "businessService": "Sanitation.Waste_Water_Fees",
-      "code": "SNT.Waste_Water_Fees",
+      "businessService": "Sanitation.Waste_water_fees",
+      "code": "SNT.Waste_water_fees",
       "collectionModesNotAllowed": [
         ""
       ],
