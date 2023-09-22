@@ -14377,7 +14377,22 @@
          "navigationURL": "report/rainmaker-ws/CustomerDetailReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-       }
+       },
+   {
+      "id": 181219,
+      "name": "Status Wise Report",
+      "url": "url",
+      "displayName": "Status Wise Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Status Wise Report",
+      "navigationURL": "report/rainmaker-ws/StatusWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
 	  
 	  
   ]
