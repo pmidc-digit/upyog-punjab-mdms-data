@@ -3255,6 +3255,48 @@
     },
     {
       "tenant": "pb.patiala",
+       "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.zirakpur",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.zira",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.urmartanda",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.tarntaran",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.tapa",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.talwara",
+       "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.talwandibhai",
        "enabled": true,
       "financialyear": "2023-24",
       "isRented": true
