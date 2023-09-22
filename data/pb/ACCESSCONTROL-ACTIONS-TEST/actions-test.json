@@ -14601,6 +14601,89 @@
       "navigationURL": "report/rainmaker-pt/AccountCodeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+  },
+  {	  
+	  
+      "id": 2526,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.Septic_tank/_search",
+      "displayName": "SNT.Septic_tank search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {	  
+
+      "id": 2527,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/SNT.Septic_tank/_workflow",
+      "displayName": "SNT.Septic_tank search workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+
+  },
+  {	  
+ 
+      "id": 2528,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.Waste_water_fees/_search",
+      "displayName": "SNT.Waste_water_fees search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+
+  },
+  {	  
+      "id": 2529,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/SNT.Waste_water_fees/_workflow",
+      "displayName": "SNT.Waste_water_fees workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+
+  },
+  {	  
+
+      "id": 2530,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.Faecal_sludge_disposal/_search",
+      "displayName": "SNT.Faecal_sludge_disposal search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {	  
+
+      "id": 2531,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/SNT.Faecal_sludge_disposal/_workflow",
+      "displayName": "SNT.Faecal_sludge_disposal workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+
+
+	  
   }
 
 
