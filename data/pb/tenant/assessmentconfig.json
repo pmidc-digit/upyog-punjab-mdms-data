@@ -2212,11 +2212,17 @@
     },
      {
       "tenant": "pb.bhadaur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "locality": ["LC2"],
       "propertytype": ["NONRESIDENTIAL.INDUSTRIAL"]
+    },
+    {
+      "tenant": "pb.testing",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true      
     }
   ]
 }
