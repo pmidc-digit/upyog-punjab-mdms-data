@@ -1,0 +1,13 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "cancelassessmentconfig": [
+ 
+    {
+      "tenant": "pb.testing",
+      "enabled": true,
+      "financialyear": "2017-18",
+      "isRented": true      
+    }
+  ]
+}
