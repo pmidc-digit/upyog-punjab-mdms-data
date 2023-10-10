@@ -4,7 +4,7 @@
   "moduleName": "sw-services-calculation",
   "Penalty": [
     {
-      "rate": 0,
+      "rate": 20,
       "minAmount": null,
       "applicableAfterDays":30,
       "flatAmount": null,
