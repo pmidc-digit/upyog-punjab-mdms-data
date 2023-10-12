@@ -17,14 +17,26 @@
     },
     {
       "tenant": "pb.testing",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22",
       "isRented": true      
     },
     {
       "tenant": "pb.testing",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2019-20",
+      "isRented": true      
+    },
+    {
+      "tenant": "pb.mohali",
+      "enabled": false,
+      "financialyear": "2022-23",
+      "isRented": true      
+    },
+    {
+      "tenant": "pb.testing",
+      "enabled": false,
+      "financialyear": "2023-24",
       "isRented": true      
     },
     {
@@ -36,7 +48,7 @@
     {
       "tenant": "pb.testing",
       "enabled": true,
-      "financialyear": "2023-24",
+      "financialyear": "2022-23",
       "isRented": true      
     }
   ]
