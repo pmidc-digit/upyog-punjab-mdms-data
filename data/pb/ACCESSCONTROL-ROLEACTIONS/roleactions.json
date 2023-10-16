@@ -23301,10 +23301,21 @@
       "actionid": 2531,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {	     
+      "rolecode": "PTCEMP",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {	     
+      "rolecode": "SUPERUSER",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
 
 	  
-	    
-    }
 	 
    ]
 }
