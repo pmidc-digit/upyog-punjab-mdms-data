@@ -14681,10 +14681,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-
-
-	  
-  }
+  },
+  {
+        "id": 2532,
+        "name": "cancel Assessment Job",
+        "url": "/pt-calculator-v2/assessment/cancelassessment/_job",
+        "displayName": "PT Cancel assessment job",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+      }
 
 
 	  
