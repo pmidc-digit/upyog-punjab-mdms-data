@@ -7,7 +7,15 @@
       "tenant": "pb.testing",
       "enabled": false,
       "financialyear": "2021-22",
-      "isRented": true      
+      "isRented": true,
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"],
+      "locality": ["ALOC-66"]
+    },
+    {
+      "tenant": "pb.testing",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
     }
 ]
 }
