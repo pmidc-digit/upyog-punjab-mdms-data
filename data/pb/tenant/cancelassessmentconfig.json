@@ -13,6 +13,48 @@
     },
     {
       "tenant": "pb.testing",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.ropar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.kharar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.patti",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.tarntaran",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.nawanshahr",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.banga",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.pathankot",
       "enabled": true,
       "financialyear": "2023-24",
       "isRented": true
