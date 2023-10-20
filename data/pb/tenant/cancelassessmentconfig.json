@@ -19,43 +19,55 @@
     },
     {
       "tenant": "pb.ropar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.kharar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.patti",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.tarntaran",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.nawanshahr",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.banga",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.amritsar",
+      "enabled": false,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.patiala",
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     }
