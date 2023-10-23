@@ -295,6 +295,528 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "narotjaimalsingh",
+        "localname": "narotjaimalsingh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.narotjaimalsingh",
+        "children": [
+          {
+            "id": "64e26bb7-ea43-4529-8e7f-6f3b1cb57e3d",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7039ee7b-167c-4ec3-9dba-1959dcde429a",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "6e6d2d12-6ac5-4f2d-99b6-660ba9433cbc",
+                    "boundaryNum": 1,
+                    "name": "Awe Wala Mohalla Narot Jaimal Singh - B1 - A1",
+                    "localname": "Awe Wala Mohalla Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f578b5b5-d335-4b62-aa01-abe68d2aceb9",
+                    "boundaryNum": 1,
+                    "name": "Dinanagar Road Narot Jaimal Singh - B1 - A1",
+                    "localname": "Dinanagar Road Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ba743411-4e68-4f50-8d98-b48b4c2d12a7",
+                    "boundaryNum": 1,
+                    "name": "Dalpat Tarf Narot Jaimal Singh - B1 - A1",
+                    "localname": "Dalpat Tarf Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee2e2aff-828f-40df-ad35-a2156ebb26b5",
+                    "boundaryNum": 1,
+                    "name": "Kulian Mohalla Narot Jaimal Singh - B1 - A1",
+                    "localname": "Kulian Mohalla Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "97b17e07-e0fe-46a9-a87b-e60865d1af12",
+                    "boundaryNum": 1,
+                    "name": "Baba Lal Dyal Wali Colony Narot Jaimal Singh - B1 - A1",
+                    "localname": "Baba Lal Dyal Wali Colony Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8b0ccf24-e1aa-4d73-878e-dab8c654b2c0",
+                    "boundaryNum": 1,
+                    "name": "Dhakka Colony Narot Jaimal Singh - B1 - A1",
+                    "localname": "Dhakka Colony Narot Jaimal Singh - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cf0039df-a69a-4572-a0f3-fc44a6ebac08",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "df902447-88da-4fdc-8a07-c8ea1c22312d",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Dalpat Tarf Wali Gali Narot Jaimal Singh - B2 - A1",
+                    "localname": "Main Bazar Dalpat Tarf Wali Gali Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f5b4cecb-aba3-4748-acad-5920b6e7502c",
+                    "boundaryNum": 1,
+                    "name": "Kharka Mohalla Narot Jaimal Singh - B2 - A1",
+                    "localname": "Kharka Mohalla Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0b1785ae-eb84-4f4d-8e79-1519aa48555e",
+                    "boundaryNum": 1,
+                    "name": "Dalpat Tarf Narot Jaimal Singh - B2 - A1",
+                    "localname": "Dalpat Tarf Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f21ed5e6-ef8f-4fed-9126-f211eab8d435",
+                    "boundaryNum": 1,
+                    "name": "Kishore Bharti Public School Wali Gali Narot Jaimal Singh - B2 - A1",
+                    "localname": "Kishore Bharti Public School Wali Gali Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bccbca7e-f97b-4b1c-8195-f5108f562ff6",
+                    "boundaryNum": 1,
+                    "name": "Opp Govt Sen. Sec School Bus Stand Road Narot Jaimal Singh - B2 - A1",
+                    "localname": "Opp Govt Sen. Sec School Bus Stand Road Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "741edf2d-072f-49a9-90a2-2b7aaff765b5",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand Road Narot Jaimal Singh - B2 - A1",
+                    "localname": "Bus Stand Road Narot Jaimal Singh - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e4fe328f-fa5d-45f3-b108-874f08cce38a",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "e67905a8-7ebc-4d53-b49e-4b5033811cac",
+                    "boundaryNum": 1,
+                    "name": "Bheeri Gali Main Bazar Narot Jaimal Singh - B3 - A1",
+                    "localname": "Bheeri Gali Main Bazar Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f5faeb05-61ec-4483-906f-08ab475b805f",
+                    "boundaryNum": 1,
+                    "name": "Baba Nishan Shah Wali Gali Narot Jaimal Singh - B3 - A1",
+                    "localname": "Baba Nishan Shah Wali Gali Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ad840989-2cbc-43e4-bd14-c5c95c3abe7c",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Narot Jaimal Singh - B3 - A1",
+                    "localname": "Main Bazar Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a3cfea5c-4977-45f1-832a-cca4c60f99e0",
+                    "boundaryNum": 1,
+                    "name": "SBI Bank Wali Gali Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "localname": "SBI Bank Wali Gali Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5b179d63-55f1-4835-a87b-5586c57d1868",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "localname": "Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42b6d482-6ce1-40a2-bd9e-72d5b2084159",
+                    "boundaryNum": 1,
+                    "name": "Police Quarters Wali Gali Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "localname": "Police Quarters Wali Gali Bus Stand Road Narot Jaimal Singh - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a040875-49fe-4f03-8fb4-7445c50419ad",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "b472cc39-299d-4631-8022-c64530fc284f",
+                    "boundaryNum": 1,
+                    "name": "Dinanagar Road Near Bus Stand Narot Jaimal Singh - B4 - A1",
+                    "localname": "Dinanagar Road Near Bus Stand Narot Jaimal Singh - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7bb1bc30-e9e3-40de-9314-1c905bc9df54",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "25e7b40d-430a-4e6f-a3a0-4b54c418cb6e",
+                    "boundaryNum": 1,
+                    "name": "Dinanagar Road Near Bus Stand Narot Jaimal Singh - B5 - A1",
+                    "localname": "Dinanagar Road Near Bus Stand Narot Jaimal Singh - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3bf973f0-20cb-4733-be8b-ec7f5a07a15b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Hospital Wali Gali Narot Jaimal Singh - B5 - A1",
+                    "localname": "Main Bazar Hospital Wali Gali Narot Jaimal Singh - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4703d09b-7681-4208-aa66-933d23bccf33",
+                    "boundaryNum": 1,
+                    "name": "Hospital Wali Gali Narot Jaimal Singh - B5 - A1",
+                    "localname": "Hospital Wali Gali Narot Jaimal Singh - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4146a68e-c548-42b9-9fdd-122136924c57",
+                    "boundaryNum": 1,
+                    "name": "Kharkhara Tarf Narot Jaimal Singh - B5 - A1",
+                    "localname": "Kharkhara Tarf Narot Jaimal Singh - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ23",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d6ae302-4ec9-428b-90eb-a9d87a25d308",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "d429845e-994b-408a-aabb-cbcb7ffe1d19",
+                    "boundaryNum": 1,
+                    "name": "Godri Bazar Narot Jaimal Singh - B6 - A1",
+                    "localname": "Godri Bazar Narot Jaimal Singh - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "260b0766-6417-422a-880c-189b42cbaa98",
+                    "boundaryNum": 1,
+                    "name": "Wadda Bhai Mohalla Narot Jaimal Singh - B6 - A1",
+                    "localname": "Wadda Bhai Mohalla Narot Jaimal Singh - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ae6033d-7e79-405f-9e8f-ddda2118eb69",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Narot Jaimal Singh - B6 - A1",
+                    "localname": "Main Bazar Narot Jaimal Singh - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab0d5b3b-6f4b-4707-9361-9d6b306dc33f",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "941b1be6-eea0-4063-8398-19e30041f9f6",
+                    "boundaryNum": 1,
+                    "name": "Sionty Road Narot Jaimal Singh - B7 - A1",
+                    "localname": "Sionty Road Narot Jaimal Singh - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "66f9b657-db65-4058-9c65-809e73f895f8",
+                    "boundaryNum": 1,
+                    "name": "Wadda Bhai Mohalla Narot Jaimal Singh - B7 - A1",
+                    "localname": "Wadda Bhai Mohalla Narot Jaimal Singh - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7630c8e-7057-4e29-b1c1-453ae477a134",
+                    "boundaryNum": 1,
+                    "name": "Godri Bazar Narot Jaimal Singh - B7 - A1",
+                    "localname": "Godri Bazar Narot Jaimal Singh - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2a7c7c3e-235b-43a5-a30a-0fb51561e111",
+                    "boundaryNum": 1,
+                    "name": "Kharkhara Tarf Narot Jaimal Singh - B7 - A1",
+                    "localname": "Kharkhara Tarf Narot Jaimal Singh - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86bdb197-d3f7-41e1-95ba-e49ae844e1fe",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "21b07a53-499a-43c5-a644-36635eb2589c",
+                    "boundaryNum": 1,
+                    "name": "Awe Wala Mohalla Narot Jaimal Singh - B8 - A1",
+                    "localname": "Awe Wala Mohalla Narot Jaimal Singh - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "984df930-d114-4fe0-8e06-b0637a550d00",
+                    "boundaryNum": 1,
+                    "name": "Govt Sen Sec School Wala Road Narot Jaimal Singh - B8 - A1",
+                    "localname": "Govt Sen Sec School Wala Road Narot Jaimal Singh - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c67125e1-ebe1-478e-a637-62d7d6098613",
+                    "boundaryNum": 1,
+                    "name": "Sionty Mohalla Narot Jaimal Singh - B8 - A1",
+                    "localname": "Sionty Mohalla Narot Jaimal Singh - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NRJ33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
