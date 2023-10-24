@@ -14425,6 +14425,17 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+      },
+      {
+        "id": 181223,
+        "name": "Assessment Job",
+        "url": "/pt-calculator-v2/assessment/_jobscheduler",
+        "displayName": "PT assessment job",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
       }
 	
 	  
