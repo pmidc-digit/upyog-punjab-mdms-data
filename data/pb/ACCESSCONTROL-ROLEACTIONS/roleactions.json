@@ -23151,7 +23151,37 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	 {
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 181225,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 181225,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 181225,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 181225,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 181225,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
       "rolecode": "PTCEMP",
       "actionid": 181222,
       "actioncode": "",
