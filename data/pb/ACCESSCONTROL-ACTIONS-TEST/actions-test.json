@@ -14473,6 +14473,32 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
+      },
+	  {
+      "id": 181225,
+      "name": "Estimaton  Report",
+      "url": "url",
+      "displayName": "Estimaton Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Estimaton Report",
+      "navigationURL": "report/rainmaker-ws/estimation_charge",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 181226,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
+        "displayName": "WS Estimaton metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
       }
 	
 	  
