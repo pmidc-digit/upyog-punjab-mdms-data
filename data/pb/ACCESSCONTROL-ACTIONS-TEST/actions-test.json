@@ -14756,7 +14756,7 @@
       {
         "id": 2537,
         "name": "WS Report",
-        "url": "/report/rainmaker-ws/StatusWiseReport/_get",
+        "url": "/report/rainmaker-ws/estimation_charge/_get",
         "displayName": "WS estimation charge Report metadata",
         "orderNumber": 1,
         "enabled": true,
