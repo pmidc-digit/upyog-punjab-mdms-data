@@ -14707,6 +14707,25 @@
       "navigationURL": "report/rainmaker-pt/PAID_PROPERTY_OWNERSHIP_REPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
+    },
+   {	  
+
+      "id": 2534,
+      "name": "ULBNEWMiscReceipt_v2",
+      "url": "url",
+      "displayName": "ULBNEWMiscReceipt_v2",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Misc_Collect.Reports.ULBNEWMiscReceipt_v2",
+      "navigationURL": "report/rainmaker-uc/ULBNEWMiscReceipt_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+
+	    
     }
 
 
