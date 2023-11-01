@@ -14436,6 +14436,43 @@
         "serviceCode": "property-services",
         "code": "null",
         "path": ""
+      },
+	  {
+      "id": 181219,
+      "name": "Status Wise Report",
+      "url": "url",
+      "displayName": "Status Wise Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Status Wise Report",
+      "navigationURL": "report/rainmaker-ws/StatusWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 181220,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/StatusWiseReport/metadata/_get",
+        "displayName": "WS Status Wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 181224,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/_get",
+        "displayName": "WS Estimation Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
       }
 	
 	  
