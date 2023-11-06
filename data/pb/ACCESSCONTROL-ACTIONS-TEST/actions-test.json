@@ -14763,6 +14763,43 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
+      },
+	  {
+      "id": 2538,
+      "name": "usage wise Report",
+      "url": "url",
+      "displayName": "usage wise Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.usageWiseReport",
+      "navigationURL": "report/rainmaker-ws/usageWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2539,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/metadata/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2540,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
       }
 
 
