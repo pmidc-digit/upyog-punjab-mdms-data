@@ -43,22 +43,22 @@
          "slabs":[
             {
                "from":0,
-               "to":125,
-               "charge":0,
+               "to":150,
+               "charge":600,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":126,
-               "to":250,
-               "charge":210,
+               "from":151,
+               "to":300,
+               "charge":660,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":251,
+               "from":301,
                "to":1000000000,
-               "charge":210,
+               "charge":840,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             }
