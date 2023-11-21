@@ -7,18 +7,18 @@
       "name": "No Street Light",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "DEPT_1",
+      "department": "DEPT_3",
       "slaHours": 96,
-      "menuPath": "StreetLights"
+      "menuPath": "Garbage"
     },
     {
       "serviceCode": "StreetLightNotWorking",
       "name": "Street or Park Light Not Working",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "DEPT_1",
+      "department": "DEPT_3",
       "slaHours": 96,
-      "menuPath": "StreetLights",
+      "menuPath": "Garbage",
       "order": 1
     },
     {
