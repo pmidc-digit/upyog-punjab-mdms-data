@@ -14681,10 +14681,163 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+  },
+  {
+        "id": 2532,
+        "name": "cancel Assessment Job",
+        "url": "/pt-calculator-v2/assessment/cancelassessment/_job",
+        "displayName": "PT Cancel assessment job",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+      },
+    {
+      "id": 2533,
+      "name": "Paid Property Ownership Report",
+      "url": "url",
+      "displayName": "Paid Property Ownership Report",
+      "orderNumber": 8,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Other Reports.PAID_PROPERTY_OWNERSHIP_REPORT_V2",
+      "navigationURL": "report/rainmaker-pt/PAID_PROPERTY_OWNERSHIP_REPORT_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
 
+    },
+   {	  
 
-	  
-  }
+      "id": 2534,
+      "name": "ULBNEWMiscReceipt_v2",
+      "url": "url",
+      "displayName": "ULBNEWMiscReceipt_v2",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Misc_Collect.Reports.ULBNEWMiscReceipt_v2",
+      "navigationURL": "report/rainmaker-uc/ULBNEWMiscReceipt_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+
+	    
+    },
+{
+      "id": 2535,
+      "name": "estimation Report",
+      "url": "url",
+      "displayName": "estimation Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.estimation_charge",
+      "navigationURL": "report/rainmaker-ws/estimation_charge",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2536,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
+        "displayName": "WS estimation charge Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2537,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/_get",
+        "displayName": "WS estimation charge Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+	  {
+      "id": 2538,
+      "name": "usage wise Report",
+      "url": "url",
+      "displayName": "usage wise Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.usageWiseReport",
+      "navigationURL": "report/rainmaker-ws/usageWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2539,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/metadata/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2540,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+	    {
+      "id": 2541,
+      "name": "Generated Demand Report",
+      "url": "url",
+      "displayName": "Generated Demand Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.GeneratedDemandReport",
+      "navigationURL": "report/rainmaker-ws/GeneratedDemandReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2542,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratedDemandReport/metadata/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2543,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratedDemandReport/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      }
 
 
 	  
