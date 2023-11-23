@@ -9,7 +9,8 @@
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
       "department": "DEPT_1",
       "slaHours": 96,
-      "menuPath": "NoStreetlighttest"
+      "menuPath": "NoStreetlighttest",
+      "order": 1
     },
     {
       "serviceCode": "StreetLightNotWorking",
