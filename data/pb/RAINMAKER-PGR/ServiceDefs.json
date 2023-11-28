@@ -3,13 +3,23 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
-      "serviceCode": "NoStreetlighttest",
+      "serviceCode": "NoStreetlight",
       "name": "No Street test Light",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "DEPT_8",
+      "department": "DEPT_1",
       "slaHours": 96,
-      "menuPath": ""
+      "menuPath": "StreetLights"
+      
+    },
+    {
+      "serviceCode": "NoStreetlight",
+      "name": "No Street test Light",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "department": "DEPT_1",
+      "slaHours": 96,
+      "menuPath": "StreetLights"
       
     },
     {
