@@ -5,7 +5,7 @@
     {
       "name": "Berm Cutting (Katcha)",
       "code": "BERMCUTTINGKATCHA",
-      "unitCost": 16,
+      "unitCost": 15,
       "isActive": true
     },
     {
@@ -17,13 +17,13 @@
     {
       "name": "Brick Paving",
       "code": "BRICKPAVING",
-      "unitCost": 80,
+      "unitCost": 81,
       "isActive": true
     },
     {
       "name": "CC Road",
       "code": "CCROAD",
-      "unitCost": 286,
+      "unitCost": 319,
       "isActive": true
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "Premix Carpet",
       "code": "PREMIXCARPET",
-      "unitCost": 290.4,
+      "unitCost": 319,
       "isActive": true
     }
   ]
