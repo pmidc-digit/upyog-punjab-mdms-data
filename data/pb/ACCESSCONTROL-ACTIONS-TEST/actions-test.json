@@ -14849,6 +14849,18 @@
       "serviceCode": "punjab-customization",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2545,
+      "name": "RainmakerPgrCount",
+      "url": "/rainmaker-pgr/v1/requests/_countOpen",
+      "displayName": "Rainmaker PGR SMS Count Open complaints 24 hr",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rainmaker pgr",
+      "code": "null",
+      "path": ""
     }
 
 
