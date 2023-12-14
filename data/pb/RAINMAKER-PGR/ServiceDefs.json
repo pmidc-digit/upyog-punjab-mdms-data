@@ -2,16 +2,7 @@
   "tenantId": "pb",
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
-    {
-      "serviceCode": "NoStreetlight",
-      "name": "No Street test Light",
-      "active": true,
-      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "DEPT_1",
-      "slaHours": 96,
-      "menuPath": "StreetLights"
-      
-    },
+    
     {
       "serviceCode": "NoStreetlight",
       "name": "No Street test Light",
@@ -25,7 +16,7 @@
     {
       "serviceCode": "StreetLightNotWorking",
       "name": "Street or Park Light Not Working",
-      "active": true,
+      "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
       "slaHours": 96,
