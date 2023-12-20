@@ -35,7 +35,7 @@
       },
      {
          "id":"2",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -66,7 +66,7 @@
       },
       {
          "id":"3",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -97,7 +97,7 @@
       },
     {
          "id":"4",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -159,7 +159,7 @@
       },
  {
          "id":"6",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_1HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -190,7 +190,7 @@
       },
  {
          "id":"7",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_1HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -221,7 +221,7 @@
       },
  {
          "id":"8",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_1HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -252,7 +252,7 @@
       },
  {
          "id":"9",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_2HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -283,7 +283,7 @@
       },
   {
          "id":"10",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_2HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -314,7 +314,7 @@
       },
  {
          "id":"11",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_2HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -345,7 +345,7 @@
       },
  {
          "id":"12",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_3HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -376,7 +376,7 @@
       },
  {
          "id":"13",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_3HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -407,7 +407,7 @@
       },
  {
          "id":"14",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_3HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -438,7 +438,7 @@
       },
  {
          "id":"15",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_5HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -469,7 +469,7 @@
       },
    {
          "id":"16",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_5HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -500,7 +500,7 @@
       },
    {
          "id":"17",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_5HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -531,7 +531,7 @@
       },
   {
          "id":"18",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_8HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -562,7 +562,7 @@
       },
  {
          "id":"19",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_8HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -593,7 +593,7 @@
       },
  {
          "id":"20",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_8HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -624,7 +624,7 @@
       },
  {
          "id":"21",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_8HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -655,7 +655,7 @@
       },
  {
          "id":"22",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -686,7 +686,7 @@
       },
  {
          "id":"23",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_1HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -717,7 +717,7 @@
       },
  {
          "id":"24",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_1HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -748,7 +748,7 @@
       }, 
  {
          "id":"25",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_1HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -779,7 +779,7 @@
       },
  {
          "id":"26",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_2HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -810,7 +810,7 @@
       },
  {
          "id":"27",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_2HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -841,7 +841,7 @@
       }, 
  {
          "id":"28",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_2HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -872,7 +872,7 @@
       },
  {
          "id":"29",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_3HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -903,7 +903,7 @@
       }, 
  {
          "id":"30",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_3HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -934,7 +934,7 @@
       }, 
  {
          "id":"31",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_3HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -965,7 +965,7 @@
       },
  {
          "id":"32",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_5HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -996,7 +996,7 @@
       },
  {
          "id":"33",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_5HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1027,7 +1027,7 @@
       },
  {
          "id":"34",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_5HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1058,7 +1058,7 @@
       },
  {
          "id":"35",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_8HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1089,7 +1089,7 @@
       }, 
  {
          "id":"36",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_8HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1120,7 +1120,7 @@
       }, 
  {
          "id":"37",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_MO_MO_8HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1151,7 +1151,7 @@
       }, 
  {
          "id":"38",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_1HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1182,7 +1182,7 @@
       },
  {
          "id":"39",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_1HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1213,7 +1213,7 @@
       },
  {
          "id":"40",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_1HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1244,7 +1244,7 @@
       },
  {
          "id":"41",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_2HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1275,7 +1275,7 @@
       },
   {
          "id":"42",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_2HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1306,7 +1306,7 @@
       },
  {
          "id":"43",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_2HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1337,7 +1337,7 @@
       },
  {
          "id":"44",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_3HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1368,7 +1368,7 @@
       },
  {
          "id":"45",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_3HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1399,7 +1399,7 @@
       },
  {
          "id":"46",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_3HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1430,7 +1430,7 @@
       },
  {
          "id":"47",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_5HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1461,7 +1461,7 @@
       },
    {
          "id":"48",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_5HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1492,7 +1492,7 @@
       },
    {
          "id":"49",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_5HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1523,7 +1523,7 @@
       },
   {
          "id":"50",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_8HP_1HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1554,7 +1554,7 @@
       },
  {
          "id":"51",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_8HP_2HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1586,7 +1586,7 @@
  
  {
          "id":"52",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_8HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -1617,7 +1617,7 @@
       },
  {
          "id":"53",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL",
+         "buildingType":"INSTITUTIONAL",
          "waterSubUsageType": "USAGE_INSTITUTIONAL_MO_8HP_3HR",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
