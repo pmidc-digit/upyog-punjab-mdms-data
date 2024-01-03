@@ -3,7 +3,7 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2013-14",
@@ -11,7 +11,7 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
@@ -19,7 +19,7 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
@@ -27,7 +27,7 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2021-22",
@@ -35,15 +35,15 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2022-23",
-      "startingDay": "01/05/2022",
+      "startingDay": "01/04/2022",
 	  "mutationPaymentPeriodInMonth": "06"
     },	  
     {	
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2022-23",
@@ -51,11 +51,21 @@
 	  "mutationPaymentPeriodInMonth": "06" 
     },
     {	
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2022-23",
       "startingDay": "01/04/2023",
+      "mutationPaymentPeriodInMonth": "06"        
+	    
+	    
+    },
+    {	
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "01/01/2024",
       "mutationPaymentPeriodInMonth": "06"        
 	    
 	    
