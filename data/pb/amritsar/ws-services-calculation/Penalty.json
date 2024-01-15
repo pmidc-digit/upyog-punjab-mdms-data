@@ -3,8 +3,8 @@
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
-      "rate": 0,
-      "minAmount": null,
+      "rate": 10,
+      "minAmount": 100,
       "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
