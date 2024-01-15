@@ -3,8 +3,8 @@
   "moduleName": "ws-services-calculation",
   "Interest": [
     {
-      "rate": 0,
-      "minAmount": null,
+      "rate": 10,
+      "minAmount": 100,
       "applicableAfterDays":0,
       "flatAmount": null,
       "maxAmount": null,
