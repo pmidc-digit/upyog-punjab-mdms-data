@@ -147,6 +147,18 @@
       }
     },
     {
+      "name": "Industrial Other Commercial Usage ",
+      "code": "OTHERCOMMERCIALSUBMINOR",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
       "name": "Educational",
       "code": "EDUCATIONAL",
       "usageCategoryMinor": "INSTITUTIONAL",
