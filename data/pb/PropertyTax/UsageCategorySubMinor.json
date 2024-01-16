@@ -135,7 +135,7 @@
       }
     },
     {
-      "name": "Other Industrial Usage ",
+      "name": "Other Industrial Usage",
       "code": "OTHERINDUSTRIALSUBMINOR",
       "usageCategoryMinor": "INDUSTRIAL",
       "active": true,
@@ -147,8 +147,8 @@
       }
     },
     {
-      "name": "Industrial Other Commercial Usage ",
-      "code": "OTHERCOMMERCIALSUBMINORUSAGE",
+      "name": "Other Commercial Usage Industry",
+      "code": "OTHERCOMERCIALUSAGEINDUSTRY",
       "usageCategoryMinor": "INDUSTRIAL",
       "active": true,
       "fromFY": "2013-14",
