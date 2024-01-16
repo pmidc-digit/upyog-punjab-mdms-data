@@ -95,14 +95,14 @@
       "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
     },
     {
-      "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+      "code": "ownership_details_registry",
+      "documentType": "ownership_details_registry",
       "active": true,
-      "required": false,
+      "required": true,
       "hasDropdown": true,
       "dropdownData": [
         {
-          "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+          "code": "ownership_details_registry",
           "active": true
         }
       ],
