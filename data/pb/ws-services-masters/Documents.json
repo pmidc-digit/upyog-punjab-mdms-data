@@ -84,7 +84,7 @@
       "code": "OWNERSHIP_DETAILS_REGISTRY",
       "documentType": "OWNERSHIP_DETAILS_REGISTRY",
       "active": true,
-      "required": false,
+      "required": true,
       "description": "OWNERSHIP_DETAILS_REGISTRY_DESCRIPTION"
     },
     {
