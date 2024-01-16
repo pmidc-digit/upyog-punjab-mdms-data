@@ -94,11 +94,18 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Industrial Other Commercial Usage",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERCOMMERCIALSUBMINORUSAGE.OTHERCOMMERCIALUSAGE",
+      "name": "Other Commercial Usage Industry",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR.OTHERCOMERCIALUSAGEINDUSTRY",
       "active": true,
       "fromFY": "2015-16"
     },
+    {
+      "name": "Other Commercial Usage Industry",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    }, 
     {
       "name": "Other Instituation",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.OTHERINSTITUTIONAL",
