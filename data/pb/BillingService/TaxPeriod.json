@@ -1714,11 +1714,19 @@
     },
   {
       "fromDate": 1680307200000,
-      "toDate": 1711929599000,
+      "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
       "service": "WS",
-      "code": "WS-2023-24-Q4",
+      "code": "WS-2023-24",
       "financialYear": "2023-24"
+    },
+	   {
+      "fromDate": 1648771200000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WS-2022-23",
+      "financialYear": "2022-23"
     },
     {
       "fromDate": 1364774400000,
