@@ -4,6 +4,37 @@
    "WCBillingSlab":[
       {
          "id":"1",
+         "buildingType":"Mixed Residential",
+         "waterSubUsageType": "USAGE_MIXED_DOM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":0,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":125,
+               "to":250,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":250,
+               "to":1000000000,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            }
+         ]
+      },
+	  {
+         "id":"2",
          "buildingType":"RESIDENTIAL",
          "waterSubUsageType": "NA",
          "calculationAttribute":"PLOT_BASED",
@@ -28,6 +59,37 @@
                "from":250,
                "to":1000000000,
                "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            }
+         ]
+      },
+	  {
+         "id":"3",
+         "buildingType":"Mixed Commercial",
+         "waterSubUsageType": "USAGE_MIXED_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":600,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":125,
+               "to":250,
+               "charge":630,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":250,
+               "to":1000000000,
+               "charge":840,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             }
