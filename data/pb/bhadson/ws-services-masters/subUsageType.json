@@ -8,6 +8,18 @@
       "parentUsageType": "RESIDENTIAL",
       "active": true
     },
+	{
+      "code": "USAGE_MIXED_DOM_NA",
+      "name": "MIXED DOMESTIC",
+      "parentUsageType": "RESIDENTIAL.MIXED",
+      "active": true
+    },
+	{
+      "code": "USAGE_MIXED_COMM_NA",
+      "name": "MIXED COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.MIXED",
+      "active": true
+    },
     {
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
