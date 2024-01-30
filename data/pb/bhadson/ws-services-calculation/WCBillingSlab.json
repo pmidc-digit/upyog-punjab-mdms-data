@@ -4,8 +4,8 @@
    "WCBillingSlab":[
       {
          "id":"1",
-         "buildingType":"Mixed Residential",
-         "waterSubUsageType": "USAGE_MIXED_DOM_NA",
+         "buildingType":"MIXED",
+         "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -66,8 +66,8 @@
       },
 	  {
          "id":"3",
-         "buildingType":"Mixed Commercial",
-         "waterSubUsageType": "USAGE_MIXED_COMM_NA",
+         "buildingType":"MIXED",
+         "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
