@@ -8,9 +8,21 @@
       "unitCost" : 20,
       "isActive": true
     },
+	{
+      "name": "Mixed Residential",
+      "code": "RESIDENTIAL.MIXED",
+      "unitCost" : 20,
+      "isActive": true
+    },
     {
      "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
+      "unitCost" : 30,
+      "isActive": true
+    },
+	{
+     "name": "Mixed Commercial",
+      "code": "NONRESIDENTIAL.MIXED",
       "unitCost" : 30,
       "isActive": true
     },
