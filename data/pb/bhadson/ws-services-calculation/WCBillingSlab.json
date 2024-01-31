@@ -5,7 +5,7 @@
       {
          "id":"1",
          "buildingType":"MIXED",
-         "waterSubUsageType": "USAGE_DOM_NA",
+         "waterSubUsageType": "USAGE_RESIDENTIAL_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -67,7 +67,7 @@
 	  {
          "id":"3",
          "buildingType":"MIXED",
-         "waterSubUsageType": "USAGE_COMM_NA",
+         "waterSubUsageType": "USAGE_MIX_COM",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
