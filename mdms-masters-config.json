@@ -863,7 +863,7 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -948,7 +948,7 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
