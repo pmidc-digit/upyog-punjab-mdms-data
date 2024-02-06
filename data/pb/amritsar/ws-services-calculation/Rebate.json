@@ -4,10 +4,10 @@
   "Rebate": [
     {
       "rate": 10,
-      "maxAmount": null,
+      "maxAmount": 1000,
       "flatAmount": null,
-      "fromFY": "2019-20",
-      "endingDay": "25/09",
+      "fromFY": "2023-24",
+      "endingDay": "29/02/2024",
       "applicableAfterDays": 0
     }
   ]
