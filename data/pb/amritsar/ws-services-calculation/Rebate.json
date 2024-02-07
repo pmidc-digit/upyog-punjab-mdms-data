@@ -8,8 +8,8 @@
       "flatAmount": null,
       "fromFY": "2023-24",
       "endingDay": "30/06/2024",
-      "taxPeriodFrom": "1680307200000",
-      "taxPeriodTo": "1711909799000",
+      "rebatePeriodFrom": "1680307200000",
+      "rebatePeriodTo": "1711909799000",
       "applicableAfterDays": "0"
     },
     {
@@ -18,8 +18,8 @@
       "flatAmount": null,
       "fromFY": "2023-24",
       "endingDay": "23/06/2021",
-       "taxPeriodFrom": "1656633600000",
-      "taxPeriodTo": "1664562599000",
+       "rebatePeriodFrom": "1656633600000",
+      "rebatePeriodTo": "1664562599000",
       "applicableAfterDays": "0"
     }
   ]
