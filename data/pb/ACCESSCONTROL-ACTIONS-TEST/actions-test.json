@@ -11026,7 +11026,7 @@
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "w_s.WS Reports.ArrearReport",
       "navigationURL": "report/rainmaker-ws/ArrearReport",
@@ -11039,7 +11039,7 @@
       "url": "/report/rainmaker-ws/ArrearReport/metadata/_get",
       "displayName": "Arrear Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
@@ -11050,7 +11050,7 @@
        "url": "/report/rainmaker-ws/ArrearReport/_get",
        "displayName": "Arrear Report",
        "orderNumber": 1,
-       "enabled": true,
+       "enabled": false,
        "serviceCode": "WSREPORTS",
        "code": "null",
        "path": ""
