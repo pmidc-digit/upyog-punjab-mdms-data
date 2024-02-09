@@ -14748,7 +14748,7 @@
         "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
         "displayName": "WS estimation charge Report metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
@@ -14759,7 +14759,7 @@
         "url": "/report/rainmaker-ws/estimation_charge/_get",
         "displayName": "WS estimation charge Report metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
