@@ -14861,9 +14861,44 @@
       "serviceCode": "rainmaker pgr",
       "code": "null",
       "path": ""
-    }
-
-
+    },
+    {	  
+      "id": 2546,
+      "name": "Sewerage Demand Report",
+      "url": "url",
+      "displayName": "Sewerage Demand Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.GeneratSWDemandReport",
+      "navigationURL": "report/rainmaker-ws/GeneratSWDemandReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2547,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/metadata/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2548,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      }
 	  
 
   ]
