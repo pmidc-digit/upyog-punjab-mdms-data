@@ -5809,6 +5809,17 @@
       "order": "0",
       "service": "WS"
     },
+	   {
+      "category": "REBATE",
+      "code": "WS_TIME_REBATE_ROUND_OFF",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Rebate Roundoff",
+      "order": "0",
+      "service": "WS"
+    },
     {
       "category": "FINES",
       "code": "WS_TIME_INTEREST",
