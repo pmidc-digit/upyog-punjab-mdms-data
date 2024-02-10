@@ -11,21 +11,21 @@
          "minimumCharge":0,
          "slabs":[
             {
-               "from":0,
-               "to":125,
+               "from":0.00,
+               "to":125.00,
                "charge":0,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":126,
-               "to":300,
+               "from":125.01,
+               "to":300.00,
                "charge":150,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":301,
+               "from":300.01,
                "to":1000000000,
                "charge":150,
                "effectiveFrom":917523271000,
@@ -42,22 +42,22 @@
          "minimumCharge":0,
          "slabs":[
             {
-               "from":0,
-               "to":125,
+               "from":0.00,
+               "to":125.00,
                "charge":420,
                "effectiveFrom":1617215446000,
                "effectiveTo":1738064071000
             },
             {
-               "from":126,
-               "to":300,
+               "from":125.01,
+               "to":300.00,
                "charge":630,
                "effectiveFrom":1617215446000,
                "effectiveTo":1738064071000
             },
             {
-               "from":301,
-               "to":1000000000,
+               "from":300.01,
+               "to":1000000000.00,
                "charge":840,
                "effectiveFrom":1617215446000,
                "effectiveTo":1738064071000
