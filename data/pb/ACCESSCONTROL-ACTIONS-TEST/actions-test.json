@@ -14898,6 +14898,45 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
+      },
+      {	  
+
+      "id": 2549,
+      "name": "Connection Count  Report",
+      "url": "url",
+      "displayName": "Connection Count  Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Connectioncountreport",
+      "navigationURL": "report/rainmaker-ws/Connectioncountreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2550,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/metadata/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2551,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+	      
       }
 	  
 
