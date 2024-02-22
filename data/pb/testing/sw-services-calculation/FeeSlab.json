@@ -25,6 +25,12 @@
           "toPlotSize":"25000000000",
           "connectionFee":"10",
           "usageType":"INSTITUTIONAL"
+        },
+       {
+          "fromPlotSize":"0",
+          "toPlotSize":"25000000000",
+          "connectionFee":"100",
+          "usageType":"MIXED"
         }
       
         
