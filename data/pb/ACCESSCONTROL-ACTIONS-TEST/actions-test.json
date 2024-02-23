@@ -10846,7 +10846,7 @@
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "w_s.WS Reports.Field Collection Search Report WS",
       "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
@@ -10883,7 +10883,7 @@
        "orderNumber": 1,
        "queryParams": "",
        "parentModule": "",
-       "enabled": true,
+       "enabled": false,
        "serviceCode": "",
        "path": "w_s.WS Reports.Field Collection Search Receipt WS",
        "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
@@ -11026,7 +11026,7 @@
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "w_s.WS Reports.ArrearReport",
       "navigationURL": "report/rainmaker-ws/ArrearReport",
@@ -11039,7 +11039,7 @@
       "url": "/report/rainmaker-ws/ArrearReport/metadata/_get",
       "displayName": "Arrear Report",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
@@ -11050,7 +11050,7 @@
        "url": "/report/rainmaker-ws/ArrearReport/_get",
        "displayName": "Arrear Report",
        "orderNumber": 1,
-       "enabled": true,
+       "enabled": false,
        "serviceCode": "WSREPORTS",
        "code": "null",
        "path": ""
@@ -11186,7 +11186,7 @@
        "orderNumber": 1,
        "queryParams": "",
        "parentModule": "",
-       "enabled": true,
+       "enabled": false,
        "serviceCode": "",
        "path": "w_s.WS Reports.JE_Pendency Report",
        "navigationURL": "report/rainmaker-ws/JE_PendencyReport",
@@ -14735,7 +14735,7 @@
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "w_s.WS Reports.estimation_charge",
       "navigationURL": "report/rainmaker-ws/estimation_charge",
@@ -14748,7 +14748,7 @@
         "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
         "displayName": "WS estimation charge Report metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
@@ -14759,7 +14759,7 @@
         "url": "/report/rainmaker-ws/estimation_charge/_get",
         "displayName": "WS estimation charge Report metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
@@ -14803,9 +14803,9 @@
       },
 	    {
       "id": 2541,
-      "name": "Generated Demand Report",
+      "name": "Water Demand Report",
       "url": "url",
-      "displayName": "Generated Demand Report",
+      "displayName": "Water Demand Report",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
@@ -14861,9 +14861,83 @@
       "serviceCode": "rainmaker pgr",
       "code": "null",
       "path": ""
-    }
+    },
+    {	  
+      "id": 2546,
+      "name": "Sewerage Demand Report",
+      "url": "url",
+      "displayName": "Sewerage Demand Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.GeneratSWDemandReport",
+      "navigationURL": "report/rainmaker-ws/GeneratSWDemandReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2547,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/metadata/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2548,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
 
-
+      "id": 2549,
+      "name": "Connection Count  Report",
+      "url": "url",
+      "displayName": "Connection Count  Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Connection count report",
+      "navigationURL": "report/rainmaker-ws/Connectioncountreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2550,
+        "name": "Connection Count  Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/metadata/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2551,
+        "name": "Connection Count  Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+	      
+      }
 	  
 
   ]
