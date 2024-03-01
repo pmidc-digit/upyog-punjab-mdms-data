@@ -4,7 +4,7 @@
   "Penalty": [
     {
       "rate": 10,
-      "minAmount": 100,
+      "minAmount": 30,
       "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
