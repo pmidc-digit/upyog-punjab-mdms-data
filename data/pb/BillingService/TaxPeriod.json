@@ -2290,27 +2290,26 @@
       "code": "SNTWASTEWATERFEES",
       "financialYear": "2014-24"
    },
-   {
+   {	  
 
-       "fromDate": 1708592070000,
-      "toDate": 1743411270000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLRENEWAL2024",
-      "financialYear": "2024-25"
-    },
-    {
+   "fromDate": 1706772599000,
+    "toDate": 1743406199000,
+    "periodCycle": "ANNUAL",
+    "service": "TL",
+    "code": "TLRENEWAL2025",
+    "financialYear": "2024-25"
+  },
+  {
 
-      "fromDate": 1708592070000,
-      "toDate": 1743411270000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2024",
-      "financialYear": "2024-25"
-	   
-
-	   
-    },
+     "fromDate": 1706772599000,
+    "toDate": 1743406199000,
+    "periodCycle": "ANNUAL",
+    "service": "TL",
+    "code": "TLAN2025",
+    "financialYear": "2024-25"
+    
+    
+  },
   {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
