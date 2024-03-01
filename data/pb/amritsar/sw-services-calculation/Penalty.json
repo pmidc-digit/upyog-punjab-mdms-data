@@ -4,9 +4,9 @@
   "moduleName": "sw-services-calculation",
   "Penalty": [
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": null,
-      "applicableAfterDays":30,
+      "applicableAfterDays":15,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",
