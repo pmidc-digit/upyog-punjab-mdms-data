@@ -43,6 +43,11 @@
       "description": "Employee who files and follows up complaints on behalf of the citizen"
     },
     {
+      "code": "INTERNAL_MICROSERVICE_ROLE",
+      "name": "Internal Microservice Role",
+      "description": "Internal role for plain access"
+    },
+    {
       "code": "PGR-ADMIN",
       "name": "PGR Administrator",
       "description": "Admin role that has super access over the system"
