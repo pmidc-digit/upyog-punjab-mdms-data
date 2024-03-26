@@ -15016,7 +15016,21 @@
         "code": "null",
         "path": ""
 
-
+    },
+    {
+      "id": 2558,
+      "name": "Count PT Report",
+      "url": "url",
+      "displayName": "Count PT Report",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.CountPTReport",
+      "navigationURL": "report/rainmaker-pt/CountPTReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
 	      
 	      
       }
