@@ -1693,6 +1693,38 @@
       "code": "WS-2023-24-Q4",
       "financialYear": "2023-24"
     },
+	{
+      "fromDate": 1711929600000,
+      "toDate": 1719772199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2024-25-Q1",
+      "financialYear": "2024-25"
+      },
+	  {
+      "fromDate": 1719792000000,
+      "toDate": 1727720999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2024-25-Q2",
+      "financialYear": "2024-25"
+    },
+	  {
+      "fromDate": 1727740800000,
+      "toDate": 1735669799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2024-25-Q3",
+      "financialYear": "2024-25"
+    },
+	  {
+      "fromDate": 1735689600000,
+      "toDate": 1743445799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2024-25-Q4",
+      "financialYear": "2024-25"
+    },
     {
       "fromDate": 1364774400000,
       "toDate": 1372616999000,
@@ -2048,6 +2080,38 @@
       "service": "SW",
       "code": "SW-2023-24-Q4",
       "financialYear": "2023-24"
+    },
+		 {
+      "fromDate": 1711929600000,
+      "toDate": 1719772199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2024-25-Q1",
+      "financialYear": "2024-25"
+      },
+	  {
+      "fromDate": 1719792000000,
+      "toDate": 1727720999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2024-25-Q2",
+      "financialYear": "2024-25"
+    },
+	  {
+      "fromDate": 1727740800000,
+      "toDate": 1735669799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2024-25-Q3",
+      "financialYear": "2024-25"
+    },
+	  {
+      "fromDate": 1735689600000,
+      "toDate": 1743445799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2024-25-Q4",
+      "financialYear": "2024-25"
     },
     {
       "fromDate": 1396310399000,
