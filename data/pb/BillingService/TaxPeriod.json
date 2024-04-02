@@ -147,6 +147,22 @@
       "financialYear": "2014-24"
     },
     {
+      "fromDate": 1711929600000,
+      "toDate": 2027462399000,
+      "periodCycle": "ANNUAL",
+      "service": "WaterCharges.Metered",
+      "code": "WATERCHARGESMETERED",
+      "financialYear": "2024-34"
+    },
+    {
+      "fromDate": 1711929600000,
+      "toDate": 2027462399000,
+      "periodCycle": "ANNUAL",
+      "service": "WaterCharges.NonMetered",
+      "code": "WATERCHARGESNONMETERED",
+      "financialYear": "2024-34"
+    },
+    {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
