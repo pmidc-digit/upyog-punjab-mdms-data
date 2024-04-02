@@ -3,12 +3,20 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
      {
-      "fromDate": 1617215400000,
-      "toDate": 1648751399000,
+      "fromDate": 1711953000,
+      "toDate": 1743402600,
       "periodCycle": "ANNUAL",
       "service": "PT",
-      "code": "PTAN2021",
-      "financialYear": "2021-22"
+      "code": "PTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1711953000,
+      "toDate": 1743402600,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2024",
+      "financialYear": "2024-25"
     },
     {
       "fromDate": 1585699200000,
