@@ -3,6 +3,29 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
      {
+      "fromDate": 1711953000000,
+      "toDate": 1743402600000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1711953000000,
+      "toDate": 1743402600000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1711953000000,
+      "toDate": 1743402600000,
+      "periodCycle": "ANNUAL",
+      "service": "ADMN.Election_rally_fees",
+      "code": "ADMNELECTIONRALLYFEES",
+      "financialYear": "2024-25"
+    },{
       "fromDate": 1617215400000,
       "toDate": 1648751399000,
       "periodCycle": "ANNUAL",
