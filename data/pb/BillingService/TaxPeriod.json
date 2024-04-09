@@ -2368,6 +2368,24 @@
       "service": "SNT.Faecal_sludge_disposal",
       "code": "SNTFAECALSLUDGEDISPOSAL",
       "financialYear": "2014-29"
-    }	  
+  },
+  {
+
+     "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2023",
+      "financialYear": "2023-24"  
+   },
+ {
+
+     "fromDate": 1711929600000,
+      "toDate": 1743465599000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2024",
+      "financialYear": "2024-25"  
+   }
   ]
 }
