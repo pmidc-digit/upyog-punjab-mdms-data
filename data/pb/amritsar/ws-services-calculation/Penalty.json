@@ -3,9 +3,9 @@
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
-      "rate": 10,
-      "minAmount": 100,
-      "applicableAfterDays":15,
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays":30,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",

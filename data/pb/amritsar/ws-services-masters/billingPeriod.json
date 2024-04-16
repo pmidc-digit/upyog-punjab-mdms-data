@@ -7,7 +7,7 @@
       "connectionType": "Metered",
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
-      "demandExpiryDate": 2592000000,
+      "demandExpiryDate": 1209600000,
       "demandGenerationDateMillis": 345600000
     },
     {
@@ -22,5 +22,3 @@
     }
   ]
 }
-
-

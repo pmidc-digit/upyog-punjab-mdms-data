@@ -12368,6 +12368,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+   
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
       "actionid": 1902,
@@ -13448,7 +13449,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "CITIZEN",
       "actionid": 1755,
@@ -15419,6 +15425,18 @@
     },
     {
       "rolecode": "UC_EMP",
+      "actionid": 2117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2117,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 2117,
       "actioncode": "",
       "tenantId": "pb"
@@ -19601,12 +19619,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 2117,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 2152,
       "actioncode": "",
       "tenantId": "pb"
@@ -22856,6 +22868,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "PATIALA_PT_EMP",
       "actionid": 2497,
@@ -22882,125 +22900,271 @@
       "actionid": 2500,
       "actioncode": "",
       "tenantId": "pb"    
+  },
+  {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2501,
+      "actioncode": "",
+      "tenantId": "pb"  
 	  
+  },
+  {
+      "rolecode": "PTCEMP",
+      "actionid": 2502,
+      "actioncode": "",
+      "tenantId": "pb"     
+	  
+    },
+	  {
+      "rolecode": "PTCEMP",
+      "actionid": 2503,
+      "actioncode": "",
+      "tenantId": "pb" 
+ },
+ {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2504,
+      "actioncode": "",
+      "tenantId": "pb" 		  
+		  
+	  
+    },
+	  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2505,
+      "actioncode": "",
+      "tenantId": "pb"
     },
    {
       "rolecode": "EMPLOYEE",
-      "actionid": 2501,
+      "actionid": 2506,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 2501,
+      "actionid": 2506,
       "actioncode": "",
       "tenantId": "pb"
     },
 	 {
       "rolecode": "EMPLOYEE ADMIN",
-      "actionid": 2501,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	 {
-      "rolecode": "SUPERUSER",
-      "actionid": 2501,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-{
-      "rolecode": "EGF_REPORT_VIEW",
-      "actionid": 2502,
+      "actionid": 2506,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 2502,
+      "actionid": 2506,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "ENAKSHA",
-      "actionid": 19270,
+      "rolecode": "GRO",
+      "actionid": 2507,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 181212,
+      "rolecode": "PGR-ADMIN",
+      "actionid": 2507,
       "actioncode": "",
       "tenantId": "pb"
     },
- {
+    {	  
       "rolecode": "PTCEMP",
-      "actionid": 181213,
+      "actionid": 2508,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pb" 		 		  	  
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 181213,
+      "rolecode": "PT_APPROVER",
+      "actionid": 2508,
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 181213,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-  {
-      "rolecode": "PT_REC_CANCEL",
-      "actionid": 181213,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 181213,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-     {
-      "rolecode": "SUPERUSER",
+     {	
+      "rolecode": "STADMIN",
       "actionid": 2509,
       "actioncode": "",
-      "tenantId": "pb"
-    },	
+      "tenantId": "pb"	  	    
+    },
     {
-      "rolecode": "UC_EMP",
+	    
+      "rolecode": "STADMIN",
+      "actionid": 2510,
+      "actioncode": "",
+      "tenantId": "pb"	 
+   },
+   {	  
+	    
+      "rolecode": "STADMIN",
+      "actionid": 2511,
+      "actioncode": "",
+      "tenantId": "pb"	     
+	    
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2512,
+      "actioncode": "",
+      "tenantId": "pb"
+ },
+ {    
+	    
+     "rolecode": "UC_EMP",
       "actionid": 2513,
       "actioncode": "",
       "tenantId": "pb"
-    },  
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2509,
+  },
+  {	  
+
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 2513,
       "actioncode": "",
       "tenantId": "pb"
-    },
-     {
-      "rolecode": "TL_CEMP",
-      "actionid": 181214,
+
+  },
+  {
+
+
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 2514,
       "actioncode": "",
       "tenantId": "pb"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2512,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2512,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-     {	  
+  },
+  {
       "rolecode": "SUPERUSER",
-      "actionid": 181215,
+      "actionid": 2514,
+      "actioncode": "",
+      "tenantId": "pb"
+
+  },
+  {
+     "rolecode": "UC_EMP",
+      "actionid": 2514,
+      "actioncode": "",
+      "tenantId": "pb"
+	    
+	    
+    },
+    {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2515,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2516,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2517,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2518,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {	  
+	    
+	
+      "rolecode": "STADMIN",
+      "actionid": 2519,
+      "actioncode": "",
+      "tenantId": "pb"	 
+	    
+    },
+   {	  
+      "rolecode": "STADMIN",
+      "actionid": 2520,
+      "actioncode": "",
+      "tenantId": "pb"	 
+	    
+	   
+    },
+   {	  
+      "rolecode": "SUPERUSER",
+      "actionid": 2521,
+      "actioncode": "",
+      "tenantId": "pb"	 
+
+   },
+   {	  
+      "rolecode": "SUPERUSER",
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
 	   
@@ -23008,198 +23172,968 @@
    {	  
 	   
        "rolecode": "PT_DOC_VERIFIER",
-      "actionid": 181215,
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
-      "actionid": 181215,
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "PT_APPROVER",
-      "actionid": 181215,
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
 
       "rolecode": "CITIZEN",
-      "actionid": 181215,
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "PTCEMP",
-      "actionid": 181215,
+      "actionid": 2522,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    { 	  
+	
+      "rolecode": "STADMIN",
+      "actionid": 2523,
+      "actioncode": "",
+      "tenantId": "pb"   
+	   
    },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 1773,
+  {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2524,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2524,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 1779,
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2524,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 1780,
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2524,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 1781,
+    {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2525,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 1782,
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2525,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 701,
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2525,
+      "actioncode": "",
+      "tenantId": "pb"
+
+    },
+   {	  
+
+      "rolecode": "UC_EMP",
+      "actionid": 2526,
+      "actioncode": "",
+      "tenantId": "pb"
+   },	   
+  {	   
+	   
+      "rolecode": "UC_EMP",
+      "actionid": 2527,
+      "actioncode": "",
+      "tenantId": "pb"	
+
+    },
+   {	  
+
+      "rolecode": "UC_EMP",
+      "actionid": 2528,
+      "actioncode": "",
+      "tenantId": "pb"
+   },	   
+  {	   
+	   
+      "rolecode": "UC_EMP",
+      "actionid": 2529,
+      "actioncode": "",
+      "tenantId": "pb"
+
+  },
+   {	  
+
+      "rolecode": "UC_EMP",
+      "actionid": 2530,
+      "actioncode": "",
+      "tenantId": "pb"
+   },	   
+  {	   
+	   
+      "rolecode": "UC_EMP",
+      "actionid": 2531,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_FIRE",
-      "actionid": 181216,
+    {	     
+      "rolecode": "PTCEMP",
+      "actionid": 2532,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
-      "rolecode": "HRMS_ADMIN",
-      "actionid": 181216,
+    {	     
+      "rolecode": "SUPERUSER",
+      "actionid": 2532,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {	  
+      "rolecode": "PTCEMP",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pb" 		 		  	  
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+        "rolecode": "UC_EMP",
+        "actionid": 2534,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+
+      "rolecode": "UC_COWCESS_USER",
+      "actionid": 2534,
+      "actioncode": "",
+      "tenantId": "pb"
+
+
+	    
+    },
+ {
+      "rolecode": "WS_CEMP",
+      "actionid": 2535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2535,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	   {
+      "rolecode": "WS_CEMP",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2536,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	 {
+      "rolecode": "WS_CEMP",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	   {
+      "rolecode": "WS_CEMP",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2538,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+ {
+      "rolecode": "WS_CEMP",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2539,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+ {
+      "rolecode": "WS_CEMP",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2540,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	     {
+      "rolecode": "WS_CEMP",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2541,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+ {
+      "rolecode": "WS_CEMP",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2542,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+ {
+      "rolecode": "WS_CEMP",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2543,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 2544,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 181217,
+      "actionid": 2544,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_CEMP",
-      "actionid": 181218,
+      "rolecode": "PGR-ADMIN",
+      "actionid": 2545,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 181218,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 181218,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 181218,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CLERK",
-      "actionid": 181218,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CEMP",
-      "actionid": 181219,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 181219,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 181219,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 181219,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CLERK",
-      "actionid": 181219,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	{
-      "rolecode": "WS_CEMP",
-      "actionid": 181225,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 181225,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 181225,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 181225,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "WS_CLERK",
-      "actionid": 181225,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	  {
-      "rolecode": "PTCEMP",
-      "actionid": 181222,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	 {
-      "rolecode": "PTCEMP",
-      "actionid": 181223,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-	 {
       "rolecode": "SUPERUSER",
-      "actionid": 181223,
+      "actionid": 2545,
       "actioncode": "",
       "tenantId": "pb"
-    }  
-	  
-	  
-  ]
+    },
+   {
+      "rolecode": "WS_CEMP",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2546,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {	 	  
+
+      "rolecode": "WS_CEMP",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {	
+     "rolecode": "WS_CEMP",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pb"
+
+    },
+    {	  
+
+     "rolecode": "WS_CEMP",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pb"
+
+
+	    
+    }
+	 
+   ]
 }
