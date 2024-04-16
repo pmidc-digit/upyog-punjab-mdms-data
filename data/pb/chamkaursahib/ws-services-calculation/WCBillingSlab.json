@@ -1,11 +1,11 @@
 {
-   "tenantId":"pb.itpatiala",
+   "tenantId":"pb.chamkaursahib",
    "moduleName":"ws-services-calculation",
    "WCBillingSlab":[
       {
          "id":"1",
          "buildingType":"RESIDENTIAL",
-         "waterSubUsageType": "NA",
+         "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -18,14 +18,14 @@
                "effectiveTo":1738064071000
             },
             {
-               "from":125,
+               "from":126,
                "to":250,
                "charge":150,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":250,
+               "from":251,
                "to":1000000000,
                "charge":150,
                "effectiveFrom":917523271000,
@@ -36,7 +36,7 @@
       {
          "id":"4",
          "buildingType":"COMMERCIAL",
-         "waterSubUsageType": "NA",
+         "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -49,14 +49,45 @@
                "effectiveTo":1738064071000
             },
             {
-               "from":125,
+               "from":126,
                "to":250,
                "charge":630,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":250,
+               "from":251,
+               "to":1000000000,
+               "charge":840,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            }
+         ]
+      },
+       {
+         "id":"5",
+         "buildingType":"INDUSTRIAL",
+         "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":600,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":126,
+               "to":250,
+               "charge":630,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":251,
                "to":1000000000,
                "charge":840,
                "effectiveFrom":917523271000,
@@ -67,7 +98,7 @@
       {
          "id":"7",
          "buildingType":"INSTITUTIONAL",
-         "waterSubUsageType": "NA",
+         "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -80,14 +111,14 @@
                "effectiveTo":1738064071000
             },
             {
-               "from":125,
+               "from":126,
                "to":250,
                "charge":630,
                "effectiveFrom":917523271000,
                "effectiveTo":1738064071000
             },
             {
-               "from":250,
+               "from":251,
                "to":1000000000,
                "charge":840,
                "effectiveFrom":917523271000,

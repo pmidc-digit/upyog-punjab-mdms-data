@@ -5809,17 +5809,6 @@
       "order": "0",
       "service": "WS"
     },
-	   {
-      "category": "REBATE",
-      "code": "WS_TIME_REBATE_ROUND_OFF",
-      "isActualDemand": false,
-      "IsBillamend": false,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Rebate Roundoff",
-      "order": "0",
-      "service": "WS"
-    },
     {
       "category": "FINES",
       "code": "WS_TIME_INTEREST",
@@ -6740,14 +6729,13 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-	    
     },
-    {
-	  
+    {    
+	
       "category": "TAX",
-      "service": "TX.Show_Tax",
-      "name": "TX.SHOW_TAX_TAX",
-      "code": "TX.SHOW_TAX_TAX",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_TAX",
+      "code": "CH.TRADE_LICENSE_CHALLAN_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -6755,9 +6743,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "TX.Show_Tax",
-      "name": "TX.SHOW_TAX_FIELD_FEE",
-      "code": "TX.SHOW_TAX_FIELD_FEE",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_FIELD_FEE",
+      "code": "CH.TRADE_LICENSE_CHALLAN_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6765,9 +6753,9 @@
     },
     {
       "category": "TAX",
-      "service": "TX.Show_Tax",
-      "name": "TX.SHOW_TAX_CGST",
-      "code": "TX.SHOW_TAX_CGST",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_CGST",
+      "code": "CH.TRADE_LICENSE_CHALLAN_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6775,58 +6763,17 @@
     },
     {
       "category": "TAX",
-      "service": "TX.Show_Tax",
-      "name": "TX.SHOW_TAX_SGST",
-      "code": "TX.SHOW_TAX_SGST",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_SGST",
+      "code": "CH.TRADE_LICENSE_CHALLAN_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false	    
-    },
-    {
-	    
+      "isRequired": false 
+  },
+  {
       "category": "TAX",
-      "service": "TX.Entertainment_Tax",
-      "name": "TX.ENTERTAINMENT_TAX_TAX",
-      "code": "TX.ENTERTAINMENT_TAX_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
-    },
-    {
-      "category": "CHARGES",
-      "service": "TX.Entertainment_Tax",
-      "name": "TX.ENTERTAINMENT_TAX_FIELD_FEE",
-      "code": "TX.ENTERTAINMENT_TAX_FIELD_FEE",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "TX.Entertainment_Tax",
-      "name": "TX.ENTERTAINMENT_TAX_CGST",
-      "code": "TX.ENTERTAINMENT_TAX_CGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "TX.Entertainment_Tax",
-      "name": "TX.ENTERTAINMENT_TAX_SGST",
-      "code": "TX.ENTERTAINMENT_TAX_SGST",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false    
-    },
-   {
-      "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_TAX",
       "code": "SNT.WASTE_WATER_FEES_TAX",
       "isDebit": false,
@@ -6836,7 +6783,7 @@
     },
     {
       "category": "CHARGES",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "code": "SNT.WASTE_WATER_FEES_FIELD_FEE",
       "isDebit": false,
@@ -6846,7 +6793,7 @@
     },
 	{
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_CGST",
       "code": "SNT.WASTE_WATER_FEES_CGST",
       "isDebit": false,
@@ -6856,7 +6803,7 @@
     },
     {
       "category": "TAX",
-      "service": "SNT.Waste_Water_Fees",
+      "service": "SNT.Waste_water_fees",
       "name": "SNT.WASTE_WATER_FEES_SGST",
       "code": "SNT.WASTE_WATER_FEES_SGST",
       "isDebit": false,
@@ -6944,5 +6891,6 @@
       "order": "0",
       "isRequired": false    
     }
+	  
   ]
 }

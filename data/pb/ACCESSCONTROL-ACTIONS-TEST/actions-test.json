@@ -14936,6 +14936,102 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
+      },
+      {	  
+	      
+
+      "id": 2552,
+      "name": "Ws Defaulter Report",
+      "url": "url",
+      "displayName": "Ws Defaulter Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WsDefaulterReport",
+      "navigationURL": "report/rainmaker-ws/WsDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2553,
+        "name": "Ws Defaulter Report",
+        "url": "/report/rainmaker-ws/WsDefaulterReport/metadata/_get",
+        "displayName": "Ws Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2554,
+        "name": "Ws Defaulter Report",
+        "url": "/report/rainmaker-ws/WsDefaulterReport/_get",
+        "displayName": "Ws Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+     },
+     {
+
+
+      "id": 2555,
+      "name": "Sw Defaulter Report",
+      "url": "url",
+      "displayName": "Sw Defaulter Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SwDefaulterReport",
+      "navigationURL": "report/rainmaker-ws/SwDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2556,
+        "name": "Sw Defaulter Report",
+        "url": "/report/rainmaker-ws/SwDefaulterReport/metadata/_get",
+        "displayName": "Sw Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2557,
+        "name": "Sw Defaulter Report",
+        "url": "/report/rainmaker-ws/SwDefaulterReport/_get",
+        "displayName": "Sw Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+    },
+    {
+      "id": 2558,
+      "name": "Count PT Report",
+      "url": "url",
+      "displayName": "Count PT Report",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.CountPTReport",
+      "navigationURL": "report/rainmaker-pt/CountPTReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+	      
 	      
       }
 	  

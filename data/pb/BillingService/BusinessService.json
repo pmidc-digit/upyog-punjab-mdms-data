@@ -5,8 +5,9 @@
     {
       "businessService": "PropertyTax",
       "code": "PT",
-      "collectionModesNotAllowed": [""],
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get",
+      "collectionModesNotAllowed": [
+        ""
+      ],
       "partPaymentAllowed": true,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
@@ -23,7 +24,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "TradeLicense",
@@ -45,7 +46,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "WaterCharges.NonMetered",
@@ -56,7 +57,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "Taxes.No Dues Certificate",
@@ -81,7 +82,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true,
+      "isVoucherCreationEnabled": false,
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
@@ -1816,7 +1817,7 @@
       "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true,
+      "isVoucherCreationEnabled": false,
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get",
       "isBillAmendmentEnabled": true,
       "cancelReceipt": true
@@ -1830,7 +1831,7 @@
       "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true,
+      "isVoucherCreationEnabled": false,
       "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get",
       "isBillAmendmentEnabled": true,
       "cancelReceipt": true
@@ -2224,7 +2225,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "OTHER.library_security_fees", 
@@ -2336,10 +2337,10 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
-     },
+    },
     {
-      "businessService": "Taxes.Show_Tax",
-      "code": "TX.Show_Tax",
+      "businessService": "Challans.Trade_License_Challan",
+      "code": "CH.Trade_License_Challan",
       "collectionModesNotAllowed": [
         ""
       ],
@@ -2349,26 +2350,9 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"   
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    {
-      
-     
-     "businessService": "Taxes.Entertainment_Tax",
-      "code": "TX.Entertainment_Tax",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc",
-      "cancelReceipt": true,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get" 
-       
-       
-    },
+    
        {
       "businessService": "Sanitation.Septic tank",
       "code": "SNT.Septic_tank",
@@ -2384,8 +2368,8 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
    {
-      "businessService": "Sanitation.Waste_Water_Fees",
-      "code": "SNT.Waste_Water_Fees",
+      "businessService": "Sanitation.Waste_water_fees",
+      "code": "SNT.Waste_water_fees",
       "collectionModesNotAllowed": [
         ""
       ],
