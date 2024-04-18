@@ -15033,7 +15033,19 @@
       "rightIcon": ""
 	      
 	      
-      }
+      },
+      {
+        "id": 2559,
+        "name": "pgr count open complaints for last 24 hrs",
+        "url": "/egov-searcher/rainmaker-pgr-V2/serviceSearchWithDetails/_get",
+        "parentModule": "",
+        "displayName": "Punjab customization",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "punjab-customization",
+        "code": "null",
+        "path": ""
+      },
 	  
 
   ]
