@@ -352,6 +352,12 @@
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
       "description": "Cow Cess collection user"	        
+    },
+    {	 
+	    
+      "code": "SMS_SENDER",
+      "name": "sendOpenSMS API access user",
+      "description": "sendOpenSMS API access user"	        
     }
   ]
 }
