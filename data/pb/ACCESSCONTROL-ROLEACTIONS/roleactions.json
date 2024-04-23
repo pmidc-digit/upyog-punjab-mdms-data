@@ -24681,10 +24681,19 @@
       "rolecode": "SW_CLERK",
       "actionid": 2561,
       "actioncode": "",
-      "tenantId": "pb"	    
-	    
-	    
-	    
+      "tenantId": "pb"	    	    
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	 {
+      "rolecode": "SUPERUSER",
+      "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	 
    ]
