@@ -15031,6 +15031,44 @@
       "navigationURL": "report/rainmaker-pt/CountPTReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {	  
+     "id": 2559,
+      "name": "WS and SW Dump  Report",
+      "url": "url",
+      "displayName": "WS and SW Dump  Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WsandSwDumpReport",
+      "navigationURL": "report/rainmaker-ws/WsandSwDumpReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2560,
+        "name": "WS and SW Dump  Report",
+        "url": "/report/rainmaker-ws/WsandSwDumpReport/metadata/_get",
+        "displayName": "WS and SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2561,
+        "name": "WS and SW Dump  Report",
+        "url": "/report/rainmaker-ws/WsandSwDumpReport/_get",
+        "displayName": "WS and SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+   
 	      
 	      
       }
