@@ -15071,7 +15071,19 @@
    
 	      
 	      
-      }
+      },
+    {
+      "id": 2562,
+      "name": "send open sms",
+      "url": "/property-services/property/_sendOpenSMS",
+      "displayName": "send open sms",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    }
+	
 	  
 
   ]
