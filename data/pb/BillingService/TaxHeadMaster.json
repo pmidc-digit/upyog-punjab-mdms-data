@@ -6890,6 +6890,17 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false    
+    },
+    {
+      "category": "CHARGES",
+      "code": "WS_DISCHARGE_CHARGES",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Water Discharges",
+      "order": "0",
+      "service": "WS"
     }
 	  
   ]
