@@ -1459,10 +1459,10 @@
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": false,
-      "isActive": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": false,
+      "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
