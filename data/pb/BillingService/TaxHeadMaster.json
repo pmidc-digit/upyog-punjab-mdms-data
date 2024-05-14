@@ -5158,9 +5158,9 @@
       "name": "OTHER.FIRE_NOC_TAX",
       "code": "OTHER.FIRE_NOC_TAX",
       "isDebit": false,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "1",
-      "isRequired": false
+      "isRequired": true
     },
     {
       "category": "CHARGES",
