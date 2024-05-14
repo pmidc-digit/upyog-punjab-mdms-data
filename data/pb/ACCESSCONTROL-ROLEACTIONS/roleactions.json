@@ -18154,6 +18154,36 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+  {
+      "rolecode": "SUPERUSER",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 2136,
+      "actioncode": "",
+      "tenantId": "pb"
+    },	  
   
     {
       "rolecode": "SUPERUSER",
