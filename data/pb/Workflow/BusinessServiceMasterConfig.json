@@ -6,6 +6,22 @@
         "businessService": "NewTL",
         "active": "true",
         "isStatelevel": "true"
-      }     
+      }     ,
+      {
+        "businessService": "WS",
+        "active": "true",
+        "isStatelevel": "true"
+      } 
+      ,
+      {
+        "businessService": "PT",
+        "active": "true",
+        "isStatelevel": "true"
+      } ,
+      {
+        "businessService": "SW",
+        "active": "true",
+        "isStatelevel": "true"
+      } 
     ]
   }
