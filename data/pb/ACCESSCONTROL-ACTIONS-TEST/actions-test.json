@@ -15082,6 +15082,46 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
+    },
+    {
+
+     "id": 2563,
+      "name": "SW Dump  Report",
+      "url": "url",
+      "displayName": "SW Dump  Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SwDumpReport",
+      "navigationURL": "report/rainmaker-ws/SwDumpReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2564,
+        "name": "SW Dump  Report",
+        "url": "/report/rainmaker-ws/SwDumpReport/metadata/_get",
+        "displayName": "SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2565,
+        "name": "SW Dump  Report",
+        "url": "/report/rainmaker-ws/SwDumpReport/_get",
+        "displayName": "SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+	    
     }
 	
 	  
