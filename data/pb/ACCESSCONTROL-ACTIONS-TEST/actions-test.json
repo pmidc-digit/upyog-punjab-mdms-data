@@ -15120,7 +15120,44 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
-
+      },
+     {	  
+	     
+      "id": 2566,
+      "name": "Meter Reading Report",
+      "url": "url",
+      "displayName": "Meter Reading Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.MeterReadingReport",
+      "navigationURL": "report/rainmaker-ws/MeterReadingReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2567,
+        "name": "Meter Reading Report",
+        "url": "/report/rainmaker-ws/MeterReadingReport/metadata/_get",
+        "displayName": "Meter Reading Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2568,
+        "name": "Meter Reading Report",
+        "url": "/report/rainmaker-ws/MeterReadingReport/_get",
+        "displayName": "Meter Reading Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
 	    
     }
 	
