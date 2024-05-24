@@ -15158,6 +15158,45 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
+      },
+      {	  
+     "id": 2569,
+      "name": "Bill Scheduler Report",
+      "url": "url",
+      "displayName": "Bill Scheduler Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.BillSchedulerReport",
+      "navigationURL": "report/rainmaker-ws/BillSchedulerReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2570,
+        "name": "Bill Scheduler Report",
+        "url": "/report/rainmaker-ws/BillSchedulerReport/metadata/_get",
+        "displayName": "Bill Scheduler Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2571,
+        "name": "Bill Scheduler Report",
+        "url": "/report/rainmaker-ws/BillSchedulerReport/_get",
+        "displayName": "Bill Scheduler Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+	      
 	    
     }
 	
