@@ -15195,7 +15195,44 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
-
+      },
+      {	  
+	      
+     "id": 2572,
+      "name": "SW Demand Detail Report",
+      "url": "url",
+      "displayName": "SW Demand Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SWDemandDetailReport",
+      "navigationURL": "report/rainmaker-ws/SWDemandDetailReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2573,
+        "name": "SW Demand Detail Report",
+        "url": "/report/rainmaker-ws/SWDemandDetailReport/metadata/_get",
+        "displayName": "SW Demand Detail Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2574,
+        "name": "SW Demand Detail Report",
+        "url": "/report/rainmaker-ws/SWDemandDetailReport/_get",
+        "displayName": "SW Demand Detail Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
 	      
 	    
     }
