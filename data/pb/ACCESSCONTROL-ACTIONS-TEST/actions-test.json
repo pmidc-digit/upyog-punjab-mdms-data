@@ -15235,7 +15235,19 @@
         "path": ""
 	      
 	    
-    }
+    },
+	  {
+         "id": 2575,
+         "name": "LocalizationCacheBust",
+         "url": "/localization/messages/cache-bust",
+         "displayName": "Localization cache Bust",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "localisation cache bust",
+         "code": "null",
+         "path": ""
+       }
 	
 	  
 
