@@ -25189,14 +25189,13 @@
       "rolecode": "SW_CLERK",
       "actionid": 2574,
       "actioncode": "",
-      "tenantId": "pb"	    	    
-
-
-
-
-
-
-		 
+      "tenantId": "pb"	    	     
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2575,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	 
    ]
