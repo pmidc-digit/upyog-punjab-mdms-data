@@ -15,11 +15,16 @@
       "isActive": true
     },
     {
-      "name": "Institutional",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
       "unitCost" : 15,
       "isActive": true
     }
   ]
 }
-
