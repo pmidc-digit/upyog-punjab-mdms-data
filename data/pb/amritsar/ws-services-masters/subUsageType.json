@@ -8,6 +8,18 @@
       "parentUsageType": "RESIDENTIAL",
       "active": true
     },
+    {
+      "code": "USAGE_DOM_NA",
+      "name": "DOMESTIC",
+      "parentUsageType": "MIXED",
+      "active": true
+    },
+     {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "MIXED",
+      "active": true
+    },
    {
       "code": "USAGE_DOM_MO",
       "name": "DOMESTIC MOTOR",
