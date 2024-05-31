@@ -15236,7 +15236,7 @@
 	      
 	    
     },
-	  {
+    {
          "id": 2575,
          "name": "LocalizationCacheBust",
          "url": "/localization/messages/cache-bust",
@@ -15247,6 +15247,49 @@
          "serviceCode": "localisation cache bust",
          "code": "null",
          "path": ""
+  },
+  {
+		  
+
+     "id": 2576,
+      "name": "Collection Summary Report",
+      "url": "url",
+      "displayName": "Collection Summary Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.CollectionSummaryReport",
+      "navigationURL": "report/rainmaker-ws/CollectionSummaryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2577,
+        "name": "Collection Summary Report",
+        "url": "/report/rainmaker-ws/CollectionSummaryReport/metadata/_get",
+        "displayName": "Collection Summary Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2578,
+        "name": "Collection Summary Report",
+        "url": "/report/rainmaker-ws/CollectionSummaryReport/_get",
+        "displayName": "Collection Summary Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+
+
+		  
        }
 	
 	  
