@@ -15290,7 +15290,18 @@
 
 
 		  
-       }
+       },
+	{
+      "id": 2579,
+      "name": "Calculate Fee For Water Application",
+      "url": "/ws-calculator/waterCalculator/_singledemand",
+      "displayName": "single demand geenration",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    }
 	
 	  
 
