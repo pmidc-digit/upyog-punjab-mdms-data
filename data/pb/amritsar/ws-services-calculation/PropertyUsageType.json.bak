@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.machhiwara",
+  "tenantId": "pb.amritsar",
   "moduleName": "ws-services-calculation",
   "PropertyUsageType": [
     {
@@ -15,16 +15,11 @@
       "isActive": true
     },
     {
-      "name": "Industrial",
-      "code": "NONRESIDENTIAL.INDUSTRIAL",
-      "unitCost" : 15,
-      "isActive": true
-    },
-    {
-      "name": "Mixed",
-      "code": "MIXED",
+      "name": "Institutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
       "unitCost" : 15,
       "isActive": true
     }
   ]
 }
+

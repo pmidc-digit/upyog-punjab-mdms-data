@@ -6901,19 +6901,7 @@
       "name": "Water Discharges",
       "order": "0",
       "service": "WS"
-    },
-  {
-      "category": "CHARGES",
-      "code": "SW_DISCHARGE_CHARGES",
-      "isActualDemand": true,
-      "IsBillamend": true,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage Discharges",
-      "order": "0",
-      "service": "SW"
     }
-   
 	  
   ]
 }

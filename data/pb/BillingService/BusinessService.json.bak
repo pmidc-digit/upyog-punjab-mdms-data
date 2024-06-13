@@ -14,6 +14,18 @@
       "isVoucherCreationEnabled": true,
       "cancelReceipt": true
     },
+     {
+      "businessService": "WS AMENDMENT",
+      "code": "WS.AMENDMENT",
+      "isBillAmendmentEnabled": true,
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
     {
       "businessService": "WaterCharges",
       "code": "WC",

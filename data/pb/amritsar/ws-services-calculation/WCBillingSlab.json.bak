@@ -1754,7 +1754,7 @@
        "waterSubUsageType": "USAGE_COMM_NA",
        "calculationAttribute": "Water consumption",
        "connectionType": "Metered",
-       "minimumCharge": 100,
+       "minimumCharge": 300,
        "slabs": [
          {
            "from": 0,
