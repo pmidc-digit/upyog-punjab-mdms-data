@@ -1,0 +1,13 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "ws-services-calculation",
+  "Rebate": [
+    {
+      "rate": 10,
+      "maxAmount": 100,
+      "flatAmount": 100,
+      "fromFY": "2019-30",
+      "endingDay": "25/09"
+    }
+  ]
+}
