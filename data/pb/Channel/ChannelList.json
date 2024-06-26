@@ -15,6 +15,16 @@
     {
       "businessService": "PT.CREATE",
       "module": "PT",
+      "action": "DUE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PT.CREATE",
+      "module": "PT",
       "action": "VERIFY",
       "channelNames": [
         "SMS",
