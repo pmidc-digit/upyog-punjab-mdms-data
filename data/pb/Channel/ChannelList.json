@@ -12,6 +12,16 @@
         "EVENT"
       ]
     },
+     {
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
       {
       "businessService": "PT.CREATE",
       "module": "PT",
