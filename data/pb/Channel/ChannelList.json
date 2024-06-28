@@ -12,6 +12,26 @@
         "EVENT"
       ]
     },
+      {
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "UPDATE_MOBILE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "PT.CREATE",
       "module": "PT",
