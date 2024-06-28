@@ -15323,6 +15323,17 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
+    },
+{
+      "id": 2582,
+      "name": "Calculate Fee For Water Application",
+      "url": "/sw-calculator/sewerageCalculator/_generateDemand",
+      "displayName": "single demand geenration",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
     }
 	
 	  
