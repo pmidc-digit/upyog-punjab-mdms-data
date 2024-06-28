@@ -15,6 +15,37 @@
     {
       "businessService": "PT.CREATE",
       "module": "PT",
+      "action": "PAID",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "ASSESS",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "PT_REC_CANCEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    
+    {
+      "businessService": "PT.CREATE",
+      "module": "PT",
       "action": "DUE",
       "channelNames": [
         "SMS",
