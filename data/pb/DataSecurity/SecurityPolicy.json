@@ -64,7 +64,7 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "permanent",
+          "name": "permanentAddress",
           "jsonPath": "permanentAddress/address",
           "patternId": "003",
           "defaultVisibility": "PLAIN"
@@ -94,22 +94,22 @@
           "attributeAccessList": [
             {
               "attribute": "name",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "mobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "userName",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -119,7 +119,7 @@
           "attributeAccessList": [
             {
               "attribute": "mobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -129,27 +129,27 @@
           "attributeAccessList": [
             {
               "attribute": "mobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "fatherOrHusbandName",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "guardian",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -224,12 +224,12 @@
           "attributeAccessList": [
             {
               "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -502,7 +502,7 @@
           "attributeAccessList": [
             {
               "attribute": "name",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -529,7 +529,7 @@
           "attributeAccessList": [
             {
               "attribute": "name",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -568,17 +568,17 @@
           "attributeAccessList": [
             {
               "attribute": "street",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "doorNo",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "landmark",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -588,17 +588,17 @@
           "attributeAccessList": [
             {
               "attribute": "street",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "doorNo",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "landmark",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -648,13 +648,13 @@
             
             {
               "attribute": "ownerType",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
            
             {
               "attribute": "plumberInfoMobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -718,42 +718,42 @@
           "attributeAccessList": [
             {
               "attribute": "connectionHoldersMobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "gender",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "fatherOrHusbandName",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "ownerType",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "ownerType",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "plumberInfoMobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "assigneeMobileNumber",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
           ]
