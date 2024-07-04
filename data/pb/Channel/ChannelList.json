@@ -3,7 +3,7 @@
   "moduleName": "Channel",
   "channelList": [
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
@@ -13,7 +13,7 @@
       ]
     },
      {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "SUBMIT",
       "channelNames": [
@@ -23,7 +23,7 @@
       ]
     },
       {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "UPDATE_MOBILE",
       "channelNames": [
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "PAID",
       "channelNames": [
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "ASSESS",
       "channelNames": [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "PT_REC_CANCEL",
       "channelNames": [
@@ -74,7 +74,7 @@
     },
     
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "DUE",
       "channelNames": [
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "VERIFY",
       "channelNames": [
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "FORWARD",
       "channelNames": [
@@ -104,7 +104,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "APPROVE",
       "channelNames": [
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "REJECT",
       "channelNames": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "businessService": "PT.CREATE",
+      "businessService": "PT",
       "module": "PT",
       "action": "PAID",
       "channelNames": [
