@@ -953,6 +953,16 @@
         "EVENT"
       ]
     },
+     {
+      "businessService": "WS.CREATE",
+      "module": "WS",
+      "action": "NEW_WATER_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "WS.CREATE",
       "module": "WS",
