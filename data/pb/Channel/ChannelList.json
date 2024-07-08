@@ -753,6 +753,26 @@
         "EVENT"
       ]
     },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "EDITRENEWAL",
       "module": "TL",
@@ -807,6 +827,16 @@
       "businessService": "DIRECTRENEWAL",
       "module": "TL",
       "action": "CANCEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "ADHOC",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1063,10 +1093,30 @@
         "EVENT"
       ]
     },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "WS",
       "module": "WS",
       "action": "DEMAND",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "RESUBMIT_APPLICATION",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1293,6 +1343,106 @@
         "EVENT"
       ]
     },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "SW",
       "module": "SW",
@@ -1447,6 +1597,226 @@
       "businessService": "DisconnectWSConnection",
       "module": "WS",
       "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "PAY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "REFER",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "RESUBMIT",
       "channelNames": [
         "SMS",
         "EMAIL",
