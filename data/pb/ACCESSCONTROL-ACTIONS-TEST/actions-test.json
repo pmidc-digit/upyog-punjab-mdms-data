@@ -15334,6 +15334,18 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2583,
+      "name": "PropertyTax GIS integration",
+      "url": "/egov-searcher/rainmaker-pt-gissearch/searchGisMap/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""    
     }
 	
 	  
