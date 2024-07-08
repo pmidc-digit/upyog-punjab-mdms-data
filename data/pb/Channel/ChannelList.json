@@ -7,9 +7,7 @@
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
      {
@@ -17,9 +15,7 @@
       "module": "PT",
       "action": "SUBMIT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
       {
@@ -27,9 +23,167 @@
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -37,9 +191,7 @@
       "module": "PT",
       "action": "UPDATE_MOBILE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -47,9 +199,7 @@
       "module": "PT",
       "action": "PAID",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -57,9 +207,7 @@
       "module": "PT",
       "action": "ASSESS",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -67,9 +215,7 @@
       "module": "PT",
       "action": "PT_REC_CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     
@@ -78,9 +224,7 @@
       "module": "PT",
       "action": "DUE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -88,9 +232,7 @@
       "module": "PT",
       "action": "VERIFY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -98,9 +240,7 @@
       "module": "PT",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -108,9 +248,7 @@
       "module": "PT",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -118,9 +256,7 @@
       "module": "PT",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -128,9 +264,7 @@
       "module": "PT",
       "action": "PAID",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -138,9 +272,7 @@
       "module": "PT",
       "action": "SENDBACKFROMFI",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -148,9 +280,7 @@
       "module": "PT",
       "action": "SENDBACKFROMAP",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -158,9 +288,7 @@
       "module": "PT",
       "action": "SENDBACKTOCITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -168,9 +296,7 @@
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -178,9 +304,7 @@
       "module": "PT",
       "action": "VERIFY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -188,9 +312,7 @@
       "module": "PT",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -198,9 +320,7 @@
       "module": "PT",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -208,9 +328,7 @@
       "module": "PT",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -218,9 +336,7 @@
       "module": "PT",
       "action": "FAILURE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -228,9 +344,7 @@
       "module": "PT",
       "action": "OPEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -238,9 +352,7 @@
       "module": "PT",
       "action": "VERIFY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -248,9 +360,7 @@
       "module": "PT",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -258,9 +368,7 @@
       "module": "PT",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -268,9 +376,7 @@
       "module": "PT",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -278,9 +384,7 @@
       "module": "PT",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -288,9 +392,7 @@
       "module": "PT",
       "action": "UPDATE_MOBILE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -298,9 +400,7 @@
       "module": "PT",
       "action": "ALTERNATE_MOBILE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -308,9 +408,7 @@
       "module": "PT",
       "action": "DUE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -318,9 +416,7 @@
       "module": "PT",
       "action": "NO_WORKFLOW",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -328,9 +424,7 @@
       "module": "PT",
       "action": "ASSESS",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -338,9 +432,7 @@
       "module": "BPA",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -348,9 +440,7 @@
       "module": "BPA",
       "action": "SEND_TO_CITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -358,9 +448,7 @@
       "module": "BPA",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -368,9 +456,7 @@
       "module": "BPA",
       "action": "SEND_TO_ARCHITECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -378,9 +464,7 @@
       "module": "BPA",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -388,9 +472,7 @@
       "module": "BPA",
       "action": "SKIP_PAYMENT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -398,9 +480,7 @@
       "module": "BPA",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -408,9 +488,7 @@
       "module": "BPA",
       "action": "ADHOC",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -418,9 +496,7 @@
       "module": "BPA",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -428,9 +504,7 @@
       "module": "BPA",
       "action": "REVOCATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -438,9 +512,7 @@
       "module": "BPA",
       "action": "SEND_BACK_TO_CITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -448,9 +520,7 @@
       "module": "BPA",
       "action": "SENDBACKTOCITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -458,9 +528,7 @@
       "module": "BPA",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -468,9 +536,7 @@
       "module": "BPAREG",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -478,9 +544,7 @@
       "module": "BPAREG",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -488,9 +552,7 @@
       "module": "BPAREG",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -498,9 +560,7 @@
       "module": "BPAREG",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -508,9 +568,7 @@
       "module": "BPAREG",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -518,9 +576,7 @@
       "module": "BPAREG",
       "action": "NOWORKFLOW",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -528,9 +584,7 @@
       "module": "TL",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -538,9 +592,7 @@
       "module": "TL",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -548,9 +600,7 @@
       "module": "TL",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -558,9 +608,7 @@
       "module": "TL",
       "action": "SENDBACKTOCITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -568,9 +616,7 @@
       "module": "TL",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -578,9 +624,7 @@
       "module": "TL",
       "action": "SENDBACK",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -588,9 +632,7 @@
       "module": "TL",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -598,9 +640,7 @@
       "module": "TL",
       "action": "ADHOC",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -608,9 +648,7 @@
       "module": "TL",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -618,9 +656,7 @@
       "module": "TL",
       "action": "MANUALEXPIRE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -628,9 +664,7 @@
       "module": "TL",
       "action": "EXPIRE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -638,9 +672,7 @@
       "module": "TL",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -648,9 +680,7 @@
       "module": "TL",
       "action": "RESUBMIT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -658,9 +688,7 @@
       "module": "TL",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -668,9 +696,7 @@
       "module": "TL",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -678,79 +704,7 @@
       "module": "TL",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "FORWARD",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "SENDBACKTOCITIZEN",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "APPROVE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "ADHOC",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "PAY",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "CANCEL",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "EDITRENEWAL",
-      "module": "TL",
-      "action": "EXPIRE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -758,9 +712,7 @@
       "module": "TL",
       "action": "RESUBMIT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -768,9 +720,63 @@
       "module": "TL",
       "action": "SENDBACK",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -778,9 +784,7 @@
       "module": "TL",
       "action": "MANUALEXPIRE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -788,49 +792,7 @@
       "module": "TL",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "DIRECTRENEWAL",
-      "module": "TL",
-      "action": "PAY",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "DIRECTRENEWAL",
-      "module": "TL",
-      "action": "MANUALEXPIRE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "DIRECTRENEWAL",
-      "module": "TL",
-      "action": "EXPIRE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "DIRECTRENEWAL",
-      "module": "TL",
-      "action": "CANCEL",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -838,9 +800,39 @@
       "module": "TL",
       "action": "ADHOC",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "MANUALEXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -848,9 +840,7 @@
       "module": "TL",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -858,9 +848,7 @@
       "module": "WS",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -868,9 +856,7 @@
       "module": "WS",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -878,9 +864,7 @@
       "module": "WS",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -888,9 +872,7 @@
       "module": "WS",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -898,9 +880,7 @@
       "module": "WS",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -908,9 +888,15 @@
       "module": "WS",
       "action": "SUBMIT_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -918,9 +904,15 @@
       "module": "WS",
       "action": "APPROVE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -928,9 +920,7 @@
       "module": "WS",
       "action": "EXECUTE_DISCONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -938,9 +928,7 @@
       "module": "WS",
       "action": "SEND_BACK_TO_CITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -948,9 +936,7 @@
       "module": "WS",
       "action": "SEND_BACK_TO_CITIZEN_FI",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -958,9 +944,7 @@
       "module": "WS",
       "action": "SEND_BACK_TO_CITIZEN_AP",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -968,9 +952,7 @@
       "module": "WS",
       "action": "INACTIVE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -978,9 +960,7 @@
       "module": "WS",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
      {
@@ -988,9 +968,7 @@
       "module": "WS",
       "action": "NEW_WATER_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -998,9 +976,7 @@
       "module": "WS",
       "action": "RESUBMIT_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1008,9 +984,7 @@
       "module": "WS",
       "action": "MODIFY_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1018,9 +992,7 @@
       "module": "WS",
       "action": "VERIFY_AND_FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1028,9 +1000,7 @@
       "module": "WS",
       "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1038,9 +1008,7 @@
       "module": "WS",
       "action": "APPROVE_FOR_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1048,9 +1016,7 @@
       "module": "WS",
       "action": "APPROVE_FOR_DISCONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1058,9 +1024,7 @@
       "module": "WS",
       "action": "SEND_BACK_FOR_FIELD_INSPECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1068,9 +1032,7 @@
       "module": "WS",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1078,9 +1040,7 @@
       "module": "WS",
       "action": "SEND_BACK",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1088,19 +1048,7 @@
       "module": "WS",
       "action": "SEND_BACK_FOR_DO",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "WS",
-      "module": "WS",
-      "action": "APPROVE_FOR_CONNECTION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1108,19 +1056,7 @@
       "module": "WS",
       "action": "DEMAND",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "WS",
-      "module": "WS",
-      "action": "RESUBMIT_APPLICATION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1128,9 +1064,7 @@
       "module": "WS",
       "action": "BILL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1138,9 +1072,87 @@
       "module": "SW",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
       ]
     },
     {
@@ -1148,9 +1160,7 @@
       "module": "SW",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1158,9 +1168,7 @@
       "module": "SW",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1168,9 +1176,7 @@
       "module": "SW",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1178,9 +1184,7 @@
       "module": "SW",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1188,9 +1192,7 @@
       "module": "SW",
       "action": "SUBMIT_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1198,9 +1200,7 @@
       "module": "SW",
       "action": "APPROVE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1208,9 +1208,7 @@
       "module": "SW",
       "action": "APPROVE_FOR_DISCONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1218,9 +1216,7 @@
       "module": "SW",
       "action": "SEND_BACK_TO_CITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1228,9 +1224,7 @@
       "module": "SW",
       "action": "SEND_BACK_TO_CITIZEN_FI",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1238,9 +1232,7 @@
       "module": "SW",
       "action": "SEND_BACK_TO_CITIZEN_AP",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1248,9 +1240,7 @@
       "module": "SW",
       "action": "INACTIVE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1258,9 +1248,7 @@
       "module": "SW",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1268,9 +1256,7 @@
       "module": "SW",
       "action": "RESUBMIT_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1278,9 +1264,7 @@
       "module": "SW",
       "action": "MODIFY_APPLICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1288,9 +1272,7 @@
       "module": "SW",
       "action": "VERIFY_AND_FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1298,9 +1280,7 @@
       "module": "SW",
       "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1308,9 +1288,7 @@
       "module": "SW",
       "action": "APPROVE_FOR_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1318,9 +1296,7 @@
       "module": "SW",
       "action": "EXECUTE_DISCONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1328,9 +1304,7 @@
       "module": "SW",
       "action": "SEND_BACK_FOR_FIELD_INSPECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1338,109 +1312,7 @@
       "module": "SW",
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifySWConnection",
-      "module": "SW",
-      "action": "INITIATE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifySWConnection",
-      "module": "SW",
-      "action": "SUBMIT_APPLICATION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifySWConnection",
-      "module": "SW",
-      "action": "SEND_BACK",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifySWConnection",
-      "module": "SW",
-      "action": "APPROVE_CONNECTION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifySWConnection",
-      "module": "SW",
-      "action": "REJECT",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifyWSConnection",
-      "module": "SW",
-      "action": "INITIATE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifyWSConnection",
-      "module": "SW",
-      "action": "SUBMIT_APPLICATION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifyWSConnection",
-      "module": "SW",
-      "action": "SEND_BACK",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifyWSConnection",
-      "module": "SW",
-      "action": "APPROVE_CONNECTION",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-	{
-      "businessService": "ModifyWSConnection",
-      "module": "SW",
-      "action": "REJECT",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1448,9 +1320,7 @@
       "module": "SW",
       "action": "SEND_BACK",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1458,9 +1328,7 @@
       "module": "SW",
       "action": "SEND_BACK_FOR_DO",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1468,9 +1336,7 @@
       "module": "SW",
       "action": "DEMAND",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1478,9 +1344,7 @@
       "module": "SW",
       "action": "BILL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1488,9 +1352,7 @@
       "module": "MCOLLECT",
       "action": "CREATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1498,9 +1360,7 @@
       "module": "MCOLLECT",
       "action": "EXPIRE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1508,9 +1368,7 @@
       "module": "MCOLLECT",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1518,9 +1376,7 @@
       "module": "MCOLLECT",
       "action": "UPDATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1528,9 +1384,7 @@
       "module": "MCOLLECT",
       "action": "PAYMENT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1538,9 +1392,7 @@
       "module": "PGR",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1548,9 +1400,7 @@
       "module": "PGR",
       "action": "ASSIGN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1558,9 +1408,7 @@
       "module": "PGR",
       "action": "RESOLVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1568,9 +1416,7 @@
       "module": "PGR",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1578,9 +1424,7 @@
       "module": "PGR",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1588,9 +1432,7 @@
       "module": "WS",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
     {
@@ -1598,9 +1440,7 @@
       "module": "WS",
       "action": "EXECUTE_DISCONNECTION",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1608,9 +1448,7 @@
       "module": "TL",
       "action": "SENDBACK",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1618,9 +1456,7 @@
       "module": "TL",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1628,9 +1464,7 @@
       "module": "TL",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1638,9 +1472,7 @@
       "module": "TL",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1648,9 +1480,7 @@
       "module": "TL",
       "action": "SENDBACKTOCITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1658,9 +1488,7 @@
       "module": "TL",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1668,9 +1496,7 @@
       "module": "TL",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1678,9 +1504,7 @@
       "module": "TL",
       "action": "ADHOC",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1688,9 +1512,7 @@
       "module": "TL",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1698,9 +1520,7 @@
       "module": "TL",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1708,9 +1528,7 @@
       "module": "TL",
       "action": "RESUBMIT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1718,9 +1536,7 @@
       "module": "FIRENOC",
       "action": "INITIATE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1728,9 +1544,7 @@
       "module": "FIRENOC",
       "action": "APPLY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1738,9 +1552,7 @@
       "module": "FIRENOC",
       "action": "PAY",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1748,9 +1560,7 @@
       "module": "FIRENOC",
       "action": "ADHOC",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1758,9 +1568,7 @@
       "module": "FIRENOC",
       "action": "SENDBACKTOCITIZEN",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1768,9 +1576,7 @@
       "module": "FIRENOC",
       "action": "REFER",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1778,9 +1584,7 @@
       "module": "FIRENOC",
       "action": "FORWARD",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1788,9 +1592,7 @@
       "module": "FIRENOC",
       "action": "REJECT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1798,9 +1600,7 @@
       "module": "FIRENOC",
       "action": "APPROVE",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1808,9 +1608,7 @@
       "module": "FIRENOC",
       "action": "CANCEL",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     },
 	{
@@ -1818,9 +1616,7 @@
       "module": "FIRENOC",
       "action": "RESUBMIT",
       "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
+        "SMS"
       ]
     }
   ]
