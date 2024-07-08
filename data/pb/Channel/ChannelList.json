@@ -779,6 +779,26 @@
         "SMS"
       ]
     },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "EDITRENEWAL",
       "module": "TL",
@@ -833,6 +853,16 @@
       "action": "CANCEL",
       "channelNames": [
         "SMS"
+      ]
+    },
+	{
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
       ]
     },
     {
@@ -1051,12 +1081,32 @@
         "SMS"
       ]
     },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
     {
       "businessService": "WS",
       "module": "WS",
       "action": "DEMAND",
       "channelNames": [
         "SMS"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
       ]
     },
     {
@@ -1313,6 +1363,106 @@
       "action": "PENDING_FOR_CITIZEN_ACTION",
       "channelNames": [
         "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
       ]
     },
     {
