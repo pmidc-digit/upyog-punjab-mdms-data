@@ -25511,11 +25511,12 @@
       "actionid": 2582,
       "actioncode": "",
       "tenantId": "pb"	    	    
- 
-
-
-
-	    
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2583,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	 
    ]
