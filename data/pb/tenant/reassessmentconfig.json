@@ -2,7 +2,7 @@
     "tenantId": "pb",
     "moduleName": "tenant",
     "reassessmentconfig":[ {
-        "tenant": [],
-        "financialyear": "2022-23"
+        "tenant": ["pb.sujanpur"],
+        "financialyear": "2023-24"
     }]
 }
