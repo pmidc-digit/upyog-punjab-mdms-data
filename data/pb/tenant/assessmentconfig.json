@@ -3405,9 +3405,31 @@
     },
        {
       "tenant": "pb.sujanpur",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2024-25",
       "isRented": true
+    },
+    {
+      "tenant": "pb.kurali",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false,
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
+    },
+    {
+      "tenant": "pb.doraha",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false,
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
+    },
+    {
+      "tenant": "pb.sunam",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false,
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     }
+
   ]
 }
