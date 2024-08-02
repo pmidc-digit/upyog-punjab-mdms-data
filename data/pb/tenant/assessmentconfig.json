@@ -3432,12 +3432,48 @@
     },
     {
       "tenant": "pb.abohar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.faridkot",
+      "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.mohali",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.fazilka",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.muktsar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.hoshiarpur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.phagwara",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.rajpura",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
