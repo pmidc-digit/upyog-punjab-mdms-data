@@ -15346,6 +15346,17 @@
       "serviceCode": "punjab-customization",
       "code": "null",
       "path": ""    
+    },
+    {
+      "id": 2584,
+      "name": "Search Integrated Bill",
+      "url": "/egov-searcher/bill-genie/integratedbills/_get",
+      "displayName": "Search integratedbills Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
 	
 	  
