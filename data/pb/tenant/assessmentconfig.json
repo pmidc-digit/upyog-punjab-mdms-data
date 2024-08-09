@@ -3444,36 +3444,60 @@
     },
     {
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.fazilka",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.muktsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.hoshiarpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.phagwara",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.rajpura",
+      "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.pathankot",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.zirakpur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.nurmahal",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.rayya",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
