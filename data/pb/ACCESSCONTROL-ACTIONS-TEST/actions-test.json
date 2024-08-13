@@ -15357,6 +15357,47 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {	  
+	  
+      "id": 2585,
+      "name": "Qaurterly Report",
+      "url": "url",
+      "displayName": "Qaurterly Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.QaurterlyReport",
+      "navigationURL": "report/rainmaker-ws/QaurterlyReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2586,
+        "name": "Qaurterly Report",
+        "url": "/report/rainmaker-ws/QaurterlyReport/metadata/_get",
+        "displayName": "Qaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2587,
+        "name": "Qaurterly Report",
+        "url": "/report/rainmaker-ws/QaurterlyReport/_get",
+        "displayName": "Qaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+
+	    
     }
 	
 	  
