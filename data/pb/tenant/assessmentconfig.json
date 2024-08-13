@@ -3480,24 +3480,90 @@
     },
     {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.zirakpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.nurmahal",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.rayya",
+      "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.barnala",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.derabassi",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.dhariwal",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.dhuri",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.dinanagar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.doraha",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.jagraon",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.kharar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.majitha",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.payal",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.rahon",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
