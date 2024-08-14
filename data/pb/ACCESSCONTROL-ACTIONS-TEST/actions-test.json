@@ -15395,7 +15395,44 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
-
+      },
+      {	  
+	      
+      "id": 2588,
+      "name": "SWQaurterly Report",
+      "url": "url",
+      "displayName": "SWQaurterly Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SWQaurterlyReport",
+      "navigationURL": "report/rainmaker-ws/SWQaurterlyReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2589,
+        "name": "SWQaurterly Report",
+        "url": "/report/rainmaker-ws/SWQaurterlyReport/metadata/_get",
+        "displayName": "SWQaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2590,
+        "name": "SWQaurterly Report",
+        "url": "/report/rainmaker-ws/SWQaurterlyReport/_get",
+        "displayName": "SWQaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
 
 	    
     }
