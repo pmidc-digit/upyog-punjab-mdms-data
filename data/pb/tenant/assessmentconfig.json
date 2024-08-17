@@ -3567,6 +3567,13 @@
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
+    },
+    {
+      "tenant": "pb.amritsar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false,
+      "propertytype": ["RESIDENTIAL"]
     }
 
   ]
