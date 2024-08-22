@@ -3570,10 +3570,16 @@
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false,
       "propertytype": ["RESIDENTIAL"]
+    },
+      {
+      "tenant": "pb.ahmendgarh",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
     }
 
   ]
