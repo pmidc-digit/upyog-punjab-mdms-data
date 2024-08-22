@@ -2239,7 +2239,7 @@
     },
     {
       "tenant": "pb.ahmedgarh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2022-23",
       "isRented": true
     },
@@ -3402,12 +3402,6 @@
        "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
-    },
-    {
-      "tenant": "pb.sujanpur",
-       "enabled": true,
-      "financialyear": "2024-25",
-      "isRented": true
-    }
+    }    
   ]
 }
