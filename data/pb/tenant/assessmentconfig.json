@@ -3579,7 +3579,33 @@
       "tenant": "pb.ahmendgarh",
       "enabled": true,
       "financialyear": "2024-25",
-      "isRented": false
+      "isRented": false     
+    },
+      {
+      "tenant": "pb.jalandhar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+      "propertytype": ["RESIDENTIAL"]
+    },
+      {
+      "tenant": "pb.abohar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+      {
+      "tenant": "pb.adampur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    }
+    ,
+      {
+      "tenant": "pb.ajnala",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
     }
 
   ]
