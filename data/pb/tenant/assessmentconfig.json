@@ -3533,112 +3533,110 @@
       "isRented": false
     },
     {
-      "tenant": "pb.doraha",
-      "enabled": false,
+      "tenant": "pb.bhogpur",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.jagraon",
-      "enabled": false,
+      "tenant": "pb.bhikhiwind",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.kharar",
-      "enabled": false,
+      "tenant": "pb.bhikhi",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.majitha",
-      "enabled": false,
+      "tenant": "pb.bhawanigarh",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.payal",
-      "enabled": false,
+      "tenant": "pb.bhairoopa",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.rahon",
-      "enabled": false,
+      "tenant": "pb.bhagtabhai",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.amritsar",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false,
-      "propertytype": ["RESIDENTIAL"]
-    },
-      {
-      "tenant": "pb.ahmendgarh",
+      "tenant": "pb.bhadson",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false     
     },
       {
-      "tenant": "pb.jalandhar",
-      "enabled": false,
+      "tenant": "pb.ahmedgarh",
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true,
-      "propertytype": ["RESIDENTIAL"]
+      "isRented": false     
     },
       {
-      "tenant": "pb.abohar",
-      "enabled": false,
+      "tenant": "pb.bhadaur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+     },
+      {
+      "tenant": "pb.begowal",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
     },
       {
-      "tenant": "pb.adampur",
-      "enabled": false,
+      "tenant": "pb.batala",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
     }
     ,
       {
-      "tenant": "pb.ajnala",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": true
-    },
-      {
-      "tenant": "pb.badhnikalan",
+      "tenant": "pb.bassipathana",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
     },
       {
-      "tenant": "pb.baghapurana",
-      "enabled": true,
-      "financialyear": "2024-25",
-      "isRented": true
-    },
-      {
-      "tenant": "pb.balachaur",
-      "enabled": true,
-      "financialyear": "2024-25",
-      "isRented": true
-    },
-      {
-      "tenant": "pb.banga",
-      "enabled": true,
-      "financialyear": "2024-25",
-      "isRented": true
-    },
-      {
-      "tenant": "pb.banur",
+      "tenant": "pb.bariwala",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
     },
       {
       "tenant": "pb.bareta",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+      {
+      "tenant": "pb.arniwala",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+      {
+      "tenant": "pb.amloh",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+      {
+      "tenant": "pb.amargarh",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+      {
+      "tenant": "pb.alawalpur",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
