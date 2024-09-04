@@ -46,6 +46,12 @@
         },
         {
           "fromPlotSize":"0",
+          "toPlotSize":"1000000",
+          "connectionFee":"21",
+          "usageType":"MIXED"
+        },
+        {
+          "fromPlotSize":"0",
           "toPlotSize":"999999999",
           "connectionFee":"21",
           "usageType":"DEFAULT"
