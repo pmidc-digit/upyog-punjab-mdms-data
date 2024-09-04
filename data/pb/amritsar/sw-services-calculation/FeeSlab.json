@@ -44,6 +44,12 @@
           "usageType":"COMMERCIAL"
         },
         {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"50",
+          "usageType":"MIXED"
+        },
+        {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
           "connectionFee":"50",
