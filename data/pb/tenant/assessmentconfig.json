@@ -3498,61 +3498,61 @@
     },
     {
       "tenant": "pb.longowal",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false
-    },
-    {
-      "tenant": "pb.lohiankhas",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false
-    },
-    {
-      "tenant": "pb.lehramohabbat",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false
-    },
-    {
-      "tenant": "pb.lehragaga",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false
-    },
-    {
-      "tenant": "pb.lalru",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
-      "tenant": "pb.kotshamir",
+      "tenant": "pb.lohiankhas",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.lehramohabbat",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.lehragaga",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.machhiwara",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    {
+      "tenant": "pb.mahilpur",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.kotkapura",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.kotissekhan",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.kothaguru",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
     {
       "tenant": "pb.kotfatta",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
@@ -3570,76 +3570,76 @@
     },
     {
       "tenant": "pb.khanna",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false     
     },
       {
       "tenant": "pb.khanauri",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false     
     },
       {
       "tenant": "pb.khamano",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
      },
       {
       "tenant": "pb.kartarpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.kapurthala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     }
     ,
       {
       "tenant": "pb.joga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.jandialaguru",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.jalalabad",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.jaitu",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.hariana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.handiaya",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     },
       {
       "tenant": "pb.guruharsahai",
       "enabled": true,
       "financialyear": "2024-25",
-      "isRented": true
+      "isRented": false
     }
   ]
 }
