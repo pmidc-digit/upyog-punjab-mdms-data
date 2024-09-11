@@ -15323,6 +15323,17 @@
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2582,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/integratedbills/_get",
+      "displayName": "Search integratedbills Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
 	
 	  
