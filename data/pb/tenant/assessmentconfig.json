@@ -3631,19 +3631,19 @@
     },
       {
       "tenant": "pb.handiaya",
-      "enabled": false,
-      "financialyear": "2024-25",
-      "isRented": false
-    },
-      {
-      "tenant": "pb.guruharsahai",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
       {
-      "tenant": "pb.amritsar",
+      "tenant": "pb.guruharsahai",
       "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.jalandhar",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     }
