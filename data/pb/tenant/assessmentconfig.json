@@ -3643,6 +3643,19 @@
     },
       {
       "tenant": "pb.jalandhar",
+      "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.khanna",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+    
+      {
+      "tenant": "pb.muktsar",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
