@@ -25445,15 +25445,9 @@
       "rolecode": "SW_CLERK",
       "actionid": 2580,
       "actioncode": "",
-      "tenantId": "pb"	    	    
- 
-
-
-
-	    
+      "tenantId": "pb"	    	        
     },
-	  
-  {
+  	{
       "rolecode": "WS_CEMP",
       "actionid": 2582,
       "actioncode": "",
@@ -25512,12 +25506,19 @@
       "rolecode": "SW_CLERK",
       "actionid": 2582,
       "actioncode": "",
-      "tenantId": "pb"	    	    
- 
-
-
-
-	    
+      "tenantId": "pb"	    	  	    
+    },
+   {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2582,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2582,
+      "actioncode": "",
+      "tenantId": "pb"
     }
 	 
    ]
