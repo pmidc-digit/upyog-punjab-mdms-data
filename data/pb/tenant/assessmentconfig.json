@@ -3619,13 +3619,13 @@
     },
       {
       "tenant": "pb.jaitu",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
       {
       "tenant": "pb.hariana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     },
@@ -3649,14 +3649,14 @@
     },
       {
       "tenant": "pb.khanna",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
     
       {
       "tenant": "pb.muktsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
@@ -3664,6 +3664,12 @@
       {
       "tenant": "pb.dharamkot",
       "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.khanna",
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     }
