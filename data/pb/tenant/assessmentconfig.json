@@ -3619,19 +3619,19 @@
     },
       {
       "tenant": "pb.jaitu",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
       {
       "tenant": "pb.hariana",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
       {
       "tenant": "pb.handiaya",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
@@ -3663,13 +3663,49 @@
     
       {
       "tenant": "pb.dharamkot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
       {
       "tenant": "pb.khanna",
       "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.nangal",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.jandialaguru",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.khemkaran",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.kiratpur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.kotfatta",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+      {
+      "tenant": "pb.khanauri",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": false
     }
