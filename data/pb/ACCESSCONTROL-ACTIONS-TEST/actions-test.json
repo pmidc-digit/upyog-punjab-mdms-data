@@ -2366,7 +2366,7 @@
     {
       "id": 1537,
       "name": "Search Property v2",
-      "url": "/pt-services-v2/property/_search",
+      "url": "/pt-services-v2/property/_searchSTOPPED",
       "displayName": "Search property",
       "orderNumber": 1,
       "enabled": false,
@@ -6933,7 +6933,7 @@
     {
       "id": 1934,
       "name": "Search Property registry",
-      "url": "/property-services/property/_search",
+      "url": "/property-services/property/_searchSTOPPED",
       "displayName": "Search Property Registry",
       "orderNumber": 3,
       "enabled": true,
