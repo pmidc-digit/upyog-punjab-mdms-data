@@ -2366,7 +2366,7 @@
     {
       "id": 1537,
       "name": "Search Property v2",
-      "url": "/pt-services-v2/property/_searchSTOPPED",
+      "url": "/pt-services-v2/property/_search",
       "displayName": "Search property",
       "orderNumber": 1,
       "enabled": false,
@@ -2754,7 +2754,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "property-taxSTOPPED",
+      "navigationURL": "property-tax",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -6568,7 +6568,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess And Search Properties",
-      "navigationURL": "pt-mutation/propertySearchSTOPPED",
+      "navigationURL": "pt-mutation/propertySearch",
       "quickAction": true,
       "leftIcon": "communication:business",
       "rightIcon": ""
@@ -6933,7 +6933,7 @@
     {
       "id": 1934,
       "name": "Search Property registry",
-      "url": "/property-services/property/_searchSTOPPED",
+      "url": "/property-services/property/_search",
       "displayName": "Search Property Registry",
       "orderNumber": 3,
       "enabled": true,
