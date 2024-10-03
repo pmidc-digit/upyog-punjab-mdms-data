@@ -6912,8 +6912,146 @@
       "name": "Sewerage Discharges",
       "order": "0",
       "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "service": "BPAREG",
+      "name": "BPA Stakeholder Registraion fees",
+      "code": "BPAREG_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Appllication Fees",
+      "code": "BPA_LOW_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Permit Fees",
+      "code": "BPA_LOW_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Malwa fees",
+      "code": "BPA_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Labour cess",
+      "code": "BPA_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Water fees",
+      "code": "BPA_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Gaushala charge fees",
+      "code": "BPA_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA less adjustment plot",
+      "code": "BPA_LESS_ADJUSMENT_PLOT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Development fees",
+      "code": "BPA_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	     {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Other fees",
+      "code": "BPA_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
-   
-	  
   ]
 }
