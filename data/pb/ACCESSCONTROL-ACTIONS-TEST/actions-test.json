@@ -15444,9 +15444,82 @@
       "serviceCode": "pg-service",
       "code": "null",
       "path": ""
-    }
+    },
+    {
 	
-	  
+    "id": 2592,
+      "name": "Water Report Ulb",
+      "url": "url",
+      "displayName": "Water Report Ulb",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WaterReportUlb",
+      "navigationURL": "report/rainmaker-ws/WaterReportUlb",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2593,
+        "name": "Water Report Ulb",
+        "url": "/report/rainmaker-ws/WaterReportUlb/metadata/_get",
+        "displayName": "Water Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2594,
+        "name": "Water Report Ulb",
+        "url": "/report/rainmaker-ws/WaterReportUlb/_get",
+        "displayName": "Water Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
 
+      },
+      {
+      "id": 2595,
+      "name": "Sewerage Report Ulb",
+      "url": "url",
+      "displayName": "Sewerage Report Ulb",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SewerageReportUlb",
+      "navigationURL": "report/rainmaker-ws/SewerageReportUlb",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2596,
+        "name": "Sewerage Report Ulb",
+        "url": "/report/rainmaker-ws/SewerageReportUlb/metadata/_get",
+        "displayName": "Sewerage Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2597,
+        "name": "Sewerage Report Ulb",
+        "url": "/report/rainmaker-ws/SewerageReportUlb/_get",
+        "displayName": "Sewerage Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""	  
+      }
   ]
 }
