@@ -3232,6 +3232,18 @@
           "code": "pb.amritsar"
         }
       ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
     }
   ]
 }
