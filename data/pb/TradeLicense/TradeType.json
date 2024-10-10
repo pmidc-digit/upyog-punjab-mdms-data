@@ -3,45 +3,15 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "GOODS.SALESTORAGE.TST-1",
-      "uom": null,
+      "name": "Any other manufacturing or store house or plane of business not specified elsewhere form offersive or unwholees smell noise or smoke arise",
+      "code": "GOODS.MANUFACTURE.TST-1",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OWNERSELF"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OWNERSELF",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-2",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO"
           ]
         },
@@ -51,109 +21,18 @@
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
             "OWNERPHOTO",
-            "OWNERSELF",
             "OLDLICENCENO"
           ]
         }
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-3",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OWNERSELF",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-4",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-5",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-6",
+      "name":"Atta Chakki",
+      "code": "GOODS.MANUFACTURE.TST-2",
       "uom": null,
       "applicationDocument": [
         {
@@ -176,101 +55,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-7",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OWNERSELF",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-8",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERSELF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OWNERSELF",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-9",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
+      "name":"Bitumen",
       "code": "GOODS.MANUFACTURE.TST-10",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -292,20 +83,19 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Blacksmith",
       "code": "GOODS.MANUFACTURE.TST-11",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO"
           ]
         },
@@ -314,7 +104,6 @@
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO",
             "OLDLICENCENO"
           ]
@@ -322,13 +111,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Brick Field Brick Kiln",
       "code": "GOODS.MANUFACTURE.TST-12",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -350,13 +139,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+       "name":"Bricks or tiles by hand power",
       "code": "GOODS.MANUFACTURE.TST-13",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -378,20 +167,19 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Bricks or tiles by mechanical power",
       "code": "GOODS.MANUFACTURE.TST-14",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO"
           ]
         },
@@ -401,27 +189,25 @@
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
             "OWNERPHOTO",
-            "OWNERSELF",
             "OLDLICENCENO"
           ]
         }
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Charcoal Kiln",
       "code": "GOODS.MANUFACTURE.TST-15",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO"
           ]
         },
@@ -431,27 +217,25 @@
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
             "OWNERPHOTO",
-            "OWNERSELF",
             "OLDLICENCENO"
           ]
         }
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Coaching centers",
       "code": "GOODS.MANUFACTURE.TST-16",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO"
           ]
         },
@@ -460,7 +244,6 @@
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
-            "OWNERSELF",
             "OWNERPHOTO",
             "OLDLICENCENO"
           ]
@@ -468,13 +251,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Coppersmithy",
       "code": "GOODS.MANUFACTURE.TST-17",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -496,13 +279,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Desi Sharab",
       "code": "GOODS.MANUFACTURE.TST-18",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -524,13 +307,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Dyeing Printing and Bleaching of Cloth Yarn Leather",
       "code": "GOODS.MANUFACTURE.TST-19",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -552,13 +335,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Electroplating",
       "code": "GOODS.MANUFACTURE.TST-20",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -580,13 +363,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Flour Mills",
       "code": "GOODS.MANUFACTURE.TST-21",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -608,13 +391,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Ghee",
       "code": "GOODS.MANUFACTURE.TST-22",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -636,13 +419,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Glass Bevelling ,Cutting ,Polishing",
       "code": "GOODS.MANUFACTURE.TST-23",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -664,13 +447,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Goldsmith,Sliver smith",
       "code": "GOODS.MANUFACTURE.TST-24",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -692,13 +475,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Grinding Edibles by Mechanical Process",
       "code": "GOODS.MANUFACTURE.TST-25",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -720,13 +503,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Hemp",
       "code": "GOODS.MANUFACTURE.TST-26",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -748,13 +531,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Insecticide or disinfectents",
       "code": "GOODS.MANUFACTURE.TST-27",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -776,13 +559,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Jewelers",
       "code": "GOODS.MANUFACTURE.TST-28",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -804,13 +587,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-29",
-      "uom": null,
+      "name":"Bone meat and Bone powder",
+      "code": "GOODS.RETAIL.TST-29",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -832,13 +615,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-30",
-      "uom": null,
+      "name":"fish meat and churby",
+      "code": "GOODS.RETAIL.TST-30",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -860,13 +643,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-31",
-      "uom": null,
+      "name":"Building material construction building on hire",
+      "code": "GOODS.RETAIL.TST-31",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -888,13 +671,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-32",
-      "uom": null,
+      "name":"Item made with cement",
+      "code": "GOODS.RETAIL.TST-32",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -916,13 +699,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-33",
-      "uom": null,
+      "name":"mentholated and denture spirit",
+      "code": "GOODS.RETAIL.TST-33",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -944,13 +727,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-34",
-      "uom": null,
+      "name":"Biri leaves",
+      "code": "GOODS.RETAIL.TST-34",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -972,13 +755,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-35",
-      "uom": null,
+      "name":"fuel wood coke and hard coke katch kola",
+      "code": "GOODS.RETAIL.TST-35",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1000,13 +783,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-36",
-      "uom": null,
+      "name":"teak wood other than fuel wood",
+      "code": "GOODS.RETAIL.TST-36",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1028,13 +811,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-37",
-      "uom": null,
+      "name":"coal",
+      "code": "GOODS.RETAIL.TST-37",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1056,13 +839,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-38",
-      "uom": null,
+      "name":"fuel wood",
+      "code": "GOODS.RETAIL.TST-38",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1084,13 +867,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-39",
-      "uom": null,
+      "name":"A store for less than gross match up to 20",
+      "code": "GOODS.RETAIL.TST-39",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1112,13 +895,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-40",
-      "uom": null,
+      "name":"cement",
+      "code": "GOODS.RETAIL.TST-40",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1140,13 +923,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-41",
-      "uom": null,
+      "name":"cloth containing nylon terelene synthetic yarn Terri wool woolen",
+      "code": "GOODS.RETAIL.TST-41",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1168,13 +951,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-42",
-      "uom": null,
+      "name":"Druggist Mats and Coconut fibers",
+      "code": "GOODS.RETAIL.TST-42",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1196,13 +979,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-43",
-      "uom": null,
+      "name":"rubber tires vehicle",
+      "code": "GOODS.RETAIL.TST-43",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1224,13 +1007,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-44",
-      "uom": null,
+      "name":"Medicine and drugs",
+      "code": "GOODS.RETAIL.TST-44",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1252,12 +1035,12 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-45",
+      "name":"optical Surgical goods",
+      "code": "GOODS.RETAIL.TST-45",
       "uom": null,
       "applicationDocument": [
         {
@@ -1280,13 +1063,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-46",
-      "uom": null,
+      "name":"machinery goods, Vbelts",
+      "code": "GOODS.RETAIL.TST-46",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1308,13 +1091,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-47",
-      "uom": null,
+      "name":"sanitary fitting ",
+      "code": "GOODS.RETAIL.TST-47",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1336,13 +1119,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-48",
-      "uom": null,
+      "name":"Karyana and Desi medicine",
+      "code": "GOODS.RETAIL.TST-48",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1364,13 +1147,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-49",
-      "uom": null,
+      "name":"two wheelers",
+      "code": "GOODS.RETAIL.TST-49",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1392,13 +1175,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-50",
-      "uom": null,
+      "name":"four wheelers",
+      "code": "GOODS.RETAIL.TST-50",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1420,13 +1203,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-51",
-      "uom": null,
+      "name":"Panja, Kassi",
+      "code": "GOODS.RETAIL.TST-51",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1448,13 +1231,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-52",
-      "uom": null,
+      "name":"LPG Gas Cylinder and other Gas cylinder",
+      "code": "GOODS.RETAIL.TST-52",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1476,13 +1259,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-53",
-      "uom": null,
+      "name":"transformer",
+      "code": "GOODS.RETAIL.TST-53",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1504,13 +1287,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-54",
-      "uom": null,
+      "name":"Muniyari General store",
+      "code": "GOODS.RETAIL.TST-54",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1532,13 +1315,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-55",
-      "uom": null,
+      "name":"Watch showroom and shops",
+      "code": "GOODS.RETAIL.TST-55",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1560,13 +1343,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-56",
-      "uom": null,
+      "name":"Dynamite Carbonate",
+      "code": "GOODS.RETAIL.TST-56",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1588,13 +1371,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-57",
-      "uom": null,
+      "name":"Nitro mixure, Sulpher Phosphors",
+      "code": "GOODS.RETAIL.TST-57",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1616,13 +1399,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-58",
-      "uom": null,
+      "name":"Rags",
+      "code": "GOODS.RETAIL.TST-58",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1644,13 +1427,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-59",
-      "uom": null,
+      "name":"new By cycles and spare parts",
+      "code": "GOODS.RETAIL.TST-59",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1672,13 +1455,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-60",
-      "uom": null,
+      "name":"Lottery stall and shop",
+      "code": "GOODS.RETAIL.TST-60",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1700,13 +1483,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-61",
-      "uom": null,
+      "name":"Temporary stall any item",
+      "code": "GOODS.RETAIL.TST-61",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1728,13 +1511,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-62",
-      "uom": null,
+      "name":"Any exhibition in Marriage palace Dharamshala,Hotel,Open place for promotion purpose",
+      "code": "GOODS.RETAIL.TST-62",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1756,13 +1539,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-63",
-      "uom": null,
+      "name":"Cylinder and other than LPG cylinder",
+      "code": "GOODS.RETAIL.TST-63",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1784,13 +1567,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-64",
-      "uom": null,
+      "name":"LPG Gas",
+      "code": "GOODS.RETAIL.TST-64",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1812,13 +1595,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-65",
-      "uom": null,
+      "name":"hoof horns",
+      "code": "GOODS.RETAIL.TST-65",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1840,13 +1623,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-66",
-      "uom": null,
+      "name":"raw wool and raw cotton",
+      "code": "GOODS.RETAIL.TST-66",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1868,13 +1651,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-67",
-      "uom": null,
+      "name":"skin",
+      "code": "GOODS.RETAIL.TST-67",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1896,13 +1679,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-68",
-      "uom": null,
+      "name":"yarn other than waste yarn",
+      "code": "GOODS.RETAIL.TST-68",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1924,13 +1707,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-69",
-      "uom": null,
+      "name":"Skin and tallow",
+      "code": "GOODS.RETAIL.TST-69",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1952,13 +1735,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-70",
-      "uom": null,
+      "name":"Camper",
+      "code": "GOODS.RETAIL.TST-70",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1980,13 +1763,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-71",
-      "uom": null,
+      "name":"Resin dinner batter otherwise known as real",
+      "code": "GOODS.RETAIL.TST-71",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2008,13 +1791,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-72",
-      "uom": null,
+      "name":"Kemp",
+      "code": "GOODS.RETAIL.TST-72",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2036,13 +1819,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-73",
-      "uom": null,
+      "name":"straw",
+      "code": "GOODS.RETAIL.TST-73",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2064,13 +1847,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-74",
-      "uom": null,
+      "name":"Nytromixer, sulpher ,phosphorus blasting powder",
+      "code": "GOODS.RETAIL.TST-74",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2092,13 +1875,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-75",
-      "uom": null,
+      "name":"bamboos",
+      "code": "GOODS.RETAIL.TST-75",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2120,13 +1903,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-76",
-      "uom": null,
+      "name":"dry Leaves and articles made thereof Boedi Leaves",
+      "code": "GOODS.RETAIL.TST-76",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2148,13 +1931,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-77",
-      "uom": null,
+      "name":"English wine and Beer Bar",
+      "code": "GOODS.RETAIL.TST-77",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2176,13 +1959,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-78",
-      "uom": null,
+      "name":"All kinds Hosiery Machines run by Electric Motors and oil Engines",
+      "code": "GOODS.RETAIL.TST-78",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2204,13 +1987,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-79",
-      "uom": null,
+      "name":"Groceries and items domestic",
+      "code": "GOODS.RETAIL.TST-79",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2232,13 +2015,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-80",
-      "uom": null,
+      "name":"Furniture",
+      "code": "GOODS.RETAIL.TST-80",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2260,13 +2043,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-81",
-      "uom": null,
+      "name":"Cattle Feed",
+      "code": "GOODS.RETAIL.TST-81",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2288,13 +2071,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-82",
-      "uom": null,
+      "name":"Fireworks",
+      "code": "GOODS.RETAIL.TST-82",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2316,13 +2099,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-83",
-      "uom": null,
+      "name":"Store for unslacked lime",
+      "code": "GOODS.RETAIL.TST-83",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2344,13 +2127,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-84",
-      "uom": null,
+      "name":"Hydrogenated oil sugar",
+      "code": "GOODS.RETAIL.TST-84",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2372,13 +2155,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-85",
-      "uom": null,
+      "name":"Matchboxes",
+      "code": "GOODS.RETAIL.TST-85",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2400,13 +2183,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-86",
-      "uom": null,
+      "name":"Fireworks",
+      "code": "GOODS.RETAIL.TST-86",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2428,13 +2211,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-87",
-      "uom": null,
+      "name":"tor XRay films",
+      "code": "GOODS.RETAIL.TST-87",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2456,13 +2239,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-88",
-      "uom": null,
+      "name":"Ahata",
+      "code": "GOODS.RETAIL.TST-88",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2484,13 +2267,41 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-89",
-      "uom": null,
+      "name":"Dessi Sharab",
+      "code": "GOODS.RETAIL.TST-89",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+     {
+      "name":"plywood modeling, mica and glass",
+      "code": "GOODS.RETAIL.TST-90",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2512,13 +2323,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-90",
-      "uom": null,
+      "name":"Hosiery Goods",
+      "code": "GOODS.RETAIL.TST-91",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2540,13 +2351,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-91",
-      "uom": null,
+      "name":"Bardana Store",
+      "code": "GOODS.RETAIL.TST-92",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2568,13 +2379,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-92",
-      "uom": null,
+      "name":"Celluloid Plastic goods",
+      "code": "GOODS.RETAIL.TST-93",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2596,13 +2407,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-93",
-      "uom": null,
+      "name":"tor tar coal and Bitumen",
+      "code": "GOODS.RETAIL.TST-94",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2624,13 +2435,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-94",
-      "uom": null,
+      "name":"mobile, computer",
+      "code": "GOODS.RETAIL.TST-95",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2652,13 +2463,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-95",
-      "uom": null,
+      "name":"vegetable oil and hydrogenated oil shops",
+      "code": "GOODS.RETAIL.TST-96",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2680,13 +2491,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-96",
-      "uom": null,
+      "name":"electronic goods ",
+      "code": "GOODS.RETAIL.TST-97",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2708,13 +2519,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-97",
-      "uom": null,
+      "name":"paper and goods made including books and magazines",
+      "code": "GOODS.RETAIL.TST-98",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2736,13 +2547,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-98",
-      "uom": null,
+      "name":"Silk Cloths and Art Silk",
+      "code": "GOODS.RETAIL.TST-99",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2764,13 +2575,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-99",
-      "uom": null,
+      "name":"gun powder and cartridges",
+      "code": "GOODS.RETAIL.TST-100",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2792,13 +2603,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-100",
-      "uom": null,
+      "name":"Plywood, Mica",
+      "code": "GOODS.RETAIL.TST-101",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2820,13 +2631,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-101",
-      "uom": null,
+      "name":"Candle, Dhoop, Aggarwatti",
+      "code": "GOODS.RETAIL.TST-102",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2848,13 +2659,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-102",
-      "uom": null,
+      "name":"Dynamo, Batteries and spare parts thereof",
+      "code": "GOODS.RETAIL.TST-103",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2876,13 +2687,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-103",
-      "uom": null,
+      "name":"Vartan, Crockery and Gift house",
+      "code": "GOODS.RETAIL.TST-104",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2904,13 +2715,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-104",
-      "uom": null,
+      "name":"Hessian Cloth Jute and goods made thereof, Packing stuff",
+      "code": "GOODS.RETAIL.TST-105",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2932,13 +2743,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-105",
-      "uom": null,
+      "name":"Gold and Silver jewelries, Goldsmith",
+      "code": "GOODS.RETAIL.TST-106",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2960,13 +2771,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-106",
-      "uom": null,
+      "name":"flowers",
+      "code": "GOODS.RETAIL.TST-107",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2988,13 +2799,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-107",
-      "uom": null,
+      "name":"Grass, Chara, Bhusa, Kay Powder and Turri",
+      "code": "GOODS.RETAIL.TST-108",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3016,13 +2827,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-108",
-      "uom": null,
+      "name":"Oil seeds, fodder, Seeds and Cotton seeds",
+      "code": "GOODS.RETAIL.TST-109",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3044,13 +2855,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-109",
-      "uom": null,
+      "name":"Leather goods Leather foam Rexon and articles",
+      "code": "GOODS.RETAIL.TST-110",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3072,13 +2883,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-110",
-      "uom": null,
+      "name":"Tyre ,Tube",
+      "code": "GOODS.RETAIL.TST-111",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3100,13 +2911,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-111",
-      "uom": null,
+      "name":"Insecticides, Patricides and Fertilizers",
+      "code": "GOODS.RETAIL.TST-112",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3128,13 +2939,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-112",
-      "uom": null,
+      "name":"Sirki, Bann, Khazoor, Patta, Munj, Ropes and Nylon Ropes",
+      "code": "GOODS.RETAIL.TST-113",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3156,13 +2967,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-113",
-      "uom": null,
+      "name":"marble, cutting, grinding dressing polishing",
+      "code": "GOODS.RETAIL.TST-114",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3184,13 +2995,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-114",
-      "uom": null,
+      "name":"Video Cassettes",
+      "code": "GOODS.RETAIL.TST-115",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3212,12 +3023,12 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-115",
+      "name":"photographic films",
+      "code": "GOODS.RETAIL.TST-116",
       "uom": null,
       "applicationDocument": [
         {
@@ -3240,13 +3051,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-116",
-      "uom": null,
+      "name":"Audio cassettes",
+      "code": "GOODS.RETAIL.TST-117",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3268,13 +3079,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-117",
-      "uom": null,
+      "name":"Electric goods",
+      "code": "GOODS.RETAIL.TST-118",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3296,13 +3107,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-118",
-      "uom": null,
+      "name":"Tobacco, Zarda",
+      "code": "GOODS.RETAIL.TST-221",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3324,13 +3135,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-119",
-      "uom": null,
+      "name":"Leather goods Leather foam Rexon and articles",
+      "code": "GOODS.RETAIL.TST-222",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3352,13 +3163,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-120",
-      "uom": null,
+      "name":"Vegetable oil and hydrogenated oil",
+      "code": "GOODS.RETAIL.TST-223",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3380,13 +3191,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-121",
-      "uom": null,
+      "name":"Cloth containing nylon terelene synthetic yarn Terri wool woolen",
+      "code": "GOODS.RETAIL.TST-224",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3408,13 +3219,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-122",
-      "uom": null,
+      "name":"paints turpentine all kinds spirits colours varnish thinner oil their trading",
+      "code": "GOODS.WHOLESALE.TST-119",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3436,13 +3247,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-123",
-      "uom": null,
+      "name":"For working power looms",
+      "code": "GOODS.WHOLESALE.TST-120",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3464,13 +3275,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-124",
-      "uom": null,
+      "name":"mentholated and denture spirit",
+      "code": "GOODS.WHOLESALE.TST-121",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3492,12 +3303,12 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-125",
+      "name":"Kerosene oil, Mobil oil crude oil grease and all kinds lubricant oil",
+      "code": "GOODS.WHOLESALE.TST-122",
       "uom": null,
       "applicationDocument": [
         {
@@ -3520,13 +3331,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-126",
-      "uom": null,
+      "name":"plywood modeling mica and glass",
+      "code": "GOODS.WHOLESALE.TST-123",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3548,13 +3359,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-127",
-      "uom": null,
+      "name":"fuel wood coke and hard coke katch kola",
+      "code": "GOODS.WHOLESALE.TST-124",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3576,13 +3387,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-128",
-      "uom": null,
+      "name":"teak wood other than fuel wood",
+      "code": "GOODS.WHOLESALE.TST-125",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3604,13 +3415,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-129",
-      "uom": null,
+      "name":"coal",
+      "code": "GOODS.WHOLESALE.TST-126",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3632,13 +3443,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-130",
-      "uom": null,
+      "name":"fuel wood",
+      "code": "GOODS.WHOLESALE.TST-127",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3660,13 +3471,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-131",
-      "uom": null,
+      "name":"cement",
+      "code": "GOODS.WHOLESALE.TST-128",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3688,13 +3499,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-132",
-      "uom": null,
+      "name":"Bardana Store",
+      "code": "GOODS.WHOLESALE.TST-129",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3716,13 +3527,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-133",
-      "uom": null,
+      "name":"Celluloid Plastic goods",
+      "code": "GOODS.WHOLESALE.TST-130",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3744,13 +3555,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-134",
-      "uom": null,
+      "name":"tor tar coal and Bitumen",
+      "code": "GOODS.WHOLESALE.TST-131",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3772,13 +3583,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-135",
-      "uom": null,
+      "name":"mobile computer",
+      "code": "GOODS.WHOLESALE.TST-132",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3800,13 +3611,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-136",
-      "uom": null,
+      "name":"sanitary fitting including GI CI Pipes SW Pipes AC Pipes Cement Pipes",
+      "code": "GOODS.WHOLESALE.TST-133",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3828,13 +3639,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-137",
-      "uom": null,
+      "name":"Beer Bar",
+      "code": "GOODS.WHOLESALE.TST-134",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3856,13 +3667,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-138",
-      "uom": null,
+      "name":"English Wine and Beer Wholesale",
+      "code": "GOODS.WHOLESALE.TST-135",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3884,13 +3695,97 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-139",
-      "uom": null,
+      "name":"electronic goods and spare",
+      "code": "GOODS.WHOLESALE.TST-136",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"paper and goods made thereof including books and magazines",
+      "code": "GOODS.WHOLESALE.TST-137",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Silk Cloths and Art Silk",
+      "code": "GOODS.WHOLESALE.TST-138",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"gun powder and cartridges",
+      "code": "GOODS.WHOLESALE.TST-139",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3912,13 +3807,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"Beer Bar",
       "code": "GOODS.WHOLESALE.TST-140",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3940,13 +3835,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
+      "name":"English Wine and Beer Wholesale",
       "code": "GOODS.WHOLESALE.TST-141",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3968,13 +3863,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-142",
-      "uom": null,
+      "name":"Candle Dhoop Aggarwatti",
+      "code": "GOODS.WHOLESALE.TST-142",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3996,13 +3891,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-143",
-      "uom": null,
+      "name":"waste paper bags",
+      "code": "GOODS.WHOLESALE.TST-143",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4024,13 +3919,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-144",
-      "uom": null,
+      "name":"LPG Gas Cylinder and other Gas cylinder",
+      "code": "GOODS.WHOLESALE.TST-144",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4052,13 +3947,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-145",
-      "uom": null,
+      "name":"Dynamo Batteries",
+      "code": "GOODS.WHOLESALE.TST-145",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4080,13 +3975,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-146",
-      "uom": null,
+      "name":"transformer",
+      "code": "GOODS.WHOLESALE.TST-146",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4108,13 +4003,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-147",
-      "uom": null,
+      "name":"Vartan Crockery and Gift house",
+      "code": "GOODS.WHOLESALE.TST-147",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4136,13 +4031,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-148",
-      "uom": null,
+      "name":"Hessian Cloth Jute and goods made thereof Packing stuff",
+      "code": "GOODS.WHOLESALE.TST-148",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4164,13 +4059,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-149",
-      "uom": null,
+      "name":"Petrol Diesel ",
+      "code": "GOODS.WHOLESALE.TST-149",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4192,13 +4087,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-150",
-      "uom": null,
+      "name":"Gold and Silver jewelries Goldsmith",
+      "code": "GOODS.WHOLESALE.TST-150",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4220,13 +4115,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-151",
-      "uom": null,
+      "name":"flowers",
+      "code": "GOODS.WHOLESALE.TST-151",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4248,13 +4143,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.GBS.TST-152",
-      "uom": null,
+      "name":"Grass Chara Bhusa Kay Powder and Turri",
+      "code": "GOODS.WHOLESALE.TST-152",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4276,13 +4171,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-153",
-      "uom": null,
+      "name":"Oil seeds fodder Seeds and Cotton seeds",
+      "code": "GOODS.WHOLESALE.TST-153",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4304,13 +4199,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-154",
-      "uom": null,
+      "name":"Cylinder and other than LPG cylinder",
+      "code": "GOODS.WHOLESALE.TST-154",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4332,13 +4227,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-155",
-      "uom": null,
+      "name":"Leather goods Leather foam Rexon and articles",
+      "code": "GOODS.WHOLESALE.TST-155",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4360,13 +4255,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-156",
-      "uom": null,
+      "name":"TyreTube",
+      "code": "GOODS.WHOLESALE.TST-156",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4388,13 +4283,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-157",
-      "uom": null,
+      "name":"shuttering and pad materials for hire purposes",
+      "code": "GOODS.WHOLESALE.TST-157",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4416,13 +4311,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-158",
-      "uom": null,
+      "name":"cotton in pressed bales",
+      "code": "GOODS.WHOLESALE.TST-158",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4444,13 +4339,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-159",
-      "uom": null,
+      "name":"cloth in pressed bales",
+      "code": "GOODS.WHOLESALE.TST-159",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4472,13 +4367,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-160",
-      "uom": null,
+      "name":"raw wool and raw cotton",
+      "code": "GOODS.WHOLESALE.TST-160",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4500,13 +4395,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-161",
-      "uom": null,
+      "name":"yarn other than waste yarn",
+      "code": "GOODS.WHOLESALE.TST-161",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4528,13 +4423,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-162",
-      "uom": null,
+      "name":"Insecticides Patricides and Fertilizers",
+      "code": "GOODS.WHOLESALE.TST-162",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4556,13 +4451,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-163",
-      "uom": null,
+      "name":"Sirki Bann Khazoor Patta Munj Ropes and Nylon Ropes",
+      "code": "GOODS.WHOLESALE.TST-163",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4584,13 +4479,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-164",
-      "uom": null,
+      "name":"cold store",
+      "code": "GOODS.WHOLESALE.TST-164",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4612,13 +4507,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-165",
-      "uom": null,
+      "name":"marble cutting grinding dressing polishing",
+      "code": "GOODS.WHOLESALE.TST-165",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4640,13 +4535,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-166",
-      "uom": null,
+      "name":"Any other store house place business not specified elsewhere",
+      "code": "GOODS.WHOLESALE.TST-166",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4668,13 +4563,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-167",
-      "uom": null,
+      "name":"Video Cassettes",
+      "code": "GOODS.WHOLESALE.TST-167",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4696,13 +4591,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-168",
-      "uom": null,
+      "name":"photographic films",
+      "code": "GOODS.WHOLESALE.TST-168",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4724,13 +4619,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-169",
-      "uom": null,
+      "name":"Audio cassettes",
+      "code": "GOODS.WHOLESALE.TST-169",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4752,13 +4647,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-170",
-      "uom": null,
+      "name":"Electric goods",
+      "code": "GOODS.WHOLESALE.TST-170",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4780,13 +4675,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-171",
-      "uom": null,
+      "name":"Cattle Feed",
+      "code": "GOODS.WHOLESALE.TST-171",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4808,13 +4703,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-172",
-      "uom": null,
+      "name":"fireworks",
+      "code": "GOODS.WHOLESALE.TST-172",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4836,13 +4731,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-173",
-      "uom": null,
+      "name":"Any other store house not specified elsewhere from which offensive unwholesome smell noise smoke",
+      "code": "GOODS.WHOLESALE.TST-173",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4864,13 +4759,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-174",
-      "uom": null,
+      "name":"Kerosene oil Whole",
+      "code": "GOODS.WHOLESALE.TST-174",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4892,13 +4787,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-175",
-      "uom": null,
+      "name":"Hydrogenated oil sugars",
+      "code": "GOODS.WHOLESALE.TST-175",
+      "uom":  "GALLONS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4920,13 +4815,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-176",
-      "uom": null,
+      "name":"Non Dangerous Petroleum Product",
+      "code": "GOODS.WHOLESALE.TST-176",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4948,13 +4843,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-177",
-      "uom": null,
+      "name":"Non Dangerous Petroleum Product",
+      "code": "GOODS.WHOLESALE.TST-177",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4976,13 +4871,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-178",
-      "uom": null,
+      "name":"fireworks",
+      "code": "GOODS.WHOLESALE.TST-178",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5004,13 +4899,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-179",
-      "uom": null,
+      "name":"carton",
+      "code": "GOODS.WHOLESALE.TST-179",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5032,13 +4927,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.SALESTORAGE.TST-180",
-      "uom": null,
+      "name":"English wine",
+      "code": "GOODS.WHOLESALE.TST-180",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5060,1077 +4955,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":true,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-181",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-182",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-183",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-184",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-185",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-186",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-187",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-188",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-189",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-190",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-191",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-192",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-193",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.MANUFACTURE.TST-194",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-195",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-196",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-197",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-198",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-199",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-200",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-201",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-202",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-203",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-204",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-205",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-206",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-207",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-208",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-209",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-210",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-211",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-212",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-213",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-214",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-215",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-216",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-217",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-218",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-219",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-220",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-221",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-222",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-223",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-224",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-225",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-226",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-227",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-228",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-229",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-230",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-231",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-232",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-233",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-234",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-235",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-236",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-237",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-238",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-239",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-240",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.WHOLESALE.TST-241",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.GBS.TST-242",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-243",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.GBS.TST-244",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.GBS.TST-245",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-246",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-247",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-248",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-249",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-250",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-251",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-       "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-252",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-253",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.GBS.TST-254",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-255",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-256",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-257",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-258",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-259",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-260",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-261",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-262",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true
-    },
-    {
-      "code": "SERVICES.NGBS.TST-263",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-264",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.NGBS.TST-265",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-266",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-267",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-268",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-269",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-270",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-271",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.NGBS.TST-272",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-273",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-274",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-275",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-276",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-277",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-278",
-      "uom": null,
+      "name":"Dessi Sharab",
+      "code": "GOODS.WHOLESALE.TST-181",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -6152,362 +4983,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-279",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF"
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.NGBS.TST-280",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-281",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-282",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-283",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-284",
-      "uom": null,
-      "applicationDocument": [
-      {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-285",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-286",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.WHOLESALE.TST-287",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "SERVICES.NGBS.TST-288",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":true
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-289",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.NGBS.TST-290",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "SERVICES.GBS.TST-291",
-      "uom": null,
-      "applicationDocument": [
-       {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false
-    },
-    {
-      "code": "GOODS.SALESTORAGE.TST-292",
-      "uom": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "GOODS.MANUFACTURE.TST-293",
-      "uom": null,
+      "name":"Hosiery Goods",
+      "code": "GOODS.WHOLESALE.TST-182",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -6529,13 +5011,13 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
     },
     {
-      "code": "SERVICES.NGBS.TST-294",
-      "uom": null,
+      "name":"Atta Chakki",
+      "code": "SERVICES.GBS.TST-183",
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -6557,9 +5039,1117 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "ishazardous":false,
       "type": "TL",
       "validityPeriod": null
+    },
+    {
+      "name":"Printing Press",
+      "code": "SERVICES.GBS.TST-184",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Tent House",
+      "code": "SERVICES.GBS.TST-185",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Cinema films",
+      "code": "SERVICES.GBS.TST-186",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Aluminium door fitting fabrivations",
+      "code": "SERVICES.GBS.TST-187",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Cable operator",
+      "code": "SERVICES.GBS.TST-188",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Cinema Hall",
+      "code": "SERVICES.GBS.TST-189",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Circuses, fair magic show",
+      "code": "SERVICES.GBS.TST-190",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Dhabha",
+      "code": "SERVICES.GBS.TST-191",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Diesel engine services",
+      "code": "SERVICES.GBS.TST-192",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Dry cleaning",
+      "code": "SERVICES.GBS.TST-193",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Hotel,Restaurant",
+      "code": "SERVICES.GBS.TST-194",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"junk dealer",
+      "code": "SERVICES.GBS.TST-195",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"motel",
+      "code": "SERVICES.GBS.TST-196",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Nursing home private hospital ultra sound ,CT scan centers",
+      "code": "SERVICES.GBS.TST-197",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Public Model School",
+      "code": "SERVICES.GBS.TST-198",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Service Station, Workshop",
+      "code": "SERVICES.GBS.TST-199",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Testing Lab",
+      "code": "SERVICES.GBS.TST-200",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Watch repair",
+      "code": "SERVICES.GBS.TST-201",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Welding set",
+      "code": "SERVICES.GBS.TST-202",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"All Dhaba, Tea shop and Halwai shop",
+      "code": "SERVICES.NGBS.TST-203",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"All Hotels, Restaurant,Beer,Bar",
+      "code": "SERVICES.NGBS.TST-204",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Barbers Shop",
+      "code": "SERVICES.NGBS.TST-205",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Beauty Parlour",
+      "code": "SERVICES.NGBS.TST-206",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Cinema Circus",
+      "code": "SERVICES.NGBS.TST-207",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Computer coaching,training coaching center and cyber cafe",
+      "code": "SERVICES.NGBS.TST-208",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"gym fitness center",
+      "code": "SERVICES.NGBS.TST-209",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Laundry Shop",
+      "code": "SERVICES.NGBS.TST-210",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Marriage Palaces",
+      "code": "SERVICES.NGBS.TST-211",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name": "Nursing Homes, Private Hospital, Ultra Sound, CT Scan Centre",
+      "code": "SERVICES.NGBS.TST-212",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Painter, Flex printing, printing press Screen printing",
+      "code": "SERVICES.NGBS.TST-213",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Poultry Forms",
+      "code": "SERVICES.NGBS.TST-214",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Printing press",
+      "code": "SERVICES.NGBS.TST-215",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"property dealer",
+      "code": "SERVICES.NGBS.TST-216",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"shop tailoring running with electronic instrument",
+      "code": "SERVICES.NGBS.TST-217",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Transport and Booking Agency",
+      "code": "SERVICES.NGBS.TST-218",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "name":"Workshop",
+      "code": "SERVICES.NGBS.TST-219",
+      "uom": "GROSSUNITS",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "ARCHITECT.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+        "restrictions":{
+        "maxPlotArea":500,
+        "maxBulidingheight":15,
+        "maxFloors":3
+      }
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "TOWNPLANNER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "SUPERVISOR.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5,
+       "restrictions":{
+        "maxPlotArea":100,
+        "maxBulidingheight":10,
+        "maxFloors":2
+      }
+    },
+     {
+      "code": "DESIGNER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
     }
   ]
 }
