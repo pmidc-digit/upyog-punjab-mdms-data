@@ -3212,6 +3212,8 @@
     {
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
+      "order":1,
+      "active":true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3224,6 +3226,8 @@
     {
       "module": "BPAREG",
       "code": "BPAREG",
+      "order":2,
+      "active":true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3236,6 +3240,8 @@
     {
       "module": "OBPS",
       "code": "OBPS",
+      "order":3,
+      "active":true,
       "tenants": [
         {
           "code": "pb.testing"
