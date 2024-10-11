@@ -2411,13 +2411,60 @@
       "financialYear": "2023-24"  
    },
  {
-
      "fromDate": 1711929600000,
       "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FIRENOC",
       "code": "FIRENOCAN2024",
       "financialYear": "2024-25"  
-   }
+   },
+   {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPAREG",
+    "code": "BPAREG10YRS2018",
+    "financialYear": "2018-28"
+  },
+  {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPA.NC_APP_FEE",
+    "code": "BPA10YRS2018",
+    "financialYear": "2018-28"
+  },
+  {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPA.NC_SAN_FEE",
+    "code": "BPA10YRS2018",
+    "financialYear": "2018-28"
+  },
+  {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPA.LOW_RISK_PERMIT_FEE",
+    "code": "BPA10YRS2018",
+    "financialYear": "2018-28"
+  },
+  {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPA.NC_OC_APP_FEE",
+    "code": "BPAOCAPP10YRS2018",
+    "financialYear": "2018-28"
+  },
+  {
+    "fromDate": 1522540801000,
+    "toDate": 1838159999000,
+    "periodCycle": "FORTENYEARS",
+    "service": "BPA.NC_OC_SAN_FEE",
+    "code": "BPAOCSAN10YRS2018",
+    "financialYear": "2018-28"
+  }
   ]
 }
