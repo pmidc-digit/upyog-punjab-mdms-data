@@ -34,6 +34,11 @@
         "businessService": "WS.AMENDMENT",
         "active": "true",
         "isStatelevel": "true"
+      },
+      {
+        "businessService": "BPA",
+        "active": "true",
+        "isStatelevel": "true"
       }  
       
     ]
