@@ -3250,6 +3250,20 @@
           "code": "pb.amritsar"
         }
       ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
     }
   ]
 }
