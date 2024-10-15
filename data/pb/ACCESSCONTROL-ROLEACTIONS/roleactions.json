@@ -26618,6 +26618,42 @@
       "actionid": 5030,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 5032,
+      "actioncode": "",
+      "tenantId": "pb"
     }
    ]
 }
