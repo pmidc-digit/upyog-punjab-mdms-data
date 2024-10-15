@@ -15750,6 +15750,17 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
+      "id": 5032,
+      "name": "Plan Scrutiny",
+      "url": "/edcr/rest/dcr/scrutinize",
+      "displayName": "Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
     }
   ]
 }
