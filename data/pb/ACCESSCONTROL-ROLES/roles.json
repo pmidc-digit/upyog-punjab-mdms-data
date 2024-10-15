@@ -439,6 +439,11 @@
       "code": "OBPS_REPORT_VIEWER",
       "name": "OBPS Report Viewer",
       "description": "OBPS User that can view OBPS reports"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
     }
   ]
 }
