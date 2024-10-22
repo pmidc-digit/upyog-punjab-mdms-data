@@ -11,7 +11,13 @@
       "name": "Regularized Connection",
      "code": "REGULARIZED",
       "active": true
-    },{
+    },
+    {
+      "name": "Regularized without OTS",
+     "code": "REGULARIZEDNORMAL",
+      "active": true
+    },
+    {
       "name": "General",
       "code": "GEN",
       "active": true
