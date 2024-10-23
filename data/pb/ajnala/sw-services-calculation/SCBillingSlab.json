@@ -11,22 +11,22 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
-          "to": 125,
-          "charge": 315,
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 300,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1738064071000
         },
         {
-          "from": 125,
-          "to": 250,
+          "from": 125.01,
+          "to": 250.00,
           "charge": 315,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1738064071000
         },
            {
-          "from": 250,
-          "to": 100000000,
+          "from": 250.01,
+          "to": 100000000.00,
           "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1738064071000
@@ -42,23 +42,9 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
-          "to": 125,
+          "from": 0.00,
+          "to": 100000000.00,
           "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1738064071000
-        },
-        {
-          "from": 125,
-          "to": 250,
-          "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1738064071000
-        },
-        {
-          "from": 250,
-          "to": 1000000000,
-          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1738064071000
         }
@@ -73,23 +59,9 @@
       "minimumCharge": 0,
       "slabs": [
         {
-          "from": 0,
-          "to": 125,
-          "charge": 600,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1738064071000
-        },
-        {
-          "from": 125,
-          "to": 250,
+          "from": 0.00,
+          "to": 1000000000.00,
           "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1738064071000
-        },
-        {
-          "from": 250,
-          "to": 1000000000,
-          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1738064071000
         }
