@@ -25942,6 +25942,57 @@
    
     
     
+    },
+   {
+      "rolecode": "SW_CEMP",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2598,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+   {
+      "rolecode": "SW_CEMP",
+      "actionid": 2599,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2599,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2599,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2599,
+      "actioncode": "",
+      "tenantId": "pb"
+   
+    
+    
     }
 	 
    ]
