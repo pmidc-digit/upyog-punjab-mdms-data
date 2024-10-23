@@ -15520,6 +15520,37 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""	  
+      },
+      {
+      "id": 2598,
+      "name": "Sewerage Report Ulb",
+      "url": "url",
+      "displayName": "Sewerage Report Ulb",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SewerageApplicationStatus",
+      "navigationURL": "report/rainmaker-ws/sewerageApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+      "id": 2599,
+      "name": "Water Report Ulb",
+      "url": "url",
+      "displayName": "Water Application Status Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WaterApplicationStatus",
+      "navigationURL": "report/rainmaker-ws/waterApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
       }
+	  
   ]
 }
