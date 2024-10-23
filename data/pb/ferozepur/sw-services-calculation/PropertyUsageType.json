@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb.ferozepur",
+  "moduleName": "sw-services-calculation",
+  "PropertyUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "unitCost" : 20,
+      "isActive": true
+    },
+{
+     "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "unitCost" : 30,
+      "isActive": true
+    },
+{
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "School",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Colleges",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Hotels",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "AC Restaurant",
+      "code": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Other Non-Residential",
+      "code": "NONRESIDENTIAL.OTHERS",
+      "unitCost" : 15,
+      "isActive": true
+    }
+  ]
+}

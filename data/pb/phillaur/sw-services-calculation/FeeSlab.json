@@ -4,13 +4,13 @@
   "FeeSlab": [
     {
       "formFee": 0,
-      "securityDeposit": 200,
+      "securityDeposit": 50,
       "connectionFee":
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"100",
+          "connectionFee":"250",
           "usageType":"DOMESTIC"
         },
         {
@@ -22,31 +22,31 @@
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"500",
+          "connectionFee":"250",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"500",
+          "connectionFee":"250",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"500",
+          "connectionFee":"250",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"750",
+          "connectionFee":"250",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"10",
+          "connectionFee":"250",
           "usageType":"DEFAULT"
         }
         
