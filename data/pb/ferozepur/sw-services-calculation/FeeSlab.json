@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.phillaur",
+  "tenantId": "pb.ferozepur",
   "moduleName": "sw-services-calculation",
   "FeeSlab": [
     {
@@ -10,13 +10,13 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"250",
+          "connectionFee":"55",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"250",
+          "connectionFee":"55",
           "usageType":"DOMESTIC"
         },
         {
