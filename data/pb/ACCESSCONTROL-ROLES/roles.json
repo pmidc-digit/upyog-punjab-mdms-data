@@ -444,6 +444,11 @@
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
+    },
+    {
+      "code": "AUTO_ESCALATE",
+      "name": "Auto Escalation Employee",
+      "description": "Auto Escalation Employee"
     }
   ]
 }
