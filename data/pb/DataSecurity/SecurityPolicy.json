@@ -64,18 +64,6 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "permanentAddress",
-          "jsonPath": "permanentAddress/address",
-          "patternId": "003",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "correspondenceAddress",
-          "jsonPath": "correspondenceAddress/address",
-          "patternId": "003",
-          "defaultVisibility": "PLAIN"
-        },
-        {
           "name": "fatherOrHusbandName",
           "jsonPath": "fatherOrHusbandName",
           "patternId": "002",
@@ -106,11 +94,6 @@
               "attribute": "userName",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
             }
           ]
         },
@@ -138,16 +121,6 @@
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
               "attribute": "guardian",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
@@ -168,22 +141,12 @@
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "PLAIN",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
               "attribute": "name",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "emailId",
-              "firstLevelVisibility": "PLAIN",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "permanentAddress",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
@@ -222,16 +185,6 @@
         {
           "roles": ["CITIZEN"],
           "attributeAccessList": [
-            {
-              "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            }
           ]
         }
       ]
@@ -294,18 +247,6 @@
         {
           "name": "guardian",
           "jsonPath": "guardian",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "permanentAddress",
-          "jsonPath": "permanentAddress/address",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "correspondenceAddress",
-          "jsonPath": "correspondenceAddress/address",
           "patternId": null,
           "defaultVisibility": "PLAIN"
         },
@@ -380,18 +321,6 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "permanentAddress",
-          "jsonPath": "permanentAddress/address",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "correspondenceAddress",
-          "jsonPath": "correspondenceAddress/address",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
           "name": "fatherOrHusbandName",
           "jsonPath": "fatherOrHusbandName",
           "patternId": null,
@@ -458,18 +387,6 @@
         {
           "name": "guardian",
           "jsonPath": "guardian",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "permanentAddress",
-          "jsonPath": "permanentAddress/address",
-          "patternId": null,
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "correspondenceAddress",
-          "jsonPath": "correspondenceAddress/address",
           "patternId": null,
           "defaultVisibility": "PLAIN"
         },
@@ -688,12 +605,6 @@
           "defaultVisibility": "PLAIN"
         },
         {
-          "name": "correspondenceAddress",
-          "jsonPath": "correspondenceAddress",
-          "patternId": "001",
-          "defaultVisibility": "PLAIN"
-        },
-        {
           "name": "ownerType",
           "jsonPath": "connectionHolders/*/ownerType",
           "patternId": "005",
@@ -733,11 +644,6 @@
             },
             {
               "attribute": "ownerType",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "correspondenceAddress",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
