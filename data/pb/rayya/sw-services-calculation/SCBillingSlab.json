@@ -1,0 +1,120 @@
+{
+  "tenantId": "pb.rayya",
+  "moduleName": "sw-services-calculation",
+  "SCBillingSlab": [
+    {
+      "id": "1",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 315,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+           {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 500.01,
+          "to": 10000.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 500.01,
+          "to": 10000.00,
+          "charge": 1080,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 250.01,
+          "to": 500.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        },
+        {
+          "from": 500.01,
+          "to": 10000.00,
+          "charge": 1080,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1738064071000
+        }
+      ]
+    }
+  ]
+}

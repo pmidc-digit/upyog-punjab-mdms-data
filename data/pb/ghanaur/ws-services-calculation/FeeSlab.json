@@ -1,0 +1,60 @@
+{
+  "tenantId": "pb.ghanaur",
+  "moduleName": "ws-services-calculation",
+  "FeeSlab": [
+    {
+      "formFee": 0,
+      "securityCharge": 50,
+      "meterTestingFee": 0,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"250",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"125",
+          "toPlotSize":"250",
+          "connectionFee":"250",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"250",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"250",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"125",
+          "toPlotSize":"250",
+          "connectionFee":"250",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"250",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"999999999",
+          "connectionFee":"250",
+          "usageType":"DEFAULT"
+        }
+        
+      ],
+      "other": 0,
+      "taxpercentage": 0,
+      "isActive": true
+    }
+  ]
+}
