@@ -2457,10 +2457,10 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "all-complaints",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
-    },
+   },
     {
       "id": 1556,
       "name": "Home",
@@ -2486,41 +2486,42 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "PGR.MyComplaints",
-      "navigationURL": "all-complaints",
-      "leftIcon": "custom:open-complaints",
+      "path": "Complaints.MyComplaints",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "leftIcon": "action:announcement",
       "rightIcon": ""
-    },
-    {
-      "id": 1558,
-      "name": "ClosedComplaints",
-      "url": "url",
-      "displayName": "Closed Complaints",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "PGR.MyComplaints",
-      "navigationURL": "closed-complaints",
-      "leftIcon": "custom:closed-complaints",
-      "rightIcon": ""
-    },
-    {
-      "id": 1559,
-      "name": "CreateComplaint",
-      "url": "url",
-      "displayName": "Create Complaint",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "PGR.CreateComplaint",
-      "navigationURL": "create-complaint",
-      "leftIcon": "content:add",
-      "rightIcon": ""
-    },
+   },
+   {
+    "id": 1558,
+    "name": "ClosedComplaints",
+    "url": "url",
+    "displayName": "Closed Complaints",
+    "orderNumber": 1,
+    "parentModule": "rainmaker-pgr",
+    "enabled": true,
+    "serviceCode": "PGR",
+    "code": "null",
+    "path": "Complaints.Closed Complaints",
+    "navigationURL": "closed-complaints",
+    "leftIcon": "custom:closed-complaints",
+    "rightIcon": ""
+ },
+ {
+  "id": 1559,
+  "name": "CreateComplaint",
+  "url": "url",
+  "displayName": "Create Complaint",
+  "orderNumber": 1,
+  "parentModule": "rainmaker-pgr",
+  "enabled": true,
+  "serviceCode": "PGR",
+  "code": "null",
+  "path": "Complaints.CreateComplaint",
+  "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+  "leftIcon": "content:add",
+  "rightIcon": ""
+},
+
     {
       "id": 1560,
       "name": "ComplaintTypeWiseReport",
@@ -2887,14 +2888,15 @@
       "displayName": "Employee",
       "orderNumber": 7,
       "parentModule": "rainmaker-pgr",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "PGR.PGR Reports.EmployeeReport",
+      "path": "Complaints.PGR Reports.EmployeeReport",
       "navigationURL": "report/rainmaker-pgr/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+   },
+   
     {
       "id": 1593,
       "name": "Financial Expense bill create",
@@ -3997,27 +3999,30 @@
       "name": "Misc.Receipts",
       "url": "url",
       "displayName": "Miscellaneous Receipts",
-      "orderNumber": 2,
+      "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
-      "path": "Collections.Miscellaneous Receipts"
-    },
-    {
-      "id": 1693,
-      "name": "Receipts Search",
-      "url": "url",
-      "displayName": "Search Receipts",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "Collections",
-      "code": "null",
-      "navigationURL": "services/collection/receipts/searchReceipt.action",
-      "path": "Collections.Search Receipts"
-    },
+      "leftIcon": "image:collections",
+      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+   },
+   {
+    "id": 1693,
+    "name": "Receipts Search",
+    "url": "url",
+    "displayName": "Search Receipts",
+    "orderNumber": 2,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "Collections",
+    "code": "null",
+    "navigationURL": "services/collection/receipts/searchReceipt.action",
+    "leftIcon": "image:collections",
+    "path": "Finance.Revenue/Collections.Search Receipts"
+ },
+
     {
       "id": 1694,
       "name": "Cancel Voucher",
@@ -4077,8 +4082,10 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
-      "path": "Collections.Cash Remittance"
-    },
+      "leftIcon": "image:collections",
+      "path": "Finance.Revenue/Collections.Cash Remittance"
+   },
+   
     {
       "id": 1700,
       "name": "updateUsernovalidate",
@@ -4512,7 +4519,8 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
-      "path": "Collections.Cheque Remittance"
+      "leftIcon": "image:collections",
+      "path": "Finance.Revenue/Collections.Cheque Remittance"
     },
     {
       "id": 1735,
@@ -4651,7 +4659,8 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
-      "path": "Collections.Administration.View Bankaccount Mapping"
+      "leftIcon": "image:collections",
+      "path": "Finance.Set-up.View Bankaccount Mapping"
     },
     {
       "id": 1746,
@@ -5018,7 +5027,7 @@
       "parentModule": "egov-hrms",
       "displayName": "Employee Search",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
@@ -6629,7 +6638,7 @@
       "enabled": true,
       "serviceCode": "FIRE-NOC",
       "code": "null",
-      "navigationURL": "digit-ui/fire-noc/search",
+      "navigationURL": "fire-noc/search",
       "path": "FIRE-NOC.Search",
       "leftIcon": "social:people"
     },
@@ -15031,8 +15040,22 @@
       "navigationURL": "report/rainmaker-pt/CountPTReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {	  
+	      
+	      
+      },
+      {
+        "id": 2559,
+        "name": "pgr count open complaints for last 24 hrs",
+        "url": "/egov-searcher/rainmaker-pgr-V2/serviceSearchWithDetails/_get",
+        "parentModule": "",
+        "displayName": "Punjab customization",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "punjab-customization",
+        "code": "null",
+        "path": ""
+      }
+	   {	  
      "id": 2559,
       "name": "WS and SW Dump  Report",
       "url": "url",
@@ -15284,8 +15307,9 @@
         "orderNumber": 1,
         "enabled": true,
         "serviceCode": "WSREPORTS",
-        "code": "null",
-        "path": ""
+       
+      }
+	  
 
 
 
@@ -15784,5 +15808,6 @@
       "code": "null",
       "path": ""
     }
+
   ]
 }
