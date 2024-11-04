@@ -58,6 +58,18 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/addresses/*/address"
               },
               "accessType": "PLAIN"
@@ -114,6 +126,24 @@
                 "jsonPath": "*/guardian"
               },
               "accessType": "PLAIN"
+              },
+            {
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/addresses/*/address"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -165,6 +195,18 @@
             {
               "attribute": {
                 "jsonPath": "*/guardian"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
               },
               "accessType": "PLAIN"
             },
@@ -910,6 +952,18 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/addresses/*/address"
               },
               "accessType": "PLAIN"
@@ -969,6 +1023,18 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/addresses/*/address"
               },
               "accessType": "PLAIN"
@@ -1018,6 +1084,18 @@
                 "jsonPath": "*/guardian"
               },
               "accessType": "NONE"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
             },
             {
               "attribute": {
@@ -1283,6 +1361,18 @@
                 "jsonPath": "*/guardian"
               },
               "accessType": "NONE"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/permanentAddress/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/correspondenceAddress/address"
+              },
+              "accessType": "PLAIN"
             },
             {
               "attribute": {
