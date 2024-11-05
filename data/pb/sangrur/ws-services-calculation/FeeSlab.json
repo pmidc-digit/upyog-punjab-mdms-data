@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.raikot",
+  "tenantId": "pb.sangrur",
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
@@ -10,29 +10,29 @@
       [
         {
           "fromPlotSize":"0",
-          "toPlotSize":"3000",
-          "connectionFee":"1000",
+          "toPlotSize":"3000000",
+          "connectionFee":"100",
           "usageType":"DOMESTIC"
         },
     
         {
           "fromPlotSize":"0",
-          "toPlotSize":"3000",
-          "connectionFee":"1000",
+          "toPlotSize":"12500000",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
 
         {
           "fromPlotSize":"0",
-          "toPlotSize":"3000",
-          "connectionFee":"1000",
+          "toPlotSize":"12500000",
+          "connectionFee":"200",
           "usageType":"INDUSTRIAL"
         },
        
         {
           "fromPlotSize":"0",
-          "toPlotSize":"3000",
-          "connectionFee":"1000",
+          "toPlotSize":"12500000",
+          "connectionFee":"200",
           "usageType":"INSTITUTIONAL"
         }
         
