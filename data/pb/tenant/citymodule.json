@@ -5,6 +5,8 @@
     {
       "module": "PGR",
       "code": "PGR",
+      "order":4,
+      "active":true,
       "tenants": [
         {
           "code": "pb.testing"
