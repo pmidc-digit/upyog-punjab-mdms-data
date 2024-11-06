@@ -1,8 +1,7 @@
 {
-   "tenantId": "pb.patiala",
+  "tenantId": "pb.patiala",
   "moduleName": "ws-services-masters",
   "groups": [
-     
     {
       "name": "Group 1",
       "code": "Group_1",
@@ -13,20 +12,20 @@
       "code": "Group_2",
       "active": true
     },
-	{
+    {
       "name": "Group 3",
       "code": "Group_3",
       "active": true
     },
-	{
+    {
       "name": "Group 4",
       "code": "Group_4",
       "active": true
     },
-	{
+    {
       "name": "Group 5",
       "code": "Group_5",
       "active": true
-    },
+    }
   ]
 }
