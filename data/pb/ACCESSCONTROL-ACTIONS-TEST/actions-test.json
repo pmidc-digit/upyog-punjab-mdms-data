@@ -1657,6 +1657,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.StartWorkflow"
     },
     {
@@ -1668,6 +1669,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.UpdateWorkflow"
     },
     {
@@ -1679,6 +1681,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.UpdateReceipt"
     },
     {
@@ -1690,6 +1693,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.GetDistinctCollectedBy"
     },
     {
@@ -1701,6 +1705,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.Collection status"
     },
     {
@@ -1712,6 +1717,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.Business Details"
     },
     {
@@ -1734,6 +1740,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-MASTERS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Masters.GetBusinessTypes"
     },
     {
@@ -1898,6 +1905,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
+      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.LegacyCreateReceipt"
     },
     {
@@ -3982,15 +3990,16 @@
     {
       "id": 1690,
       "name": "TradeLicenseApplication",
-      "url": "url",
-      "displayName": "Application",
+      "url": "quickAction",
+      "displayName": "Apply TL",
       "orderNumber": 13,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/search",
-      "path": "Trade License.Application"
+      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "path": "TradeLicense.Apply",
+      "leftIcon": "places:business-center"
     },
     {
       "id": 1691,
@@ -4502,6 +4511,7 @@
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "navigationURL": "report/finance/ReceiptRegister",
+      "leftIcon": "image:collections",
       "path": "Collections.Reports.Receipt Register "
     },
     {
@@ -4638,11 +4648,12 @@
       "displayName": "Create Bankaccount Mapping",
       "orderNumber": 5,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
-      "path": "Collections.Administration.Create Bankaccount Mapping"
+      "leftIcon": "image:collections",
+      "path": "Finance.Set-up.Create Bankaccount Mapping"
     },
     {
       "id": 1745,
@@ -4908,7 +4919,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -4987,7 +4998,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -5397,7 +5408,7 @@
     {
       "id": 1809,
       "name": "businessDetails create",
-      "url": "/egov-common-masters/businessDetails/_update",
+      "url": "/egov-common-masters/businessDetails/_create",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -5410,7 +5421,7 @@
     {
       "id": 1810,
       "name": "business category create",
-      "url": "/egov-common-masters/businessCategory/_update",
+      "url": "/egov-common-masters/businessCategory/_create",
       "parentModule": "",
       "displayName": "business category search",
       "orderNumber": 0,
@@ -6532,7 +6543,7 @@
     },
     {
       "id": 1896,
-      "name": "Collection Saerch Reciept",
+      "name": "Collection Search Reciept",
       "url": "/collection-services/payments/_search",
       "displayName": "Search Payment",
       "orderNumber": 0,
@@ -6552,7 +6563,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "create-complaint",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
       "quickAction": true,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -6620,8 +6631,8 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/apply",
-      "path": "Trade License.Apply",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
+      "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
     {
@@ -6908,7 +6919,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicense-citizen/home",
+      "navigationURL": "/digit-ui/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -7012,7 +7023,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "tradelicense-citizen/home",
+      "navigationURL": "/digit-ui/citizen/",
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
@@ -7028,7 +7039,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "pgr-home",
+      "navigationURL": "/digit-ui/citizen/pgr/complaints",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },

@@ -1550,6 +1550,8 @@
     {
       "module": "TL",
       "code": "TL",
+      "order":6,
+      "active":true,
       "tenants": [
         {
           "code": "pb.mohali"
@@ -1962,6 +1964,8 @@
     {
       "module": "UC",
       "code": "UC",
+      "order":7,
+      "active":true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -2488,6 +2492,8 @@
     {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
+      "order":8,
+      "active":true,
       "tenants": [
   {
     "code": "pb.hoshiarpur",
@@ -3163,6 +3169,8 @@
     {
       "module": "FIRENOC",
       "code": "FIRENOC",
+      "order":5,
+      "active":true,
       "tenants": [
         {
           "code": "pb.fatehgarhchurian"
