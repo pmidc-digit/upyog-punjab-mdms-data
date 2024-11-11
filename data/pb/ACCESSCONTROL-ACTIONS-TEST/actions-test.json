@@ -15550,6 +15550,22 @@
       "navigationURL": "report/rainmaker-ws/waterApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+      },
+      {	  
+      "id": 2600,
+      "name": "PTReportforGISMappingg",
+      "url": "url",
+      "displayName": "PT Report for GIS Mappingg",
+      "orderNumber": 11,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.PTReportforGISMappingg",
+      "navigationURL": "report/rainmaker-pt/PTReportforGISMappingg",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+	      
       }
 	  
   ]
