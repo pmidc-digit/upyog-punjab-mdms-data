@@ -25990,8 +25990,30 @@
       "actionid": 2599,
       "actioncode": "",
       "tenantId": "pb"
-   
-    
+     },
+     {
+      "rolecode": "PTCEMP",
+      "actionid": 2600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2600,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2600,
+      "actioncode": "",
+      "tenantId": "pb"
     
     }
 	 
