@@ -3274,6 +3274,20 @@
           "code": "pb.amritsar"
         }
       ]
+    },
+    {
+      "module": "BR",
+      "code": "BR",
+      "active": true,
+      "order":9,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
     }
   ]
 }
