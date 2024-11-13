@@ -58,19 +58,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -129,19 +129,19 @@
               },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -200,19 +200,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -952,19 +952,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -1023,19 +1023,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -1087,19 +1087,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
@@ -1364,19 +1364,19 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/permanentAddress/address"
+                "jsonPath": "*/permanentAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/correspondenceAddress/address"
+                "jsonPath": "*/correspondenceAddress"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/addresses/*/address"
+                "jsonPath": "*/addresses"
               },
               "accessType": "PLAIN"
             }
