@@ -106,7 +106,7 @@
               "attribute": "userName",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
-             },
+            },
             {
               "attribute": "permanentAddress",
               "firstLevelVisibility": "MASKED",
@@ -167,7 +167,7 @@
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
-             {
+            {
               "attribute": "correspondenceAddress",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
@@ -182,7 +182,7 @@
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
-              {
+            {
               "attribute": "permanentAddress",
               "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
@@ -222,7 +222,7 @@
         {
           "roles": ["CITIZEN"],
           "attributeAccessList": [
-             {
+            {
               "attribute": "correspondenceAddress",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
@@ -297,7 +297,7 @@
           "patternId": null,
           "defaultVisibility": "PLAIN"
         },
-         {
+        {
           "name": "permanentAddress",
           "jsonPath": "permanentAddress/address",
           "patternId": null,
@@ -379,7 +379,7 @@
           "patternId": null,
           "defaultVisibility": "PLAIN"
         },
-         {
+        {
           "name": "permanentAddress",
           "jsonPath": "permanentAddress/address",
           "patternId": null,
@@ -736,7 +736,7 @@
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
-             {
+            {
               "attribute": "correspondenceAddress",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
