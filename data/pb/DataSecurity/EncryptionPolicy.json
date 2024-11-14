@@ -38,15 +38,15 @@
             "type" : "Normal"
           },
           {
-            "jsonPath" : "permanentAddress",
+            "jsonPath" : "permanentAddress/address",
             "type" : "Normal"
           },
           {
-            "jsonPath" : "correspondenceAddress",
+            "jsonPath" : "correspondenceAddress/address",
             "type" : "Normal"
           },  
           {
-            "jsonPath" : "addresses",
+            "jsonPath" : "addresses/*/address",
             "type" : "Normal"
           }
         ]
