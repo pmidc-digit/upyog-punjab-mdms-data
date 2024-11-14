@@ -44,7 +44,7 @@
           {
             "jsonPath" : "correspondenceAddress/address",
             "type" : "Normal"
-          },  
+          },
           {
             "jsonPath" : "addresses/*/address",
             "type" : "Normal"
