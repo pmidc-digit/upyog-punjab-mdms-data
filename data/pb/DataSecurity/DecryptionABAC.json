@@ -126,7 +126,7 @@
                 "jsonPath": "*/guardian"
               },
               "accessType": "PLAIN"
-              },
+            },
             {
               "attribute": {
                 "jsonPath": "*/permanentAddress/address"
