@@ -1,8 +1,13 @@
 {
   "tenantId": "pb.phillaur",
-  "moduleName": "sw-services-calculation",
+  "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
-   
+    {
+      "name": "Metered",
+      "code": "Metered",
+      "attribute": "PLOT_BASED",
+      "active": true
+    },
     {
       "name": "Non Metered",
       "code": "Non Metered",
