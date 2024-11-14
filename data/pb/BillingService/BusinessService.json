@@ -2394,6 +2394,16 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+	  {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Discharge Charges",
+      "code": "WS_DISCHARGE_CHARGES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
 
   ]

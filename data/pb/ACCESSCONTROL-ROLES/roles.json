@@ -7,6 +7,12 @@
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
     },
+{
+      "code": "INTERNAL_MICROSERVICE_ROLE",
+      "name": "INTERNAL MICROSERVICE ROLE",
+      "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally"
+    },
+    
     {
       "code": "EMPLOYEE",
       "name": "Employee",
@@ -352,6 +358,12 @@
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
       "description": "Cow Cess collection user"	        
+    },
+    {	 
+	    
+      "code": "SMS_SENDER",
+      "name": "sendOpenSMS API access user",
+      "description": "sendOpenSMS API access user"	        
     }
   ]
 }

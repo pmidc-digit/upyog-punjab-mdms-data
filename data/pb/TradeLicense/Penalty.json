@@ -36,35 +36,83 @@
       "type":"MC"
     },
     {
-      "rate": 10,
+      "rate": 0,
       "minAmount": 0.0,
-      "flatAmount": 100.0,
+      "flatAmount": 0.0,
       "fromFY": "2020-21",
       "startingDay": "01/04/2020",
       "type":"MC Class II,MC Class I,MC Class III,NP"
     },
     {
-      "rate": 100,
+      "rate": 0,
       "minAmount": 0.0,
-      "flatAmount": 1000.0,
+      "flatAmount": 0.0,
       "fromFY": "2020-21",
       "startingDay": "01/04/2020",
       "type":"Municipal Corporation"
     },
      {
-      "rate": 10,
+      "rate": 0,
       "minAmount": 0.0,
-      "flatAmount": 100.0,
+      "flatAmount": 0.0,
       "fromFY": "2021-22",
       "startingDay": "01/04/2021",
       "type":"MC Class II,MC Class I,MC Class III,NP"
     },
     {
-      "rate": 100,
+      "rate": 0,
       "minAmount": 0.0,
-      "flatAmount": 1000.0,
+      "flatAmount": 0.0,
       "fromFY": "2021-22",
       "startingDay": "01/04/2021",
+      "type":"Municipal Corporation"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 100.0,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+      "type":"MC Class II,MC Class I,MC Class III,NP"
+    },
+    {
+      "rate": 100,
+      "minAmount": 0.0,
+      "flatAmount": 1000,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+      "type":"Municipal Corporation"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 100.0,
+      "fromFY": "2023-24",
+      "startingDay": "01/04/2023",
+      "type":"MC Class II,MC Class I,MC Class III,NP"
+    },
+    {
+      "rate": 100,
+      "minAmount": 0.0,
+      "flatAmount": 1000,
+      "fromFY": "2023-24",
+      "startingDay": "01/04/2023",
+      "type":"Municipal Corporation"
+    },
+    {
+      "rate": 10,
+      "minAmount": 0.0,
+      "flatAmount": 100.0,
+      "fromFY": "2024-25",
+      "startingDay": "01/04/2024",
+      "type":"MC Class II,MC Class I,MC Class III,NP"
+    },
+    {
+      "rate": 100,
+      "minAmount": 0.0,
+      "flatAmount": 1000,
+      "fromFY": "2024-25",
+      "startingDay": "01/04/2024",
       "type":"Municipal Corporation"
     }
   ]

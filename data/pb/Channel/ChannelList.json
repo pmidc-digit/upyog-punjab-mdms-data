@@ -1,0 +1,1623 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Channel",
+  "channelList": [
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+     {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+      {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "SUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATEWITHWNS",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.CREATE",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS",
+      "module": "BS",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "BS.AMENDMENT",
+      "module": "BS",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "UPDATE_MOBILE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "PAID",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "ASSESS",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "PT_REC_CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "DUE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "VERIFY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "PAID",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "SENDBACKFROMFI",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "SENDBACKFROMAP",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "VERIFY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.UPDATE",
+      "module": "PT",
+      "action": "FAILURE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "OPEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "VERIFY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT.MUTATION",
+      "module": "PT",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "UPDATE_MOBILE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "ALTERNATE_MOBILE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "DUE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "NO_WORKFLOW",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PT",
+      "module": "PT",
+      "action": "ASSESS",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND_TO_CITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND_TO_ARCHITECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SKIP_PAYMENT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "REVOCATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND_BACK_TO_CITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "BPAREG.CREATE",
+      "module": "BPAREG",
+      "action": "NOWORKFLOW",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "MANUALEXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "NewTL",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "EDITRENEWAL",
+      "module": "TL",
+      "action": "MANUALEXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "MANUALEXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DIRECTRENEWAL",
+      "module": "TL",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "ACTIVATE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_TO_CITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_TO_CITIZEN_FI",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_TO_CITIZEN_AP",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "INACTIVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+     {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "NEW_WATER_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "MODIFY_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "VERIFY_AND_FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "APPROVE_FOR_DISCONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_FOR_FIELD_INSPECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "SEND_BACK_FOR_DO",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "DEMAND",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WS",
+      "module": "WS",
+      "action": "BILL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifySWConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "ModifyWSConnection",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "ACTIVATE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "APPROVE_FOR_DISCONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_TO_CITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_TO_CITIZEN_FI",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_TO_CITIZEN_AP",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "INACTIVE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "MODIFY_APPLICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "VERIFY_AND_FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_FOR_FIELD_INSPECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "SEND_BACK_FOR_DO",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "DEMAND",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "SW",
+      "module": "SW",
+      "action": "BILL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "MCOLLECT.CREATE",
+      "module": "MCOLLECT",
+      "action": "CREATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "MCOLLECT.CREATE",
+      "module": "MCOLLECT",
+      "action": "EXPIRE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "MCOLLECT.CREATE",
+      "module": "MCOLLECT",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "MCOLLECT.CREATE",
+      "module": "MCOLLECT",
+      "action": "UPDATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "MCOLLECT.CREATE",
+      "module": "MCOLLECT",
+      "action": "PAYMENT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "ASSIGN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "RESOLVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "PGR.CREATE",
+      "module": "PGR",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "WSReconnection",
+      "module": "WS",
+      "action": "ACTIVATE_CONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+    {
+      "businessService": "DisconnectWSConnection",
+      "module": "WS",
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "SENDBACK",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "NEWTL.HAZ",
+      "module": "TL",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "PAY",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "ADHOC",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "SENDBACKTOCITIZEN",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "REFER",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS"
+      ]
+    },
+	{
+      "businessService": "FIRENOC",
+      "module": "FIRENOC",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS"
+      ]
+    }
+  ]
+}
