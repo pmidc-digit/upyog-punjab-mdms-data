@@ -5,8 +5,8 @@
     {
       "module": "PGR",
       "code": "PGR",
-      "order":4,
-      "active":true,
+      "order": 4,
+      "active": true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -1020,7 +1020,7 @@
           "code": "pb.patiala"
         },
         {
-           "code": "pb.narotjaimalsingh"
+          "code": "pb.narotjaimalsingh"
         }
       ]
     },
@@ -1060,7 +1060,7 @@
         },
         {
           "code": "pb.amritsar"
-        },      
+        },
         {
           "code": "pb.itpatiala"
         },
@@ -1536,22 +1536,21 @@
           "code": "pb.moonak"
         },
         {
-           "code": "pb.devigarh"
+          "code": "pb.devigarh"
         },
         {
           "code": "pb.bababakalasahib"
-         },
-         {
+        },
+        {
           "code": "pb.gharuan"
-         }
-
+        }
       ]
     },
     {
       "module": "TL",
       "code": "TL",
-      "order":6,
-      "active":true,
+      "order": 6,
+      "active": true,
       "tenants": [
         {
           "code": "pb.mohali"
@@ -1585,8 +1584,7 @@
         },
         {
           "code": "pb.amritsar"
-        }
-        ,
+        },
         {
           "code": "pb.itpatiala"
         },
@@ -1957,15 +1955,15 @@
           "code": "pb.bilga"
         },
         {
-           "code": "pb.patiala"
+          "code": "pb.patiala"
         }
       ]
     },
     {
       "module": "UC",
       "code": "UC",
-      "order":7,
-      "active":true,
+      "order": 7,
+      "active": true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -2475,702 +2473,700 @@
           "code": "pb.fatehgarhpanjtoor"
         },
         {
-           "code": "pb.bababakalasahib"
+          "code": "pb.bababakalasahib"
         },
         {
-           "code": "pb.gharuan"
+          "code": "pb.gharuan"
         },
         {
           "code": "pb.dirbapwssb"
-       },
-       {
+        },
+        {
           "code": "pb.ferozepurpwssb"
-       }
-
+        }
       ]
     },
     {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
-      "order":8,
-      "active":true,
+      "order": 8,
+      "active": true,
       "tenants": [
-  {
-    "code": "pb.hoshiarpur",
-    "name": "Hoshiarpur"
-  },
-  {
-    "code": "pb.jalandhar",
-    "name": "Jalandhar"
-  },
-  {
-    "code": "pb.amritsar",
-    "name": "Amritsar"
-  },
-  
-  {
-    "code": "pb.zirakpur",
-    "name": "Zirakpur"
-  },
-  {
-    "code": "pb.phagwara",
-    "name": "Phagwara"
-  },
-  {
-    "code": "pb.ludhiana",
-    "name": "Ludhiana"
-  },
-  {
-    "code": "pb.pathankot",
-    "name": "Pathankot"
-  },
-  {
-    "code": "pb.moga",
-    "name": "Moga"
-  },
-  {
-    "code": "pb.kapurthala",
-    "name": "Kapurthala"
-  },
-  {
-    "code": "pb.patiala",
-    "name": "Patiala"
-  },
-  {
-    "code": "pb.barnala",
-    "name": "Barnala"
-  },
-  {
-    "code": "pb.fatehgarhchurian",
-    "name": "Fatehgarhchurian"
-  },
-  {
-    "code": "pb.mullanpur",
-    "name": "Mullanpur"
-  },
-  {
-    "code": "pb.sanaur",
-    "name": "Sanaur"
-  },
-  {
-    "code": "pb.sultanpurlodhi",
-    "name": "Sultanpurlodhi"
-  },
-  {
-    "code": "pb.dinanagar",
-    "name": "Dinanagar"
-  },
-  {
-    "code": "pb.shahkot",
-    "name": "Shahkot"
-  },
-  {
-    "code": "pb.ghagga",
-    "name": "Ghagga"
-  },
-  {
-    "code": "pb.shamchurasi",
-    "name": "Shamchurasi"
-  },
-  {
-    "code": "pb.kotfatta",
-    "name": "Kotfatta"
-  },
-  {
-    "code": "pb.urmartanda",
-    "name": "Urmartanda"
-  },
-  {
-    "code": "pb.sardulgarh",
-    "name": "Sardulgarh"
-  },
-  {
-    "code": "pb.garhdiwala",
-    "name": "Garhdiwala"
-  },
-  {
-    "code": "pb.hariana",
-    "name": "Hariana"
-  },
-  {
-    "code": "pb.alawalpur",
-    "name": "Alawalpur"
-  },
-  {
-    "code": "pb.bhairoopa",
-    "name": "Bhairoopa"
-  },
-  {
-    "code": "pb.bhogpur",
-    "name": "Bhogpur"
-  },
-  {
-    "code": "pb.goraya",
-    "name": "Goraya"
-  },
-  {
-    "code": "pb.mehatpur",
-    "name": "Mehatpur"
-  },
-  {
-    "code": "pb.sirhind",
-    "name": "Sirhind"
-  },
-  {
-    "code": "pb.zira",
-    "name": "Zira"
-  },
-  {
-    "code": "pb.garhshankar",
-    "name": "Garhshankar"
-  },
-  {
-    "code": "pb.kotshamir",
-    "name": "Kotshamir"
-  },
-  {
-    "code": "pb.abohar",
-    "name": "Abohar"
-  },
-  {
-    "code": "pb.chamkaursahib",
-    "name": "Chamkaursahib"
-  },
-  {
-    "code": "pb.batala",
-    "name": "Batala"
-  },
-  {
-    "code": "pb.rajpura",
-    "name": "Rajpura"
-  },
-  {
-    "code": "pb.sangatmandi",
-    "name": "Sangatmandi"
-  },
-  {
-    "code": "pb.khanna",
-    "name": "Khanna"
-  },
-  {
-    "code": "pb.sangrur",
-    "name": "Sangrur"
-  },
-  {
-    "code": "pb.lalru",
-    "name": "Lalru"
-  },
-  {
-    "code": "pb.dharamkot",
-    "name": "Dharamkot"
-  },
-  {
-    "code": "pb.moonak",
-    "name": "Moonak"
-  },
-  {
-    "code": "pb.bareta",
-    "name": "Bareta"
-  },
-  {
-    "code": "pb.tarntaran",
-    "name": "Tarntaran"
-  },
-  {
-    "code": "pb.ropar",
-    "name": "Ropar"
-  },
-  {
-    "code": "pb.lehramohabbat",
-    "name": "Lehramohabbat"
-  },
-  {
-    "code": "pb.nawanshahr",
-    "name": "Nawanshahr"
-  },
-  {
-    "code": "pb.amloh",
-    "name": "Amloh"
-  },
-  {
-    "code": "pb.nurmahal",
-    "name": "Nurmahal"
-  },
-  {
-    "code": "pb.majitha",
-    "name": "Majitha"
-  },
-  {
-    "code": "pb.narotjaimalsingh",
-    "name": "Narotjaimalsingh"
-  },
-  {
-    "code": "pb.mansa",
-    "name": "Mansa"
-  },
-  {
-    "code": "pb.morinda",
-    "name": "Morinda"
-  },
-  {
-    "code": "pb.payal",
-    "name": "Payal"
-  },
-  {
-    "code": "pb.malout",
-    "name": "Malout"
-  },
-  {
-    "code": "pb.makhu",
-    "name": "Makhu"
-  },
-  {
-    "code": "pb.longowal",
-    "name": "Longowal"
-  },
-  {
-    "code": "pb.bhawanigarh",
-    "name": "Bhawanigarh"
-  },
-  {
-    "code": "pb.guruharsahai",
-    "name": "Guruharsahai"
-  },
-  {
-    "code": "pb.kothaguru",
-    "name": "Kothaguru"
-  },
-  {
-    "code": "pb.ramdass",
-    "name": "Ramdass"
-  },
-  {
-    "code": "pb.goniana",
-    "name": "Goniana"
-  },
-  {
-    "code": "pb.bhuchomandi",
-    "name": "Bhuchomandi"
-  },
-  {
-    "code": "pb.mahilpur",
-    "name": "Mahilpur"
-  },
-  {
-    "code": "pb.talwandibhai",
-    "name": "Talwandibhai"
-  },
-  {
-    "code": "pb.banur",
-    "name": "Banur"
-  },
-  {
-    "code": "pb.arniwala",
-    "name": "Arniwala"
-  },
-  {
-    "code": "pb.nathana",
-    "name": "Nathana"
-  },
-  {
-    "code": "pb.handiaya",
-    "name": "Handiaya"
-  },
-  {
-    "code": "pb.ahmedgarh",
-    "name": "Ahmedgarh"
-  },
-  {
-    "code": "pb.lehragaga",
-    "name": "Lehragaga"
-  },
-  {
-    "code": "pb.balianwali",
-    "name": "Balianwali"
-  },
-  {
-    "code": "pb.maluka",
-    "name": "Maluka"
-  },
-  {
-    "code": "pb.samana",
-    "name": "Samana"
-  },
-  {
-    "code": "pb.ajnala",
-    "name": "Ajnala"
-  },
-  {
-    "code": "pb.ferozepur",
-    "name": "Ferozepur"
-  },
-  {
-    "code": "pb.dirba",
-    "name": "Dirba"
-  },
-  {
-    "code": "pb.gurdaspur",
-    "name": "Gurdaspur"
-  },
-  {
-    "code": "pb.anandpursahib",
-    "name": "Anandpursahib"
-  },
-  {
-    "code": "pb.boha",
-    "name": "Boha"
-  },
-  {
-    "code": "pb.fazilka",
-    "name": "Fazilka"
-  },
-  {
-    "code": "pb.talwandisabo",
-    "name": "Talwandisabo"
-  },
-  {
-    "code": "pb.khanauri",
-    "name": "Khanauri"
-  },
-  {
-    "code": "pb.patti",
-    "name": "Patti"
-  },
-  {
-    "code": "pb.bhikhi",
-    "name": "Bhikhi"
-  },
-  {
-    "code": "pb.begowal",
-    "name": "Begowal"
-  },
-  {
-    "code": "pb.mudki",
-    "name": "Mudki"
-  },
-  {
-    "code": "pb.kiratpur",
-    "name": "Kiratpur"
-  },
-  {
-    "code": "pb.kurali",
-    "name": "Kurali"
-  },
-  {
-    "code": "pb.mohali",
-    "name": "Mohali"
-  },
-  {
-    "code": "pb.gidderbaha",
-    "name": "Gidderbaha"
-  },
-  {
-    "code": "pb.raikot",
-    "name": "Raikot"
-  },
-  {
-    "code": "pb.faridkot",
-    "name": "Faridkot"
-  },
-  {
-    "code": "pb.muktsar",
-    "name": "Muktsar"
-  },
-  {
-    "code": "pb.dasuya",
-    "name": "Dasuya"
-  },
-  {
-    "code": "pb.mamdot",
-    "name": "Mamdot"
-  },
-  {
-    "code": "pb.jalalabad",
-    "name": "Jalalabad"
-  },
-  {
-    "code": "pb.dhariwal",
-    "name": "Dhariwal"
-  },
-  {
-    "code": "pb.joga",
-    "name": "Joga"
-  },
-  {
-    "code": "pb.badhnikalan",
-    "name": "Badhnikalan"
-  },
-  {
-    "code": "pb.nihalsinghwala",
-    "name": "Nihalsinghwala"
-  },
-  {
-    "code": "pb.derabassi",
-    "name": "Derabassi"
-  },
-  {
-    "code": "pb.mandikalan",
-    "name": "Mandikalan"
-  },
-  {
-    "code": "pb.kharar",
-    "name": "Kharar"
-  },
-  {
-    "code": "pb.chaunke",
-    "name": "Chaunke"
-  },
-  {
-    "code": "pb.banga",
-    "name": "Banga"
-  },
-  {
-    "code": "pb.bhikhiwind",
-    "name": "Bhikhiwind"
-  },
-  {
-    "code": "pb.dhuri",
-    "name": "Dhuri"
-  },
-  {
-    "code": "pb.talwara",
-    "name": "Talwara"
-  },
-  {
-    "code": "pb.cheema",
-    "name": "Cheema"
-  },
-  {
-    "code": "pb.khemkaran",
-    "name": "Khemkaran"
-  },
-  {
-    "code": "pb.budhlada",
-    "name": "Budhlada"
-  },
-  {
-    "code": "pb.rampuraphul",
-    "name": "Rampuraphul"
-  },
-  {
-    "code": "pb.bariwala",
-    "name": "Bariwala"
-  },
-  {
-    "code": "pb.sujanpur",
-    "name": "Sujanpur"
-  },
-  {
-    "code": "pb.bhagtabhai",
-    "name": "Bhagtabhai"
-  },
-  {
-    "code": "pb.nangal",
-    "name": "Nangal"
-  },
-  {
-    "code": "pb.bhadson",
-    "name": "Bhadson"
-  },
-  {
-    "code": "pb.kotkapura",
-    "name": "Kotkapura"
-  },
-  {
-    "code": "pb.sahnewal",
-    "name": "Sahnewal"
-  },
-  {
-    "code": "pb.maur",
-    "name": "Maur"
-  },
-  {
-    "code": "pb.tapa",
-    "name": "Tapa"
-  },
-  {
-    "code": "pb.mandigobindgarh",
-    "name": "Mandigobindgarh"
-  },
-  {
-    "code": "pb.malerkotla",
-    "name": "Malerkotla"
-  },
-  {
-    "code": "pb.bhadaur",
-    "name": "Bhadaur"
-  },
-  {
-    "code": "pb.mukerian",
-    "name": "Mukerian"
-  },
-  {
-    "code": "pb.jagraon",
-    "name": "Jagraon"
-  },
-  {
-    "code": "pb.phillaur",
-    "name": "Phillaur"
-  },
-  {
-    "code": "pb.amargarh",
-    "name": "Amargarh"
-  },
-  {
-    "code": "pb.bassipathana",
-    "name": "Bassipathana"
-  },
-  {
-    "code": "pb.rahon",
-    "name": "Rahon"
-  },
-  {
-    "code": "pb.baghapurana",
-    "name": "Baghapurana"
-  },
-  {
-    "code": "pb.quadian",
-    "name": "Quadian"
-  },
-  {
-    "code": "pb.raman",
-    "name": "Raman"
-  },
-  {
-    "code": "pb.srihargobindpur",
-    "name": "Srihargobindpur"
-  },
-  {
-    "code": "pb.nabha",
-    "name": "Nabha"
-  },
-  {
-    "code": "pb.ghanaur",
-    "name": "Ghanaur"
-  },
-  {
-    "code": "pb.dhilwan",
-    "name": "Dhilwan"
-  },
-  {
-    "code": "pb.kartarpur",
-    "name": "Kartarpur"
-  },
-  {
-    "code": "pb.rajasansi",
-    "name": "Rajasansi"
-  },
-  {
-    "code": "pb.bhulath",
-    "name": "Bhulath"
-  },
-  {
-    "code": "pb.samrala",
-    "name": "Samrala"
-  },
-  {
-    "code": "pb.bathinda",
-    "name": "Bathinda"
-  },
-  {
-    "code": "pb.dhanaula",
-    "name": "Dhanaula"
-  },
-  {
-    "code": "pb.nayagaon",
-    "name": "Nayagaon"
-  },
-  {
-    "code": "pb.nadala",
-    "name": "Nadala"
-  },
-  {
-    "code": "pb.khamano",
-    "name": "Khamano"
-  },
-  {
-    "code": "pb.patran",
-    "name": "Patran"
-  },
-  {
-    "code": "pb.maloud",
-    "name": "Maloud"
-  },
-  {
-    "code": "pb.jandialaguru",
-    "name": "Jandialaguru"
-  },
-  {
-    "code": "pb.lohiankhas",
-    "name": "Lohiankhas"
-  },
-  {
-    "code": "pb.mallanwala",
-    "name": "Mallanwala"
-  },
-  {
-    "code": "pb.nakodar",
-    "name": "Nakodar"
-  },
-  {
-    "code": "pb.mehraj",
-    "name": "Mehraj"
-  },
-  {
-    "code": "pb.sunam",
-    "name": "Sunam"
-  },
-  {
-    "code": "pb.kotissekhan",
-    "name": "Kotissekhan"
-  },
-  {
-    "code": "pb.rampura",
-    "name": "Rampura"
-  },
-  {
-    "code": "pb.balachaur",
-    "name": "Balachaur"
-  },
-  {
-    "code": "pb.adampur",
-    "name": "Adampur"
-  },
-  {
-    "code": "pb.derababananak",
-    "name": "Derababananak"
-  },
-  {
-    "code": "pb.doraha",
-    "name": "Doraha"
-  },
-  {
-    "code": "pb.rayya",
-    "name": "Rayya"
-  },
-  {
-    "code": "pb.jaitu",
-    "name": "Jaitu"
-  },
-  {
-    "code": "pb.fatehgarhpanjtoor",
-    "name": "Fatehgarhpanjtoor"
-  },
-  {
-    "code": "pb.bilga",
-    "name": "Bilga"
-  },
-  {
-    "code": "pb.machhiwara",
-    "name": "Machhiwara"
-  }
-]
+        {
+          "code": "pb.hoshiarpur",
+          "name": "Hoshiarpur"
+        },
+        {
+          "code": "pb.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "pb.amritsar",
+          "name": "Amritsar"
+        },
+        {
+          "code": "pb.zirakpur",
+          "name": "Zirakpur"
+        },
+        {
+          "code": "pb.phagwara",
+          "name": "Phagwara"
+        },
+        {
+          "code": "pb.ludhiana",
+          "name": "Ludhiana"
+        },
+        {
+          "code": "pb.pathankot",
+          "name": "Pathankot"
+        },
+        {
+          "code": "pb.moga",
+          "name": "Moga"
+        },
+        {
+          "code": "pb.kapurthala",
+          "name": "Kapurthala"
+        },
+        {
+          "code": "pb.patiala",
+          "name": "Patiala"
+        },
+        {
+          "code": "pb.barnala",
+          "name": "Barnala"
+        },
+        {
+          "code": "pb.fatehgarhchurian",
+          "name": "Fatehgarhchurian"
+        },
+        {
+          "code": "pb.mullanpur",
+          "name": "Mullanpur"
+        },
+        {
+          "code": "pb.sanaur",
+          "name": "Sanaur"
+        },
+        {
+          "code": "pb.sultanpurlodhi",
+          "name": "Sultanpurlodhi"
+        },
+        {
+          "code": "pb.dinanagar",
+          "name": "Dinanagar"
+        },
+        {
+          "code": "pb.shahkot",
+          "name": "Shahkot"
+        },
+        {
+          "code": "pb.ghagga",
+          "name": "Ghagga"
+        },
+        {
+          "code": "pb.shamchurasi",
+          "name": "Shamchurasi"
+        },
+        {
+          "code": "pb.kotfatta",
+          "name": "Kotfatta"
+        },
+        {
+          "code": "pb.urmartanda",
+          "name": "Urmartanda"
+        },
+        {
+          "code": "pb.sardulgarh",
+          "name": "Sardulgarh"
+        },
+        {
+          "code": "pb.garhdiwala",
+          "name": "Garhdiwala"
+        },
+        {
+          "code": "pb.hariana",
+          "name": "Hariana"
+        },
+        {
+          "code": "pb.alawalpur",
+          "name": "Alawalpur"
+        },
+        {
+          "code": "pb.bhairoopa",
+          "name": "Bhairoopa"
+        },
+        {
+          "code": "pb.bhogpur",
+          "name": "Bhogpur"
+        },
+        {
+          "code": "pb.goraya",
+          "name": "Goraya"
+        },
+        {
+          "code": "pb.mehatpur",
+          "name": "Mehatpur"
+        },
+        {
+          "code": "pb.sirhind",
+          "name": "Sirhind"
+        },
+        {
+          "code": "pb.zira",
+          "name": "Zira"
+        },
+        {
+          "code": "pb.garhshankar",
+          "name": "Garhshankar"
+        },
+        {
+          "code": "pb.kotshamir",
+          "name": "Kotshamir"
+        },
+        {
+          "code": "pb.abohar",
+          "name": "Abohar"
+        },
+        {
+          "code": "pb.chamkaursahib",
+          "name": "Chamkaursahib"
+        },
+        {
+          "code": "pb.batala",
+          "name": "Batala"
+        },
+        {
+          "code": "pb.rajpura",
+          "name": "Rajpura"
+        },
+        {
+          "code": "pb.sangatmandi",
+          "name": "Sangatmandi"
+        },
+        {
+          "code": "pb.khanna",
+          "name": "Khanna"
+        },
+        {
+          "code": "pb.sangrur",
+          "name": "Sangrur"
+        },
+        {
+          "code": "pb.lalru",
+          "name": "Lalru"
+        },
+        {
+          "code": "pb.dharamkot",
+          "name": "Dharamkot"
+        },
+        {
+          "code": "pb.moonak",
+          "name": "Moonak"
+        },
+        {
+          "code": "pb.bareta",
+          "name": "Bareta"
+        },
+        {
+          "code": "pb.tarntaran",
+          "name": "Tarntaran"
+        },
+        {
+          "code": "pb.ropar",
+          "name": "Ropar"
+        },
+        {
+          "code": "pb.lehramohabbat",
+          "name": "Lehramohabbat"
+        },
+        {
+          "code": "pb.nawanshahr",
+          "name": "Nawanshahr"
+        },
+        {
+          "code": "pb.amloh",
+          "name": "Amloh"
+        },
+        {
+          "code": "pb.nurmahal",
+          "name": "Nurmahal"
+        },
+        {
+          "code": "pb.majitha",
+          "name": "Majitha"
+        },
+        {
+          "code": "pb.narotjaimalsingh",
+          "name": "Narotjaimalsingh"
+        },
+        {
+          "code": "pb.mansa",
+          "name": "Mansa"
+        },
+        {
+          "code": "pb.morinda",
+          "name": "Morinda"
+        },
+        {
+          "code": "pb.payal",
+          "name": "Payal"
+        },
+        {
+          "code": "pb.malout",
+          "name": "Malout"
+        },
+        {
+          "code": "pb.makhu",
+          "name": "Makhu"
+        },
+        {
+          "code": "pb.longowal",
+          "name": "Longowal"
+        },
+        {
+          "code": "pb.bhawanigarh",
+          "name": "Bhawanigarh"
+        },
+        {
+          "code": "pb.guruharsahai",
+          "name": "Guruharsahai"
+        },
+        {
+          "code": "pb.kothaguru",
+          "name": "Kothaguru"
+        },
+        {
+          "code": "pb.ramdass",
+          "name": "Ramdass"
+        },
+        {
+          "code": "pb.goniana",
+          "name": "Goniana"
+        },
+        {
+          "code": "pb.bhuchomandi",
+          "name": "Bhuchomandi"
+        },
+        {
+          "code": "pb.mahilpur",
+          "name": "Mahilpur"
+        },
+        {
+          "code": "pb.talwandibhai",
+          "name": "Talwandibhai"
+        },
+        {
+          "code": "pb.banur",
+          "name": "Banur"
+        },
+        {
+          "code": "pb.arniwala",
+          "name": "Arniwala"
+        },
+        {
+          "code": "pb.nathana",
+          "name": "Nathana"
+        },
+        {
+          "code": "pb.handiaya",
+          "name": "Handiaya"
+        },
+        {
+          "code": "pb.ahmedgarh",
+          "name": "Ahmedgarh"
+        },
+        {
+          "code": "pb.lehragaga",
+          "name": "Lehragaga"
+        },
+        {
+          "code": "pb.balianwali",
+          "name": "Balianwali"
+        },
+        {
+          "code": "pb.maluka",
+          "name": "Maluka"
+        },
+        {
+          "code": "pb.samana",
+          "name": "Samana"
+        },
+        {
+          "code": "pb.ajnala",
+          "name": "Ajnala"
+        },
+        {
+          "code": "pb.ferozepur",
+          "name": "Ferozepur"
+        },
+        {
+          "code": "pb.dirba",
+          "name": "Dirba"
+        },
+        {
+          "code": "pb.gurdaspur",
+          "name": "Gurdaspur"
+        },
+        {
+          "code": "pb.anandpursahib",
+          "name": "Anandpursahib"
+        },
+        {
+          "code": "pb.boha",
+          "name": "Boha"
+        },
+        {
+          "code": "pb.fazilka",
+          "name": "Fazilka"
+        },
+        {
+          "code": "pb.talwandisabo",
+          "name": "Talwandisabo"
+        },
+        {
+          "code": "pb.khanauri",
+          "name": "Khanauri"
+        },
+        {
+          "code": "pb.patti",
+          "name": "Patti"
+        },
+        {
+          "code": "pb.bhikhi",
+          "name": "Bhikhi"
+        },
+        {
+          "code": "pb.begowal",
+          "name": "Begowal"
+        },
+        {
+          "code": "pb.mudki",
+          "name": "Mudki"
+        },
+        {
+          "code": "pb.kiratpur",
+          "name": "Kiratpur"
+        },
+        {
+          "code": "pb.kurali",
+          "name": "Kurali"
+        },
+        {
+          "code": "pb.mohali",
+          "name": "Mohali"
+        },
+        {
+          "code": "pb.gidderbaha",
+          "name": "Gidderbaha"
+        },
+        {
+          "code": "pb.raikot",
+          "name": "Raikot"
+        },
+        {
+          "code": "pb.faridkot",
+          "name": "Faridkot"
+        },
+        {
+          "code": "pb.muktsar",
+          "name": "Muktsar"
+        },
+        {
+          "code": "pb.dasuya",
+          "name": "Dasuya"
+        },
+        {
+          "code": "pb.mamdot",
+          "name": "Mamdot"
+        },
+        {
+          "code": "pb.jalalabad",
+          "name": "Jalalabad"
+        },
+        {
+          "code": "pb.dhariwal",
+          "name": "Dhariwal"
+        },
+        {
+          "code": "pb.joga",
+          "name": "Joga"
+        },
+        {
+          "code": "pb.badhnikalan",
+          "name": "Badhnikalan"
+        },
+        {
+          "code": "pb.nihalsinghwala",
+          "name": "Nihalsinghwala"
+        },
+        {
+          "code": "pb.derabassi",
+          "name": "Derabassi"
+        },
+        {
+          "code": "pb.mandikalan",
+          "name": "Mandikalan"
+        },
+        {
+          "code": "pb.kharar",
+          "name": "Kharar"
+        },
+        {
+          "code": "pb.chaunke",
+          "name": "Chaunke"
+        },
+        {
+          "code": "pb.banga",
+          "name": "Banga"
+        },
+        {
+          "code": "pb.bhikhiwind",
+          "name": "Bhikhiwind"
+        },
+        {
+          "code": "pb.dhuri",
+          "name": "Dhuri"
+        },
+        {
+          "code": "pb.talwara",
+          "name": "Talwara"
+        },
+        {
+          "code": "pb.cheema",
+          "name": "Cheema"
+        },
+        {
+          "code": "pb.khemkaran",
+          "name": "Khemkaran"
+        },
+        {
+          "code": "pb.budhlada",
+          "name": "Budhlada"
+        },
+        {
+          "code": "pb.rampuraphul",
+          "name": "Rampuraphul"
+        },
+        {
+          "code": "pb.bariwala",
+          "name": "Bariwala"
+        },
+        {
+          "code": "pb.sujanpur",
+          "name": "Sujanpur"
+        },
+        {
+          "code": "pb.bhagtabhai",
+          "name": "Bhagtabhai"
+        },
+        {
+          "code": "pb.nangal",
+          "name": "Nangal"
+        },
+        {
+          "code": "pb.bhadson",
+          "name": "Bhadson"
+        },
+        {
+          "code": "pb.kotkapura",
+          "name": "Kotkapura"
+        },
+        {
+          "code": "pb.sahnewal",
+          "name": "Sahnewal"
+        },
+        {
+          "code": "pb.maur",
+          "name": "Maur"
+        },
+        {
+          "code": "pb.tapa",
+          "name": "Tapa"
+        },
+        {
+          "code": "pb.mandigobindgarh",
+          "name": "Mandigobindgarh"
+        },
+        {
+          "code": "pb.malerkotla",
+          "name": "Malerkotla"
+        },
+        {
+          "code": "pb.bhadaur",
+          "name": "Bhadaur"
+        },
+        {
+          "code": "pb.mukerian",
+          "name": "Mukerian"
+        },
+        {
+          "code": "pb.jagraon",
+          "name": "Jagraon"
+        },
+        {
+          "code": "pb.phillaur",
+          "name": "Phillaur"
+        },
+        {
+          "code": "pb.amargarh",
+          "name": "Amargarh"
+        },
+        {
+          "code": "pb.bassipathana",
+          "name": "Bassipathana"
+        },
+        {
+          "code": "pb.rahon",
+          "name": "Rahon"
+        },
+        {
+          "code": "pb.baghapurana",
+          "name": "Baghapurana"
+        },
+        {
+          "code": "pb.quadian",
+          "name": "Quadian"
+        },
+        {
+          "code": "pb.raman",
+          "name": "Raman"
+        },
+        {
+          "code": "pb.srihargobindpur",
+          "name": "Srihargobindpur"
+        },
+        {
+          "code": "pb.nabha",
+          "name": "Nabha"
+        },
+        {
+          "code": "pb.ghanaur",
+          "name": "Ghanaur"
+        },
+        {
+          "code": "pb.dhilwan",
+          "name": "Dhilwan"
+        },
+        {
+          "code": "pb.kartarpur",
+          "name": "Kartarpur"
+        },
+        {
+          "code": "pb.rajasansi",
+          "name": "Rajasansi"
+        },
+        {
+          "code": "pb.bhulath",
+          "name": "Bhulath"
+        },
+        {
+          "code": "pb.samrala",
+          "name": "Samrala"
+        },
+        {
+          "code": "pb.bathinda",
+          "name": "Bathinda"
+        },
+        {
+          "code": "pb.dhanaula",
+          "name": "Dhanaula"
+        },
+        {
+          "code": "pb.nayagaon",
+          "name": "Nayagaon"
+        },
+        {
+          "code": "pb.nadala",
+          "name": "Nadala"
+        },
+        {
+          "code": "pb.khamano",
+          "name": "Khamano"
+        },
+        {
+          "code": "pb.patran",
+          "name": "Patran"
+        },
+        {
+          "code": "pb.maloud",
+          "name": "Maloud"
+        },
+        {
+          "code": "pb.jandialaguru",
+          "name": "Jandialaguru"
+        },
+        {
+          "code": "pb.lohiankhas",
+          "name": "Lohiankhas"
+        },
+        {
+          "code": "pb.mallanwala",
+          "name": "Mallanwala"
+        },
+        {
+          "code": "pb.nakodar",
+          "name": "Nakodar"
+        },
+        {
+          "code": "pb.mehraj",
+          "name": "Mehraj"
+        },
+        {
+          "code": "pb.sunam",
+          "name": "Sunam"
+        },
+        {
+          "code": "pb.kotissekhan",
+          "name": "Kotissekhan"
+        },
+        {
+          "code": "pb.rampura",
+          "name": "Rampura"
+        },
+        {
+          "code": "pb.balachaur",
+          "name": "Balachaur"
+        },
+        {
+          "code": "pb.adampur",
+          "name": "Adampur"
+        },
+        {
+          "code": "pb.derababananak",
+          "name": "Derababananak"
+        },
+        {
+          "code": "pb.doraha",
+          "name": "Doraha"
+        },
+        {
+          "code": "pb.rayya",
+          "name": "Rayya"
+        },
+        {
+          "code": "pb.jaitu",
+          "name": "Jaitu"
+        },
+        {
+          "code": "pb.fatehgarhpanjtoor",
+          "name": "Fatehgarhpanjtoor"
+        },
+        {
+          "code": "pb.bilga",
+          "name": "Bilga"
+        },
+        {
+          "code": "pb.machhiwara",
+          "name": "Machhiwara"
+        }
+      ]
     },
     {
       "module": "FIRENOC",
       "code": "FIRENOC",
-      "order":5,
-      "active":true,
+      "order": 5,
+      "active": true,
       "tenants": [
         {
           "code": "pb.fatehgarhchurian"
@@ -3200,30 +3196,30 @@
           "code": "pb.mullanpur"
         },
         {
-           "code": "pb.raikot"
+          "code": "pb.raikot"
         },
         {
-           "code": "pb.morinda"  
+          "code": "pb.morinda"
         },
         {
-           "code": "pb.tapa"  
+          "code": "pb.tapa"
         },
         {
-           "code": "pb.talwandisabo"  
+          "code": "pb.talwandisabo"
         },
         {
-           "code": "pb.bhikhi"   
+          "code": "pb.bhikhi"
         },
         {
-           "code": "pb.moonak"     
+          "code": "pb.moonak"
         }
       ]
     },
     {
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
-      "order":1,
-      "active":true,
+      "order": 1,
+      "active": true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3236,8 +3232,8 @@
     {
       "module": "BPAREG",
       "code": "BPAREG",
-      "order":2,
-      "active":true,
+      "order": 2,
+      "active": true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3250,8 +3246,8 @@
     {
       "module": "OBPS",
       "code": "OBPS",
-      "order":3,
-      "active":true,
+      "order": 3,
+      "active": true,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3265,7 +3261,7 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 9,
       "tenants": [
         {
           "code": "pb.testing"
@@ -3279,13 +3275,531 @@
       "module": "BR",
       "code": "BR",
       "active": true,
-      "order":9,
+      "order": 10,
       "tenants": [
         {
           "code": "pb.testing"
         },
         {
           "code": "pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 11,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.adampur"
+        },
+        {
+          "code": "pb.alawalpur"
+        },
+        {
+          "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.itpatiala"
+        },
+        {
+          "code": "pb.bathinda"
+        },
+        {
+          "code": "pb.hoshiarpur"
+        },
+        {
+          "code": "pb.jagraon"
+        },
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.khamano"
+        },
+        {
+          "code": "pb.ludhiana"
+        },
+        {
+          "code": "pb.machhiwara"
+        },
+        {
+          "code": "pb.makhu"
+        },
+        {
+          "code": "pb.moga"
+        },
+        {
+          "code": "pb.mohali"
+        },
+        {
+          "code": "pb.mullanpur"
+        },
+        {
+          "code": "pb.pathankot"
+        },
+        {
+          "code": "pb.patiala"
+        },
+        {
+          "code": "pb.phagwara"
+        },
+        {
+          "code": "pb.raikot"
+        },
+        {
+          "code": "pb.raman"
+        },
+        {
+          "code": "pb.sahnewal"
+        },
+        {
+          "code": "pb.samrala"
+        },
+        {
+          "code": "pb.sujanpur"
+        },
+        {
+          "code": "pb.goniana"
+        },
+        {
+          "code": "pb.balianwali"
+        },
+        {
+          "code": "pb.bhuchomandi"
+        },
+        {
+          "code": "pb.rampuraphul"
+        },
+        {
+          "code": "pb.maur"
+        },
+        {
+          "code": "pb.kotfatta"
+        },
+        {
+          "code": "pb.talwandisabo"
+        },
+        {
+          "code": "pb.bariwala"
+        },
+        {
+          "code": "pb.sardulgarh"
+        },
+        {
+          "code": "pb.sangatmandi"
+        },
+        {
+          "code": "pb.gidderbaha"
+        },
+        {
+          "code": "pb.bhagtabhai"
+        },
+        {
+          "code": "pb.bhairoopa"
+        },
+        {
+          "code": "pb.boha"
+        },
+        {
+          "code": "pb.chaunke"
+        },
+        {
+          "code": "pb.kotshamir"
+        },
+        {
+          "code": "pb.lehramohabbat"
+        },
+        {
+          "code": "pb.maluka"
+        },
+        {
+          "code": "pb.bhogpur"
+        },
+        {
+          "code": "pb.shahkot"
+        },
+        {
+          "code": "pb.mehraj"
+        },
+        {
+          "code": "pb.balachaur"
+        },
+        {
+          "code": "pb.kartarpur"
+        },
+        {
+          "code": "pb.hariana"
+        },
+        {
+          "code": "pb.mahilpur"
+        },
+        {
+          "code": "pb.mehatpur"
+        },
+        {
+          "code": "pb.mukerian"
+        },
+        {
+          "code": "pb.urmartanda"
+        },
+        {
+          "code": "pb.garhshankar"
+        },
+        {
+          "code": "pb.dasuya"
+        },
+        {
+          "code": "pb.kotissekhan"
+        },
+        {
+          "code": "pb.nathana"
+        },
+        {
+          "code": "pb.garhdiwala"
+        },
+        {
+          "code": "pb.shamchurasi"
+        },
+        {
+          "code": "pb.mudki"
+        },
+        {
+          "code": "pb.mamdot"
+        },
+        {
+          "code": "pb.jalalabad"
+        },
+        {
+          "code": "pb.nabha"
+        },
+        {
+          "code": "pb.cheema"
+        },
+        {
+          "code": "pb.nihalsinghwala"
+        },
+        {
+          "code": "pb.gurdaspur"
+        },
+        {
+          "code": "pb.fatehgarhpanjtoor"
+        },
+        {
+          "code": "pb.joga"
+        },
+        {
+          "code": "pb.kothaguru"
+        },
+        {
+          "code": "pb.baghapurana"
+        },
+        {
+          "code": "pb.fazilka"
+        },
+        {
+          "code": "pb.guruharsahai"
+        },
+        {
+          "code": "pb.faridkot"
+        },
+        {
+          "code": "pb.patran"
+        },
+        {
+          "code": "pb.arniwala"
+        },
+        {
+          "code": "pb.ghanaur"
+        },
+        {
+          "code": "pb.banur"
+        },
+        {
+          "code": "pb.abohar"
+        },
+        {
+          "code": "pb.kurali"
+        },
+        {
+          "code": "pb.amargarh"
+        },
+        {
+          "code": "pb.quadian"
+        },
+        {
+          "code": "pb.banga"
+        },
+        {
+          "code": "pb.khanauri"
+        },
+        {
+          "code": "pb.samana"
+        },
+        {
+          "code": "pb.tapa"
+        },
+        {
+          "code": "pb.moonak"
+        },
+        {
+          "code": "pb.derabassi"
+        },
+        {
+          "code": "pb.zirakpur"
+        },
+        {
+          "code": "pb.handiaya"
+        },
+        {
+          "code": "pb.maloud"
+        },
+        {
+          "code": "pb.dhanaula"
+        },
+        {
+          "code": "pb.ghagga"
+        },
+        {
+          "code": "pb.jaitu"
+        },
+        {
+          "code": "pb.longowal"
+        },
+        {
+          "code": "pb.chamkaursahib"
+        },
+        {
+          "code": "pb.lalru"
+        },
+        {
+          "code": "pb.nayagaon"
+        },
+        {
+          "code": "pb.sangrur"
+        },
+        {
+          "code": "pb.lohiankhas"
+        },
+        {
+          "code": "pb.bhadaur"
+        },
+        {
+          "code": "pb.begowal"
+        },
+        {
+          "code": "pb.zira"
+        },
+        {
+          "code": "pb.bhulath"
+        },
+        {
+          "code": "pb.kapurthala"
+        },
+        {
+          "code": "pb.goraya"
+        },
+        {
+          "code": "pb.nadala"
+        },
+        {
+          "code": "pb.nakodar"
+        },
+        {
+          "code": "pb.nurmahal"
+        },
+        {
+          "code": "pb.phillaur"
+        },
+        {
+          "code": "pb.sultanpurlodhi"
+        },
+        {
+          "code": "pb.dhilwan"
+        },
+        {
+          "code": "pb.talwara"
+        },
+        {
+          "code": "pb.ahmedgarh"
+        },
+        {
+          "code": "pb.rahon"
+        },
+        {
+          "code": "pb.bhawanigarh"
+        },
+        {
+          "code": "pb.barnala"
+        },
+        {
+          "code": "pb.bassipathana"
+        },
+        {
+          "code": "pb.kharar"
+        },
+        {
+          "code": "pb.srihargobindpur"
+        },
+        {
+          "code": "pb.rampura"
+        },
+        {
+          "code": "pb.dinanagar"
+        },
+        {
+          "code": "pb.badhnikalan"
+        },
+        {
+          "code": "pb.bareta"
+        },
+        {
+          "code": "pb.bhikhi"
+        },
+        {
+          "code": "pb.budhlada"
+        },
+        {
+          "code": "pb.kiratpur"
+        },
+        {
+          "code": "pb.mallanwala"
+        },
+        {
+          "code": "pb.mandikalan"
+        },
+        {
+          "code": "pb.patti"
+        },
+        {
+          "code": "pb.rayya"
+        },
+        {
+          "code": "pb.nangal"
+        },
+        {
+          "code": "pb.malout"
+        },
+        {
+          "code": "pb.derababananak"
+        },
+        {
+          "code": "pb.fatehgarhchurian"
+        },
+        {
+          "code": "pb.ajnala"
+        },
+        {
+          "code": "pb.khanna"
+        },
+        {
+          "code": "pb.kotkapura"
+        },
+        {
+          "code": "pb.muktsar"
+        },
+        {
+          "code": "pb.sanaur"
+        },
+        {
+          "code": "pb.tarntaran"
+        },
+        {
+          "code": "pb.lehragaga"
+        },
+        {
+          "code": "pb.payal"
+        },
+        {
+          "code": "pb.morinda"
+        },
+        {
+          "code": "pb.ropar"
+        },
+        {
+          "code": "pb.dirba"
+        },
+        {
+          "code": "pb.bhikhiwind"
+        },
+        {
+          "code": "pb.jandialaguru"
+        },
+        {
+          "code": "pb.anandpursahib"
+        },
+        {
+          "code": "pb.batala"
+        },
+        {
+          "code": "pb.dhariwal"
+        },
+        {
+          "code": "pb.khemkaran"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "pb.ramdass"
+        },
+        {
+          "code": "pb.sirhind"
+        },
+        {
+          "code": "pb.bhadson"
+        },
+        {
+          "code": "pb.mandigobindgarh"
+        },
+        {
+          "code": "pb.amloh"
+        },
+        {
+          "code": "pb.dhuri"
+        },
+        {
+          "code": "pb.doraha"
+        },
+        {
+          "code": "pb.malerkotla"
+        },
+        {
+          "code": "pb.bilga"
+        },
+        {
+          "code": "pb.majitha"
+        },
+        {
+          "code": "pb.narotjaimalsingh"
+        },
+        {
+          "code": "pb.ferozepur"
+        },
+        {
+          "code": "pb.rajpura"
+        },
+        {
+          "code": "pb.dharamkot"
+        },
+        {
+          "code": "pb.mansa"
+        },
+        {
+          "code": "pb.sunam"
+        },
+        {
+          "code": "pb.rajasansi"
+        },
+        {
+          "code": "pb.talwandibhai"
+        },
+        {
+          "code": "pb.bababakalasahib"
         }
       ]
     }
