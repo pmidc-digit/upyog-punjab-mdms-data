@@ -4924,6 +4924,20 @@
       "leftIcon": "social:people"
     },
     {
+      "id": 1774,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Create Employee",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/hrms/_create",
+      "path": "HRMS.Search",
+      "leftIcon": "social:people"
+    },
+    {
       "id": 1775,
       "name": "rainmaker-common-complaints",
       "url": "card",
