@@ -15566,7 +15566,40 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
 	      
-      }
+      },
+      {
+      "id": 2601,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/batchbilling/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+	    {
+      "id": 2602,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/integratedbills/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+	    {
+      "id": 2603,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/groupbills/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    }
 	  
   ]
 }
