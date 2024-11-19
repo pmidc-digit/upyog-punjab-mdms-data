@@ -1657,7 +1657,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.StartWorkflow"
     },
     {
@@ -1669,7 +1668,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.UpdateWorkflow"
     },
     {
@@ -1681,7 +1679,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.UpdateReceipt"
     },
     {
@@ -1693,7 +1690,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.GetDistinctCollectedBy"
     },
     {
@@ -1705,7 +1701,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.Collection status"
     },
     {
@@ -1717,7 +1712,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.Business Details"
     },
     {
@@ -1740,7 +1734,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-MASTERS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Masters.GetBusinessTypes"
     },
     {
@@ -1905,7 +1898,6 @@
       "enabled": false,
       "serviceCode": "COLLECTION-TRANSACTIONS",
       "code": "null",
-      "leftIcon": "editor:collections",
       "path": "Collection.Collection Transactions.LegacyCreateReceipt"
     },
     {
@@ -2465,7 +2457,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "AllComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "all-complaints",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -2494,9 +2486,9 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.MyComplaints",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
-      "leftIcon": "action:announcement",
+      "path": "PGR.MyComplaints",
+      "navigationURL": "all-complaints",
+      "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
     {
@@ -2509,7 +2501,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.Closed Complaints",
+      "path": "PGR.MyComplaints",
       "navigationURL": "closed-complaints",
       "leftIcon": "custom:closed-complaints",
       "rightIcon": ""
@@ -2524,8 +2516,8 @@
       "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "path": "PGR.CreateComplaint",
+      "navigationURL": "create-complaint",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -2895,10 +2887,10 @@
       "displayName": "Employee",
       "orderNumber": 7,
       "parentModule": "rainmaker-pgr",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Complaints.PGR Reports.EmployeeReport",
+      "path": "PGR.PGR Reports.EmployeeReport",
       "navigationURL": "report/rainmaker-pgr/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -3990,30 +3982,28 @@
     {
       "id": 1690,
       "name": "TradeLicenseApplication",
-      "url": "quickAction",
-      "displayName": "Apply TL",
+      "url": "url",
+      "displayName": "Application",
       "orderNumber": 13,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
-      "path": "TradeLicense.Apply",
-      "leftIcon": "places:business-center"
+      "navigationURL": "tradelicence/search",
+      "path": "Trade License.Application"
     },
     {
       "id": 1691,
       "name": "Misc.Receipts",
       "url": "url",
       "displayName": "Miscellaneous Receipts",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
-      "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+      "path": "Collections.Miscellaneous Receipts"
     },
     {
       "id": 1693,
@@ -4026,8 +4016,7 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/searchReceipt.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Search Receipts"
+      "path": "Collections.Search Receipts"
     },
     {
       "id": 1694,
@@ -4088,8 +4077,7 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cash Remittance"
+      "path": "Collections.Cash Remittance"
     },
     {
       "id": 1700,
@@ -4511,7 +4499,6 @@
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "navigationURL": "report/finance/ReceiptRegister",
-      "leftIcon": "image:collections",
       "path": "Collections.Reports.Receipt Register "
     },
     {
@@ -4525,8 +4512,7 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cheque Remittance"
+      "path": "Collections.Cheque Remittance"
     },
     {
       "id": 1735,
@@ -4648,12 +4634,11 @@
       "displayName": "Create Bankaccount Mapping",
       "orderNumber": 5,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Set-up.Create Bankaccount Mapping"
+      "path": "Collections.Administration.Create Bankaccount Mapping"
     },
     {
       "id": 1745,
@@ -4666,8 +4651,7 @@
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Set-up.View Bankaccount Mapping"
+      "path": "Collections.Administration.View Bankaccount Mapping"
     },
     {
       "id": 1746,
@@ -4919,21 +4903,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
-      "path": "HRMS.Search",
-      "leftIcon": "social:people"
-    },
-    {
-      "id": 1774,
-      "name": "HRMS",
-      "url": "url",
-      "displayName": "Create Employee",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "HRMS",
-      "code": "null",
-      "navigationURL": "/digit-ui/employee/hrms/_create",
+      "navigationURL": "hrms/search",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -4948,7 +4918,7 @@
       "serviceCode": "PGR",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "navigationURL": "all-complaints",
       "leftIcon": "action:announcement",
       "rightIcon": "",
       "queryParams": ""
@@ -5012,7 +4982,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "navigationURL": "hrms/search",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -5422,7 +5392,7 @@
     {
       "id": 1809,
       "name": "businessDetails create",
-      "url": "/egov-common-masters/businessDetails/_create",
+      "url": "/egov-common-masters/businessDetails/_update",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -5435,7 +5405,7 @@
     {
       "id": 1810,
       "name": "business category create",
-      "url": "/egov-common-masters/businessCategory/_create",
+      "url": "/egov-common-masters/businessCategory/_update",
       "parentModule": "",
       "displayName": "business category search",
       "orderNumber": 0,
@@ -6557,7 +6527,7 @@
     },
     {
       "id": 1896,
-      "name": "Collection Search Reciept",
+      "name": "Collection Saerch Reciept",
       "url": "/collection-services/payments/_search",
       "displayName": "Search Payment",
       "orderNumber": 0,
@@ -6577,7 +6547,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints.CreateComplaint",
-      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
+      "navigationURL": "create-complaint",
       "quickAction": true,
       "leftIcon": "content:add",
       "rightIcon": ""
@@ -6645,8 +6615,8 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/employee/tl/new-application",
-      "path": "TradeLicense.Apply",
+      "navigationURL": "tradelicence/apply",
+      "path": "Trade License.Apply",
       "leftIcon": "places:business-center"
     },
     {
@@ -6933,7 +6903,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "tradelicense-citizen/home",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -7037,7 +7007,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/",
+      "navigationURL": "tradelicense-citizen/home",
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
@@ -7053,7 +7023,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "/digit-ui/citizen/pgr/complaints",
+      "navigationURL": "pgr-home",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
@@ -8262,53 +8232,56 @@
       "serviceCode": "RainmakerPGRReports",
       "code": "null",
       "path": "Asset Management.Asset Reports.AssetImmovableRegister"
+
     },
-    {
-      "id": 2030,
-      "name": "UrbanChannelsReport_V2",
-      "url": "url",
-      "displayName": "Channels Report",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FIRE-NOC.Reports.Urban.ChannelsReport_V2",
-      "navigationURL": "report/rainmaker-noc/UrbanChannelsReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
+    {  
+        "id": 2030,
+        "name": "UrbanChannelsReport_V2",
+        "url": "url",
+        "displayName": "Channels Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.ChannelsReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanChannelsReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+      {
+
+        "id": 2031,
+        "name": "UrbanApplicationStatusReport_V2",
+        "url": "url",
+        "displayName": "Application Status Report",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.ApplicationStatusReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanApplicationStatusReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+      {
+        "id": 2032,
+        "name": "UrbanCollectionReport_V2",
+        "url": "url",
+        "displayName": "Collection Report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.CollectionReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanCollectionReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+        
     },
-    {
-      "id": 2031,
-      "name": "UrbanApplicationStatusReport_V2",
-      "url": "url",
-      "displayName": "Application Status Report",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FIRE-NOC.Reports.Urban.ApplicationStatusReport_V2",
-      "navigationURL": "report/rainmaker-noc/UrbanApplicationStatusReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2032,
-      "name": "UrbanCollectionReport_V2",
-      "url": "url",
-      "displayName": "Collection Report",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FIRE-NOC.Reports.Urban.CollectionReport_V2",
-      "navigationURL": "report/rainmaker-noc/UrbanCollectionReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
+	{
       "id": 2033,
       "name": "Assessment Report",
       "url": "url",
@@ -8337,7 +8310,8 @@
       "navigationURL": "report/rainmaker-pt/DumpReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+
+    }, 
     {
       "id": 2035,
       "name": "ReceiptRegisterFirenocReport_V2",
@@ -8352,21 +8326,23 @@
       "navigationURL": "report/rainmaker-noc/ReceiptRegisterFirenocReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+
+    }, 
     {
-      "id": 2036,
-      "name": "CancelledReceiptRegisterFirenocReport_V2",
-      "url": "url",
-      "displayName": "Cancelled Receipt Register FireNoc",
-      "orderNumber": 6,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": "FIRE-NOC.Reports.FirenocReports.CancelledReceiptRegisterFirenocReport_V2",
-      "navigationURL": "report/rainmaker-noc/CancelledReceiptRegisterFirenocReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
+        "id": 2036,
+        "name": "CancelledReceiptRegisterFirenocReport_V2",
+        "url": "url",
+        "displayName": "Cancelled Receipt Register FireNoc",
+        "orderNumber": 6,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.FirenocReports.CancelledReceiptRegisterFirenocReport_V2",
+        "navigationURL": "report/rainmaker-noc/CancelledReceiptRegisterFirenocReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""  
+      
     },
     {
       "id": 2037,
@@ -8393,8 +8369,8 @@
       "path": "Property Tax.PT Reports.Other Reports.ZoneFYReport_V2",
       "navigationURL": "report/rainmaker-pt/ZoneFYReport_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
+      "rightIcon": ""  
+    },	    
     {
       "id": 2039,
       "name": "BlockFYReport_V2",
@@ -8408,9 +8384,9 @@
       "path": "Property Tax.PT Reports.Other Reports.BlockFYReport_V2",
       "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
+      "rightIcon": ""      
+   },
+   {
       "id": 2040,
       "name": "Receipt Register_Without_Locality_V2",
       "url": "url",
@@ -8481,7 +8457,7 @@
       "code": "null",
       "path": ""
     },
-    {
+    {    
       "id": 2045,
       "name": "ULBDEFAULTERPTREPORT_MINI_STATE_V2",
       "url": "url",
@@ -8496,7 +8472,8 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+    {	  
+	    
       "id": 2046,
       "name": "StateTradeLicenseDetailsReport_v2",
       "url": "url",
@@ -8509,7 +8486,8 @@
       "path": "State Reports.TL.StateTradeLicenseDetailsReport_v2",
       "navigationURL": "report/rainmaker-tl/StateTradeLicenseDetailsReport_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""	    
+	    
     },
     {
       "id": 2047,
@@ -8526,7 +8504,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+	{
       "id": 2048,
       "name": "Status Report_V2",
       "url": "url",
@@ -8541,8 +8519,8 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
-      "id": 2049,
+     {
+      "id":2049,
       "name": "TradeLicensePendencyReport",
       "url": "url",
       "displayName": "TL Pendency Report",
@@ -8556,7 +8534,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2050,
       "name": "PendingPTApplicationsReport_V2",
       "url": "url",
@@ -8570,9 +8548,9 @@
       "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2051,
+    },  
+     {
+      "id":2051,
       "name": "EmployeeWiseCollectionTL_v2",
       "url": "url",
       "displayName": "Employee Wise Collection TL",
@@ -8586,7 +8564,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2052,
       "name": "EmployeeWiseCollectionUC_v2",
       "url": "url",
@@ -8600,407 +8578,544 @@
       "path": "Misc_Collect.Reports.EmployeeWiseCollectionUC_v2"
     },
     {
-      "id": 2053,
-      "name": "rainmaker-localization-screen",
-      "url": "url",
-      "displayName": "Localization",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "Localization",
-      "navigationURL": "integration/ui-localisation/localization",
-      "leftIcon": "places:business-center",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 2054,
-      "name": "consolidatedreceipt search",
-      "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
-      "displayName": "consolidatedreceipt search",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2055,
-      "name": "consolidatedbill search",
-      "url": "/egov-pdf/download/BILL/consolidatedbill",
-      "displayName": "consolidatedbill search",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2056,
-      "name": "tlreceipt search",
-      "url": "/egov-pdf/download/TL/tlreceipt",
-      "displayName": "tlreceipt search",
-      "orderNumber": 3,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2057,
-      "name": "tlcertificate search",
-      "url": "/egov-pdf/download/TL/tlcertificate",
-      "displayName": "tlcertificate search",
-      "orderNumber": 4,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2058,
-      "name": "tlrenewalcertificate search",
-      "url": "/egov-pdf/download/TL/tlrenewalcertificate",
-      "displayName": "tlrenewalcertificate search",
-      "orderNumber": 5,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2059,
-      "name": "tlbill search",
-      "url": "/egov-pdf/download/TL/tlbill",
-      "displayName": "tlbill search",
-      "orderNumber": 6,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2060,
-      "name": "ptmutationcertificate search",
-      "url": "/egov-pdf/download/PT/ptmutationcertificate",
-      "displayName": "ptmutationcertificate search",
-      "orderNumber": 7,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2061,
-      "name": "ptbill search",
-      "url": "/egov-pdf/download/PT/ptbill",
-      "displayName": "ptbill search",
-      "orderNumber": 8,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2062,
-      "name": "ptreceipt search",
-      "url": "/egov-pdf/download/PT/ptreceipt",
-      "displayName": "ptreceipt search",
-      "orderNumber": 9,
-      "enabled": false,
-      "serviceCode": "egov-pdf",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2063,
-      "name": "Locality searcher endpoint for SW",
-      "url": "/egov-searcher/locality/sw-services/_get",
-      "displayName": "SW-Service locality searcher",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2064,
-      "name": "Locality searcher endpoint for WS",
-      "url": "/egov-searcher/locality/ws-services/_get",
-      "displayName": "WS-Service locality searcher",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2065,
-      "name": "LocalizationMessagesSearch",
-      "url": "/localization/messages/v2/_search",
-      "displayName": "Localization Messages Search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "localisation search",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2066,
-      "name": "BillGenie",
-      "url": "url",
-      "displayName": "BillGenie",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "BG",
-      "code": "null",
-      "navigationURL": "abg/billSearch",
-      "path": "w_s.BG",
-      "leftIcon": "action:receipt"
-    },
-    {
-      "id": 2067,
-      "name": "Receipt Register SW",
-      "url": "url",
-      "displayName": "Receipt Register SW",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Receipt RegisterSW",
-      "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2068,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/ReceiptRegisterSW/metadata/_get",
-      "displayName": "WS Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2069,
-      "name": "WSReport",
-      "url": "/report/rainmaker-ws/metadata/_get",
-      "displayName": "WS Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2070,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/_get",
-      "displayName": "WS Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": "WS Report"
-    },
-    {
-      "id": 2071,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/ReceiptRegisterSW/_get",
-      "displayName": "WS Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2072,
-      "name": "BillAmendment",
-      "url": "url",
-      "displayName": "BillAmendment",
-      "orderNumber": 23,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "navigationURL": "bill-amend/search",
-      "path": "",
-      "leftIcon": "action:receipt"
-    },
-    {
-      "id": 2073,
-      "name": "BillAmendment",
-      "url": "card",
-      "displayName": "BillAmendment",
-      "orderNumber": 22,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "bill-amend/search",
-      "leftIcon": "action:receipt",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 2074,
-      "name": "PT Receipt Update",
-      "url": "/collection-services/payments/PT/_workflow",
-      "displayName": "PT Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2075,
-      "name": "PT Payment search",
-      "url": "/collection-services/payments/PT/_search",
-      "displayName": "PT Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2076,
-      "name": "ReceiptCancellation",
-      "url": "url",
-      "displayName": "ReceiptCancellation",
-      "orderNumber": 24,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "navigationURL": "receipts/search",
-      "path": "",
-      "leftIcon": "action:receipt"
-    },
-    {
-      "id": 2077,
-      "name": "ReceiptCancellation",
-      "url": "card",
-      "displayName": "ReceiptCancellation",
-      "orderNumber": 25,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "receipts",
-      "navigationURL": "receipts/search",
-      "leftIcon": "action:receipt",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 2078,
-      "name": "PT Payment search",
-      "url": "/collection-services/payments/PT.MUTATION/_search",
-      "displayName": "PT Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2079,
-      "name": "TL Payment search",
-      "url": "/collection-services/payments/TL/_search",
-      "displayName": "TL Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2080,
-      "name": "FIRENOC Payment search",
-      "url": "/collection-services/payments/FIRENOC/_search",
-      "displayName": "FIRENOC Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2081,
-      "name": "WS Payment search",
-      "url": "/collection-services/payments/WS/_search",
-      "displayName": "WS Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2082,
-      "name": "SW Payment search",
-      "url": "/collection-services/payments/SW/_search",
-      "displayName": "SW Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2083,
-      "name": "UC Payment search",
-      "url": "/collection-services/payments/ADVT/_search",
-      "displayName": "UC Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2084,
-      "name": "UC Payment search",
-      "url": "/collection-services/payments/UC/_search",
-      "displayName": "UC Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2085,
-      "name": "DEFAULT Payment search",
-      "url": "/collection-services/payments/DEFAULT/_search",
-      "displayName": "DEFAULT Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
+
+      "id":2053,
+   
+      "name":"rainmaker-localization-screen",
+   
+      "url":"url",
+   
+      "displayName":"Localization",
+   
+      "orderNumber":5,
+   
+      "parentModule":"",
+   
+      "enabled":true,
+   
+      "serviceCode":"",
+   
+      "code":"",
+   
+      "path":"Localization",
+   
+      "navigationURL":"integration/ui-localisation/localization",
+   
+      "leftIcon":"places:business-center",
+   
+      "rightIcon":"",
+   
+      "queryParams":""
+   
+   },
+   
+   {
+   
+      "id":2054,
+   
+      "name":"consolidatedreceipt search",
+   
+      "url":"/egov-pdf/download/PAYMENT/consolidatedreceipt",
+   
+      "displayName":"consolidatedreceipt search",
+   
+      "orderNumber":1,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2055,
+   
+      "name":"consolidatedbill search",
+   
+      "url":"/egov-pdf/download/BILL/consolidatedbill",
+   
+      "displayName":"consolidatedbill search",
+   
+      "orderNumber":2,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2056,
+   
+      "name":"tlreceipt search",
+   
+      "url":"/egov-pdf/download/TL/tlreceipt",
+   
+      "displayName":"tlreceipt search",
+   
+      "orderNumber":3,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2057,
+   
+      "name":"tlcertificate search",
+   
+      "url":"/egov-pdf/download/TL/tlcertificate",
+   
+      "displayName":"tlcertificate search",
+   
+      "orderNumber":4,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2058,
+   
+      "name":"tlrenewalcertificate search",
+   
+      "url":"/egov-pdf/download/TL/tlrenewalcertificate",
+   
+      "displayName":"tlrenewalcertificate search",
+   
+      "orderNumber":5,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2059,
+   
+      "name":"tlbill search",
+   
+      "url":"/egov-pdf/download/TL/tlbill",
+   
+      "displayName":"tlbill search",
+   
+      "orderNumber":6,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2060,
+   
+      "name":"ptmutationcertificate search",
+   
+      "url":"/egov-pdf/download/PT/ptmutationcertificate",
+   
+      "displayName":"ptmutationcertificate search",
+   
+      "orderNumber":7,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2061,
+   
+      "name":"ptbill search",
+   
+      "url":"/egov-pdf/download/PT/ptbill",
+   
+      "displayName":"ptbill search",
+   
+      "orderNumber":8,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2062,
+   
+      "name":"ptreceipt search",
+   
+      "url":"/egov-pdf/download/PT/ptreceipt",
+   
+      "displayName":"ptreceipt search",
+   
+      "orderNumber":9,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2063,
+   
+      "name":"Locality searcher endpoint for SW",
+   
+      "url":"/egov-searcher/locality/sw-services/_get",
+   
+      "displayName":"SW-Service locality searcher",
+   
+      "orderNumber":0,
+   
+      "enabled":true,
+   
+      "serviceCode":"egov-searcher",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2064,
+   
+      "name":"Locality searcher endpoint for WS",
+   
+      "url":"/egov-searcher/locality/ws-services/_get",
+   
+      "displayName":"WS-Service locality searcher",
+   
+      "orderNumber":0,
+   
+      "enabled":true,
+   
+      "serviceCode":"egov-searcher",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   {
+         "id": 2065,
+         "name": "LocalizationMessagesSearch",
+         "url": "/localization/messages/v2/_search",
+         "displayName": "Localization Messages Search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "localisation search",
+         "code": "null",
+         "path": ""
+       },
+   
+     {
+         "id": 2066,
+         "name": "BillGenie",
+         "url": "url",
+         "displayName": "BillGenie",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "BG",
+         "code": "null",
+         "navigationURL": "abg/billSearch",
+         "path": "w_s.BG",
+         "leftIcon": "action:receipt"
+       },
+        {
+         "id": 2067,
+         "name": "Receipt Register SW",
+         "url": "url",
+         "displayName": "Receipt Register SW",
+         "orderNumber": 1,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "path": "w_s.WS Reports.Receipt RegisterSW",
+         "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+       },
+       {
+         "id": 2068,
+         "name": "WS Report",
+         "url": "/report/rainmaker-ws/ReceiptRegisterSW/metadata/_get",
+         "displayName": "WS Report metadata",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2069,
+         "name": "WSReport",
+         "url": "/report/rainmaker-ws/metadata/_get",
+         "displayName": "WS Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2070,
+         "name": "WS Report",
+         "url": "/report/rainmaker-ws/_get",
+         "displayName": "WS Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": "WS Report"
+       }
+       ,{
+        "id": 2071,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/ReceiptRegisterSW/_get",
+        "displayName": "WS Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2072,
+        "name": "BillAmendment",
+        "url": "url",
+        "displayName": "BillAmendment",
+        "orderNumber": 23,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "bill-amend/search",
+        "path": "",
+        "leftIcon": "action:receipt"
+      },
+      {
+        "id": 2073,
+        "name": "BillAmendment",
+        "url": "card",
+        "displayName": "BillAmendment",
+        "orderNumber": 22,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL":"bill-amend/search",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2074,
+        "name": "PT Receipt Update",
+        "url": "/collection-services/payments/PT/_workflow",
+        "displayName": "PT Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2075,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2076,
+        "name": "ReceiptCancellation",
+        "url": "url",
+        "displayName": "ReceiptCancellation",
+        "orderNumber": 24,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "receipts/search",
+        "path": "",
+        "leftIcon": "action:receipt"
+      },
+      {
+        "id": 2077,
+        "name": "ReceiptCancellation",
+        "url": "card",
+        "displayName": "ReceiptCancellation",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "receipts",
+        "navigationURL": "receipts/search",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2078,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT.MUTATION/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2079,
+        "name": "TL Payment search",
+        "url": "/collection-services/payments/TL/_search",
+        "displayName": "TL Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2080,
+        "name": "FIRENOC Payment search",
+        "url": "/collection-services/payments/FIRENOC/_search",
+        "displayName": "FIRENOC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2081,
+        "name": "WS Payment search",
+        "url": "/collection-services/payments/WS/_search",
+        "displayName": "WS Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2082,
+        "name": "SW Payment search",
+        "url": "/collection-services/payments/SW/_search",
+        "displayName": "SW Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2083,
+        "name": "UC Payment search",
+        "url": "/collection-services/payments/ADVT/_search",
+        "displayName": "UC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2084,
+        "name": "UC Payment search",
+        "url": "/collection-services/payments/UC/_search",
+        "displayName": "UC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2085,
+        "name": "DEFAULT Payment search",
+        "url": "/collection-services/payments/DEFAULT/_search",
+        "displayName": "DEFAULT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
     {
       "id": 2086,
       "name": "DEFAULT Payment search",
@@ -9049,7 +9164,11 @@
       "code": "null",
       "path": ""
     },
-    {
+   
+  
+  
+  
+     {
       "id": 2090,
       "name": "Base Register Report WS",
       "url": "url",
@@ -9063,30 +9182,30 @@
       "navigationURL": "report/rainmaker-ws/BaseRegisterReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2091,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/BaseRegisterReportWS/metadata/_get",
-      "displayName": "WS BASE Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2092,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/BaseRegisterReportWS/_get",
-      "displayName": "WS BASE Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+      {
+        "id": 2091,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/BaseRegisterReportWS/metadata/_get",
+        "displayName": "WS BASE Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2092,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/BaseRegisterReportWS/_get",
+        "displayName": "WS BASE Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
       "id": 2093,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/NKS.2_year_time_limit_of_Renewal_Building_Naksha/_search",
@@ -10562,7 +10681,7 @@
     {
       "id": 2216,
       "name": "FSM BillingSlab Create",
-      "url": "/fsm-calculator/v1/billingSlab/_create",
+       "url": "/fsm-calculator/v1/billingSlab/_create",
       "displayName": "FSM BillingSlab Create",
       "orderNumber": 1,
       "parentModule": "",
@@ -10574,7 +10693,7 @@
     {
       "id": 2217,
       "name": "FSM BillingSlab Update",
-      "url": "/fsm-calculator/v1/billingSlab/_update",
+       "url": "/fsm-calculator/v1/billingSlab/_update",
       "displayName": "FSM BillingSlab Update",
       "orderNumber": 1,
       "parentModule": "",
@@ -10586,7 +10705,7 @@
     {
       "id": 2218,
       "name": "FSM BillingSlab Search",
-      "url": "/fsm-calculator/v1/billingSlab/_search",
+       "url": "/fsm-calculator/v1/billingSlab/_search",
       "displayName": "FSM BillingSlab Search",
       "orderNumber": 1,
       "parentModule": "",
@@ -10661,65 +10780,65 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 2224,
-      "name": "WS Bill generation scheduler",
-      "url": "/ws-calculator/watercharges/scheduler/_create",
-      "displayName": "WS Bill Generation Scheduler",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "ws-calculator",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2225,
-      "name": "WS Bill generation search",
-      "url": "/ws-calculator/watercharges/scheduler/_search",
-      "displayName": "WS Bill Generation Search",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "ws-calculator",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2226,
-      "name": "SW Bill generation scheduler",
-      "url": "/sw-calculator/seweragecharges/scheduler/_create",
-      "displayName": "SW Bill Generation Scheduler",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "sw-calculator",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2227,
-      "name": "SW Bill generation search",
-      "url": "/sw-calculator/seweragecharges/scheduler/_search",
-      "displayName": "SW Bill Generation Search",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "sw-calculator",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2228,
-      "name": "Bill Amendment",
-      "url": "url",
-      "displayName": "Bill Amendment",
-      "orderNumber": 25,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "Bill Amendment",
-      "code": "null",
-      "navigationURL": "bill-amend/search",
-      "path": "w_s.Bill Amendment.Search",
-      "leftIcon": "action:receipt"
-    },
-    {
+  {
+        "id": 2224,
+        "name": "WS Bill generation scheduler",
+        "url": "/ws-calculator/watercharges/scheduler/_create",
+        "displayName": "WS Bill Generation Scheduler",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+      },
+  {
+        "id": 2225,
+        "name": "WS Bill generation search",
+        "url": "/ws-calculator/watercharges/scheduler/_search",
+        "displayName": "WS Bill Generation Search",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+      },
+  {
+        "id": 2226,
+        "name": "SW Bill generation scheduler",
+        "url": "/sw-calculator/seweragecharges/scheduler/_create",
+        "displayName": "SW Bill Generation Scheduler",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2227,
+        "name": "SW Bill generation search",
+        "url": "/sw-calculator/seweragecharges/scheduler/_search",
+        "displayName": "SW Bill Generation Search",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-calculator",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2228,
+        "name": "Bill Amendment",
+        "url": "url",
+        "displayName": "Bill Amendment",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "Bill Amendment",
+        "code": "null",
+        "navigationURL": "bill-amend/search",
+        "path": "w_s.Bill Amendment.Search",
+        "leftIcon": "action:receipt"
+      },
+     {
       "id": 2229,
       "name": "FieldCollectionSearchReportWS",
       "url": "url",
@@ -10733,7 +10852,7 @@
       "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+     },
     {
       "id": 2230,
       "name": "WS Report",
@@ -10744,56 +10863,56 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2231,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/_get",
-      "displayName": "Field Collection Search Report WS",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2232,
-      "name": "FieldCollectionSearchReceiptWS",
-      "url": "url",
-      "displayName": "Field Collection Search Receipt WS",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Field Collection Search Receipt WS",
-      "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2233,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/metadata/_get",
-      "displayName": "Field Collection Search Receipt WS",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2234,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/_get",
-      "displayName": "Field Collection Search Receipt WS",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+     {
+       "id": 2231,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/_get",
+       "displayName": "Field Collection Search Report WS",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2232,
+       "name": "FieldCollectionSearchReceiptWS",
+       "url": "url",
+       "displayName": "Field Collection Search Receipt WS",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": false,
+       "serviceCode": "",
+       "path": "w_s.WS Reports.Field Collection Search Receipt WS",
+       "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2233,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/metadata/_get",
+        "displayName": "Field Collection Search Receipt WS",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2234,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/_get",
+        "displayName": "Field Collection Search Receipt WS",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
       "id": 2235,
       "name": "SearchOnlineReceiptsWS",
       "url": "url",
@@ -10807,9 +10926,9 @@
       "navigationURL": "report/rainmaker-ws/SearchOnlineReceiptsWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+     },
     {
-      "id": 2236,
+      "id":2236,
       "name": "WS Report",
       "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/metadata/_get",
       "displayName": "Search Online Receipts WS",
@@ -10818,88 +10937,88 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2237,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/_get",
-      "displayName": "Search Online Receipts WS",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2238,
-      "name": "Save Water Connection Filestores",
-      "url": "/ws-services/wc/documents/_create",
-      "displayName": "Save Water Connection Documents",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "ws-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2239,
-      "name": "Save Sewerage Connection Filestores",
-      "url": "/sw-services/swc/documents/_create",
-      "displayName": "Save Sewerage Connection Documents",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "sw-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2240,
-      "name": "Collection Create Reciept for W&S migration",
-      "url": "/collection-services/payments/ws/migration/_create",
-      "displayName": "Create Payment for W&S migration",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "COLLECTION",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2241,
-      "name": "Water & Sewerage",
-      "url": "url",
-      "displayName": "Water & Sewerage",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Water & Sewerage",
-      "navigationURL": "water-sewerage",
-      "leftIcon": "communication:business",
-      "rightIcon": ""
-    },
-    {
-      "id": 2242,
-      "name": "Search Connection",
-      "url": "quickAction",
-      "displayName": "Search Connection",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "tenantId": "pb",
-      "createdDate": null,
-      "createdBy": null,
-      "lastModifiedDate": null,
-      "lastModifiedBy": null,
-      "path": "w_s.Search Connection",
-      "navigationURL": "wns/search",
-      "quickAction": true,
-      "leftIcon": "custom:water-tap",
-      "rightIcon": ""
-    },
-    {
+     },
+     {
+       "id": 2237,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/_get",
+       "displayName": "Search Online Receipts WS",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+     {
+        "id": 2238,
+        "name": "Save Water Connection Filestores",
+        "url": "/ws-services/wc/documents/_create",
+        "displayName": "Save Water Connection Documents",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2239,
+        "name": "Save Sewerage Connection Filestores",
+        "url": "/sw-services/swc/documents/_create",
+        "displayName": "Save Sewerage Connection Documents",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-services",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2240,
+        "name": "Collection Create Reciept for W&S migration",
+        "url": "/collection-services/payments/ws/migration/_create",
+        "displayName": "Create Payment for W&S migration",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "COLLECTION",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2241,
+        "name": "Water & Sewerage",
+        "url": "url",
+        "displayName": "Water & Sewerage",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "path": "Water & Sewerage",
+        "navigationURL": "water-sewerage",
+        "leftIcon": "communication:business",
+        "rightIcon": ""
+      },
+      {
+        "id": 2242,
+        "name": "Search Connection",
+        "url": "quickAction",
+        "displayName": "Search Connection",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "w_s.Search Connection",
+        "navigationURL": "wns/search",
+        "quickAction": true,
+        "leftIcon": "custom:water-tap",
+        "rightIcon": ""
+      },
+      {
       "id": 2243,
       "name": "ArrearReport",
       "url": "url",
@@ -10913,7 +11032,7 @@
       "navigationURL": "report/rainmaker-ws/ArrearReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+     },
     {
       "id": 2244,
       "name": "WS Report",
@@ -10924,104 +11043,105 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2245,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/ArrearReport/_get",
-      "displayName": "Arrear Report",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2246,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/JE_PendencyReport/_get",
-      "displayName": "JE_Pendency Report",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2247,
-      "name": "CashCollectionReport",
-      "url": "url",
-      "displayName": "Cash Collection Report",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Cash Collection Report",
-      "navigationURL": "report/rainmaker-ws/CashCollectionReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2248,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/CashCollectionReport/metadata/_get",
-      "displayName": "Cash Collection Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2249,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/CashCollectionReport/_get",
-      "displayName": "Cash Collection Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2250,
-      "name": "CollectionsSummaryHeadwiseReport",
-      "url": "url",
-      "displayName": "Collections Summary Headwise Report",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Collections Summary Headwise Report",
-      "navigationURL": "report/rainmaker-ws/CollectionsSummaryHeadwiseReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2251,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/metadata/_get",
-      "displayName": "Collections Summary Headwise Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2252,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/_get",
-      "displayName": "Collections Summary Headwise Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+     {
+       "id": 2245,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ArrearReport/_get",
+       "displayName": "Arrear Report",
+       "orderNumber": 1,
+       "enabled": false,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+     {
+        "id": 2246,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/JE_PendencyReport/_get",
+        "displayName": "JE_Pendency Report",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+        {
+       "id": 2247,
+       "name": "CashCollectionReport",
+       "url": "url",
+       "displayName": "Cash Collection Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "w_s.WS Reports.Cash Collection Report",
+       "navigationURL": "report/rainmaker-ws/CashCollectionReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2248,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CashCollectionReport/metadata/_get",
+        "displayName": "Cash Collection Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2249,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CashCollectionReport/_get",
+        "displayName": "Cash Collection Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+       {
+       "id": 2250,
+       "name": "CollectionsSummaryHeadwiseReport",
+       "url": "url",
+       "displayName": "Collections Summary Headwise Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "w_s.WS Reports.Collections Summary Headwise Report",
+       "navigationURL": "report/rainmaker-ws/CollectionsSummaryHeadwiseReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2251,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/metadata/_get",
+        "displayName": "Collections Summary Headwise Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2252,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/_get",
+        "displayName": "Collections Summary Headwise Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      
+      {
       "id": 2253,
       "name": "ReceiptCollections",
       "url": "url",
@@ -11035,7 +11155,7 @@
       "navigationURL": "report/rainmaker-ws/ReceiptCollections",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+     },
     {
       "id": 2254,
       "name": "WS Report",
@@ -11046,104 +11166,106 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2255,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/ReceiptCollections/_get",
-      "displayName": "Receipt Collections",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2256,
-      "name": "JE_PendencyReport",
-      "url": "url",
-      "displayName": "JE_Pendency Report",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.JE_Pendency Report",
-      "navigationURL": "report/rainmaker-ws/JE_PendencyReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2257,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/JE_PendencyReport/metadata/_get",
-      "displayName": "JE_Pendency Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2258,
-      "name": "TL Receipt workflow",
-      "url": "/collection-services/payments/TL/_workflow",
-      "displayName": "TL Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2259,
-      "name": "UC Receipt Update",
-      "url": "/collection-services/payments/RT.Municipal_Shops_Rent/_workflow",
-      "displayName": "UC Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2260,
-      "name": "UC Payment workflow",
-      "url": "/collection-services/payments/ADVT/_workflow",
-      "displayName": "UC Payment workflow",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2261,
-      "name": "UC Payment workflow",
-      "url": "/collection-services/payments/UC/_workflow",
-      "displayName": "UC Payment workflow",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2262,
-      "name": "DEFAULT Payment workflow",
-      "url": "/collection-services/payments/DEFAULT/_workflow",
-      "displayName": "DEFAULT Payment workflow",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
+     },
+     {
+       "id": 2255,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ReceiptCollections/_get",
+       "displayName": "Receipt Collections",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2256,
+       "name": "JE_PendencyReport",
+       "url": "url",
+       "displayName": "JE_Pendency Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": false,
+       "serviceCode": "",
+       "path": "w_s.WS Reports.JE_Pendency Report",
+       "navigationURL": "report/rainmaker-ws/JE_PendencyReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2257,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/JE_PendencyReport/metadata/_get",
+        "displayName": "JE_Pendency Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2258,
+        "name": "TL Receipt workflow",
+        "url": "/collection-services/payments/TL/_workflow",
+        "displayName": "TL Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2259,
+        "name": "UC Receipt Update",
+        "url": "/collection-services/payments/RT.Municipal_Shops_Rent/_workflow",
+        "displayName": "UC Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+  
+	  
+      {
+        "id": 2260,
+        "name": "UC Payment workflow",
+        "url": "/collection-services/payments/ADVT/_workflow",
+        "displayName": "UC Payment workflow",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2261,
+        "name": "UC Payment workflow",
+        "url": "/collection-services/payments/UC/_workflow",
+        "displayName": "UC Payment workflow",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2262,
+        "name": "DEFAULT Payment workflow",
+        "url": "/collection-services/payments/DEFAULT/_workflow",
+        "displayName": "DEFAULT Payment workflow",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
     {
       "id": 2263,
       "name": "DEFAULT Payment workflow",
@@ -11192,7 +11314,7 @@
       "code": "null",
       "path": ""
     },
-    {
+	{
       "id": 2267,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/NKS.2_year_time_limit_of_Renewal_Building_Naksha/_workflow",
@@ -12632,6 +12754,10 @@
       "code": "null",
       "path": ""
     },
+	
+	  
+	  
+	  
     {
       "id": 2387,
       "name": "DEFAULT Payment search",
@@ -12643,7 +12769,7 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
+    },	  
     {
       "id": 2388,
       "name": "DEFAULT Payment workflow",
@@ -12727,7 +12853,8 @@
       "code": "null",
       "path": ""
     },
-    {
+
+  {
       "id": 2395,
       "name": "Disconnect Sewerage Connection",
       "url": "/sw-services/swc/disconnect",
@@ -12752,7 +12879,7 @@
       "navigationURL": "report/rainmaker-ws/ChequeCollectionReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
+     },
     {
       "id": 2397,
       "name": "WS Report",
@@ -12763,30 +12890,30 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2398,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/ChequeCollectionReportWS/_get",
-      "displayName": "Cheque Collection Report WS",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2399,
-      "name": "CancelBillV2",
-      "url": "/billing-service/bill/v2/_cancelbill",
-      "displayName": "cancel Bill v2",
-      "orderNumber": 9,
-      "enabled": true,
-      "serviceCode": "BILLING_SERVICE",
-      "code": "null",
-      "path": "Billing Service.GenerateBill"
-    },
-    {
+     },
+     {
+       "id": 2398,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ChequeCollectionReportWS/_get",
+       "displayName": "Cheque Collection Report WS",
+       "orderNumber": 1,
+       "enabled": false,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+        "id": 2399,
+        "name": "CancelBillV2",
+        "url": "/billing-service/bill/v2/_cancelbill",
+        "displayName": "cancel Bill v2",
+        "orderNumber": 9,
+        "enabled": true,
+        "serviceCode": "BILLING_SERVICE",
+        "code": "null",
+        "path": "Billing Service.GenerateBill"
+     },
+     {
       "id": 2400,
       "name": "WS Payment workflow",
       "url": "/collection-services/payments/WS/_workflow",
@@ -12810,92 +12937,92 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 2402,
-      "name": "Generate Bill",
-      "url": "quickAction",
-      "displayName": "Generate Bill",
-      "orderNumber": 2,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "tenantId": "pb",
-      "createdDate": null,
-      "createdBy": null,
-      "lastModifiedDate": null,
-      "lastModifiedBy": null,
-      "path": "w_s.Generate Bill",
-      "navigationURL": "wns/generateBill",
-      "quickAction": true,
-      "leftIcon": "editor:insert-chart",
-      "rightIcon": ""
-    },
-    {
-      "id": 2403,
-      "name": "rainmaker-common-wns",
-      "url": "card",
-      "displayName": "Generate Bill",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "wns",
-      "code": "",
-      "path": "",
-      "navigationURL": "wns/generateBill",
-      "leftIcon": "editor:insert-chart",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 2404,
-      "name": "WS Payment search",
-      "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
-      "displayName": "WS Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2405,
-      "name": "SW Payment search",
-      "url": "/collection-services/payments/SW.ONE_TIME_FEE/_search",
-      "displayName": "SW One time fee Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2406,
-      "name": "Water Receipt Update",
-      "url": "/collection-services/payments/WS.ONE_TIME_FEE/_workflow",
-      "displayName": "Water one time fee Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2407,
-      "name": "Sewerage Receipt Update",
-      "url": "/collection-services/payments/SW.ONE_TIME_FEE/_workflow",
-      "displayName": "Sewerage one time fee Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
+     {
+       "id": 2402,
+        "name": "Generate Bill",
+        "url": "quickAction",
+        "displayName": "Generate Bill",
+        "orderNumber": 2,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "w_s.Generate Bill",
+        "navigationURL": "wns/generateBill",
+        "quickAction": true,
+        "leftIcon": "editor:insert-chart",
+        "rightIcon": ""
+      },
+      {
+       "id": 2403,
+        "name": "rainmaker-common-wns",
+        "url": "card",
+        "displayName": "Generate Bill",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "wns",
+        "code": "",
+        "path": "",
+        "navigationURL": "wns/generateBill",
+        "leftIcon": "editor:insert-chart",
+        "rightIcon": "",
+        "queryParams": ""
+      }, 
+      {
+        "id": 2404,
+        "name": "WS Payment search",
+        "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
+        "displayName": "WS Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2405,
+        "name": "SW Payment search",
+        "url": "/collection-services/payments/SW.ONE_TIME_FEE/_search",
+        "displayName": "SW One time fee Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2406,
+        "name": "Water Receipt Update",
+        "url": "/collection-services/payments/WS.ONE_TIME_FEE/_workflow",
+        "displayName": "Water one time fee Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2407,
+        "name": "Sewerage Receipt Update",
+        "url": "/collection-services/payments/SW.ONE_TIME_FEE/_workflow",
+        "displayName": "Sewerage one time fee Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
       "id": 2408,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/RT.MC_Khokha_Fees/_workflow",
@@ -12908,18 +13035,18 @@
       "path": ""
     },
     {
-      "id": 2409,
-      "name": "UC Receipt Update",
-      "url": "/collection-services/payments/RT.MC_Khokha_Fees/_workflow",
-      "displayName": "UC Receipt Update",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
+        "id": 2409,
+        "name": "UC Receipt Update",
+        "url": "/collection-services/payments/RT.MC_Khokha_Fees/_workflow",
+        "displayName": "UC Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
       "id": 2410,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/RT.MC_Khokha_Fees/_search",
@@ -13317,8 +13444,8 @@
       "leftIcon": "action:receipt",
       "rightIcon": "",
       "queryParams": ""
-    },
-    {
+     },
+     {
       "id": 2441,
       "name": "Water and Sewerage Group Bill",
       "url": "/egov-pdf/download/WNS/wnsgroupbill",
@@ -13645,7 +13772,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2469,
       "name": "NewMiscReceiptULB_v2",
       "url": "url",
@@ -13660,7 +13787,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2470,
       "name": "HRMSEmployeewiseReport",
       "url": "url",
@@ -13676,7 +13803,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2471,
       "name": "HRMSEmployee wise Report",
       "url": "/report/rainmaker-hrms/metadata/_get",
@@ -13863,7 +13990,7 @@
       "code": "null",
       "path": ""
     },
-    {
+      {
       "id": 2485,
       "name": "cybertech_additional_transactions",
       "url": "url",
@@ -13878,7 +14005,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+     {
       "id": 2486,
       "name": "WithoutUpinTransactions",
       "url": "url",
@@ -13893,7 +14020,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+	   {
       "id": 2487,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/TX.Mutation_Fees/_search",
@@ -13916,8 +14043,9 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+    },	
+   {   
+	    
       "id": 2489,
       "name": "StateDescriptionReport_v2",
       "url": "url",
@@ -13930,7 +14058,7 @@
       "path": "State Reports.PGR.StateDescriptionReport_v2",
       "navigationURL": "report/rainmaker-pgr/StateDescriptionReport_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""    
     },
     {
       "id": 2490,
@@ -13956,7 +14084,7 @@
       "code": "null",
       "path": ""
     },
-    {
+	   {
       "id": 2492,
       "name": "Cheque Issued-Available Report",
       "url": "url",
@@ -13969,8 +14097,8 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.MIS Reports.Cheque Issued-Available Report",
       "navigationURL": "services/EGF/report/cheque/status/form"
-    },
-    {
+   },		   
+  {		   
       "id": 2493,
       "name": "UlbwisePgrSlaReport_v2",
       "url": "url",
@@ -13983,7 +14111,8 @@
       "path": "PGR.PGR Reports.UlbwisePgrSlaReport_v2",
       "navigationURL": "report/rainmaker-pgr/UlbwisePgrSlaReport_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""	   
+		   
     },
     {
       "id": 2494,
@@ -13996,8 +14125,10 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+	    
     },
-    {
+    {	  
+
       "id": 2495,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/ADVT.Show_Tax_and_Entertainment_tax/_workflow",
@@ -14007,40 +14138,42 @@
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": ""	    
+	    
     },
-    {
-      "id": 2496,
-      "name": "PT Notice Generation",
-      "url": "url",
-      "displayName": "Generate Notice",
-      "orderNumber": 25,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "Property Tax.Generate Notice",
-      "navigationURL": "wns/PTnotice2",
-      "leftIcon": "action:receipt",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 2497,
-      "name": "PT Legacy Search",
-      "url": "url",
-      "displayName": "Legacy Search",
-      "orderNumber": 25,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "Property Tax.Legacy Search",
-      "navigationURL": "wns/legacyPta",
-      "leftIcon": "action:receipt",
-      "rightIcon": "",
-      "queryParams": ""
-    },
+	  {
+        "id": 2496,
+        "name": "PT Notice Generation",
+        "url": "url",
+        "displayName": "Generate Notice",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "Property Tax.Generate Notice",
+        "navigationURL": "wns/PTnotice2",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2497,
+        "name": "PT Legacy Search",
+        "url": "url",
+        "displayName": "Legacy Search",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "Property Tax.Legacy Search",
+        "navigationURL": "wns/legacyPta",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+	      
+    },	      
     {
       "id": 2498,
       "name": "OCCUPANCY_TYPE_REPORT",
@@ -14070,8 +14203,9 @@
       "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+         
     },
-    {
+    {	  
       "id": 2500,
       "name": "Count_UsageCategory_V2",
       "url": "url",
@@ -14084,9 +14218,10 @@
       "path": "Property Tax.PT Reports.Payment Registers.Count_UsageCategory_V2",
       "navigationURL": "report/rainmaker-pt/Count_UsageCategory_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""  
     },
-    {
+    {	  
+	    
       "id": 2501,
       "name": "Top Payers Commercial",
       "url": "url",
@@ -14099,9 +14234,10 @@
       "path": "Property Tax.PT Reports.Collections.TopPayersReportCOM_V2",
       "navigationURL": "report/rainmaker-pt/TopPayersReportCOM_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""	
+	    
     },
-    {
+    {	  
       "id": 2502,
       "name": "Top Payers Resdential",
       "url": "url",
@@ -14114,9 +14250,9 @@
       "path": "Property Tax.PT Reports.Collections.TopPayersReportRESD_V2",
       "navigationURL": "report/rainmaker-pt/TopPayersReportRESD_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
+      "rightIcon": ""    
+      },
+	  {
       "id": 2503,
       "name": "DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
       "url": "url",
@@ -14130,8 +14266,9 @@
       "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
+		  
+  },
+  {	  
       "id": 2504,
       "name": "ReceiptRegisterGatewayTxnId_V2",
       "url": "url",
@@ -14144,9 +14281,9 @@
       "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterGatewayTxnId_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterGatewayTxnId_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""       
     },
-    {
+	  {
       "id": 2505,
       "name": "Scheme Wise Register",
       "url": "/services/EGF/report/schemeWiseReport.action",
@@ -14186,7 +14323,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
+    {	      
       "id": 2508,
       "name": "Property Dump Reprt",
       "url": "url",
@@ -14199,9 +14336,10 @@
       "path": "Property Tax.PT Reports.From Report Tables.PropertyDumpReport",
       "navigationURL": "report/rainmaker-pt/PropertyDumpReport",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""	
+	    
     },
-    {
+	  {
       "id": 181213,
       "name": "Update Receipt",
       "url": "url",
@@ -14215,7 +14353,8 @@
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
-    {
+    {	 
+	    
       "id": 2509,
       "name": "StateWBDescriptionReport_NEW_v2",
       "url": "url",
@@ -14228,9 +14367,9 @@
       "path": "State Reports.PGR.StateWBDescriptionReport_NEW_v2",
       "navigationURL": "report/rainmaker-pgr/StateWBDescriptionReport_NEW_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""   	    
     },
-    {
+    {	  
       "id": 2510,
       "name": "StateMsevaappDescriptionReport_NEW_v2",
       "url": "url",
@@ -14243,9 +14382,10 @@
       "path": "State Reports.PGR.StateMsevaappDescriptionReport_NEW_v2",
       "navigationURL": "report/rainmaker-pgr/StateMsevaappDescriptionReport_NEW_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""  
     },
     {
+	    
       "id": 2511,
       "name": "STATEDUMPDEPARTMENT_REPORT_V2",
       "url": "url",
@@ -14258,7 +14398,7 @@
       "path": "State Reports.PT.STATEDUMPDEPARTMENT_REPORT_V2",
       "navigationURL": "report/rainmaker-pt/STATEDUMPDEPARTMENT_REPORT_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""    
     },
     {
       "id": 2512,
@@ -14273,8 +14413,9 @@
       "navigationURL": "tradelicence/enaksha",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
+ 	    
     },
-    {
+    {	  
       "id": 2513,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/CH.Trade_License_Challan/_search",
@@ -14284,9 +14425,11 @@
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": ""    
+	    
     },
-    {
+    {	  
+	
       "id": 2514,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/CH.Trade_License_Challan/_workflow",
@@ -14296,7 +14439,9 @@
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": ""    
+	    
+	    
     },
     {
       "id": 2515,
@@ -14342,8 +14487,9 @@
       "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND_NEW",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
+		  
+  },
+  {
       "id": 2518,
       "name": "PropertyTax new payments search",
       "url": "/egov-searcher/rainmaker-pt-gissearch/searchTLApplicationsEODB/_get",
@@ -14354,8 +14500,9 @@
       "serviceCode": "punjab-customization",
       "code": "null",
       "path": ""
-    },
-    {
+  },
+  {	  
+
       "id": 2519,
       "name": "STATEDEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND_NEW",
       "url": "url",
@@ -14368,9 +14515,10 @@
       "path": "State Reports.PT.STATEDEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND_NEW",
       "navigationURL": "report/rainmaker-pt/STATEDEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND_NEW",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
+      "rightIcon": ""    
+  },
+  {	  
+	  
       "id": 2520,
       "name": "USERNAME_PT",
       "url": "url",
@@ -14383,7 +14531,7 @@
       "path": "State Reports.PT.USERNAME_PT",
       "navigationURL": "report/rainmaker-pt/USERNAME_PT",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""   
     },
     {
       "id": 2521,
@@ -14395,7 +14543,7 @@
       "enabled": false,
       "serviceCode": "punjab-customization",
       "code": "null",
-      "path": ""
+      "path": ""    
     },
     {
       "id": 2522,
@@ -14409,7 +14557,7 @@
       "code": "null",
       "path": ""
     },
-    {
+    {	
       "id": 2523,
       "name": "StateTradesubtype_v2",
       "url": "url",
@@ -14422,9 +14570,9 @@
       "path": "State Reports.TL.StateTradesubtype_v2",
       "navigationURL": "report/rainmaker-tl/StateTradesubtype_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": ""	    	    
     },
-    {
+   {
       "id": 2524,
       "name": "PropertyListReport",
       "url": "url",
@@ -14438,8 +14586,8 @@
       "navigationURL": "report/rainmaker-pt/PropertyListReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
+  },
+  {
       "id": 2525,
       "name": "AccountCodeReport",
       "url": "url",
@@ -14453,8 +14601,9 @@
       "navigationURL": "report/rainmaker-pt/AccountCodeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
+  },
+  {	  
+	  
       "id": 2526,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/SNT.Septic_tank/_search",
@@ -14465,8 +14614,9 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+  },
+  {	  
+
       "id": 2527,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/SNT.Septic_tank/_workflow",
@@ -14477,8 +14627,10 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+
+  },
+  {	  
+ 
       "id": 2528,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/SNT.Waste_water_fees/_search",
@@ -14489,8 +14641,9 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+
+  },
+  {	  
       "id": 2529,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/SNT.Waste_water_fees/_workflow",
@@ -14501,8 +14654,10 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+
+  },
+  {	  
+
       "id": 2530,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/SNT.Faecal_sludge_disposal/_search",
@@ -14513,8 +14668,9 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
+  },
+  {	  
+
       "id": 2531,
       "name": "DEFAULT Payment workflow",
       "url": "/collection-services/payments/SNT.Faecal_sludge_disposal/_workflow",
@@ -14525,18 +14681,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2532,
-      "name": "cancel Assessment Job",
-      "url": "/pt-calculator-v2/assessment/cancelassessment/_job",
-      "displayName": "PT Cancel assessment job",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "property-services",
-      "code": "null",
-      "path": ""
-    },
+  },
+  {
+        "id": 2532,
+        "name": "cancel Assessment Job",
+        "url": "/pt-calculator-v2/assessment/cancelassessment/_job",
+        "displayName": "PT Cancel assessment job",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "property-services",
+        "code": "null",
+        "path": ""
+      },
     {
       "id": 2533,
       "name": "Paid Property Ownership Report",
@@ -14551,8 +14707,10 @@
       "navigationURL": "report/rainmaker-pt/PAID_PROPERTY_OWNERSHIP_REPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
     },
-    {
+   {	  
+
       "id": 2534,
       "name": "ULBNEWMiscReceipt_v2",
       "url": "url",
@@ -14566,8 +14724,10 @@
       "navigationURL": "report/rainmaker-uc/ULBNEWMiscReceipt_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
+	    
     },
-    {
+{
       "id": 2535,
       "name": "estimation Report",
       "url": "url",
@@ -14581,30 +14741,30 @@
       "navigationURL": "report/rainmaker-ws/estimation_charge",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2536,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
-      "displayName": "WS estimation charge Report metadata",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2537,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/estimation_charge/_get",
-      "displayName": "WS estimation charge Report metadata",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+      {
+        "id": 2536,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/metadata/_get",
+        "displayName": "WS estimation charge Report metadata",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2537,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/estimation_charge/_get",
+        "displayName": "WS estimation charge Report metadata",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+	  {
       "id": 2538,
       "name": "usage wise Report",
       "url": "url",
@@ -14618,30 +14778,30 @@
       "navigationURL": "report/rainmaker-ws/usageWiseReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2539,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/usageWiseReport/metadata/_get",
-      "displayName": "WS usage wise Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2540,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/usageWiseReport/_get",
-      "displayName": "WS usage wise Report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+      {
+        "id": 2539,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/metadata/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2540,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/usageWiseReport/_get",
+        "displayName": "WS usage wise Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+	    {
       "id": 2541,
       "name": "Water Demand Report",
       "url": "url",
@@ -14655,30 +14815,30 @@
       "navigationURL": "report/rainmaker-ws/GeneratedDemandReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2542,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/GeneratedDemandReport/metadata/_get",
-      "displayName": "WS Generated Demand metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2543,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/GeneratedDemandReport/_get",
-      "displayName": "WS Generated Demand metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+      {
+        "id": 2542,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratedDemandReport/metadata/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2543,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratedDemandReport/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
       "id": 2544,
       "name": "pgr count open complaints for last 24 hrs",
       "url": "/egov-searcher/rainmaker-pgr-V2/countOpen/_get",
@@ -14702,7 +14862,7 @@
       "code": "null",
       "path": ""
     },
-    {
+    {	  
       "id": 2546,
       "name": "Sewerage Demand Report",
       "url": "url",
@@ -14716,30 +14876,31 @@
       "navigationURL": "report/rainmaker-ws/GeneratSWDemandReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2547,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/GeneratSWDemandReport/metadata/_get",
-      "displayName": "WS Generated Demand metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2548,
-      "name": "WS Report",
-      "url": "/report/rainmaker-ws/GeneratSWDemandReport/_get",
-      "displayName": "WS Generated Demand metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+     },
+      {
+        "id": 2547,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/metadata/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2548,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/GeneratSWDemandReport/_get",
+        "displayName": "WS Generated Demand metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
+
       "id": 2549,
       "name": "Connection Count  Report",
       "url": "url",
@@ -14753,30 +14914,32 @@
       "navigationURL": "report/rainmaker-ws/Connectioncountreport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2550,
-      "name": "Connection Count  Report",
-      "url": "/report/rainmaker-ws/Connectioncountreport/metadata/_get",
-      "displayName": "Connection Count  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2551,
-      "name": "Connection Count  Report",
-      "url": "/report/rainmaker-ws/Connectioncountreport/_get",
-      "displayName": "Connection Count  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+      },
+      {
+        "id": 2550,
+        "name": "Connection Count  Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/metadata/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2551,
+        "name": "Connection Count  Report",
+        "url": "/report/rainmaker-ws/Connectioncountreport/_get",
+        "displayName": "Connection Count  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
+	      
+
       "id": 2552,
       "name": "Ws Defaulter Report",
       "url": "url",
@@ -14790,30 +14953,33 @@
       "navigationURL": "report/rainmaker-ws/WsDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2553,
-      "name": "Ws Defaulter Report",
-      "url": "/report/rainmaker-ws/WsDefaulterReport/metadata/_get",
-      "displayName": "Ws Defaulter Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2554,
-      "name": "Ws Defaulter Report",
-      "url": "/report/rainmaker-ws/WsDefaulterReport/_get",
-      "displayName": "Ws Defaulter Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+      },
+      {
+        "id": 2553,
+        "name": "Ws Defaulter Report",
+        "url": "/report/rainmaker-ws/WsDefaulterReport/metadata/_get",
+        "displayName": "Ws Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2554,
+        "name": "Ws Defaulter Report",
+        "url": "/report/rainmaker-ws/WsDefaulterReport/_get",
+        "displayName": "Ws Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+     },
+     {
+
+
       "id": 2555,
       "name": "Sw Defaulter Report",
       "url": "url",
@@ -14827,28 +14993,29 @@
       "navigationURL": "report/rainmaker-ws/SwDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2556,
-      "name": "Sw Defaulter Report",
-      "url": "/report/rainmaker-ws/SwDefaulterReport/metadata/_get",
-      "displayName": "Sw Defaulter Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2557,
-      "name": "Sw Defaulter Report",
-      "url": "/report/rainmaker-ws/SwDefaulterReport/_get",
-      "displayName": "Sw Defaulter Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
+      },
+      {
+        "id": 2556,
+        "name": "Sw Defaulter Report",
+        "url": "/report/rainmaker-ws/SwDefaulterReport/metadata/_get",
+        "displayName": "Sw Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2557,
+        "name": "Sw Defaulter Report",
+        "url": "/report/rainmaker-ws/SwDefaulterReport/_get",
+        "displayName": "Sw Defaulter Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
     },
     {
       "id": 2558,
@@ -14865,20 +15032,8 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
-      "id": 2559,
-      "name": "pgr count open complaints for last 24 hrs",
-      "url": "/egov-searcher/rainmaker-pgr-V2/serviceSearchWithDetails/_get",
-      "parentModule": "",
-      "displayName": "Punjab customization",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "punjab-customization",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2559,
+    {	  
+     "id": 2559,
       "name": "WS and SW Dump  Report",
       "url": "url",
       "displayName": "WS and SW Dump  Report",
@@ -14891,29 +15046,32 @@
       "navigationURL": "report/rainmaker-ws/WsandSwDumpReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2560,
-      "name": "WS and SW Dump  Report",
-      "url": "/report/rainmaker-ws/WsandSwDumpReport/metadata/_get",
-      "displayName": "WS and SW Dump  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2561,
-      "name": "WS and SW Dump  Report",
-      "url": "/report/rainmaker-ws/WsandSwDumpReport/_get",
-      "displayName": "WS and SW Dump  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
+      },
+      {
+        "id": 2560,
+        "name": "WS and SW Dump  Report",
+        "url": "/report/rainmaker-ws/WsandSwDumpReport/metadata/_get",
+        "displayName": "WS and SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2561,
+        "name": "WS and SW Dump  Report",
+        "url": "/report/rainmaker-ws/WsandSwDumpReport/_get",
+        "displayName": "WS and SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+   
+	      
+	      
+      },
     {
       "id": 2562,
       "name": "send open sms",
@@ -14926,7 +15084,8 @@
       "path": ""
     },
     {
-      "id": 2563,
+
+     "id": 2563,
       "name": "SW Dump  Report",
       "url": "url",
       "displayName": "SW Dump  Report",
@@ -14939,30 +15098,31 @@
       "navigationURL": "report/rainmaker-ws/SwDumpReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2564,
-      "name": "SW Dump  Report",
-      "url": "/report/rainmaker-ws/SwDumpReport/metadata/_get",
-      "displayName": "SW Dump  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2565,
-      "name": "SW Dump  Report",
-      "url": "/report/rainmaker-ws/SwDumpReport/_get",
-      "displayName": "SW Dump  Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+      },
+      {
+        "id": 2564,
+        "name": "SW Dump  Report",
+        "url": "/report/rainmaker-ws/SwDumpReport/metadata/_get",
+        "displayName": "SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2565,
+        "name": "SW Dump  Report",
+        "url": "/report/rainmaker-ws/SwDumpReport/_get",
+        "displayName": "SW Dump  Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {	  
+	     
       "id": 2566,
       "name": "Meter Reading Report",
       "url": "url",
@@ -14976,31 +15136,31 @@
       "navigationURL": "report/rainmaker-ws/MeterReadingReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2567,
-      "name": "Meter Reading Report",
-      "url": "/report/rainmaker-ws/MeterReadingReport/metadata/_get",
-      "displayName": "Meter Reading Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2568,
-      "name": "Meter Reading Report",
-      "url": "/report/rainmaker-ws/MeterReadingReport/_get",
-      "displayName": "Meter Reading Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2569,
+      },
+      {
+        "id": 2567,
+        "name": "Meter Reading Report",
+        "url": "/report/rainmaker-ws/MeterReadingReport/metadata/_get",
+        "displayName": "Meter Reading Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2568,
+        "name": "Meter Reading Report",
+        "url": "/report/rainmaker-ws/MeterReadingReport/_get",
+        "displayName": "Meter Reading Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
+     "id": 2569,
       "name": "Bill Scheduler Report",
       "url": "url",
       "displayName": "Bill Scheduler Report",
@@ -15013,31 +15173,32 @@
       "navigationURL": "report/rainmaker-ws/BillSchedulerReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2570,
-      "name": "Bill Scheduler Report",
-      "url": "/report/rainmaker-ws/BillSchedulerReport/metadata/_get",
-      "displayName": "Bill Scheduler Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2571,
-      "name": "Bill Scheduler Report",
-      "url": "/report/rainmaker-ws/BillSchedulerReport/_get",
-      "displayName": "Bill Scheduler Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2572,
+      },
+      {
+        "id": 2570,
+        "name": "Bill Scheduler Report",
+        "url": "/report/rainmaker-ws/BillSchedulerReport/metadata/_get",
+        "displayName": "Bill Scheduler Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2571,
+        "name": "Bill Scheduler Report",
+        "url": "/report/rainmaker-ws/BillSchedulerReport/_get",
+        "displayName": "Bill Scheduler Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
+	      
+     "id": 2572,
       "name": "SW Demand Detail Report",
       "url": "url",
       "displayName": "SW Demand Detail Report",
@@ -15050,43 +15211,47 @@
       "navigationURL": "report/rainmaker-ws/SWDemandDetailReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+      },
+      {
+        "id": 2573,
+        "name": "SW Demand Detail Report",
+        "url": "/report/rainmaker-ws/SWDemandDetailReport/metadata/_get",
+        "displayName": "SW Demand Detail Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2574,
+        "name": "SW Demand Detail Report",
+        "url": "/report/rainmaker-ws/SWDemandDetailReport/_get",
+        "displayName": "SW Demand Detail Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+	      
+	    
     },
     {
-      "id": 2573,
-      "name": "SW Demand Detail Report",
-      "url": "/report/rainmaker-ws/SWDemandDetailReport/metadata/_get",
-      "displayName": "SW Demand Detail Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2574,
-      "name": "SW Demand Detail Report",
-      "url": "/report/rainmaker-ws/SWDemandDetailReport/_get",
-      "displayName": "SW Demand Detail Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2575,
-      "name": "LocalizationCacheBust",
-      "url": "/localization/messages/cache-bust",
-      "displayName": "Localization cache Bust",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "localisation cache bust",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2576,
+         "id": 2575,
+         "name": "LocalizationCacheBust",
+         "url": "/localization/messages/cache-bust",
+         "displayName": "Localization cache Bust",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "localisation cache bust",
+         "code": "null",
+         "path": ""
+  },
+  {
+		  
+
+     "id": 2576,
       "name": "Collection Summary Report",
       "url": "url",
       "displayName": "Collection Summary Report",
@@ -15099,30 +15264,34 @@
       "navigationURL": "report/rainmaker-ws/CollectionSummaryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 2577,
-      "name": "Collection Summary Report",
-      "url": "/report/rainmaker-ws/CollectionSummaryReport/metadata/_get",
-      "displayName": "Collection Summary Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2578,
-      "name": "Collection Summary Report",
-      "url": "/report/rainmaker-ws/CollectionSummaryReport/_get",
-      "displayName": "Collection Summary Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
+      },
+      {
+        "id": 2577,
+        "name": "Collection Summary Report",
+        "url": "/report/rainmaker-ws/CollectionSummaryReport/metadata/_get",
+        "displayName": "Collection Summary Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2578,
+        "name": "Collection Summary Report",
+        "url": "/report/rainmaker-ws/CollectionSummaryReport/_get",
+        "displayName": "Collection Summary Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+
+
+		  
+       },
+	{
       "id": 2579,
       "name": "Calculate Fee For Water Application",
       "url": "/ws-calculator/waterCalculator/_singledemand",
@@ -15133,7 +15302,7 @@
       "code": "null",
       "path": ""
     },
-    {
+	  {
       "id": 2580,
       "name": "Calculate Fee For Water Application",
       "url": "/sw-calculator/sewerageCalculator/_singledemand",
@@ -15146,6 +15315,127 @@
     },
     {
       "id": 2581,
+      "name": "SW update ",
+      "url": "/sw-services/wc/_update",
+      "displayName": "single demand geenration",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 2582,
+      "name": "Calculate Fee For Water Application",
+      "url": "/sw-calculator/sewerageCalculator/_generateDemand",
+      "displayName": "single demand geenration",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2583,
+      "name": "PropertyTax GIS integration",
+      "url": "/egov-searcher/rainmaker-pt-gissearch/searchGisMap/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""    
+    },
+    {
+      "id": 2584,
+      "name": "Search Integrated Bill",
+      "url": "/egov-searcher/bill-genie/integratedbills/_get",
+      "displayName": "Search integratedbills Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {	  
+	  
+      "id": 2585,
+      "name": "Qaurterly Report",
+      "url": "url",
+      "displayName": "Qaurterly Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.QaurterlyReport",
+      "navigationURL": "report/rainmaker-ws/QaurterlyReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2586,
+        "name": "Qaurterly Report",
+        "url": "/report/rainmaker-ws/QaurterlyReport/metadata/_get",
+        "displayName": "Qaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2587,
+        "name": "Qaurterly Report",
+        "url": "/report/rainmaker-ws/QaurterlyReport/_get",
+        "displayName": "Qaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {	  
+	      
+      "id": 2588,
+      "name": "SWQaurterly Report",
+      "url": "url",
+      "displayName": "SWQaurterly Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SWQaurterlyReport",
+      "navigationURL": "report/rainmaker-ws/SWQaurterlyReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {
+        "id": 2589,
+        "name": "SWQaurterly Report",
+        "url": "/report/rainmaker-ws/SWQaurterlyReport/metadata/_get",
+        "displayName": "SWQaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2590,
+        "name": "SWQaurterly Report",
+        "url": "/report/rainmaker-ws/SWQaurterlyReport/_get",
+        "displayName": "SWQaurterly Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+    },
+    {
+      "id": 2591,
       "name": "CCAvanue Reconcile",
       "url": "/pg-service/transaction/v1/_reconcile",
       "displayName": "CCAvanue Reconcile",
@@ -15156,464 +15446,127 @@
       "path": ""
     },
     {
-      "id": 2582,
-      "name": "Search Sewerage Bill",
-      "url": "/egov-searcher/bill-genie/integratedbills/_get",
-      "displayName": "Search integratedbills Bill",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "Searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2583,
-      "name": "Search Sewerage Bill",
-      "url": "/egov-searcher/bill-genie/batchbilling/_get",
-      "displayName": "Search batchbilling Bill",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "Searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5001,
-      "name": "Create BPALicense",
-      "url": "/tl-services/v1/BPAREG/_create",
-      "parentModule": "",
-      "displayName": "Create BPALicense",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "tl-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5002,
-      "name": "Update BPALicense",
-      "url": "/tl-services/v1/BPAREG/_update",
-      "parentModule": "",
-      "displayName": "Update BPALicense",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "tl-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5003,
-      "name": "Search BPALicense",
-      "url": "/tl-services/v1/BPAREG/_search",
-      "parentModule": "",
-      "displayName": "Search BPALicense",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "tl-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5004,
-      "name": "Get Bill BPA",
-      "url": "/tl-calculator/v1/BPAREG/_getbill",
-      "parentModule": "",
-      "displayName": "Get Bill BPA",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "tl-calculator",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5005,
-      "name": "BPAStakeHolderSearch",
+	
+    "id": 2592,
+      "name": "Water Report Ulb",
       "url": "url",
-      "displayName": "BPA Stake Holder Search",
+      "displayName": "Water Report Ulb",
       "orderNumber": 1,
-      "parentModule": "rainmaker-bpa",
+      "queryParams": "",
+      "parentModule": "",
       "enabled": true,
-      "serviceCode": "BPAREG",
-      "code": "null",
-      "path": "BPAStakeHolder.Search",
-      "navigationURL": "bpastakeholder/search",
-      "leftIcon": "communication:business",
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WaterReportUlb",
+      "navigationURL": "report/rainmaker-ws/WaterReportUlb",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 5006,
-      "name": "BPAStakeHolderHome",
+      },
+      {
+        "id": 2593,
+        "name": "Water Report Ulb",
+        "url": "/report/rainmaker-ws/WaterReportUlb/metadata/_get",
+        "displayName": "Water Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2594,
+        "name": "Water Report Ulb",
+        "url": "/report/rainmaker-ws/WaterReportUlb/_get",
+        "displayName": "Water Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+
+      },
+      {
+      "id": 2595,
+      "name": "Sewerage Report Ulb",
       "url": "url",
-      "displayName": "BPA Stake Holder Home",
-      "orderNumber": 2,
-      "parentModule": "rainmaker-bpa",
+      "displayName": "Sewerage Report Ulb",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
       "enabled": true,
-      "serviceCode": "BPAREG",
-      "code": "null",
-      "path": "BPAStakeHolder",
-      "navigationURL": "bpastakeholder-citizen/home",
-      "leftIcon": "communication:business",
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SewerageReportUlb",
+      "navigationURL": "report/rainmaker-ws/SewerageReportUlb",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 5007,
-      "name": "Locality searcher endpoint for BPA Reg",
-      "url": "/egov-searcher/locality/BPAREG/_get",
-      "displayName": "BPA locality searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5008,
-      "name": "BPA-Applyforservice",
-      "url": "/bpa-services/v1/bpa/_create",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5009,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/v1/bpa/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5010,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/v1/bpa/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5011,
-      "name": "rainmaker-citizen-bpahome",
-      "url": "card",
-      "displayName": "Building Plan Approval",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/bpa-home",
-      "leftIcon": "communication:business",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 5012,
-      "name": "search BPA application",
-      "url": "quickAction",
-      "displayName": "Search Application",
+      },
+      {
+        "id": 2596,
+        "name": "Sewerage Report Ulb",
+        "url": "/report/rainmaker-ws/SewerageReportUlb/metadata/_get",
+        "displayName": "Sewerage Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2597,
+        "name": "Sewerage Report Ulb",
+        "url": "/report/rainmaker-ws/SewerageReportUlb/_get",
+        "displayName": "Sewerage Report Ulb",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""	  
+      },
+      {
+      "id": 2598,
+      "name": "Sewerage Report Ulb",
+      "url": "url",
+      "displayName": "Sewerage Report Ulb",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "tenantId": "pb",
-      "createdDate": null,
-      "createdBy": null,
-      "lastModifiedDate": null,
-      "lastModifiedBy": null,
-      "path": "Building Plan Approval.Search Application",
-      "navigationURL": "egov-bpa/search",
-      "quickAction": true,
-      "leftIcon": "communication:business",
+      "path": "w_s.WS Reports.SewerageApplicationStatus",
+      "navigationURL": "report/rainmaker-ws/sewerageApplicationStatusReport",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
-    },
-    {
-      "id": 5013,
-      "name": "BPA-PermitOrderEDCR Report",
-      "url": "/bpa-services/v1/bpa/_permitorderedcr",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5014,
-      "name": "Locality searcher endpoint for BPA",
-      "url": "/egov-searcher/locality/bpa-services/_get",
-      "displayName": "BPA locality searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5015,
-      "name": "Locality searcher endpoint for BPA",
-      "url": "/egov-searcher/locality/BPAREG/_get",
-      "displayName": "BPA locality searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5016,
-      "name": "BPA-Land-Create",
-      "url": "/land-services/v1/land/_create",
-      "displayName": "Land Create",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5017,
-      "name": "BPA-Land-Update",
-      "url": "/land-services/v1/land/_update",
-      "displayName": "Land Update",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5018,
-      "name": "BPA-Land-Search",
-      "url": "/land-services/v1/land/_search",
-      "displayName": "Land Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5019,
-      "name": "BPA LOW Payment search",
-      "url": "/collection-services/payments/BPA.LOW_RISK_PERMIT_FEE/_search",
-      "displayName": "BPA LOW Payment search",
+      },
+      {
+      "id": 2599,
+      "name": "Water Report Ulb",
+      "url": "url",
+      "displayName": "Water Application Status Report",
       "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5020,
-      "name": "BPA Application Payment search",
-      "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
-      "displayName": "BPA Application Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5021,
-      "name": "BPA San Payment search",
-      "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
-      "displayName": "BPA San Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5022,
-      "name": "BPA OCApplication Payment search",
-      "url": "/collection-services/payments/BPA.NC_OC_APP_FEE/_search",
-      "displayName": "BPA OC Application Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5023,
-      "name": "BPA OC San Payment search",
-      "url": "/collection-services/payments/BPA.NC_OC_SAN_FEE/_search",
-      "displayName": "BPA OC San Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5024,
-      "name": "BPA Calculator",
-      "url": "/bpa-calculator/v1/_calculate",
-      "parentModule": "",
-      "displayName": "BPA Calculator",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "tl-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5025,
-      "name": "OBPS Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_escalate",
-      "parentModule": "",
-      "displayName": "OBPS Workflow Escalation Update",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5026,
-      "name": "Stakeholder Registration Payment search",
-      "url": "/collection-services/payments/BPAREG/_search",
-      "displayName": "Stakeholder Registration Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5027,
-      "name": "BPA_CITIZEN_HOME_VIEW_APP_BY_CITIZEN_LABEL",
-      "url": "digit-ui-card",
-      "displayName": "View applications by Citizen",
-      "orderNumber": 1,
-      "parentModule": "OBPS",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/my-applications",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
       "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
-      "id": 5028,
-      "name": "BPA_CITIZEN_HOME_STAKEHOLDER_LOGIN_LABEL",
-      "url": "digit-ui-card",
-      "displayName": "Register as a Stakeholder",
-      "orderNumber": 2,
-      "parentModule": "OBPS",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/stakeholder/apply/stakeholder-docs-required",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
-      "id": 5029,
-      "name": "BPA_CITIZEN_HOME_ARCHITECT_LOGIN_LABEL",
-      "url": "digit-ui-card",
-      "displayName": "Registered Architect Login",
-      "orderNumber": 3,
-      "parentModule": "OBPS",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/obps/home",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
-      "id": 5030,
-      "name": "OBPS Workflow Escalation SMS ",
-      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_processReminders",
       "parentModule": "",
-      "displayName": "OBPS Workflow Escalation SMS",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "egov-workflow-v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5031,
-      "name": "OBPS_FAQ_S",
-      "url": "digit-ui-card",
-      "displayName": "FAQs",
-      "orderNumber": 8,
-      "parentModule": "OBPS",
       "enabled": true,
       "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/obps-faq",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
+      "path": "w_s.WS Reports.WaterApplicationStatus",
+      "navigationURL": "report/rainmaker-ws/waterApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+      },
+      {	  
+      "id": 2600,
+      "name": "PTReportforGISMappingg",
+      "url": "url",
+      "displayName": "PT Report for GIS Mappingg",
+      "orderNumber": 11,
       "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
-      "id": 5032,
-      "name": "Plan Scrutiny",
-      "url": "/edcr/rest/dcr/scrutinize",
-      "displayName": "Building Plan Scrutiny",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "EDCR",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5033,
-      "name": "Search Plan Scrutiny",
-      "url": "/edcr/rest/dcr/scrutinydetails",
-      "displayName": "Search Building Plan Scrutiny",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "EDCR",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 5034,
-      "name": "Download Files",
-      "url": "/edcr/rest/dcr/downloadfile",
-      "displayName": "Download Files",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "EDCR",
-      "code": "null",
-      "path": ""
-    }
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.PTReportforGISMappingg",
+      "navigationURL": "report/rainmaker-pt/PTReportforGISMappingg",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+	      
+      }
+	  
   ]
 }
