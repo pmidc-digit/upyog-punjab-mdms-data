@@ -1,0 +1,30 @@
+{
+  "tenantId": "pb.budhlada",
+  "moduleName": "sw-services-calculation",
+  "PropertyUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "unitCost" : 20,
+      "isActive": true
+    },
+{
+     "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "unitCost" : 30,
+      "isActive": true
+    },
+{
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "unitCost" : 15,
+      "isActive": true
+    }
+  ]
+}
