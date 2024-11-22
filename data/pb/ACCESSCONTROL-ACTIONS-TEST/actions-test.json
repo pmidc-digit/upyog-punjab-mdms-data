@@ -15572,7 +15572,7 @@
       "id": 2601,
       "name": "WS Summary register collection",
       "url": "url",
-      "displayName": " WS Summary register collection",
+      "displayName": "WS Summary register collection",
       "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
@@ -15582,7 +15582,23 @@
       "navigationURL": "report/rainmaker-ws/wssummaryregistercollection",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+     },
+     {	  
 
+
+     "id": 2602,
+      "name": "SW Summary register collection",
+      "url": "url",
+      "displayName": "SW Summary register collection",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.swsummaryregistercollection",
+      "navigationURL": "report/rainmaker-ws/swsummaryregistercollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""	     
 	      
 	      
       }
