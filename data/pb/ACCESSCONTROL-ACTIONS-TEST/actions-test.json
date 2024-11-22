@@ -15565,6 +15565,25 @@
       "navigationURL": "report/rainmaker-pt/PTReportforGISMappingg",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
+     },
+     {
+
+      "id": 2601,
+      "name": "WS Summary register collection",
+      "url": "url",
+      "displayName": " WS Summary register collection",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.wssummaryregistercollection",
+      "navigationURL": "report/rainmaker-ws/wssummaryregistercollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+
+	      
 	      
       }
 	  
