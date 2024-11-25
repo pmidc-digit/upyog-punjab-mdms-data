@@ -31,6 +31,12 @@
       "code": "MIXED",
       "unitCost" : 15,
       "isActive": true
+    },
+    {
+      "name": "Other Commercial Usage",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "unitCost" : 15,
+      "isActive": true
     }
   ]
 }
