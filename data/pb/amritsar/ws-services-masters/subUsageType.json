@@ -14,6 +14,18 @@
       "parentUsageType": "MIXED",
       "active": true
     },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
      {
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
