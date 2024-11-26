@@ -4,7 +4,37 @@
   "FeeSlab": [
     {
       "formFee": 0,
-      "securityDeposit": 600,
+      "securityDeposit": 
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"3000000",
+          "securityDeposit":"600",
+          "usageType":"DOMESTIC"
+        },
+    
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "securityDeposit":"1000",
+          "usageType":"COMMERCIAL"
+        },
+
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "securityDeposit":"1000",
+          "usageType":"INDUSTRIAL"
+        },
+       
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "securityDeposit":"1000",
+          "usageType":"INSTITUTIONAL"
+        }
+        
+      ],
       "meterTestingFee": 0,
       "connectionFee":
       [
