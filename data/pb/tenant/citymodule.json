@@ -4844,7 +4844,7 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":16,
+      "order": 16,
       "tenants": [
         {
           "code": "pb.testing"
@@ -5367,6 +5367,7 @@
         }
       ]
     },
+    {
       "module": "MCollect",
       "code": "MCollect",
       "order": 15,
