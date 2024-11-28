@@ -3293,6 +3293,9 @@
       "order": 11,
       "tenants": [
         {
+          "code": "pb"
+        },
+        {
           "code": "pb.testing"
         },
         {
