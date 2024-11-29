@@ -8,6 +8,12 @@
       "parentUsageType": "RESIDENTIAL",
       "active": true
     },
+     {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
+    },
     {
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
