@@ -20,6 +20,18 @@
       "unitCost" : 30,
       "isActive": true
     },
+ {
+     "name": "Other Commercial subminor",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "unitCost" : 30,
+      "isActive": true
+    },
+     {
+     "name": "Other Commercial subminor othercommercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "unitCost" : 30,
+      "isActive": true
+    },
     {
       "name": "Industrial",
       "code": "NONRESIDENTIAL.INDUSTRIAL",
