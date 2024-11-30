@@ -27034,7 +27034,54 @@
       "actionid": 300007,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULBADMIN",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTULBADMIN",
+      "actionid": 300008,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
    ]
 }
