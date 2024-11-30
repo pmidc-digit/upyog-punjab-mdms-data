@@ -16602,6 +16602,18 @@
       "serviceCode": "HRMSREPORTS",
       "code": "null",
       "path": "HRMS Report"
+    },
+    {
+      "id": 300008,
+      "name": "Esewa Employee",
+      "url": "/egov-hrms/employees/sso/authenticate-user",
+      "parentModule": "egov-hrms",
+      "displayName": "Esewa Employee",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
