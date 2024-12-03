@@ -1,63 +1,63 @@
 {
-  "tenantId": "pb.kapurthala",
+  "tenantId": "pb.abohar",
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 1,
+      "formFee": 0,
       "securityCharge": 
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"400",
+          "securityCharge":"500",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "securityCharge":"400",
+          "securityCharge":"1000",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"251",
           "toPlotSize":"100000",
-          "securityCharge":"400",
+          "securityCharge":"1000",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"400",
+          "securityCharge":"1000",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"126",
-          "toPlotSize":"100000",
-          "securityCharge":"400",
+          "toPlotSize":"10000",
+          "securityCharge":"1500",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"400",
+          "securityCharge":"1000",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"400",
+          "securityCharge":"1500",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"400",
+          "securityCharge":"1000",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"400",
+          "securityCharge":"1500",
           "usageType":"INSTITUTIONAL"
         }
       ],
@@ -67,57 +67,57 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"200",
+          "connectionFee":"100",
           "usageType":"DOMESTIC"
         },
     
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "connectionFee":"200",
+          "connectionFee":"250",
           "usageType":"DOMESTIC"
         },
 
         {
           "fromPlotSize":"251",
           "toPlotSize":"12500000",
-          "connectionFee":"200",
+          "connectionFee":"500",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"200",
+          "connectionFee":"500",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"200",
+          "connectionFee":"750",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"200",
+          "connectionFee":"500",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"200",
+          "connectionFee":"750",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"200",
+          "connectionFee":"500",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"200",
+          "connectionFee":"750",
           "usageType":"INSTITUTIONAL"
         }
         
