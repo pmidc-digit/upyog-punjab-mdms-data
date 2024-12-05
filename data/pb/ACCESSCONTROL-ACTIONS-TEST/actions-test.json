@@ -19939,6 +19939,17 @@
   "serviceCode": "egov-searcher",
   "code": "null",
   "path": ""
-}
+},
+{
+      "id": 6006,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/groupbills/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
