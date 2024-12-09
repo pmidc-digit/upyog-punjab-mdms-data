@@ -19950,6 +19950,125 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+
+
+    {
+      "id": 7001,
+      "name": "Survey Search",
+      "url": "/egov-survey-services/egov-ss/survey/_search",
+      "displayName": "Survey Search",
+      "orderNumber": 55,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    
+    
+    {
+      "id": 7002,
+      "name": "Create Survey",
+      "url": "/egov-survey-services/egov-ss/survey/_create",
+      "displayName": "Craete Survey",
+      "orderNumber": 56,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 7003,
+      "name": "Update Survey",
+      "url": "/egov-survey-services/egov-ss/survey/_update",
+      "displayName": "Update Survey",
+      "orderNumber": 57,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 7004,
+      "name": "Delete Survey",
+      "url": "/egov-survey-services/egov-ss/survey/_delete",
+      "displayName": "Delete Survey",
+      "orderNumber": 58,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 7005,
+      "name": "Survey Submit",
+      "url": "/egov-survey-services/egov-ss/survey/response/_submit",
+      "displayName": "Survey Submit",
+      "orderNumber": 59,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    
+    {
+      "id": 7006,
+      "name": "Show Survey Response",
+      "url": "/egov-survey-services/egov-ss/survey/response/_results",
+      "displayName": "Show Survey Response",
+      "orderNumber": 60,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    
+    {
+      "id": 6007,
+      "name": "OpenComplaints",
+      "url": "url",
+      "displayName": "Open Complaints",
+      "orderNumber": 61,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.MyComplaints",
+      "navigationURL": "/digit-ui/employee/pgr/inbox",
+      "leftIcon": "custom:open-complaints",
+      "rightIcon": ""
+    },
+    {
+      "id": 6008,
+      "name": "ClosedComplaints",
+      "url": "url",
+      "displayName": "Closed Complaints",
+      "orderNumber": 62,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.MyComplaints",
+      "navigationURL": "closed-complaints",
+      "leftIcon": "custom:closed-complaints",
+      "rightIcon": ""
+    },
+    {
+      "id": 6009,
+      "name": "CreateComplaint",
+      "url": "url",
+      "displayName": "Create Complaint",
+      "orderNumber": 63,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "PGR.CreateComplaint",
+      "navigationURL": "digit-ui/employee/complaint/create",
+      "leftIcon": "content:add",
+      "rightIcon": ""
     }
+    
+    
   ]
 }
