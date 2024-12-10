@@ -449,6 +449,12 @@
       "code": "AUTO_ESCALATE",
       "name": "Auto Escalation Employee",
       "description": "Auto Escalation Employee"
+    },
+
+    {
+      "code": "SURVEY_ADMIN",
+      "name": "Survey Admin",
+      "description": "Survey Admin for Survey Module(Engagement)"
     }
   ]
 }
