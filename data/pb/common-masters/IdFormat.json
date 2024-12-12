@@ -737,5 +737,15 @@
       "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "bpa.nc_oc_app_fee.receipt.id"
     }
+    ,
+    {
+      "format": "PG-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "pgr.servicerequestid"
+    }
+    ,
+    {
+      "format": "SS-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ss.surveyid"
+    }
   ]
 }
