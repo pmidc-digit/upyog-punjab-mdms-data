@@ -16,8 +16,14 @@
     },
     {
       "code": "USAGE_INDUSTRIAL_NA",
-      "name": "COMMERCIAL",
+      "name": "INDUSTRIAL",
       "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INSTITUTIONAL_NA",
+      "name": "INSTITUTIONAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
       "active": true
     },
     {
@@ -26,7 +32,7 @@
       "parentUsageType": "MIXED",
       "active": true
     },
-     {
+    {
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
       "parentUsageType": "MIXED",

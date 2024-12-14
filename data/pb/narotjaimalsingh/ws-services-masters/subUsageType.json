@@ -1,4 +1,4 @@
-	  {
+{
   "tenantId": "pb.narotjaimalsingh",
   "moduleName": "ws-services-masters",
   "subUsageType": [
@@ -18,6 +18,24 @@
       "code": "USAGE_INDUSTRIAL_NA",
       "name": "INDUSTRIAL",
       "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INSTITUTIONAL_NA",
+      "name": "INSTITUTIONAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_NA",
+      "name": "DOMESTIC",
+      "parentUsageType": "MIXED",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "MIXED",
       "active": true
     }
   ]

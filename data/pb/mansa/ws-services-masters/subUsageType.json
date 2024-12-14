@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.longowal",
+  "tenantId": "pb.mansa",
   "moduleName": "ws-services-masters",
   "subUsageType": [
     {
@@ -18,6 +18,12 @@
       "code": "USAGE_INDUSTRIAL_NA",
       "name": "INDUSTRIAL",
       "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INSTITUTIONAL_NA",
+      "name": "INSTITUTIONAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
       "active": true
     },
     {
