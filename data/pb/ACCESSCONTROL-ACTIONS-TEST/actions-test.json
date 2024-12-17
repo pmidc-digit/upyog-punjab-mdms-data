@@ -20067,6 +20067,28 @@
       "navigationURL": "digit-ui/employee/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
+    },
+    {
+      "id": 3001,
+      "name": "added meter reading",
+      "url": "/ws-calculator/meterConnection/_createmultiple",
+      "displayName": "ws bulk meterreading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3002,
+      "name": "added meter reading",
+      "url": "/sw-calculator/meterConnection/_createmultiple",
+      "displayName": "sw bulk meterreading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
     }
     
     
