@@ -499,6 +499,47 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT" 
+    },{
+      "id": "36",
+      "tenantId": "pb",
+      "finYearRange": "2025-26",
+      "name": "2025-26",
+      "code": "2025-26",
+      "startingDate": 1743465600000,
+      "endingDate": 1775001599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
+      "id": "37",
+      "tenantId": "pb",
+      "finYearRange": "2026-27",
+      "name": "2026-27",
+      "code": "2026-27",
+      "startingDate": 1775001600000,
+      "endingDate": 1806537599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
+      "id": "38",
+      "tenantId": "pb",
+      "finYearRange": "2027-28",
+      "name": "2027-28",
+      "code": "2027-28",
+      "startingDate": 1806537600000,
+      "endingDate": 1838116799000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
   ]
 }
