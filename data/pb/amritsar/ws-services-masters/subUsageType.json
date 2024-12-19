@@ -25,6 +25,11 @@
       "name": "COMMERCIAL",
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "active": true
+    },{
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
     },
     {
       "code": "USAGE_COMM_NA",
