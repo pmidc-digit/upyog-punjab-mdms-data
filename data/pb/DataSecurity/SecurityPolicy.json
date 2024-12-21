@@ -321,8 +321,8 @@
     {
       "model": "UserListSelf",
       "uniqueIdentifier": {
-        "name": "uuid",
-        "jsonPath": "uuid"
+        "name": "/uuid",
+        "jsonPath": "/uuid"
       },
       "attributes": [
         {
