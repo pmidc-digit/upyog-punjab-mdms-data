@@ -20111,6 +20111,17 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 3005,
+      "name": "Inbox Search for UI",
+      "url": "/inbox/v1/_search",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
     }
     
     
