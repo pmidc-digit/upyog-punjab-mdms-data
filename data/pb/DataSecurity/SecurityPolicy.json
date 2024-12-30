@@ -5,8 +5,8 @@
     {
       "model": "User",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -239,8 +239,8 @@
     {
       "model": "UserSelf",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -321,8 +321,8 @@
     {
       "model": "UserListSelf",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -403,8 +403,8 @@
     {
       "model": "UserSearchCriteria",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -485,8 +485,8 @@
     {
       "model": "EmployeeReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -512,8 +512,8 @@
     {
       "model": "waterOpenSearch",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -608,8 +608,8 @@
     {
       "model": "PrivacyAuditReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -664,8 +664,8 @@
     {
       "model": "WnSConnectionOwner",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
       
@@ -763,8 +763,8 @@
     {
       "model": "ObpsApplicationStatusReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -786,8 +786,8 @@
     {
       "model": "WnsReceiptRegisterReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -809,8 +809,8 @@
     {
       "model": "WnsCollectionRegisterReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
@@ -826,8 +826,8 @@
     {
       "model": "WnsDefaulterReport",
       "uniqueIdentifier": {
-        "name": "/uuid",
-        "jsonPath": "/uuid"
+        "name": "uuid",
+        "jsonPath": "uuid"
       },
       "attributes": [
         {
