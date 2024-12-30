@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "thirdparty": {
+    "EMPLOYEE": [
+      {
+        "rolecode": "ESEWAEMP",
+        "active": true
+      }
+    ],
+    "CITIZEN": [
+      {
+        "rolecode": "ESEWAEMP",
+        "active": true
+      }
+    ]
+  }
+}
