@@ -622,6 +622,38 @@
       "roleBasedDecryptionPolicy": []
     },
     {
+      "model": "InboxWnS",
+      "uniqueIdentifier": {
+        "name": "applicationNo",
+        "jsonPath": "applicationNo"
+      },
+      "attributes": [
+        {
+          "name": "sample",
+          "jsonPath": "sample",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "WS_CEMP",
+            "WS_DOC_VERIFIER",
+            "WS_FIELD_INSPECTOR",
+            "WS_APPROVER",
+            "WS_CLERK",
+            "SW_CEMP",
+            "SW_DOC_VERIFIER",
+            "SW_FIELD_INSPECTOR",
+            "SW_APPROVER",
+            "SW_CLERK"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },   
+    {
       "model": "WnSConnection",
       "uniqueIdentifier": {
         "name": "applicationNo",
