@@ -20122,7 +20122,44 @@
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 3006,
+      "name": "Zone Wise Report SW",
+      "url": "url",
+      "displayName": "Zone Wise Report Sewerage",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.swzonewisecollection",
+      "navigationURL": "report/rainmaker-ws/swzonewisecollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 3007,
+        "name": "SW Report",
+        "url": "/report/rainmaker-ws/swzonewisecollection/metadata/_get",
+        "displayName": "SW Zone Wise metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "SWREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 3008,
+        "name": "SW Report",
+        "url": "/report/rainmaker-ws/swzonewisecollection/_get",
+        "displayName": "SW Zone Wise metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "SWREPORTS",
+        "code": "null",
+        "path": ""
+      }
     
     
   ]
