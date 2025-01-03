@@ -364,6 +364,11 @@
       "code": "SMS_SENDER",
       "name": "sendOpenSMS API access user",
       "description": "sendOpenSMS API access user"	        
+ },
+     {
+      "code": "ESEWAEMP",
+      "name": "Esewa Employee",
+      "description": "Esewa Employee"
     }
   ]
 }
