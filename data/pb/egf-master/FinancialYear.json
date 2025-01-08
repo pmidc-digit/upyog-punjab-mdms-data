@@ -290,7 +290,7 @@
       "code": "2022-23",
       "startingDate": 1648751400000,
       "endingDate": 1680287399000,
-      "active": true,
+      "active": false,
       "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
@@ -363,7 +363,7 @@
       "code": "2023-24",
       "startingDate": 1680287400000,
       "endingDate": 1711909799000,
-      "active": true,
+      "active": false,
       "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
@@ -514,6 +514,34 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "PT" 
+    },
+    {
+      "id": "36",
+      "tenantId": "pb",
+      "finYearRange": "2025-26",
+      "name": "2025-26",
+      "code": "2025-26",
+      "startingDate": 1743465600000,
+      "endingDate": 1775001599000,
+      "active": false,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
+    },
+    {
+      "id": "37",
+      "tenantId": "pb",
+      "finYearRange": "2026-27",
+      "name": "2026-27",
+      "code": "2026-27",
+      "startingDate": 1775001600000,
+      "endingDate": 1806537599000,
+      "active": false,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
   ]
 }
