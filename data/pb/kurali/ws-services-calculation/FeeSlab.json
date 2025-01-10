@@ -9,28 +9,28 @@
       "connectionFee":
       [
         {
-          "fromPlotSize":"20",
+          "fromPlotSize":"0",
           "toPlotSize":"3000000",
           "connectionFee":"50",
           "usageType":"DOMESTIC"
         },
     
         {
-          "fromPlotSize":"20",
+          "fromPlotSize":"0",
           "toPlotSize":"12500000",
           "connectionFee":"50",
           "usageType":"COMMERCIAL"
         },
 
         {
-          "fromPlotSize":"20",
+          "fromPlotSize":"0",
           "toPlotSize":"12500000",
           "connectionFee":"50",
           "usageType":"INDUSTRIAL"
         },
        
         {
-          "fromPlotSize":"20",
+          "fromPlotSize":"0",
           "toPlotSize":"12500000",
           "connectionFee":"50",
           "usageType":"INSTITUTIONAL"
