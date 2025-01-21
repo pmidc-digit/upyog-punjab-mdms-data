@@ -1719,11 +1719,11 @@
        "slabs": [
          {
            "from": 0,
-           "to": 10000000,
+           "to": 10000,
            "charge": 3.8,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1735636928000
+           "effectiveTo":1895229252000
             
          }
        ]
@@ -1739,11 +1739,11 @@
         "slabs": [
          {
            "from": 0,
-           "to":  100000000,
+           "to":  100000,
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
          }
        ]
       },
@@ -1758,11 +1758,11 @@
        "slabs": [
          {
            "from": 0,
-           "to": 1000020000,
+           "to": 100000,
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1735636928000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1777,11 +1777,11 @@
        "slabs": [
          {
            "from": 0,
-           "to": 1000020000,
+           "to": 100000,
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1800,7 +1800,7 @@
            "charge": 15.2,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1819,7 +1819,7 @@
            "charge": 15.2,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1838,7 +1838,7 @@
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1857,7 +1857,7 @@
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
@@ -1876,7 +1876,7 @@
            "charge": 7.6,
            "meterCharge": 0,
            "effectiveFrom":1522584000000,
-           "effectiveTo":1703994720000
+           "effectiveTo":1895229252000
  
          }
        ]
