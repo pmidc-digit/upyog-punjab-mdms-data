@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.cheema",
+  "tenantId": "pb.dharamkot",
   "moduleName": "sw-services-calculation",
   "FeeSlab": [
     {
@@ -68,55 +68,55 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"251",
           "toPlotSize":"10000",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"INDUSTRIAL"
         }
         

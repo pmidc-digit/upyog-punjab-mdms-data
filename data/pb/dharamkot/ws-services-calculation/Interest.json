@@ -1,11 +1,11 @@
 {
-  "tenantId": "pb.dhanaula",
+  "tenantId": "pb.dharamkot",
   "moduleName": "ws-services-calculation",
-  "Penalty": [
+  "Interest": [
     {
       "rate": 0,
       "minAmount": null,
-      "applicableAfterDays":30,
+      "applicableAfterDays":0,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",

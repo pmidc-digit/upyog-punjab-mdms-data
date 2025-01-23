@@ -1,6 +1,6 @@
 {
-  "tenantId": "pb.dhanaula",
-  "moduleName": "sw-services-calculation",
+  "tenantId": "pb.dharamkot",
+  "moduleName": "ws-services-calculation",
   "PropertyUsageType": [
     {
       "name": "Residential",
@@ -8,20 +8,20 @@
       "unitCost" : 20,
       "isActive": true
     },
-{
+    {
      "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
       "unitCost" : 30,
       "isActive": true
     },
-{
+    {
       "name": "Industrial",
       "code": "NONRESIDENTIAL.INDUSTRIAL",
       "unitCost" : 15,
       "isActive": true
     },
     {
-      "name": "Institutional",
+      "name": "Intitutional",
       "code": "NONRESIDENTIAL.INSTITUTIONAL",
       "unitCost" : 15,
       "isActive": true
