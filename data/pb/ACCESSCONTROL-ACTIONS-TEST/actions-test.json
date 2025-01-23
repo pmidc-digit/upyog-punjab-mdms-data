@@ -15601,7 +15601,29 @@
       "rightIcon": ""	     
 	      
 	      
-      }
+      },
+	  {
+      "id": 2603,
+      "name": "added ws canceldemand",
+      "url": "/ws-calculator/waterCalculator/cancelDemand",
+      "displayName": "ws cancel demand",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2604,
+      "name": "added sw canceldemand",
+      "url": "/sw-calculator/sewerageCalculator/cancelDemand",
+      "displayName": "sw cancel demand",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    }
 	  
   ]
 }
