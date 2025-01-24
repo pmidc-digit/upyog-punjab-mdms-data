@@ -20196,7 +20196,44 @@
       "serviceCode": "SWREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 3012,
+      "name": "PendencyReport",
+      "url": "url",
+      "displayName": "Pendency Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "State Reports.UC.PendencyReport",
+      "navigationURL": "report/uc/PendencyReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 3013,
+      "name": "PendencyReport",
+      "url": "/report/uc/PendencyReport/metadata/_get",
+      "displayName": "Pendency Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 3014,
+       "name": "PendencyReport",
+       "url": "/report/uc/PendencyReport/_get",
+       "displayName": "Pendency Report",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "MiscReceipt",
+       "code": "null",
+       "path": ""
+      }
     
     
   ]
