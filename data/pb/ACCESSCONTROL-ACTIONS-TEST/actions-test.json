@@ -15623,7 +15623,44 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2605,
+      "name": "PendencyReportMiscellaneous",
+      "url": "url",
+      "displayName": "Pendency Report Miscellaneous",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-misc",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "State Reports.PGR.PendencyReportMiscellaneous",
+      "navigationURL": "report/rainmaker-misc/PendencyReportMiscellaneous",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 2606,
+      "name": "PendencyReportMiscellaneous",
+      "url": "/report/rainmaker-misc/metadata/_get",
+      "displayName": "Pendency Report Miscellaneous",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2607,
+       "name": "PendencyReportMiscellaneous",
+       "url": "/report/rainmaker-misc/_get",
+       "displayName": "Pendency Report Miscellaneous",
+       "orderNumber": 2,
+       "enabled": true,
+       "serviceCode": "MiscReceipt",
+       "code": "null",
+       "path": ""
+      }
 	  
   ]
 }
