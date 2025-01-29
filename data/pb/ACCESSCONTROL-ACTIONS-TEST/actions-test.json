@@ -20233,7 +20233,81 @@
        "serviceCode": "MiscReceipt",
        "code": "null",
        "path": ""
+      },
+      {
+        "id": 3015,
+        "name": "TL_CREATE_TRADE",
+        "url": "card",
+        "displayName": "Apply for Trade License",
+        "orderNumber": 1,
+        "parentModule": "TL",
+        "enabled": true,
+        "serviceCode": "TL",
+        "code": "",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/tl/tradelicence/new-application-step-form",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/tl-home"
+      },
+  
+      {
+        "id": 3016,
+        "name": "TL_RENEWAL_HEADER",
+        "url": "card",
+        "displayName": "Renew Trade License",
+        "orderNumber": 2,
+        "parentModule": "TL",
+        "enabled": true,
+        "serviceCode": "TL",
+        "code": "",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/tl/tradelicence/renewal-list",
+        "leftIcon": "TLIcon",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/tl-home"
+      },
+      {
+        "id": 3017,
+        "name": "TL_MY_APPLICATIONS_HEADER",
+        "url": "card",
+        "displayName": "My Applications",
+        "orderNumber": 3,
+        "parentModule": "TL",
+        "enabled": true,
+        "serviceCode": "TL",
+        "code": "",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/tl/tradelicence/my-application",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/tl-home"
+      },
+      {
+        "id": 3018,
+        "name": "TL_FAQ_S",
+        "url": "card",
+        "displayName": "FAQs",
+        "orderNumber": 4,
+        "parentModule": "TL",
+        "enabled": true,
+        "serviceCode": "TL",
+        "code": "",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/tl/tradelicence/faq",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/tl-home"
       }
+
     
     
   ]
