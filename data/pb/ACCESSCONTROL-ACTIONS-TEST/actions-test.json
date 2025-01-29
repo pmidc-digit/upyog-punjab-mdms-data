@@ -20234,6 +20234,24 @@
        "code": "null",
        "path": ""
       },
+	  {
+      "id": 72452,
+      "name": "TL_CREATE_TRADE",
+      "url": "digit-ui-card",
+      "displayName": "Apply for Trade License",
+      "orderNumber": 1,
+      "parentModule": "TL",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/tl/tradelicence/new-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/tl-home"
+    },
       {
         "id": 3015,
         "name": "TL_CREATE_TRADE",
