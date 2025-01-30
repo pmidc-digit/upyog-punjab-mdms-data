@@ -224,12 +224,12 @@
           "attributeAccessList": [
             {
               "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
           ]
