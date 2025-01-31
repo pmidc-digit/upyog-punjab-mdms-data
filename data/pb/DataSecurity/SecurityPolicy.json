@@ -94,22 +94,22 @@
           "attributeAccessList": [
             {
               "attribute": "name",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "mobileNumber",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "userName",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
           ]
