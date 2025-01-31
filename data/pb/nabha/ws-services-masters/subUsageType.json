@@ -15,6 +15,18 @@
       "active": true
     },
     {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
+    {
       "code": "USAGE_INDUSTRIAL_NA",
       "name": "INDUSTRIAL",
       "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
