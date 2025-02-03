@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "ServiceMappingsCitizen": [
+    {
+      "serviceName": "WS",
+      "path": "wns/search"
+    },
+    {
+      "serviceName": "PT",
+      "path": "pt-mutation/propertySearch"
+    },
+    {
+      "serviceName": "TL",
+      "path": "tradelicense-citizen/home"
+    },
+    {
+      "serviceName": "FNC",
+      "path": "fire-noc/home"
+    }
+  ]
+}
