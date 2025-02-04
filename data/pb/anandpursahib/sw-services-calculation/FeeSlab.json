@@ -1,0 +1,53 @@
+{
+  "tenantId": "pb.anandpursahib",
+  "moduleName": "sw-services-calculation",
+  "FeeSlab": [
+    {
+      "formFee": 0,
+      "securityDeposit": 500,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"300",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"250",
+          "connectionFee":"300",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"251",
+          "toPlotSize":"9999",
+          "connectionFee":"300",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"300",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"250",
+          "connectionFee":"300",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"251",
+          "toPlotSize":"9999",
+          "connectionFee":"300",
+          "usageType":"COMMERCIAL"
+        }
+        
+      ],
+      "other": 0,
+      "taxpercentage": 0,
+      "isActive": true
+    }
+  ]
+}
