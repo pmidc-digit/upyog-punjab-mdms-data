@@ -152,6 +152,14 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "ServiceMappingsCitizen": {
+      "masterName": "ServiceMappingsCitizen",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.serviceName"
+      ]
     }
   },
   "egf-master": {
