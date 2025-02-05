@@ -21133,7 +21133,44 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/verificationsearch-home"
-    }  
+    },
+    {
+      "id": 882853,
+      "name": "CollectionCountWaterSewerage",
+      "url": "url",
+      "displayName": "Collection Count Water-Sewerage",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Collection Count Water-Sewerage",
+      "navigationURL": "report/rainmaker-ws/CollectionCountWaterSewerage",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id":882854,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/CollectionCountWaterSewerage/metadata/_get",
+      "displayName": "Collection Count Water-Sewerage",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 882855,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/CollectionCountWaterSewerage/_get",
+       "displayName": "Collection Count Water-Sewerage",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      }
     
   ]
 }
