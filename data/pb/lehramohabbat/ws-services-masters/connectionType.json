@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.lehramohabbat",
+  "moduleName": "ws-services-masters",
+  "connectionType": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "description": "Non-Metered Connection",
+      "active": true
+    }
+  ]
+}
