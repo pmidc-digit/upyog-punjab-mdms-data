@@ -470,6 +470,36 @@
       "code": "PBTRACK",
       "name": "Punjab Transparency",
       "description": "State Transaparency Viewer"
+    },
+    {
+      "code": "CREATE_CATEGORY",
+      "name": "Create Category Role",
+      "description": "Access to Create Category for Survey Module"
+    },
+    {
+      "code": "UPDATE_CATEGORY",
+      "name": "Update Category Role",
+      "description": "Access to Update Category for Survey Module"
+    },
+    {
+      "code": "SEARCH_CATEGORY",
+      "name": "Search Category Role",
+      "description": "Access to Search Category for Survey Module"
+    },
+    {
+      "code": "CREATE_QUESTION",
+      "name": "Create Question Role",
+      "description": "Access to Create Question for Survey Module"
+    },
+    {
+      "code": "UPDATE_QUESTION",
+      "name": "Update Question Role",
+      "description": "Access to Update Question for Survey Module"
+    },
+    {
+      "code": "SEARCH_QUESTION",
+      "name": "Search Question Role",
+      "description": "Access to Search Question for Survey Module"
     }
   ]
 }
