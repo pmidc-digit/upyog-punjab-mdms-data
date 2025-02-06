@@ -57611,6 +57611,78 @@
       "actionid": 882855,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890005,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890006,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CREATE_CATEGORY",
+      "actionid": 890001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "UPDATE_CATEGORY",
+      "actionid": 890002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SEARCH_CATEGORY",
+      "actionid": 890003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CREATE_QUESTION",
+      "actionid": 890004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "UPDATE_QUESTION",
+      "actionid": 890005,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SEARCH_QUESTION",
+      "actionid": 890006,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }
