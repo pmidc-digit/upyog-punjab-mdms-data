@@ -34,7 +34,38 @@
          ]
       },
       {
-         "id":"4",
+         "id":"2",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType": "USAGE_DOM_NA",
+         "calculationAttribute":"TAP_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":1.00,
+               "to":2.00,
+               "charge":1000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":3.00,
+               "to":5.00,
+               "charge":2000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":6.00,
+               "to":10.00,
+               "charge":3000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"3",
          "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
@@ -64,8 +95,39 @@
             }
          ]
       },
+      {
+         "id":"4",
+         "buildingType":"COMMERCIAL",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"TAP_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":1.00,
+               "to":2.00,
+               "charge":4000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":3.00,
+               "to":5.00,
+               "charge":5000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":6.00,
+               "to":10.00,
+               "charge":6000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
 	 {
-       "id": 3,
+       "id": 5,
        "buildingType": "COMMERCIAL",
        "waterSubUsageType": "USAGE_COMM_NA",
        "calculationAttribute": "Water consumption",
@@ -81,10 +143,10 @@
            "effectiveTo":1736058973000
  
          }
-	]
+	   ]
    },
     {
-       "id": 2,
+       "id": 6,
        "buildingType": "RESIDENTIAL",
        "waterSubUsageType": "USAGE_DOM_NA",
        "calculationAttribute": "Water consumption",
@@ -100,7 +162,7 @@
            "effectiveTo":1736058973000
  
          }
-	           ]
+	   ]
     }
    
   ]
