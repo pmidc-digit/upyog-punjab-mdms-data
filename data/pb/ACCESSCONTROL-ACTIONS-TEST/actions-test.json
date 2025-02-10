@@ -21235,6 +21235,28 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890007,
+      "name": "Create Question Excel Upload",
+      "url": "/egov-survey-services/egov-ss/question/_upload",
+      "displayName": "Import Question",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890008,
+      "name": "Download Question Template",
+      "url": "/egov-survey-services/egov-ss/question/download-template",
+      "displayName": "Download Question Template",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
     }
   ]
 }
