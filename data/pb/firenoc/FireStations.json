@@ -1404,6 +1404,22 @@
                 "code": "pb.talwandisabo"                                         
           
           
+        },
+                
+     {
+            "code": "FS_RAJASANSI_01",
+            "baseTenantId": "pb.rajasansi",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Rajasansi"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.rajasansi"  
         }
       ]
     }
