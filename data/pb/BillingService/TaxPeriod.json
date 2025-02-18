@@ -2327,7 +2327,7 @@
       "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TL",
-      "code": "TLRENEWAL2025",
+      "code": "TLRENEWAL2024",
       "financialYear": "2024-25"
     },
     {
@@ -2473,6 +2473,22 @@
       "service": "BPA.NC_OC_SAN_FEE",
       "code": "BPAOCSAN10YRS2018",
       "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202426",
+      "financialYear": "2024-26"
+    },
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202427",
+      "financialYear": "2024-27"
     }
   ]
 }
