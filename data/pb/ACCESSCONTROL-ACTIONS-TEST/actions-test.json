@@ -21257,6 +21257,17 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890009,
+      "name": "Create Survey",
+      "url": "/egov-survey-services/egov-ss/csc/create",
+      "displayName": "Create Survey",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
     }
   ]
 }
