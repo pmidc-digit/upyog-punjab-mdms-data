@@ -2425,6 +2425,22 @@
       "service": "FIRENOC",
       "code": "FIRENOCAN2024",
       "financialYear": "2024-25"  
-   }
+   },
+    {
+      "fromDate": 1711929600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202426",
+      "financialYear": "2024-26"
+    },
+    {
+      "fromDate": 1711929600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202427",
+      "financialYear": "2024-27"
+    }
   ]
 }
