@@ -471,6 +471,11 @@
       "name": "Punjab Transparency",
       "description": "State Transaparency Viewer"
     },
+	{
+      "code": "CATEGORY_ADMIN",
+      "name": "Category Admin Role",
+      "description": "Access to Create Search update Category for Survey Module"
+    },  
     {
       "code": "CREATE_CATEGORY",
       "name": "Create Category Role",
