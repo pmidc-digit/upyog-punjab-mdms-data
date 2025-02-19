@@ -57666,6 +57666,23 @@
       "actioncode": "",
       "tenantid": "pb"
     },
+	  {
+      "rolecode": "CATEGORY_ADMIN",
+      "actionid": 890001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },  {
+      "rolecode": "CATEGORY_ADMIN",
+      "actionid": 890002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },  {
+      "rolecode": "CATEGORY_ADMIN",
+      "actionid": 890003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+	  
     {
       "rolecode": "UPDATE_CATEGORY",
       "actionid": 890002,
