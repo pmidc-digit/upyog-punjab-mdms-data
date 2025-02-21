@@ -3892,10 +3892,22 @@
     },
    {
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": true,
       "propertytype": ["RESIDENTIAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
+    },
+   {
+      "tenant": "pb.pathankot",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
+    },
+   {
+      "tenant": "pb.jalandhar",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false
     }
   ]
 }
