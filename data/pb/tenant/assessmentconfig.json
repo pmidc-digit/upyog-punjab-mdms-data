@@ -3899,15 +3899,46 @@
     },
    {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2024-25",
       "isRented": false
     },
    {
       "tenant": "pb.jalandhar",
+      "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": false 
+    },
+   {
+      "tenant": "pb.hoshiarpur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false 
+    },
+   {
+      "tenant": "pb.ferozepur",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false 
+    },
+   {
+      "tenant": "pb.kapurthala",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false 
+    },
+   {
+      "tenant": "pb.phagwara",
+      "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": false 
+    },
+   {
+      "tenant": "pb.faridkot",
       "enabled": true,
       "financialyear": "2024-25",
       "isRented": false 
     }
+	  
   ]
 }
