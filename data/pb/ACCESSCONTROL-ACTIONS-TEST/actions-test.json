@@ -15660,6 +15660,24 @@
        "serviceCode": "MiscReceipt",
        "code": "null",
        "path": ""
+     },
+     {	  
+      "id": 2602,
+      "name": "WSSWCancelledReceiptRegister_V2",
+      "url": "url",
+      "displayName": "WS SW CancelledReceiptRegister",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WSSWCancelledReceiptRegister_V2",
+      "navigationURL": "report/rainmaker-ws/WSSWCancelledReceiptRegister_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""	  
+
+
+	     
       }
 	  
   ]
