@@ -5,37 +5,31 @@
     {
       "title": "Surveys_Short_Answer",
       "code": "SHORT_ANSWER_TYPE",
-      "value": "SHORT_ANSWER_TYPE",
       "active": false
     },
     {
       "title": "Surveys_Multiple_Choice",
       "code": "MULTIPLE_ANSWER_TYPE",
-      "value": "MULTIPLE_ANSWER_TYPE",
       "active": true
     },
     {
       "title": "Surveys_Check_Boxes",
       "code": "CHECKBOX_ANSWER_TYPE",
-      "value": "CHECKBOX_ANSWER_TYPE",
       "active": true
     },
     {
       "title": "Surveys_Paragraph",
       "code": "LONG_ANSWER_TYPE",
-      "value": "LONG_ANSWER_TYPE",
       "active": false
     },
     {
       "title": "Surveys_Date",
       "code": "DATE_ANSWER_TYPE",
-      "value": "DATE_ANSWER_TYPE",
       "active": true
     },
     {
       "title": "Surveys_Time",
       "code": "TIME_ANSWER_TYPE",
-      "value": "TIME_ANSWER_TYPE",
       "active": true
     }
   ]

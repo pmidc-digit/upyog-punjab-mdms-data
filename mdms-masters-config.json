@@ -160,6 +160,15 @@
       "uniqueKeys": [
         "$.serviceName"
       ]
+    },
+    "questionType": {
+      "masterName": "questionType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.title",
+        "$.code"
+      ]
     }
   },
   "egf-master": {
