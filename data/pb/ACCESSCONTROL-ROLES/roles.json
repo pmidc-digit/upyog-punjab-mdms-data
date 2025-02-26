@@ -457,9 +457,13 @@
     },
     {
       "code": "SURVEY_ADMIN",
-
       "name": "Survey Admin",
       "description": "Survey Admin for Survey Module(Engagement)"
+    },
+    {
+      "code": "SEARCH_SURVEY",
+      "name": "Search Survey",
+      "description": "Access to Search Survey for Survey Module"
     },
      {
       "code": "ESEWAEMP",
