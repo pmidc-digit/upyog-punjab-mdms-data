@@ -21268,6 +21268,17 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890010,
+      "name": "Search Survey",
+      "url": "/egov-survey-services/egov-ss/csc/_search",
+      "displayName": "Search Survey",
+      "orderNumber": 10,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
     }
   ]
 }
