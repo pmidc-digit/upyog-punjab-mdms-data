@@ -21290,6 +21290,43 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 890011,
+      "name": "DepartmentReport",
+      "url": "url",
+      "displayName": "Department Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-misc",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "State Reports.PGR.DepartmentReport",
+      "navigationURL": "report/rainmaker-misc/DepartmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 890012,
+      "name": "DepartmentReport",
+      "url": "/report/rainmaker-misc/metadata/_get",
+      "displayName": "Department Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 890013,
+       "name": "DepartmentReport",
+       "url": "/report/rainmaker-misc/_get",
+       "displayName": "Department Report",
+       "orderNumber": 2,
+       "enabled": true,
+       "serviceCode": "MiscReceipt",
+       "code": "null",
+       "path": ""
+      }
   ]
 }
