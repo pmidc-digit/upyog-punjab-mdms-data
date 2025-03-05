@@ -15696,12 +15696,119 @@
         "enabled": true,
         "serviceCode": "WSREPORTS",
         "code": "null",
+        "path": "" 
+      },
+      {
+        "id": 2611,
+        "name": "DepartmentReport",
+        "url": "url",
+        "displayName": "Department Wise Pendancy Report",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "rainmaker-misc",
+        "enabled": true,
+        "serviceCode": "PGR",
+        "path": "State Reports.PGR.DepartmentReport",
+        "navigationURL": "report/rainmaker-misc/DepartmentReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+      {
+        "id": 2612,
+        "name": "DepartmentReport",
+        "url": "/report/rainmaker-misc/metadata/_get",
+        "displayName": "Department Wise Pendancy Report",
+        "orderNumber": 2,
+        "enabled": true,
+        "serviceCode": "MiscReceipt",
+        "code": "null",
         "path": ""
-
-
-
-	     
-      }
+      },
+      {
+         "id": 2613,
+         "name": "DepartmentReport",
+         "url": "/report/rainmaker-misc/_get",
+         "displayName": "Department Wise Pendancy Report",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "MiscReceipt",
+         "code": "null",
+         "path": ""
+      },
+      {
+        "id": 2614,
+        "name": "TenantWisePendencyReport",
+        "url": "url",
+        "displayName": "Tenant Wise Pendency Report",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "rainmaker-misc",
+        "enabled": true,
+        "serviceCode": "PGR",
+        "path": "State Reports.PGR.TenantWisePendencyReport",
+        "navigationURL": "report/rainmaker-misc/TenantWisePendencyReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+       },
+      {
+        "id": 2615,
+        "name": "TenantWisePendencyReport",
+        "url": "/report/rainmaker-misc/metadata/_get",
+        "displayName": "Tenant Wise Pendency Report",
+        "orderNumber": 2,
+        "enabled": true,
+        "serviceCode": "MiscReceipt",
+        "code": "null",
+        "path": ""
+       },
+       {
+         "id": 2616,
+         "name": "TenantWisePendencyReport",
+         "url": "/report/rainmaker-misc/_get",
+         "displayName": "Tenant Wise Pendency Report",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "MiscReceipt",
+         "code": "null",
+         "path": ""
+        },
+        {
+          "id": 2617,
+          "name": "ServiceWisePendencyReport",
+          "url": "url",
+          "displayName": "Service Wise Pendency Report",
+          "orderNumber": 1,
+          "queryParams": "",
+          "parentModule": "rainmaker-misc",
+          "enabled": true,
+          "serviceCode": "PGR",
+          "path": "State Reports.PGR.ServiceWisePendencyReport",
+          "navigationURL": "report/rainmaker-misc/ServiceWisePendencyReport",
+          "leftIcon": "action:assignment",
+          "rightIcon": ""
+         },
+        {
+          "id": 2618,
+          "name": "ServiceWisePendencyReport",
+          "url": "/report/rainmaker-misc/metadata/_get",
+          "displayName": "Service Wise Pendency Report",
+          "orderNumber": 2,
+          "enabled": true,
+          "serviceCode": "MiscReceipt",
+          "code": "null",
+          "path": ""
+         },
+         {
+           "id": 2619,
+           "name": "ServiceWisePendencyReport",
+           "url": "/report/rainmaker-misc/_get",
+           "displayName": "Service Wise Pendency Report",
+           "orderNumber": 2,
+           "enabled": true,
+           "serviceCode": "MiscReceipt",
+           "code": "null",
+           "path": ""
+          }
 	  
   ]
 }
