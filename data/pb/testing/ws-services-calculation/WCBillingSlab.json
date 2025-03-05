@@ -157,9 +157,71 @@
         }
       ]
     },
+    {
+      "id":"4",
+      "buildingType":"RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_NA",
+      "calculationAttribute":"TAP_BASED",
+      "connectionType":"Non Metered",
+      "minimumCharge":0,
+      "slabs":[
+         {
+            "from":1.00,
+            "to":2.00,
+            "charge":1000,
+            "effectiveFrom":917523271000,
+            "effectiveTo":1774929282000
+         },
+         {
+            "from":3.00,
+            "to":5.00,
+            "charge":2000,
+            "effectiveFrom":917523271000,
+            "effectiveTo":1774929282000
+         },
+         {
+            "from":6.00,
+            "to":10.00,
+            "charge":3000,
+            "effectiveFrom":917523271000,
+            "effectiveTo":1774929282000
+         }
+      ]
+   },
+   {
+    "id":"5",
+    "buildingType":"COMMERCIAL",
+    "waterSubUsageType": "USAGE_COMM_NA",
+    "calculationAttribute":"TAP_BASED",
+    "connectionType":"Non Metered",
+    "minimumCharge":0,
+    "slabs":[
+       {
+          "from":1.00,
+          "to":2.00,
+          "charge":4000,
+          "effectiveFrom":917523271000,
+          "effectiveTo":1774929282000
+       },
+       {
+          "from":3.00,
+          "to":5.00,
+          "charge":5000,
+          "effectiveFrom":917523271000,
+          "effectiveTo":1774929282000
+       },
+       {
+          "from":6.00,
+          "to":10.00,
+          "charge":6000,
+          "effectiveFrom":917523271000,
+          "effectiveTo":1774929282000
+       }
+    ]
+ },
     
       {
-         "id":"5",
+         "id":"6",
          "buildingType":"RESIDENTIAL",
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute":"PLOT_BASED",
@@ -190,7 +252,7 @@
          ]
       },
       {
-         "id":"6",
+         "id":"7",
          "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
@@ -221,7 +283,7 @@
          ]
       },
       {
-         "id":"7",
+         "id":"8",
          "buildingType":"INDUSTRIAL",
          "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
          "calculationAttribute":"PLOT_BASED",
