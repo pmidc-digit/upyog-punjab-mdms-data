@@ -21412,6 +21412,17 @@
       "serviceCode": "egov-ss",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890033,
+      "name": "Survey Answer Response",
+      "url": "/egov-survey-services/egov-ss/csc/response/_answers",
+      "displayName": "Survey Answer Response",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
     }
   ]
 }
