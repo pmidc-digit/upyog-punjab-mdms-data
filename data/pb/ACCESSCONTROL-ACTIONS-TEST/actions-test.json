@@ -21281,7 +21281,7 @@
       "path": ""
     },
     {
-      "id": 890014,
+      "id": 890031,
       "name": "Update Active Survey",
       "url": "/egov-survey-services/egov-ss/csc/active/_update",
       "displayName": "Update Active Survey",
@@ -21403,11 +21403,11 @@
            "path": ""
           },
     {
-      "id": 890030,
-      "name": "Search Survey",
+      "id": 890032,
+      "name": "Survey Submit Response",
       "url": "/egov-survey-services/egov-ss/csc/response/_submit",
       "displayName": "Survey Submit Response",
-      "orderNumber": 30,
+      "orderNumber": 32,
       "enabled": true,
       "serviceCode": "egov-ss",
       "code": "null",

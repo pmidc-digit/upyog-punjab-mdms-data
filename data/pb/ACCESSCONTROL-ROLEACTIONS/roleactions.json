@@ -57738,14 +57738,38 @@
       "tenantid": "pb"
     },
     {
-      "rolecode": "SURVEY_ADMIN",
-      "actionid": 890014,
+      "rolecode": "EMPLOYEE",
+      "actionid": 890010,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 890010,
       "actioncode": "",
       "tenantid": "pb"
     },
     {
       "rolecode": "SURVEY_ADMIN",
-      "actionid": 890030,
+      "actionid": 890031,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 890032,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 890032,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890032,
       "actioncode": "",
       "tenantid": "pb"
     },
