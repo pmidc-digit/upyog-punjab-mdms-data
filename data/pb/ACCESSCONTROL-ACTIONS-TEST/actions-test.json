@@ -21281,6 +21281,17 @@
       "path": ""
     },
     {
+      "id": 890014,
+      "name": "Update Active Survey",
+      "url": "/egov-survey-services/egov-ss/csc/active/_update",
+      "displayName": "Update Active Survey",
+      "orderNumber": 11,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 890011,
       "name": "DepartmentReport",
       "url": "url",
