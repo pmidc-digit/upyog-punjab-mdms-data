@@ -21281,7 +21281,7 @@
       "path": ""
     },
     {
-      "id": 890014,
+      "id": 890031,
       "name": "Update Active Survey",
       "url": "/egov-survey-services/egov-ss/csc/active/_update",
       "displayName": "Update Active Survey",
@@ -21401,6 +21401,17 @@
            "serviceCode": "MiscReceipt",
            "code": "null",
            "path": ""
-          }
+          },
+    {
+      "id": 890032,
+      "name": "Survey Submit Response",
+      "url": "/egov-survey-services/egov-ss/csc/response/_submit",
+      "displayName": "Survey Submit Response",
+      "orderNumber": 32,
+      "enabled": true,
+      "serviceCode": "egov-ss",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
