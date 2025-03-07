@@ -509,6 +509,15 @@
       ]
     }
   },
+  "SwachReform": {
+    "SwachBharatCategory": {
+      "masterName": "SwachBharatCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
   "PropertyTax": {
     "ConstructionType": {
       "masterName": "ConstructionType",
