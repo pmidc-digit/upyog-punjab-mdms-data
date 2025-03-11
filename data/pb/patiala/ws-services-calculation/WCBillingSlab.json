@@ -15,21 +15,21 @@
                "to":125.00,
                "charge":0,
                "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
+               "effectiveTo":1774929282000
             },
             {
                "from":125.01,
                "to":250.00,
                "charge":150,
                "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
+               "effectiveTo":1774929282000
             },
             {
                "from":250.01,
                "to":1000000000.00,
                "charge":150,
                "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
+               "effectiveTo":1774929282000
             }
          ]
       },
@@ -47,7 +47,7 @@
           "charge": 3.8,
           "meterCharge": 50,
           "effectiveFrom":1522584000000,
-          "effectiveTo":1745488755000
+          "effectiveTo":1774929282000
            
         }
       ]
@@ -66,12 +66,12 @@
           "charge": 7.6,
           "meterCharge": 532.4,
           "effectiveFrom":1522584000000,
-          "effectiveTo":1745488755000
+          "effectiveTo":1774929282000
 
         }
       ]
     },
-      {
+    {
          "id":"4",
          "buildingType":"COMMERCIAL",
          "waterSubUsageType": "NA",
@@ -81,24 +81,10 @@
          "slabs":[
             {
                "from":0.00,
-               "to":125.00,
-               "charge":600,
+               "to":99999999,
+               "charge":900,
                "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
-            },
-            {
-               "from":125.01,
-               "to":250.00,
-               "charge":630,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
-            },
-            {
-               "from":250.01,
-               "to":1000000000.00,
-               "charge":840,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1745488755000
+               "effectiveTo":1774929282000
             }
          ]
       }
