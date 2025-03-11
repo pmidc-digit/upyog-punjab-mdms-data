@@ -1,226 +1,226 @@
 {
-  "tenantId": "pb",
-  "moduleName": "SwachReform",
-  "SwachBharatCategory": [
-    {
-      "serviceCode": "RoadSweeping",
-      "name": "Road Sweeping",
-      "active": true,
-      "keywords": "road sweeping, cleanliness, maintenance",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 1
-    },
-    {
-      "serviceCode": "LeakagesOverflows",
-      "name": "Identification of Leakages or Overflows",
-      "active": true,
-      "keywords": "leakage, overflow, water, drainage",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 2
-    },
-    {
-      "serviceCode": "GVPs",
-      "name": "Identification of GVPs",
-      "active": true,
-      "keywords": "gvps, identification, monitoring",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 3
-    },
-    {
-      "serviceCode": "CleanlinessRoad",
-      "name": "Cleanliness of Road",
-      "active": true,
-      "keywords": "cleanliness, road, maintenance",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 4
-    },
-    {
-      "serviceCode": "CleanlinessCommercialAreas",
-      "name": "Cleanliness of Commercial Areas",
-      "active": true,
-      "keywords": "cleanliness, commercial areas, waste management",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 5
-    },
-    {
-      "serviceCode": "CleanlinessParks",
-      "name": "Cleanliness of Parks",
-      "active": true,
-      "keywords": "cleanliness, parks, maintenance",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 6
-    },
-    {
-      "serviceCode": "CleanlinessPublicSpaces",
-      "name": "Cleanliness of Public Spaces",
-      "active": true,
-      "keywords": "cleanliness, public spaces, waste management",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 7
-    },
-    {
-      "serviceCode": "CleanlinessNalas",
-      "name": "Cleanliness of Nalas",
-      "active": true,
-      "keywords": "cleanliness, nalas, waste removal",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 8
-    },
-    {
-      "serviceCode": "CleanlinessDrains",
-      "name": "Cleanliness of Drains",
-      "active": true,
-      "keywords": "cleanliness, drains, waste removal",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 9
-    },
-    {
-      "serviceCode": "CleanlinessLitterBin",
-      "name": "Cleanliness of Litter Bins",
-      "active": true,
-      "keywords": "cleanliness, litter bins, waste collection",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 10
-    },
-    {
-      "serviceCode": "ToiletMaintenance",
-      "name": "Cleanliness & Maintenance of Community Toilets",
-      "active": true,
-      "keywords": "toilet, maintenance, cleanliness, sanitation",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 11
-    },
-    {
-      "serviceCode": "PublicToiletMaintenance",
-      "name": "Cleanliness & Maintenance of Public Toilets",
-      "active": true,
-      "keywords": "public toilet, maintenance, cleanliness",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 12
-    },
-    {
-      "serviceCode": "UrinalMaintenance",
-      "name": "Cleanliness & Maintenance of Urinals",
-      "active": true,
-      "keywords": "urinals, maintenance, sanitation",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 13
-    },
-    {
-      "serviceCode": "NoGarbageBurning",
-      "name": "No Burning of Garbage in Open Space",
-      "active": true,
-      "keywords": "garbage burning, pollution, environment",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 14
-    },
-    {
-      "serviceCode": "TimelyLiftingDeadAnimal",
-      "name": "Timely Lifting of Dead Animals",
-      "active": true,
-      "keywords": "dead animal, waste removal, sanitation",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 15
-    },
-    {
-      "serviceCode": "TimelyLiftingCNDWaste",
-      "name": "Timely Lifting of C & D Waste Debris",
-      "active": true,
-      "keywords": "C&D waste, debris removal, waste management",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 16
-    },
-    {
-      "serviceCode": "GarbageCollectionTiming",
-      "name": "Timely Arrival of Garbage Collection Vehicles",
-      "active": true,
-      "keywords": "garbage collection, waste management, timely service",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 17
-    },
-    {
-      "serviceCode": "OpenDefecation",
-      "name": "Open Defecation",
-      "active": true,
-      "keywords": "open defecation, sanitation, hygiene",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 18
-    },
-    {
-      "serviceCode": "OpenManhole",
-      "name": "Open Manhole",
-      "active": true,
-      "keywords": "open manhole, safety hazard, public safety",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 19
-    },
-    {
-      "serviceCode": "StormWaterOutflow",
-      "name": "Storm Water Outflow",
-      "active": true,
-      "keywords": "storm water, drainage, flooding",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 20
-    },
-    {
-      "serviceCode": "StagnantWaterRoad",
-      "name": "Stagnant Water on the Road",
-      "active": true,
-      "keywords": "stagnant water, mosquito breeding, public health",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 21
-    },
-    {
-      "serviceCode": "NonFunctioningMRF",
-      "name": "Non-functioning of MRF/Processing Plants",
-      "active": true,
-      "keywords": "MRF, processing plant, waste management, malfunction",
-      "department": "DEPT_8",
-      "slaHours": 336,
-      "menuPath": "",
-      "order": 22
-    }
-  ]
-}
+    "tenantId": "pb",
+    "moduleName": "SwachReform",
+    "SwachBharatCategory": [
+      {
+        "serviceCode": "RoadSweeping",
+        "name": "Road Sweeping",
+        "active": true,
+        "keywords": "road sweeping, cleanliness, maintenance",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Roadsweeping",
+        "order": 1
+      },
+      {
+        "serviceCode": "LeakagesOverflows",
+        "name": "Identification of Leakages or Overflows",
+        "active": true,
+        "keywords": "leakage, overflow, water, drainage",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Identification",
+        "order": 2
+      },
+      {
+        "serviceCode": "GVPs",
+        "name": "Identification of GVPs",
+        "active": true,
+        "keywords": "gvps, identification, monitoring",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Identification",
+        "order": 3
+      },
+      {
+        "serviceCode": "CleanlinessRoad",
+        "name": "Cleanliness of Road",
+        "active": true,
+        "keywords": "cleanliness, road, maintenance",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 4
+      },
+      {
+        "serviceCode": "CleanlinessCommercialAreas",
+        "name": "Cleanliness of Commercial Areas",
+        "active": true,
+        "keywords": "cleanliness, commercial areas, waste management",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 5
+      },
+      {
+        "serviceCode": "CleanlinessParks",
+        "name": "Cleanliness of Parks",
+        "active": true,
+        "keywords": "cleanliness, parks, maintenance",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 6
+      },
+      {
+        "serviceCode": "CleanlinessPublicSpaces",
+        "name": "Cleanliness of Public Spaces",
+        "active": true,
+        "keywords": "cleanliness, public spaces, waste management",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 7
+      },
+      {
+        "serviceCode": "CleanlinessNalas",
+        "name": "Cleanliness of Nalas",
+        "active": true,
+        "keywords": "cleanliness, nalas, waste removal",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 8
+      },
+      {
+        "serviceCode": "CleanlinessDrains",
+        "name": "Cleanliness of Drains",
+        "active": true,
+        "keywords": "cleanliness, drains, waste removal",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 9
+      },
+      {
+        "serviceCode": "CleanlinessLitterBin",
+        "name": "Cleanliness of Litter Bins",
+        "active": true,
+        "keywords": "cleanliness, litter bins, waste collection",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness",
+        "order": 10
+      },
+      {
+        "serviceCode": "ToiletMaintenance",
+        "name": "Cleanliness & Maintenance of Community Toilets",
+        "active": true,
+        "keywords": "toilet, maintenance, cleanliness, sanitation",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness&maintenance",
+        "order": 11
+      },
+      {
+        "serviceCode": "PublicToiletMaintenance",
+        "name": "Cleanliness & Maintenance of Public Toilets",
+        "active": true,
+        "keywords": "public toilet, maintenance, cleanliness",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness&maintenance",
+        "order": 12
+      },
+      {
+        "serviceCode": "UrinalMaintenance",
+        "name": "Cleanliness & Maintenance of Urinals",
+        "active": true,
+        "keywords": "urinals, maintenance, sanitation",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "Cleanliness&maintenance",
+        "order": 13
+      },
+      {
+        "serviceCode": "NoGarbageBurning",
+        "name": "No Burning of Garbage in Open Space",
+        "active": true,
+        "keywords": "garbage burning, pollution, environment",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "NoGarbageBurning",
+        "order": 14
+      },
+      {
+        "serviceCode": "TimelyLiftingDeadAnimal",
+        "name": "Timely Lifting of Dead Animals",
+        "active": true,
+        "keywords": "dead animal, waste removal, sanitation",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "TimelyLifting",
+        "order": 15
+      },
+      {
+        "serviceCode": "TimelyLiftingCNDWaste",
+        "name": "Timely Lifting of C & D Waste Debris",
+        "active": true,
+        "keywords": "C&D waste, debris removal, waste management",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "TimelyLifting",
+        "order": 16
+      },
+      {
+        "serviceCode": "GarbageCollectionTiming",
+        "name": "Timely Arrival of Garbage Collection Vehicles",
+        "active": true,
+        "keywords": "garbage collection, waste management, timely service",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "GarbageCollectionTiming",
+        "order": 17
+      },
+      {
+        "serviceCode": "OpenDefecation",
+        "name": "Open Defecation",
+        "active": true,
+        "keywords": "open defecation, sanitation, hygiene",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "OpenDefecation",
+        "order": 18
+      },
+      {
+        "serviceCode": "OpenManhole",
+        "name": "Open Manhole",
+        "active": true,
+        "keywords": "open manhole, safety hazard, public safety",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "OpenManhole",
+        "order": 19
+      },
+      {
+        "serviceCode": "StormWaterOutflow",
+        "name": "Storm Water Outflow",
+        "active": true,
+        "keywords": "storm water, drainage, flooding",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "StormWaterOutflow",
+        "order": 20
+      },
+      {
+        "serviceCode": "StagnantWaterRoad",
+        "name": "Stagnant Water on the Road",
+        "active": true,
+        "keywords": "stagnant water, mosquito breeding, public health",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "StagnantWaterRoad",
+        "order": 21
+      },
+      {
+        "serviceCode": "NonFunctioningMRF",
+        "name": "Non-functioning of MRF/Processing Plants",
+        "active": true,
+        "keywords": "MRF, processing plant, waste management, malfunction",
+        "department": "DEPT_8",
+        "slaHours": 336,
+        "menuPath": "NonFunctioningMRF",
+        "order": 22
+      }
+    ]
+  }
