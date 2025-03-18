@@ -1,0 +1,590 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "tenantsMapping": [
+    {
+      "tenantName": "pb.abohar",
+      "ITtenantName": "pb.abohar"
+    },
+    {
+      "tenantName": "pb.adampur",
+      "ITtenantName": "pb.adampur"
+    },
+    {
+      "tenantName": "pb.ahmedgarh",
+      "ITtenantName": "pb.ahmedgarh"
+    },
+    {
+      "tenantName": "pb.ajnala",
+      "ITtenantName": "pb.ajnala"
+    },
+    {
+      "tenantName": "pb.alawalpur",
+      "ITtenantName": "pb.alawalpur"
+    },
+    {
+      "tenantName": "pb.amargarh",
+      "ITtenantName": "pb.amargarh"
+    },
+    {
+      "tenantName": "pb.amloh",
+      "ITtenantName": "pb.amloh"
+    },
+    {
+      "tenantName": "pb.amritsar",
+      "ITtenantName": "itrpb.amritsar"
+    },
+    {
+      "tenantName": "pb.anandpursahib",
+      "ITtenantName": "pb.anandpursahib"
+    },
+    {
+      "tenantName": "pb.arniwala",
+      "ITtenantName": "pb.arniwala"
+    },
+    {
+      "tenantName": "pb.badhnikalan",
+      "ITtenantName": "pb.badhnikalan"
+    },
+    {
+      "tenantName": "pb.baghapurana",
+      "ITtenantName": "pb.baghapurana"
+    },
+    {
+      "tenantName": "pb.balachaur",
+      "ITtenantName": "pb.balachaur"
+    },
+    {
+      "tenantName": "pb.balianwali",
+      "ITtenantName": "pb.balianwali"
+    },
+    {
+      "tenantName": "pb.banga",
+      "ITtenantName": "pb.banga"
+    },
+    {
+      "tenantName": "pb.banur",
+      "ITtenantName": "pb.banur"
+    },
+    {
+      "tenantName": "pb.bareta",
+      "ITtenantName": "pb.bareta"
+    },
+    {
+      "tenantName": "pb.bariwala",
+      "ITtenantName": "pb.bariwala"
+    },
+    {
+      "tenantName": "pb.barnala",
+      "ITtenantName": "pb.barnala"
+    },
+    {
+      "tenantName": "pb.bassipathana",
+      "ITtenantName": "pb.bassipathana"
+    },
+    {
+      "tenantName": "pb.batala",
+      "ITtenantName": "pb.batala"
+    },
+    {
+      "tenantName": "pb.bathinda",
+      "ITtenantName": "pb.bathinda"
+    },
+    {
+      "tenantName": "pb.begowal",
+      "ITtenantName": "pb.begowal"
+    },
+    {
+      "tenantName": "pb.bhadaur",
+      "ITtenantName": "pb.bhadaur"
+    },
+    {
+      "tenantName": "pb.bhadson",
+      "ITtenantName": "pb.bhadson"
+    },
+    {
+      "tenantName": "pb.bhagtabhai",
+      "ITtenantName": "pb.bhagtabhai"
+    },
+    {
+      "tenantName": "pb.bhairoopa",
+      "ITtenantName": "pb.bhairoopa"
+    },
+    {
+      "tenantName": "pb.bhawanigarh",
+      "ITtenantName": "pb.bhawanigarh"
+    },
+    {
+      "tenantName": "pb.bhikhi",
+      "ITtenantName": "pb.bhikhi"
+    },
+    {
+      "tenantName": "pb.bhikhiwind",
+      "ITtenantName": "pb.bhikhiwind"
+    },
+    {
+      "tenantName": "pb.bhogpur",
+      "ITtenantName": "pb.bhogpur"
+    },
+    {
+      "tenantName": "pb.bhuchomandi",
+      "ITtenantName": "pb.bhuchomandi"
+    },
+    {
+      "tenantName": "pb.bhulath",
+      "ITtenantName": "pb.bhulath"
+    },
+    {
+      "tenantName": "pb.bilga",
+      "ITtenantName": "pb.bilga"
+    },
+    {
+      "tenantName": "pb.boha",
+      "ITtenantName": "pb.boha"
+    },
+    {
+      "tenantName": "pb.budhlada",
+      "ITtenantName": "pb.budhlada"
+    },
+    {
+      "tenantName": "pb.chamkaursahib",
+      "ITtenantName": "pb.chamkaursahib"
+    },
+    {
+      "tenantName": "pb.chaunke",
+      "ITtenantName": "pb.chaunke"
+    },
+    {
+      "tenantName": "pb.cheema",
+      "ITtenantName": "pb.cheema"
+    },
+    {
+      "tenantName": "pb.dasuya",
+      "ITtenantName": "pb.dasuya"
+    },
+    {
+      "tenantName": "pb.derababananak",
+      "ITtenantName": "pb.derababananak"
+    },
+    {
+      "tenantName": "pb.derabassi",
+      "ITtenantName": "pb.derabassi"
+    },
+    {
+      "tenantName": "pb.dhanaula",
+      "ITtenantName": "pb.dhanaula"
+    },
+    {
+      "tenantName": "pb.dharamkot",
+      "ITtenantName": "pb.dharamkot"
+    },
+    {
+      "tenantName": "pb.dhariwal",
+      "ITtenantName": "pb.dhariwal"
+    },
+    {
+      "tenantName": "pb.dhilwan",
+      "ITtenantName": "pb.dhilwan"
+    },
+    {
+      "tenantName": "pb.dhuri",
+      "ITtenantName": "pb.dhuri"
+    },
+    {
+      "tenantName": "pb.dinanagar",
+      "ITtenantName": "pb.dinanagar"
+    },
+    {
+      "tenantName": "pb.dirba",
+      "ITtenantName": "pb.dirba"
+    },
+    {
+      "tenantName": "pb.doraha",
+      "ITtenantName": "pb.doraha"
+    },
+    {
+      "tenantName": "pb.faridkot",
+      "ITtenantName": "pb.faridkot"
+    },
+    {
+      "tenantName": "pb.fatehgarhchurian",
+      "ITtenantName": "pb.fatehgarhchurian"
+    },
+    {
+      "tenantName": "pb.fatehgarhpanjtoor",
+      "ITtenantName": "pb.fatehgarhpanjtoor"
+    },
+    {
+      "tenantName": "pb.fazilka",
+      "ITtenantName": "pb.fazilka"
+    },
+    {
+      "tenantName": "pb.ferozepur",
+      "ITtenantName": "pb.ferozepur"
+    },
+    {
+      "tenantName": "pb.garhdiwala",
+      "ITtenantName": "pb.garhdiwala"
+    },
+    {
+      "tenantName": "pb.garhshankar",
+      "ITtenantName": "pb.garhshankar"
+    },
+    {
+      "tenantName": "pb.ghagga",
+      "ITtenantName": "pb.ghagga"
+    },
+    {
+      "tenantName": "pb.ghanaur",
+      "ITtenantName": "pb.ghanaur"
+    },
+    {
+      "tenantName": "pb.gidderbaha",
+      "ITtenantName": "pb.gidderbaha"
+    },
+    {
+      "tenantName": "pb.goniana",
+      "ITtenantName": "pb.goniana"
+    },
+    {
+      "tenantName": "pb.goraya",
+      "ITtenantName": "pb.goraya"
+    },
+    {
+      "tenantName": "pb.gurdaspur",
+      "ITtenantName": "pb.gurdaspur"
+    },
+    {
+      "tenantName": "pb.guruharsahai",
+      "ITtenantName": "pb.guruharsahai"
+    },
+    {
+      "tenantName": "pb.handiaya",
+      "ITtenantName": "pb.handiaya"
+    },
+    {
+      "tenantName": "pb.hariana",
+      "ITtenantName": "pb.hariana"
+    },
+    {
+      "tenantName": "pb.hoshiarpur",
+      "ITtenantName": "pb.hoshiarpur"
+    },
+    {
+      "tenantName": "pb.jagraon",
+      "ITtenantName": "pb.jagraon"
+    },
+    {
+      "tenantName": "pb.jaitu",
+      "ITtenantName": "pb.jaitu"
+    },
+    {
+      "tenantName": "pb.jalalabad",
+      "ITtenantName": "pb.jalalabad"
+    },
+    {
+      "tenantName": "pb.jalandhar",
+      "ITtenantName": "pb.jalandhar"
+    },
+    {
+      "tenantName": "pb.jandialaguru",
+      "ITtenantName": "pb.jandialaguru"
+    },
+    {
+      "tenantName": "pb.joga",
+      "ITtenantName": "pb.joga"
+    },
+    {
+      "tenantName": "pb.kapurthala",
+      "ITtenantName": "pb.kapurthala"
+    },
+    {
+      "tenantName": "pb.kartarpur",
+      "ITtenantName": "pb.kartarpur"
+    },
+    {
+      "tenantName": "pb.khamano",
+      "ITtenantName": "pb.khamano"
+    },
+    {
+      "tenantName": "pb.khanauri",
+      "ITtenantName": "pb.khanauri"
+    },
+    {
+      "tenantName": "pb.khanna",
+      "ITtenantName": "pb.khanna"
+    },
+    {
+      "tenantName": "pb.kharar",
+      "ITtenantName": "pb.kharar"
+    },
+    {
+      "tenantName": "pb.khemkaran",
+      "ITtenantName": "pb.khemkaran"
+    },
+    {
+      "tenantName": "pb.kiratpur",
+      "ITtenantName": "pb.kiratpur"
+    },
+    {
+      "tenantName": "pb.kotfatta",
+      "ITtenantName": "pb.kotfatta"
+    },
+    {
+      "tenantName": "pb.kothaguru",
+      "ITtenantName": "pb.kothaguru"
+    },
+    {
+      "tenantName": "pb.kotissekhan",
+      "ITtenantName": "pb.kotissekhan"
+    },
+    {
+      "tenantName": "pb.kotkapura",
+      "ITtenantName": "pb.kotkapura"
+    },
+    {
+      "tenantName": "pb.kotshamir",
+      "ITtenantName": "pb.kotshamir"
+    },
+    {
+      "tenantName": "pb.kurali",
+      "ITtenantName": "pb.kurali"
+    },
+    {
+      "tenantName": "pb.lalru",
+      "ITtenantName": "pb.lalru"
+    },
+    {
+      "tenantName": "pb.lehragaga",
+      "ITtenantName": "pb.lehragaga"
+    },
+    {
+      "tenantName": "pb.lehramohabbat",
+      "ITtenantName": "pb.lehramohabbat"
+    },
+    {
+      "tenantName": "pb.lohiankhas",
+      "ITtenantName": "pb.lohiankhas"
+    },
+    {
+      "tenantName": "pb.longowal",
+      "ITtenantName": "pb.longowal"
+    },
+    {
+      "tenantName": "pb.ludhiana",
+      "ITtenantName": "pb.ludhiana"
+    },
+    {
+      "tenantName": "pb.machhiwara",
+      "ITtenantName": "pb.machhiwara"
+    },
+    {
+      "tenantName": "pb.mahilpur",
+      "ITtenantName": "pb.mahilpur"
+    },
+    {
+      "tenantName": "pb.majitha",
+      "ITtenantName": "pb.majitha"
+    },
+    {
+      "tenantName": "pb.makhu",
+      "ITtenantName": "pb.makhu"
+    },
+    {
+      "tenantName": "pb.malerkotla",
+      "ITtenantName": "pb.malerkotla"
+    },
+    {
+      "tenantName": "pb.mallanwala",
+      "ITtenantName": "pb.mallanwala"
+    },
+    {
+      "tenantName": "pb.maloud",
+      "ITtenantName": "pb.maloud"
+    },
+    {
+      "tenantName": "pb.maluka",
+      "ITtenantName": "pb.maluka"
+    },
+    {
+      "tenantName": "pb.mamdot",
+      "ITtenantName": "pb.mamdot"
+    },
+    {
+      "tenantName": "pb.mandigobindgarh",
+      "ITtenantName": "pb.mandigobindgarh"
+    },
+    {
+      "tenantName": "pb.mandikalan",
+      "ITtenantName": "pb.mandikalan"
+    },
+    {
+      "tenantName": "pb.mansa",
+      "ITtenantName": "pb.mansa"
+    },
+    {
+      "tenantName": "pb.maur",
+      "ITtenantName": "pb.maur"
+    },
+    {
+      "tenantName": "pb.mehatpur",
+      "ITtenantName": "pb.mehatpur"
+    },
+    {
+      "tenantName": "pb.mehraj",
+      "ITtenantName": "pb.mehraj"
+    },
+    {
+      "tenantName": "pb.moga",
+      "ITtenantName": "pb.moga"
+    },
+    {
+      "tenantName": "pb.mohali",
+      "ITtenantName": "pb.mohali"
+    },
+    {
+      "tenantName": "pb.moonak",
+      "ITtenantName": "pb.moonak"
+    },
+    {
+      "tenantName": "pb.morinda",
+      "ITtenantName": "pb.morinda"
+    },
+    {
+      "tenantName": "pb.mudki",
+      "ITtenantName": "pb.mudki"
+    },
+    {
+      "tenantName": "pb.mukerian",
+      "ITtenantName": "pb.mukerian"
+    },
+    {
+      "tenantName": "pb.muktsar",
+      "ITtenantName": "pb.muktsar"
+    },
+    {
+      "tenantName": "pb.mullanpur",
+      "ITtenantName": "pb.mullanpur"
+    },
+    {
+      "tenantName": "pb.nabha",
+      "ITtenantName": "pb.nabha"
+    },
+    {
+      "tenantName": "pb.nadala",
+      "ITtenantName": "pb.nadala"
+    },
+    {
+      "tenantName": "pb.nakodar",
+      "ITtenantName": "pb.nakodar"
+    },
+    {
+      "tenantName": "pb.nangal",
+      "ITtenantName": "pb.nangal"
+    },
+    {
+      "tenantName": "pb.narotjaimalsingh",
+      "ITtenantName": "pb.narotjaimalsingh"
+    },
+    {
+      "tenantName": "pb.nathana",
+      "ITtenantName": "pb.nathana"
+    },
+    {
+      "tenantName": "pb.nawanshahr",
+      "ITtenantName": "pb.nawanshahr"
+    },
+    {
+      "tenantName": "pb.nayagaon",
+      "ITtenantName": "pb.nayagaon"
+    },
+    {
+      "tenantName": "pb.nihalsinghwala",
+      "ITtenantName": "pb.nihalsinghwala"
+    },
+    {
+      "tenantName": "pb.nurmahal",
+      "ITtenantName": "pb.nurmahal"
+    },
+    {
+      "tenantName": "pb.pathankot",
+      "ITtenantName": "pb.pathankot"
+    },
+    {
+      "tenantName": "pb.patiala",
+      "ITtenantName": "pb.patiala"
+    },
+    {
+      "tenantName": "pb.patran",
+      "ITtenantName": "pb.patran"
+    },
+    {
+      "tenantName": "pb.patti",
+      "ITtenantName": "pb.patti"
+    },
+    {
+      "tenantName": "pb.payal",
+      "ITtenantName": "pb.payal"
+    },
+    {
+      "tenantName": "pb.phagwara",
+      "ITtenantName": "pb.phagwara"
+    },
+    {
+      "tenantName": "pb.phillaur",
+      "ITtenantName": "pb.phillaur"
+    },
+    {
+      "tenantName": "pb.punjab",
+      "ITtenantName": "pb.punjab"
+    },
+    {
+      "tenantName": "pb.quadian",
+      "ITtenantName": "pb.quadian"
+    },
+    {
+      "tenantName": "pb.rahon",
+      "ITtenantName": "pb.rahon"
+    },
+    {
+      "tenantName": "pb.raikot",
+      "ITtenantName": "pb.raikot"
+    },
+    {
+      "tenantName": "pb.rajasansi",
+      "ITtenantName": "pb.rajasansi"
+    },
+    {
+      "tenantName": "pb.rajpura",
+      "ITtenantName": "pb.rajpura"
+    },
+    {
+      "tenantName": "pb.raman",
+      "ITtenantName": "pb.raman"
+    },
+    {
+      "tenantName": "pb.ramdass",
+      "ITtenantName": "pb.ramdass"
+    },
+    {
+      "tenantName": "pb.rampura",
+      "ITtenantName": "pb.rampura"
+    },
+    {
+      "tenantName": "pb.rampuraphul",
+      "ITtenantName": "pb.rampuraphul"
+    },
+    {
+      "tenantName": "pb.rayya",
+      "ITtenantName": "pb.rayya"
+    },
+    {
+      "tenantName": "pb.ropar",
+      "ITtenantName": "pb.ropar"
+    },
+    {
+      "tenantName": "pb.sahnewal",
+      "ITtenantName": "pb.sahnewal"
+    }
+  ]
+}
