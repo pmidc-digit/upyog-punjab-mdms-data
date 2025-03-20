@@ -2363,10 +2363,9 @@
       "code": "TLRENEWAL2023",
       "financialYear": "2023-24"
     },
-    {	  
-
-   "fromDate": 1711929600000,
-    "toDate": 1743465599000,
+    {
+      "fromDate": 1711909800000,
+      "toDate": 1743402599000,
     "periodCycle": "ANNUAL",
     "service": "TL",
     "code": "TLRENEWAL2025",
@@ -2374,8 +2373,8 @@
   },
   {
 
-     "fromDate": 1711929600000,
-    "toDate": 1743465599000,
+    "fromDate": 1711909800000,
+    "toDate": 1743402599000,
     "periodCycle": "ANNUAL",
     "service": "TL",
     "code": "TLAN2025",
@@ -2443,28 +2442,52 @@
       "financialYear": "2024-25"  
    },
     {
-      "fromDate": 1711929600000,
-      "toDate": 1775001599000,
+      "fromDate": 1711909800000,
+      "toDate": 1774981799000,
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLRENEWAL202426",
       "financialYear": "2024-26"
     },
     {
-      "fromDate": 1711929600000,
-      "toDate": 1806537599000,
+      "fromDate": 1711909800000,
+      "toDate": 1806517799000,
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLRENEWAL202427",
       "financialYear": "2024-27"
     },
     {
-      "fromDate": 1711929600000,
-      "toDate": 1838116799000,
+      "fromDate": 1711909800000,
+      "toDate": 1838140199000,
       "periodCycle": "ANNUAL",
       "service": "TL",
       "code": "TLRENEWAL202428",
       "financialYear": "2024-28"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2026",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1806517799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202527",
+      "financialYear": "2025-27"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1838140199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL202528",
+      "financialYear": "2025-28"
     }
   ]
 }
