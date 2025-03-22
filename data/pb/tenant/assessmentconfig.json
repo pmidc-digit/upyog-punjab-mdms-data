@@ -4140,13 +4140,14 @@
     },
     {
       "tenant": "pb.patiala",
-       "enabled": false,
+       "enabled": true,
       "financialyear": "2020-21",
-      "isRented": true
+      "isRented": true,
+      "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.patiala",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2021-22",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
