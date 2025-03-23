@@ -4126,7 +4126,7 @@
     },
     {
       "tenant": "pb.patiala",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2017-18",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
