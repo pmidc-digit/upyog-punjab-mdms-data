@@ -4112,7 +4112,7 @@
     },
     {
       "tenant": "pb.patiala",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2015-16",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
