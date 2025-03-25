@@ -7,12 +7,12 @@
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
     },
-{
+    {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "INTERNAL MICROSERVICE ROLE",
       "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally"
     },
-    
+
     {
       "code": "EMPLOYEE",
       "name": "Employee",
@@ -343,7 +343,7 @@
       "name": "Miscellaneous Receipt Cancellation",
       "description": "Allowed to Cancel Miscellaneous Receipts"
     },
-	  {
+    {
       "code": "SYSTEM",
       "name": "SYSTEM user for cron job",
       "description": "SYSTEM who can run the cron jobs"
@@ -358,17 +358,15 @@
       "name": "Patiala PT Emp",
       "description": "Patiala Employee to view CyberTech transactions"
     },
-    {	 
-	    
+    {
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
-      "description": "Cow Cess collection user"	        
+      "description": "Cow Cess collection user"
     },
-    {	 
-	    
+    {
       "code": "SMS_SENDER",
       "name": "sendOpenSMS API access user",
-      "description": "sendOpenSMS API access user"	        
+      "description": "sendOpenSMS API access user"
     },
     {
       "code": "BPA_ARCHITECT",
@@ -395,7 +393,7 @@
       "name": "BPA Town Planner",
       "description": "BPA Town Planner"
     },
-	  {
+    {
       "code": "BPA_DESIGNER",
       "name": "BPA Designer",
       "description": "BPA Designer"
@@ -465,21 +463,21 @@
       "name": "Search Survey",
       "description": "Access to Search Survey for Survey Module"
     },
-     {
+    {
       "code": "ESEWAEMP",
       "name": "Esewa Employee",
       "description": "Esewa Employee"
     },
-     {
+    {
       "code": "PBTRACK",
       "name": "Punjab Transparency",
       "description": "State Transaparency Viewer"
     },
-	{
+    {
       "code": "CATEGORY_ADMIN",
       "name": "Category Admin Role",
       "description": "Access to Create Search update Category for Survey Module"
-    },  
+    },
     {
       "code": "CREATE_CATEGORY",
       "name": "Create Category Role",
@@ -509,6 +507,11 @@
       "code": "SEARCH_QUESTION",
       "name": "Search Question Role",
       "description": "Access to Search Question for Survey Module"
+    },
+    {
+      "code": "NDC_ADMIN",
+      "name": "Search NDC Role",
+      "description": "Access to NDC"
     }
   ]
 }
