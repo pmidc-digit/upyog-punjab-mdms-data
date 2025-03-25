@@ -4098,14 +4098,14 @@
     },
     {
       "tenant": "pb.patiala",
-       "enabled": false,
+       "enabled": true,
       "financialyear": "2013-14",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.patiala",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2014-15",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
