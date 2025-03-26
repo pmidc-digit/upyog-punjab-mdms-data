@@ -21362,6 +21362,17 @@
       "navigationURL": "/digit-ui/employee/ndc/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
+    },
+    {
+      "id": 890038,
+      "name": "swach Bharat Reform",
+      "url": "/swach-services/v2/request/_count",
+      "displayName": "swach Bharat Reform",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "SBMR",
+      "code": "null",
+      "path": ""
     }
   ]
 }
