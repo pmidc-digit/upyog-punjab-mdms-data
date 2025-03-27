@@ -15598,6 +15598,28 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 890035,
+      "name": "swach Bharat Reform",
+      "url": "/swach-services/v2/request/_search",
+      "displayName": "swach Bharat Reform",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "SBMR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890036,
+      "name": "swach Bharat Reform",
+      "url": "/swach-services/v2/request/_update",
+      "displayName": "swach Bharat Reform",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "SBMR",
+      "code": "null",
+      "path": ""
     }
   ]
 }
