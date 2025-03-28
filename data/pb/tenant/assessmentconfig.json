@@ -4098,7 +4098,7 @@
     },
     {
       "tenant": "pb.patiala",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2013-14",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
@@ -4328,6 +4328,12 @@
       "enabled": false,
       "financialyear": "2024-25",
       "isRented": true 
+    },
+    {
+      "tenant": "pb.mansa",
+       "enabled": true,
+      "financialyear": "2024-25",
+      "isRented": true
     }
 
 	  
