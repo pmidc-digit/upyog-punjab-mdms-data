@@ -21373,6 +21373,21 @@
       "serviceCode": "SBMR",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 990001,
+      "name": "Obps_inbox",
+      "url": "/digit-ui/employee/obps/inbox",
+      "displayName": "OBPS INBOX",
+      "orderNumber": 33,
+      "parentModule": "obps",
+      "enabled": true,
+      "serviceCode": "obps",
+      "code": "null",
+      "path": "",
+      "navigationURL":  "/digit-ui/employee/obps/inbox",
+      "leftIcon": "",
+      "rightIcon": ""
     }
   ]
 }
