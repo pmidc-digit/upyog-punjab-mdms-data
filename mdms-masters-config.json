@@ -73,7 +73,7 @@
       ]
     }
   },
- "common-masters": {
+  "common-masters": {
     "uiCommonPay": {
       "masterName": "uiCommonPay",
       "isStateLevel": true,
@@ -419,7 +419,7 @@
         "$.tenant"
       ]
     },
-   "defaultersmsconfig": {
+    "defaultersmsconfig": {
       "masterName": "defaultersmsconfig",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -486,6 +486,15 @@
   "RAINMAKER-PGR": {
     "ServiceDefs": {
       "masterName": "ServiceDefs",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "SwachReform": {
+    "SwachBharatCategory": {
+      "masterName": "SwachBharatCategory",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
@@ -596,7 +605,7 @@
         "$.code"
       ]
     },
-   "UsageCategory": {
+    "UsageCategory": {
       "masterName": "UsageCategory",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -636,7 +645,7 @@
         "$.code"
       ]
     },
-   "MutationRebate": {
+    "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -672,7 +681,8 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },"Penalty": {
+    },
+    "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -687,7 +697,6 @@
       ]
     }
   },
- 
   "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",
@@ -762,7 +771,7 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.billingservicecode",
-         "$.taxhead"
+        "$.taxhead"
       ]
     },
     "InstrumentGLcodeMapping": {
@@ -832,7 +841,7 @@
         "$.code"
       ]
     },
-		 "ModifyConnectionDocuments": {
+    "ModifyConnectionDocuments": {
       "masterName": "ModifyConnectionDocuments",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -1005,7 +1014,7 @@
       "uniqueKeys": []
     }
   },
-    "firenoc": {
+  "firenoc": {
     "BuildingType": {
       "masterName": "BuildingType",
       "isStateLevel": true,
