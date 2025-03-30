@@ -672,6 +672,10 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "snt.faecal_sludge_disposal.receipt.id"
+    },
+     {
+      "format": "PG-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "pgr.servicerequestid"
     }
   ]
 }
