@@ -1353,7 +1353,7 @@
       "idname": "snt.faecal_sludge_disposal.receipt.id"
     },
      {
-      "format": "sBMR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "SBMR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "swach.servicerequestid"
     }
   ]
