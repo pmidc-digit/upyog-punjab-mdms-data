@@ -21296,7 +21296,7 @@
     {
       "id": 890032,
       "name": "Survey Submit Response",
-      "url": "/egov-survey-services/egov-ss/csc/response/_submit",
+      "url": "/egov-survey-services/egov-ss/survey/response/_submit",
       "displayName": "Survey Submit Response",
       "orderNumber": 32,
       "enabled": true,
@@ -21307,7 +21307,7 @@
     {
       "id": 890033,
       "name": "Survey Answer Response",
-      "url": "/egov-survey-services/egov-ss/csc/response/_answers",
+      "url": "/egov-survey-services/egov-ss/survey/response/_answers",
       "displayName": "Survey Answer Response",
       "orderNumber": 33,
       "enabled": true,
