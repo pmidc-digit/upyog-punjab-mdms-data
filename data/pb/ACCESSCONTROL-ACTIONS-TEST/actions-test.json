@@ -19871,7 +19871,7 @@
     {
       "id": 7002,
       "name": "Create Survey",
-      "url": "/egov-survey-services/egov-ss/survey/_create",
+      "url": "/egov-survey-services/egov-ss/survey/create",
       "displayName": "Craete Survey",
       "orderNumber": 56,
       "enabled": true,
@@ -21164,7 +21164,7 @@
     {
       "id": 890009,
       "name": "Create Survey",
-      "url": "/egov-survey-services/egov-ss/csc/create",
+      "url": "/egov-survey-services/egov-ss/survey/create",
       "displayName": "Create Survey",
       "orderNumber": 9,
       "enabled": true,
@@ -21175,7 +21175,7 @@
     {
       "id": 890010,
       "name": "Search Survey",
-      "url": "/egov-survey-services/egov-ss/csc/_search",
+      "url": "/egov-survey-services/egov-ss/survey/_search",
       "displayName": "Search Survey",
       "orderNumber": 10,
       "enabled": true,
@@ -21186,7 +21186,7 @@
     {
       "id": 890031,
       "name": "Update Active Survey",
-      "url": "/egov-survey-services/egov-ss/csc/active/_update",
+      "url": "/egov-survey-services/egov-ss/survey/active/_update",
       "displayName": "Update Active Survey",
       "orderNumber": 11,
       "enabled": true,
@@ -21308,7 +21308,7 @@
     {
       "id": 890032,
       "name": "Survey Submit Response",
-      "url": "/egov-survey-services/egov-ss/csc/response/_submit",
+      "url": "/egov-survey-services/egov-ss/survey/response/_submit",
       "displayName": "Survey Submit Response",
       "orderNumber": 32,
       "enabled": true,
@@ -21319,7 +21319,7 @@
     {
       "id": 890033,
       "name": "Survey Answer Response",
-      "url": "/egov-survey-services/egov-ss/csc/response/_answers",
+      "url": "/egov-survey-services/egov-ss/survey/response/_answers",
       "displayName": "Survey Answer Response",
       "orderNumber": 33,
       "enabled": true,
@@ -21373,6 +21373,32 @@
       "path": "NDCMODULE",
       "navigationURL": "/digit-ui/employee/ndc/inbox",
       "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 890038,
+      "name": "swach Bharat Reform",
+      "url": "/swach-services/v2/request/_count",
+      "displayName": "swach Bharat Reform",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "SBMR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 990001,
+      "name": "Obps_inbox",
+      "url": "/digit-ui/employee/obps/inbox",
+      "displayName": "OBPS INBOX",
+      "orderNumber": 33,
+      "parentModule": "obps",
+      "enabled": true,
+      "serviceCode": "obps",
+      "code": "null",
+      "path": "",
+      "navigationURL":  "/digit-ui/employee/obps/inbox",
+      "leftIcon": "",
       "rightIcon": ""
     }
   ]

@@ -512,6 +512,11 @@
       "code": "NDC_ADMIN",
       "name": "Search NDC Role",
       "description": "Access to NDC"
+    },
+    {
+      "code": "OBPS_ADMIN",
+      "name": "Search OBPS Role",
+      "description": "Access to OBPS"
     }
   ]
 }

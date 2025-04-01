@@ -741,6 +741,10 @@
     {
       "format": "PG-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "pgr.servicerequestid"
+    } ,
+    {
+      "format": "SBMR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "swach.servicerequestid"
     }
     ,
     {
