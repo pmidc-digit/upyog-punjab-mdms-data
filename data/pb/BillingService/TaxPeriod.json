@@ -1779,7 +1779,87 @@
       "service": "WS",
       "code": "WS-2024-25",
       "financialYear": "2024-25"
-    },  
+    },
+   { 
+      "fromDate": 1743465600000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WS-2025-26",
+      "financialYear": "2025-26"
+    },
+	 {
+      "fromDate": 1743465600000,
+      "toDate": 1751308199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2025-26-Q1",
+      "financialYear": "2025-26"
+      },
+	  {
+      "fromDate": 1751328000000,
+      "toDate": 1759256999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2025-26-Q2",
+      "financialYear": "2025-26"
+    },
+	  {
+      "fromDate": 1759276800000,
+      "toDate": 1767205799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2025-26-Q3",
+      "financialYear": "2025-26"
+    },
+	  {
+      "fromDate": 1767225600000,
+      "toDate": 1774981799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+	{ 
+      "fromDate": 1743465600000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "SW-2025-26",
+      "financialYear": "2025-26"
+    },
+	 {
+      "fromDate": 1743465600000,
+      "toDate": 1751308199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2025-26-Q1",
+      "financialYear": "2025-26"
+      },
+	  {
+      "fromDate": 1751328000000,
+      "toDate": 1759256999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2025-26-Q2",
+      "financialYear": "2025-26"
+    },
+	  {
+      "fromDate": 1759276800000,
+      "toDate": 1767205799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2025-26-Q3",
+      "financialYear": "2025-26"
+    },
+	  {
+      "fromDate": 1767225600000,
+      "toDate": 1774981799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2025-26-Q4",
+      "financialYear": "2025-26"
+    },	
     {
       "fromDate": 1364774400000,
       "toDate": 1372616999000,
