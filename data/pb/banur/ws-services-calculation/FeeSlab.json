@@ -3,61 +3,61 @@
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 0,
+      "formFee": 5,
       "securityCharge": 
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"500",
+          "securityCharge":"25",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "securityCharge":"1000",
+          "securityCharge":"25",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"251",
           "toPlotSize":"100000",
-          "securityCharge":"1000",
+          "securityCharge":"25",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"1000",
+          "securityCharge":"25",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "securityCharge":"1500",
+          "securityCharge":"25",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"1000",
+          "securityCharge":"25",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"1500",
+          "securityCharge":"25",
           "usageType":"INDUSTRIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "securityCharge":"1000",
+          "securityCharge":"25",
           "usageType":"INSTITUTIONAL"
         },
         {
           "fromPlotSize":"126",
           "toPlotSize":"100000",
-          "securityCharge":"1500",
+          "securityCharge":"25",
           "usageType":"INSTITUTIONAL"
         }
       ],
@@ -67,14 +67,14 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"100",
+          "connectionFee":"500",
           "usageType":"DOMESTIC"
         },
     
         {
           "fromPlotSize":"126",
           "toPlotSize":"250",
-          "connectionFee":"250",
+          "connectionFee":"500",
           "usageType":"DOMESTIC"
         },
 
@@ -93,7 +93,7 @@
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"750",
+          "connectionFee":"500",
           "usageType":"COMMERCIAL"
         },
         {
@@ -105,7 +105,7 @@
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"750",
+          "connectionFee":"500",
           "usageType":"INDUSTRIAL"
         },
         {
@@ -117,7 +117,7 @@
         {
           "fromPlotSize":"126",
           "toPlotSize":"10000",
-          "connectionFee":"750",
+          "connectionFee":"500",
           "usageType":"INSTITUTIONAL"
         }
         
