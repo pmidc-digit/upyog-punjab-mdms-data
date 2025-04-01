@@ -21152,7 +21152,7 @@
     {
       "id": 890009,
       "name": "Create Survey",
-      "url": "/egov-survey-services/egov-ss/csc/create",
+      "url": "/egov-survey-services/egov-ss/survey/create",
       "displayName": "Create Survey",
       "orderNumber": 9,
       "enabled": true,
@@ -21163,7 +21163,7 @@
     {
       "id": 890010,
       "name": "Search Survey",
-      "url": "/egov-survey-services/egov-ss/csc/_search",
+      "url": "/egov-survey-services/egov-ss/survey/_search",
       "displayName": "Search Survey",
       "orderNumber": 10,
       "enabled": true,
@@ -21174,7 +21174,7 @@
     {
       "id": 890031,
       "name": "Update Active Survey",
-      "url": "/egov-survey-services/egov-ss/csc/active/_update",
+      "url": "/egov-survey-services/egov-ss/survey/active/_update",
       "displayName": "Update Active Survey",
       "orderNumber": 11,
       "enabled": true,
