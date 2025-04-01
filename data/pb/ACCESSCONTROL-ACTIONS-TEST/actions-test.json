@@ -14791,6 +14791,18 @@
       "path": ""
     },
     {
+      "id": 890037,
+      "name": "eChallan count",
+      "url": "/echallan-services/eChallan/v1/_count",
+      "parentModule": "",
+      "displayName": "Count Challan",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "CHALLAN_SERVICE",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2460,
       "name": "Challan Register",
       "url": "url",
