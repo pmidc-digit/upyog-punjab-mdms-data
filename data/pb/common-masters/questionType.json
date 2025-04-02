@@ -31,6 +31,11 @@
       "title": "Surveys_Time",
       "code": "TIME_ANSWER_TYPE",
       "active": true
+    },
+    {
+      "title": "Surveys_Dropdown",
+      "code": "DROPDOWN_ANSWER_TYPE",
+      "active": true
     }
   ]
 }
