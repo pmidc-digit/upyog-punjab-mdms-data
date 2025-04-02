@@ -1,0 +1,31 @@
+{
+    "tenantId": "pb",
+    "moduleName": "BPA",
+    "QualificationType": [
+        {
+            "name": "B-Arch",
+            "code": "B_ARCH",
+            "active": true
+        },
+        {
+            "name": "BE",
+            "code": "BE",
+            "active": true
+        },
+        {
+            "name": "B-Tech",
+            "code": "B_TECH",
+            "active": true
+        },
+        {
+            "name": "Diploma",
+            "code": "DIPLOMA",
+            "active": true
+        },
+        {
+            "name": "Building designer & supervisor",
+            "code": "BUILDING_DESIGNER_SUPERVISOR",
+            "active": true
+        }
+    ]
+}
