@@ -2576,6 +2576,14 @@
       "service": "TL",
       "code": "TLRENEWAL202528",
       "financialYear": "2025-28"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "chb-services",
+      "code": "CHB10YRS2024",
+      "financialYear": "2024-34"
     }
   ]
 }
