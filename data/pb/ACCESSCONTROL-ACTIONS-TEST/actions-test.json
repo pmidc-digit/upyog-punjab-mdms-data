@@ -2,6 +2,198 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
+  
+  {
+    "id": 7001,
+    "name": "Survey Search",
+    "url": "/egov-survey-services/egov-ss/survey/_search",
+    "displayName": "Survey Search",
+    "orderNumber": 55,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+
+  {
+    "id": 7002,
+    "name": "Create Survey",
+    "url": "/egov-survey-services/egov-ss/survey/create",
+    "displayName": "Craete Survey",
+    "orderNumber": 56,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 7003,
+    "name": "Update Survey",
+    "url": "/egov-survey-services/egov-ss/survey/_update",
+    "displayName": "Update Survey",
+    "orderNumber": 57,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 7004,
+    "name": "Delete Survey",
+    "url": "/egov-survey-services/egov-ss/survey/_delete",
+    "displayName": "Delete Survey",
+    "orderNumber": 58,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 7005,
+    "name": "Survey Submit",
+    "url": "/egov-survey-services/egov-ss/survey/response/_submit",
+    "displayName": "Survey Submit",
+    "orderNumber": 59,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+
+  {
+    "id": 7006,
+    "name": "Show Survey Response",
+    "url": "/egov-survey-services/egov-ss/survey/response/_results",
+    "displayName": "Show Survey Response",
+    "orderNumber": 60,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890001,
+    "name": "Create Category",
+    "url": "/egov-survey-services/egov-ss/category/_create",
+    "displayName": "Create Category",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890002,
+    "name": "Update Category",
+    "url": "/egov-survey-services/egov-ss/category/_update",
+    "displayName": "Update Category",
+    "orderNumber": 2,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890013,
+    "name": "Search Category",
+    "url": "/egov-survey-services/egov-ss/category/_search",
+    "displayName": "Search Category",
+    "orderNumber": 3,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890004,
+    "name": "Create Question",
+    "url": "/egov-survey-services/egov-ss/question/_create",
+    "displayName": "Create Question",
+    "orderNumber": 4,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890005,
+    "name": "Update Question",
+    "url": "/egov-survey-services/egov-ss/question/_update",
+    "displayName": "Update Question",
+    "orderNumber": 5,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890006,
+    "name": "Search Question",
+    "url": "/egov-survey-services/egov-ss/question/_search",
+    "displayName": "Search Question",
+    "orderNumber": 6,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890007,
+    "name": "Create Question Excel Upload",
+    "url": "/egov-survey-services/egov-ss/question/_upload",
+    "displayName": "Import Question",
+    "orderNumber": 7,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890008,
+    "name": "Download Question Template",
+    "url": "/egov-survey-services/egov-ss/question/download-template",
+    "displayName": "Download Question Template",
+    "orderNumber": 8,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890009,
+    "name": "Create Survey",
+    "url": "/egov-survey-services/egov-ss/survey/create",
+    "displayName": "Create Survey",
+    "orderNumber": 9,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890010,
+    "name": "Search Survey",
+    "url": "/egov-survey-services/egov-ss/survey/_search",
+    "displayName": "Search Survey",
+    "orderNumber": 10,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 890031,
+    "name": "Update Active Survey",
+    "url": "/egov-survey-services/egov-ss/survey/active/_update",
+    "displayName": "Update Active Survey",
+    "orderNumber": 11,
+    "enabled": true,
+    "serviceCode": "egov-ss",
+    "code": "null",
+    "path": ""
+  },
+  
+  
     {
       "id": 14,
       "name": "Get File by FileStoreId",
