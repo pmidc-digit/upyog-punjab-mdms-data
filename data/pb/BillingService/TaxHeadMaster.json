@@ -7132,6 +7132,36 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "Advertisement Booking Fees",
+      "code": "ADV_BOOKING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "adv-services",
+      "name": "ADV CGST",
+      "code": "ADV_CGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "adv-services",
+      "name": "ADV SGST",
+      "code": "ADV_SGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
