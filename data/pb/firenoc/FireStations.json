@@ -1118,6 +1118,22 @@
                 "code": "pb.rajasansi"  
               }
             ]
+      },
+    {
+            "code": "FS_MAUR_01",
+            "baseTenantId": "pb.maur",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Maur"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "pb.maur"  
+              }
+            ]
       }
   ]
 }
