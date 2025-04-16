@@ -56366,6 +56366,17 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3005,
       "actioncode": "",
