@@ -2576,6 +2576,14 @@
       "service": "TL",
       "code": "TLRENEWAL202528",
       "financialYear": "2025-28"
-    }
+    },
+	{
+	  "fromDate": 1743445800000,
+	  "toDate": 1774981799000,
+	  "periodCycle": "ANNUAL",
+	  "service": "BPAREG",
+	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+	  "financialYear": "2025-26"
+	    }
   ]
 }
