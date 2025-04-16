@@ -1134,6 +1134,22 @@
                 "code": "pb.maur"  
               }
             ]
+      },
+    {
+            "code": "FS_MEHRAJ_01",
+            "baseTenantId": "pb.mehraj",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Mehraj"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "pb.mehraj"  
+              }
+            ]
       }
   ]
 }
