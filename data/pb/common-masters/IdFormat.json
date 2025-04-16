@@ -750,6 +750,10 @@
     {
       "format": "SS-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "ss.surveyid"
+    },
+    {
+      "format": "CHB-[CITY.CODE]-[seq_chb_booking_id]",
+      "idname": "communityhall.booking.id"
     }
   ]
 }
