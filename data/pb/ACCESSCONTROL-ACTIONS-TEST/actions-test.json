@@ -21411,6 +21411,35 @@
       "navigationURL":  "/digit-ui/employee/obps/inbox",
       "leftIcon": "",
       "rightIcon": ""
+    }, {
+      "id": 1890038,
+      "name": "Receipt Register_Without_Locality_Live",
+      "url": "url",
+      "displayName": "Receipt Register without locality Live",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.Receipt Register_without_locality_V2",
+      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegister_without_locality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+     {
+      "id": 1890039,
+      "name": "ReceiptRegisterSummary_Live",
+      "url": "url",
+      "displayName": "Summary Receipt Register_Live",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
