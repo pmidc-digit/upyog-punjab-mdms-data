@@ -8587,6 +8587,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
+    
     {
       "id": 2041,
       "name": "Receipt RegisterShortWithoutLocality_V2",
@@ -15813,7 +15814,36 @@
       "code": "null",
       "path": ""
     },
-    
+    {
+      "id": 1890038,
+      "name": "Receipt Register_Without_Locality_V2",
+      "url": "url",
+      "displayName": "Receipt Register without locality",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.Receipt Register_without_locality_V2",
+      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegister_without_locality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+     {
+      "id": 1890039,
+      "name": "ReceiptRegisterSummary_V2",
+      "url": "url",
+      "displayName": "Summary Receipt Register_V2",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
     {
       "id": 890038,
       "name": "swach Bharat Reform",
