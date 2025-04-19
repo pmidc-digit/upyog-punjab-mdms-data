@@ -15845,6 +15845,17 @@
       "rightIcon": ""
     },
     {
+      "id": 7891575,
+      "name": "PT Report",
+      "url": "/report/rainmaker-pt/_get",
+      "displayName": "PT Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROPERTYREPORTS",
+      "code": "null",
+      "path": "Property Report"
+    },
+    {
       "id": 890038,
       "name": "swach Bharat Reform",
       "url": "/swach-services/v2/request/_count",
