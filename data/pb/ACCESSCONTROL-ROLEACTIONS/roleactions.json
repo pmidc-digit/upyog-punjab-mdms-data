@@ -58031,8 +58031,92 @@
       "actionid": 1890039,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEVA_KENDRA_EMP",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEVA_KENDRA_EMP",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 23451576,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
     
   ]
 }
