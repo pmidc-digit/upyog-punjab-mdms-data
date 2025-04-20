@@ -2931,6 +2931,17 @@
       "path": "Property Report"
     },
     {
+      "id": 23451576,
+      "name": "PT Report",
+      "url": "/report-v2/rainmaker-pt/metadata/_get",
+      "displayName": "PT Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROPERTYREPORTS",
+      "code": "null",
+      "path": "Property Report"
+    },
+    {
       "id": 1577,
       "name": "Assess New Property",
       "url": "url",

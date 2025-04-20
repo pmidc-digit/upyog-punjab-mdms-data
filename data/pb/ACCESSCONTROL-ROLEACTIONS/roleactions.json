@@ -4574,12 +4574,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "PTCEMP",
-      "actionid": 7891575,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+    
     {
       "rolecode": "PTFEMP",
       "actionid": 7891575,
@@ -4592,12 +4587,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "PTCEMP",
-      "actionid": 1575,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+  
     {
       "rolecode": "PTCEMP",
       "actionid": 1575,
@@ -4618,13 +4608,25 @@
     },
     {
       "rolecode": "PTCEMP",
-      "actionid": 1576,
+      "actionid": 23451576,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "PTCEMP",
       "actionid": 1576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 2341576,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 2341576,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -8452,6 +8454,12 @@
     },
     {
       "rolecode": "SEVA_KENDRA_EMP",
+      "actionid": 7891575,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEVA_KENDRA_EMP",
       "actionid": 1576,
       "actioncode": "",
       "tenantId": "pb"
@@ -8483,6 +8491,12 @@
     {
       "rolecode": "SEVA_KENDRA_EMP",
       "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEVA_KENDRA_EMP",
+      "actionid": 2341576,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -9904,7 +9918,7 @@
     },
     {
       "rolecode": "PT_DOC_VERIFIER",
-      "actionid": 1575,
+      "actionid": 7891575,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -9916,7 +9930,7 @@
     },
     {
       "rolecode": "PT_DOC_VERIFIER",
-      "actionid": 1576,
+      "actionid": 2341576,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -10510,7 +10524,7 @@
     },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
-      "actionid": 1575,
+      "actionid": 7891575,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -10522,7 +10536,7 @@
     },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
-      "actionid": 1576,
+      "actionid": 2341576,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -11116,7 +11130,7 @@
     },
     {
       "rolecode": "PT_APPROVER",
-      "actionid": 1575,
+      "actionid": 7891575,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -11128,7 +11142,7 @@
     },
     {
       "rolecode": "PT_APPROVER",
-      "actionid": 1576,
+      "actionid": 2341576,
       "actioncode": "",
       "tenantId": "pb"
     },
