@@ -20026,6 +20026,28 @@
       "path": ""
     },
     {
+      "id": 9873005,
+      "name": "Inbox Search for UI",
+      "url": "/inbox/v1/dss/_search",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 7893005,
+      "name": "Inbox Search for UI",
+      "url": "/inbox/v1/elastic/_search",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 3006,
       "name": "Zone Wise Report SW",
       "url": "url",
