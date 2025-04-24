@@ -517,6 +517,11 @@
       "code": "OBPS_ADMIN",
       "name": "Search OBPS Role",
       "description": "Access to OBPS"
+    },
+    {
+      "code": "SWACH_ADMIN",
+      "name": "Swach Officer",
+      "description": "Access to Swach"
     }
   ]
 }
