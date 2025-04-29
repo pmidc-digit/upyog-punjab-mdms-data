@@ -4,7 +4,6 @@
   "citymodule": [{
     "module": "Engagement",
     "code": "Engagement",
-    "active": true,
     "order": 16,
     "tenants": [
         {
@@ -1047,6 +1046,8 @@
     {
       "module": "Swach",
       "code": "Swach",
+      "active": true,
+      "order": 20,
       "tenants": [
         {
           "code": "pb.testing"
