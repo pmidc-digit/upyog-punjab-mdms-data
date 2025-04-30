@@ -21419,6 +21419,17 @@
       "code": "null",
       "path": ""
     },
+      {
+      "id": 890150,
+      "name": "Third Party Wrapper",
+      "url": "/property-services/api/fetch",
+      "displayName": "Third Party Wrapper",
+      "orderNumber": 33,
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 990001,
       "name": "Obps_inbox",
