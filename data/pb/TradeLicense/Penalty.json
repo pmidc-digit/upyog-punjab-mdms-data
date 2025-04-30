@@ -116,19 +116,19 @@
       "type":"Municipal Corporation"
     },
     {
-      "rate": 0,
+      "rate": 100,
       "minAmount": 0.0,
-      "flatAmount": 0,
+      "flatAmount": 1000,
       "fromFY": "2025-26",
-      "startingDay": "01/03/2025",
+      "startingDay": "01/05/2025",
       "type":"Municipal Corporation"
     },
     {
-      "rate": 0,
+      "rate": 10,
       "minAmount": 0.0,
-      "flatAmount": 0,
+      "flatAmount": 100.0,
       "fromFY": "2025-26",
-      "startingDay": "01/03/2025",
+      "startingDay": "01/05/2025",
       "type":"MC Class II,MC Class I,MC Class III,NP"
     }
   ]
