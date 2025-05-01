@@ -15898,6 +15898,43 @@
       "serviceCode": "SBMR",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890040,
+      "name": "wspendencydetails",
+      "url": "url",
+      "displayName": "Pendency Details - Water Service",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-misc",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "State Reports.PGR.wspendencydetails",
+      "navigationURL": "report/rainmaker-misc/wspendencydetails",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 890041,
+      "name": "wspendencydetails",
+      "url": "/report/rainmaker-misc/metadata/_get",
+      "displayName": "Pendency Details - Water Service",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890042,
+      "name": "wspendencydetails",
+      "url": "/report/rainmaker-misc/_get",
+      "displayName": "Pendency Details - Water Service",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
     }
   ]
 }
