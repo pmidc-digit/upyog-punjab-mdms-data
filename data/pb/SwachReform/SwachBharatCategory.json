@@ -7,7 +7,7 @@
         "name": "Sweeping (Roads/ Residential/ Commercial Areas/ Public Spaces etc)",
         "active": true,
         "keywords": "road sweeping, cleanliness, maintenance",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 8,
         "menuPath": "SwachCategory",
         "order": 1
@@ -17,7 +17,7 @@
         "name": "Source Segregation of Waste",
         "active": true,
         "keywords": "source segregation, waste management, recycling",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 72,
         "menuPath": "SwachCategory",
         "order": 2
@@ -27,7 +27,7 @@
         "name": "Door to Door Waste Collection",
         "active": true,
         "keywords": "door to door collection, waste management, garbage collection",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 24,
         "menuPath": "SwachCategory",
         "order": 3
@@ -37,7 +37,7 @@
         "name": "Waste Collection in Segregated Form",
         "active": true,
         "keywords": "segregated waste collection, waste management, recycling",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 4
@@ -47,7 +47,7 @@
         "name": "Waste Processing Units (MRFs/ Compost Units)",
         "active": true,
         "keywords": "waste processing, material recovery facilities, composting",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 72,
         "menuPath": "SwachCategory",
         "order": 5
@@ -57,7 +57,7 @@
         "name": "Working of SWM Machineries (bailing machines/ shredders etc)",
         "active": true,
         "keywords": "machinery operation, waste management, shredders",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 72,
         "menuPath": "SwachCategory",
         "order": 6
@@ -67,7 +67,7 @@
         "name": "In-situ Processing of Horticulture Waste",
         "active": true,
         "keywords": "horticulture waste processing, waste management, composting",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 72,
         "menuPath": "SwachCategory",
         "order": 7
@@ -77,7 +77,7 @@
         "name": "Garbage Vulnerable Points (GVPs)",
         "active": true,
         "keywords": "garbage vulnerable points, waste management, cleanliness",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 8
@@ -87,7 +87,7 @@
         "name": "Timely Cleaning of public Dust Bins/Litter Bins",
         "active": true,
         "keywords": "dust bin cleaning, waste management, public cleanliness",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 9
@@ -97,7 +97,7 @@
         "name": "Hotspots of Garbage Burning & huge Littering",
         "active": true,
         "keywords": "garbage burning, littering, waste management",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 10
@@ -107,7 +107,7 @@
         "name": "Cleanliness of Sanitation Facilities (CTs/PTs/Urinals)",
         "active": true,
         "keywords": "sanitation facilities, cleanliness, public toilets",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 8,
         "menuPath": "SwachCategory",
         "order": 11
@@ -117,7 +117,7 @@
         "name": "Hotspots of Open Defecation & Urination",
         "active": true,
         "keywords": "open defecation, public urination, sanitation",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 12
@@ -127,7 +127,7 @@
         "name": "Hotspots of Construction & Demolition Waste dumping",
         "active": true,
         "keywords": "construction waste, demolition waste, illegal dumping",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 12,
         "menuPath": "SwachCategory",
         "order": 13
@@ -137,7 +137,7 @@
         "name": "Choked - overflow Sewers/ Drains/ open Manholes",
         "active": true,
         "keywords": "sewer overflow, drainage issues, open manholes",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 24,
         "menuPath": "SwachCategory",
         "order": 14
@@ -147,7 +147,7 @@
         "name": "Lifting of dead Animals",
         "active": true,
         "keywords": "dead animals, animal control, waste management",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 8,
         "menuPath": "SwachCategory",
         "order": 15
@@ -157,7 +157,7 @@
         "name": "Others",
         "active": true,
         "keywords": "Others",
-        "department": "DEPT_8",
+        "department": "DEPT_3",
         "slaHours": 336,
         "menuPath": "SwachCategory",
         "order": 16
