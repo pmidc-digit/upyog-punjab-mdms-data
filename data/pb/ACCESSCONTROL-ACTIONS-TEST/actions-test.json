@@ -21430,10 +21430,11 @@
       "serviceCode": "obps",
       "code": "null",
       "path": "",
-      "navigationURL":  "/digit-ui/employee/obps/inbox",
+      "navigationURL": "/digit-ui/employee/obps/inbox",
       "leftIcon": "",
       "rightIcon": ""
-    }, {
+    },
+    {
       "id": 1890038,
       "name": "Receipt Register_Without_Locality_Live",
       "url": "url",
@@ -21448,7 +21449,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-     {
+    {
       "id": 1890039,
       "name": "ReceiptRegisterSummary_Live",
       "url": "url",
@@ -21474,8 +21475,7 @@
       "code": "null",
       "path": "Property Report"
     },
-    
-    
+
     {
       "id": 23451576,
       "name": "PT Report",
