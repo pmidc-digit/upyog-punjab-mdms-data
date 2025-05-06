@@ -45,6 +45,30 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 890150,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 890150,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 890150,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 890150,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 7893005,
       "actioncode": "",
@@ -58411,6 +58435,12 @@
       "actionid": 23451576,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_ADMIN",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }

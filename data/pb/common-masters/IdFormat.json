@@ -755,5 +755,10 @@
       "format": "CHB-[CITY.CODE]-[seq_chb_booking_id]",
       "idname": "communityhall.booking.id"
     }
+	,
+	{	
+	  "format": "SV-[CITY.CODE]-[seq_street_vending_application_id]",
+      "idname": "street-vending.application.id"	
+	}
   ]
 }
