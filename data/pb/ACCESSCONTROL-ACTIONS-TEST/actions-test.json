@@ -14825,7 +14825,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.GeneratedDemandReport",
+      "path": "w_s.WS Reports.Demands and Bills.GeneratedDemandReport",
       "navigationURL": "report/rainmaker-ws/GeneratedDemandReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -14886,7 +14886,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.GeneratSWDemandReport",
+      "path": "w_s.WS Reports.Demands and Bills.GeneratSWDemandReport",
       "navigationURL": "report/rainmaker-ws/GeneratSWDemandReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15134,7 +15134,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.MeterReadingReport",
+      "path": "w_s.WS Reports.Demands and Bills.MeterReadingReport",
       "navigationURL": "report/rainmaker-ws/MeterReadingReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15171,7 +15171,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.BillSchedulerReport",
+      "path": "w_s.WS Reports.Demands and Bills.BillSchedulerReport",
       "navigationURL": "report/rainmaker-ws/BillSchedulerReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15208,7 +15208,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.SWDemandDetailReport",
+      "path": "w_s.WS Reports.Demands and Bills.SWDemandDetailReport",
       "navigationURL": "report/rainmaker-ws/SWDemandDetailReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
