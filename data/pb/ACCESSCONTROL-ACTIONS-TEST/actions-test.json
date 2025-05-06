@@ -8946,7 +8946,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Receipt RegisterSW",
+      "path": "w_s.WS Reports.Collections.Receipt RegisterSW",
       "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -10977,7 +10977,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Search Online Receipts WS",
+      "path": "w_s.WS Reports.Collections.Search Online Receipts WS",
       "navigationURL": "report/rainmaker-ws/SearchOnlineReceiptsWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11131,7 +11131,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Cash Collection Report",
+      "path": "w_s.WS Reports.Collections.Cash Collection Report",
       "navigationURL": "report/rainmaker-ws/CashCollectionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11168,7 +11168,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Collections Summary Headwise Report",
+      "path": "w_s.WS Reports.Collections.Collections Summary Headwise Report",
       "navigationURL": "report/rainmaker-ws/CollectionsSummaryHeadwiseReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11205,7 +11205,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Receipt Collections",
+      "path": "w_s.WS Reports.Collections.Receipt Collections",
       "navigationURL": "report/rainmaker-ws/ReceiptCollections",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15257,7 +15257,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.CollectionSummaryReport",
+      "path": "w_s.WS Reports.Collections.CollectionSummaryReport",
       "navigationURL": "report/rainmaker-ws/CollectionSummaryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15565,7 +15565,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.wssummaryregistercollection",
+      "path": "w_s.WS Reports.Collections.wssummaryregistercollection",
       "navigationURL": "report/rainmaker-ws/wssummaryregistercollection",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15580,7 +15580,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.swsummaryregistercollection",
+      "path": "w_s.WS Reports.Collections.swsummaryregistercollection",
       "navigationURL": "report/rainmaker-ws/swsummaryregistercollection",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15654,7 +15654,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.WS SW CancelledReceiptRegister_V2",
+      "path": "w_s.WS Reports.Collections.WS SW CancelledReceiptRegister_V2",
       "navigationURL": "report/rainmaker-ws/WSSWCancelledReceiptRegister_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
