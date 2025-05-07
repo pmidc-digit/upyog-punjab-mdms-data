@@ -16009,81 +16009,8 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2621,
-      "name": "water Pending Sla Applications",
-      "url": "url",
-      "displayName": "water Pending Sla Applications",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Collections.water Pending Sla Applications",
-      "navigationURL": "report/rainmaker-ws/waterPendingSlaApplications",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2622,
-      "name": "water Pending Sla Applications",
-      "url": "/report/rainmaker-ws/waterPendingSlaApplications/metadata/_get",
-      "displayName": "water Pending Sla Applications",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2623,
-      "name": "water Pending Sla Applications",
-      "url": "/report/rainmaker-ws/waterPendingSlaApplications/_get",
-      "displayName": "water Pending Sla Applications",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2624,
-      "name": "sewerage Pending Sla Applications",
-      "url": "url",
-      "displayName": "sewerage Pending Sla Applications",
-      "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "w_s.WS Reports.Collections.sewerage Pending Sla Applications",
-      "navigationURL": "report/rainmaker-ws/seweragePendingSlaApplications",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2625,
-      "name": "sewerage Pending Sla Applications",
-      "url": "/report/rainmaker-ws/seweragePendingSlaApplications/metadata/_get",
-      "displayName": "sewerage Pending Sla Applications",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2626,
-      "name": "sewerage Pending Sla Applications",
-      "url": "/report/rainmaker-ws/seweragePendingSlaApplications/_get",
-      "displayName": "sewerage Pending Sla Applications",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "WSREPORTS",
-      "code": "null",
-      "path": ""
-
+  
+   
       
     }
   ]
