@@ -72,6 +72,39 @@
     "path": ""
   },
   {
+    "id": 7007,
+    "name": "Inbox Search for UI",
+    "url": "/inbox/v1/_search",
+    "displayName": "Inbox Search",
+    "orderNumber": 61,
+    "enabled": false,
+    "serviceCode": "inbox",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 7008,
+    "name": "Inbox Search for UI",
+    "url": "/inbox/v1/dss/_search",
+    "displayName": "Inbox Search",
+    "orderNumber": 62,
+    "enabled": false,
+    "serviceCode": "inbox",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 7009,
+    "name": "Inbox Search for UI",
+    "url": "/inbox/v1/elastic/_search",
+    "displayName": "Inbox Search",
+    "orderNumber": 63,
+    "enabled": false,
+    "serviceCode": "inbox",
+    "code": "null",
+    "path": ""
+  },
+  {
     "id": 890001,
     "name": "Create Category",
     "url": "/egov-survey-services/egov-ss/category/_create",
