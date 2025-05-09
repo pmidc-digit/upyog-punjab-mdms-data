@@ -60,6 +60,13 @@
               "label": "ACTION_TEST_PET_SERVICES",
               "enabled": true,
               "navigationUrl": "/digit-ui/citizen/ptr-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_SWACH",
+              "name": "Swach",
+              "label": "ACTION_TEST_SWACH_SERVICES",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/swach-home"
             }
           ]
         },
