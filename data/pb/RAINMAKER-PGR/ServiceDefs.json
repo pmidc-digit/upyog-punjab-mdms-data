@@ -236,7 +236,7 @@
       "name": "No Water Or Electricity in Public Toilet",
       "active": false,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "DEPT_3",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -245,7 +245,7 @@
       "name": "Illegal Shops On Foot Path",
       "active": false,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "DEPT_6",
+      "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -263,7 +263,7 @@
       "name": "Illegal Parking",
       "active": true,
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "DEPT_6",
+      "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -373,7 +373,7 @@
       "name": "Congress Grass Cutting",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "DEPT_3",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -409,7 +409,7 @@
       "name": "Illegal Rehries On Road",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_2",
+      "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -427,7 +427,7 @@
       "name": "Replacement Of Traffic Lights",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, replace, damage, fix",
-      "department": "DEPT_4",
+      "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -436,7 +436,7 @@
        "name": "Maintenance Of Lights Of All Parks Green Belts",
       "active": false,
       "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
-      "department": "DEPT_4",
+      "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -481,7 +481,7 @@
       "name": "Regarding Dates Of Deposition Of PropertyTax",
       "active": false,
       "keywords": "dates, generate, receipt, deposite",
-      "department": "DEPT_13",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -499,7 +499,7 @@
       "name": "Request For Construction Of New Roads Footpaths Pavements",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
-      "department": "DEPT_13",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -508,7 +508,7 @@
       "name": "Maintenance Of Roads With Patch Work",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_13",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -517,7 +517,7 @@
       "name": "Repair Of Culverts CauseWays",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
-      "department": "DEPT_13",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -526,7 +526,7 @@
       "name": "Marking Of Roads",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, marking, street, construction, fix",
-      "department": "DEPT_13",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -616,7 +616,7 @@
        "name": "Overcharge in paid parkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "DEPT_TP",
+      "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
