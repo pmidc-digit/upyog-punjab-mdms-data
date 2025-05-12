@@ -21535,6 +21535,17 @@
       "serviceCode": "PROPERTYREPORTS",
       "code": "null",
       "path": "Property Report"
+    },
+    {
+      "id": 23451577,
+      "name": "Search Sewrage Group Bill",
+      "url": "/egov-searcher/bill-genie/groupbillssw/_get",
+      "displayName": "Search Sewerage Group Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
     }
   ]
 }
