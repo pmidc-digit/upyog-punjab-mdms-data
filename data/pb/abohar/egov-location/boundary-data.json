@@ -895,18 +895,6 @@
                     "children": []
                   },
                   {
-                    "id": "76d541d4-70df-4af7-8282-7e7ca009d8c8",
-                    "boundaryNum": 1,
-                    "name": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
-                    "localname": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC-15",
-                    "area": "",
-                    "children": []
-                  },
-                  {
                     "id": "aad541d4-70df-4af7-8282-7e7ca009d8bb",
                     "boundaryNum": 1,
                     "name": "UNKNOWNAD-Ward 23",
@@ -917,6 +905,20 @@
                     "code": "UNKNOWNAD",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "76d541d4-70df-4af7-8282-7e7ca009d8c8",
+                    "boundaryNum": 1,
+                    "name": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
+                    "localname": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-15",
+                    "area": "",
+                    "children": []
+                
+
                   }
                 ]
               }
