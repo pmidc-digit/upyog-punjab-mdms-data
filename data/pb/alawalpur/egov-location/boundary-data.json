@@ -135,6 +135,32 @@
                   }
                 ]
               },
+
+            {
+                "id": "aa45e6bf-74fc-49be-acd9-8e980d330ebb",
+                "boundaryNum": 1,
+                "name": "WARD-3",
+                "localname": "WARD-3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "aa97aa25-f526-4bec-b33c-c8a97979d9bb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD-WARD-3",
+                    "localname": "UNKNOWNAD-WARD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+
               {
                 "id": "9945e6bf-74fc-49be-acd9-8e980d330eae",
                 "boundaryNum": 1,
