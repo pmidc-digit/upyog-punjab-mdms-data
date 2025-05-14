@@ -430,6 +430,16 @@
       "code": "PESCO",
       "name": "PESCO",
       "description": "Citizen who can raise complaint"
+    },
+    {
+      "code": "SWACH_ADMIN",
+      "name": "Swach Officer",
+      "description": "Access to Swach"
+    },
+    {
+      "code": "SWACH_STATE_EMP",
+      "name": "Swach State Employee",
+      "description": "Access to swach"
     }
   ]
 }
