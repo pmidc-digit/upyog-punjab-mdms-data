@@ -1606,6 +1606,32 @@
                 ]
               },
               {
+
+                "id": "aa4de7f7-462d-4e4b-98fd-3c6d76a694bb",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "aa2e0964-3702-48bf-b6b9-9f05eb5badbb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD-WARD_2",
+                    "localname": "UNKNOWNAD-WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
+                 }
+                ]
+              },
+
+              {
                 "id": "624de7f7-462d-4e4b-98fd-3c6d76a6948a",
                 "boundaryNum": 1,
                 "name": "WARD_2",
