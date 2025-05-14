@@ -425,6 +425,11 @@
       "code": "SWACH_ADMIN",
       "name": "Swach Officer",
       "description": "Access to Swach"
+    },
+    {
+      "code": "PESCO",
+      "name": "PESCO",
+      "description": "Citizen who can raise complaint"
     }
   ]
 }
