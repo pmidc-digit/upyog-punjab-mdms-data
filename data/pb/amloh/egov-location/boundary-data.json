@@ -370,6 +370,32 @@
                 ]
               },
               {
+
+                "id": "aa35a7ff-6378-4383-9be4-b10f8a1769bb",
+                "boundaryNum": 1,
+                "name": "Ward No 3",
+                "localname": "Ward No 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "aa284fd3-b1ea-4b60-a86d-215027ba4abb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD-Ward No 3",
+                    "localname": "UNKNOWNAD-Ward No 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
+
+                 }
+                ]
+              },
+              {
                 "id": "5e262a95-8f38-4d78-94d6-34c38eac35c3",
                 "boundaryNum": 1,
                 "name": "Ward No 4",
