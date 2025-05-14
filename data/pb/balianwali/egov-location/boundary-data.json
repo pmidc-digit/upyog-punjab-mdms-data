@@ -324,6 +324,33 @@
                     "code": "BLC10",
                     "area": "",
                     "children": []
+               }
+                ]
+              },
+              {
+
+                "id": "aa42ba8d-dd90-483f-a45c-733bab9010bb",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD11",
+                "children": [
+                  {
+                    "id": "aa0f19bc-e91d-4862-a07e-91e81a6b4ebb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD- WARD 11",
+                    "localname": "UNKNOWNAD- WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
+
+                    
                   }
                 ]
               }
