@@ -288,6 +288,31 @@
                     "code": "ALC11",
                     "area": "",
                     "children": []
+
+                }
+                ]
+              },
+              {
+                "id": "aa603cfb-2e36-41ed-8b9d-a4f7b437dcbb",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "aa676373-2fa7-4dc2-b1f7-a771dd2f40bb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD-WARD_12",
+                    "localname": "UNKNOWNAD-WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
                   }
                 ]
               }
