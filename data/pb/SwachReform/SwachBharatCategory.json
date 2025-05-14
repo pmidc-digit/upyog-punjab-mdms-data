@@ -1,166 +1,116 @@
 {
-    "tenantId": "pb",
-    "moduleName": "SwachReform",
-    "SwachBharatCategory": [
-      {
-        "serviceCode": "Sweeping",
-        "name": "Sweeping (Roads/ Residential/ Commercial Areas/ Public Spaces etc)",
-        "active": true,
-        "keywords": "road sweeping, cleanliness, maintenance",
-        "department": "DEPT_8",
-        "slaHours": 8,
-        "menuPath": "SwachCategory",
-        "order": 1
-      },
-      {
-        "serviceCode": "SourceSegregationofWaste",
-        "name": "Source Segregation of Waste",
-        "active": true,
-        "keywords": "source segregation, waste management, recycling",
-        "department": "DEPT_8",
-        "slaHours": 72,
-        "menuPath": "SwachCategory",
-        "order": 2
-      },
-      {
-        "serviceCode": "DoortoDoorWasteCollection",
-        "name": "Door to Door Waste Collection",
-        "active": true,
-        "keywords": "door to door collection, waste management, garbage collection",
-        "department": "DEPT_8",
-        "slaHours": 24,
-        "menuPath": "SwachCategory",
-        "order": 3
-      },
-      {
-        "serviceCode": "WasteCollectioninSegregatedForm",
-        "name": "Waste Collection in Segregated Form",
-        "active": true,
-        "keywords": "segregated waste collection, waste management, recycling",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 4
-      },
-      {
-        "serviceCode": "WasteProcessingUnits",
-        "name": "Waste Processing Units (MRFs/ Compost Units)",
-        "active": true,
-        "keywords": "waste processing, material recovery facilities, composting",
-        "department": "DEPT_8",
-        "slaHours": 72,
-        "menuPath": "SwachCategory",
-        "order": 5
-      },
-      {
-        "serviceCode": "WorkingofSWMMachineries",
-        "name": "Working of SWM Machineries (bailing machines/ shredders etc)",
-        "active": true,
-        "keywords": "machinery operation, waste management, shredders",
-        "department": "DEPT_8",
-        "slaHours": 72,
-        "menuPath": "SwachCategory",
-        "order": 6
-      },
-      {
-        "serviceCode": "InsituProcessingofHorticultureWaste",
-        "name": "In-situ Processing of Horticulture Waste",
-        "active": true,
-        "keywords": "horticulture waste processing, waste management, composting",
-        "department": "DEPT_8",
-        "slaHours": 72,
-        "menuPath": "SwachCategory",
-        "order": 7
-      },
-      {
-        "serviceCode": "GarbageVulnerablePoints",
-        "name": "Garbage Vulnerable Points (GVPs)",
-        "active": true,
-        "keywords": "garbage vulnerable points, waste management, cleanliness",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 8
-      },
-      {
-        "serviceCode": "TimelyCleaningofpublicDustBinsLitterBins",
-        "name": "Timely Cleaning of public Dust Bins/Litter Bins",
-        "active": true,
-        "keywords": "dust bin cleaning, waste management, public cleanliness",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 9
-      },
-      {
-        "serviceCode": "HotspotsofGarbageBurninghugeLittering",
-        "name": "Hotspots of Garbage Burning & huge Littering",
-        "active": true,
-        "keywords": "garbage burning, littering, waste management",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 10
-      },
-      {
-        "serviceCode": "CleanlinessofSanitationFacilities",
-        "name": "Cleanliness of Sanitation Facilities (CTs/PTs/Urinals)",
-        "active": true,
-        "keywords": "sanitation facilities, cleanliness, public toilets",
-        "department": "DEPT_8",
-        "slaHours": 8,
-        "menuPath": "SwachCategory",
-        "order": 11
-      },
-      {
-        "serviceCode": "HotspotsofOpenDefecationUrination",
-        "name": "Hotspots of Open Defecation & Urination",
-        "active": true,
-        "keywords": "open defecation, public urination, sanitation",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 12
-      },
-      {
-        "serviceCode": "HotspotsofConstructionDemolitionWastedumping",
-        "name": "Hotspots of Construction & Demolition Waste dumping",
-        "active": true,
-        "keywords": "construction waste, demolition waste, illegal dumping",
-        "department": "DEPT_8",
-        "slaHours": 12,
-        "menuPath": "SwachCategory",
-        "order": 13
-      },
-      {
-        "serviceCode": "ChokedoverflowSewersDrainsopenManholes",
-        "name": "Choked - overflow Sewers/ Drains/ open Manholes",
-        "active": true,
-        "keywords": "sewer overflow, drainage issues, open manholes",
-        "department": "DEPT_8",
-        "slaHours": 24,
-        "menuPath": "SwachCategory",
-        "order": 14
-      },
-      {
-        "serviceCode": "LiftingofdeadAnimals",
-        "name": "Lifting of dead Animals",
-        "active": true,
-        "keywords": "dead animals, animal control, waste management",
-        "department": "DEPT_8",
-        "slaHours": 8,
-        "menuPath": "SwachCategory",
-        "order": 15
-      },
-      {
-        "serviceCode": "Others",
-        "name": "Others",
-        "active": true,
-        "keywords": "Others",
-        "department": "DEPT_8",
-        "slaHours": 336,
-        "menuPath": "SwachCategory",
-        "order": 16
-      }
-    ]
-  }
+  "tenantId": "pb",
+  "moduleName": "SwachReform",
+  "SwachBharatCategory": [
+    {
+      "serviceCode": "Sweeping",
+      "name": "Sweeping Status (Roads/ Residential/ Commercial Areas/ Public Spaces etc)",
+      "active": true,
+      "keywords": "road sweeping, cleanliness, maintenance",
+      "department": "DEPT_3",
+      "slaHours": 8,
+      "menuPath": "SwachCategory",
+      "order": 1
+    },
+    {
+      "serviceCode": "SourceSegregationofWaste",
+      "name": "Source Segregation of Waste status",
+      "active": true,
+      "keywords": "source segregation, waste management, recycling",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 2
+    },
+    {
+      "serviceCode": "DoortoDoorWasteCollection",
+      "name": "Door to Door Waste Collection Service status",
+      "active": true,
+      "keywords": "door to door collection, waste management, garbage collection",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 3
+    },
+    {
+      "serviceCode": "WasteCollectioninSegregatedForm",
+      "name": "Vehicles collecting the Waste in Segregated manner Status",
+      "active": true,
+      "keywords": "segregated waste collection, waste management, garbage collection",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 4
+    },
+    {
+      "serviceCode": "WasteProcessingUnits",
+      "name": "Waste Processing Units (MRFs/ Compost Units) status",
+      "active": true,
+      "keywords": "waste processing, material recovery facilities, composting",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 5
+    },
+    {
+      "serviceCode": "GarbageVulnerablePoints",
+      "name": "Clearing of Garbage from Vulnerable Points",
+      "active": true,
+      "keywords": "garbage vulnerable points, waste management, cleanliness",
+      "department": "DEPT_3",
+      "slaHours": 8,
+      "menuPath": "SwachCategory",
+      "order": 6
+    },
+    {
+      "serviceCode": "TimelyCleaningofpublicDustBinsLitterBins",
+      "name": "Cleaning of public Dust Bins status",
+      "active": true,
+      "keywords": "dust bin cleaning, waste management, public cleanliness",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 7
+    },
+    {
+      "serviceCode": "CleanlinessofSanitationFacilities",
+      "name": "Cleanliness of Sanitation Facilities (CTs/PTs/Urinals) status",
+      "active": true,
+      "keywords": "sanitation facilities, cleanliness, public toilets",
+      "department": "DEPT_3",
+      "slaHours": 8,
+      "menuPath": "SwachCategory",
+      "order": 8
+    },
+    {
+      "serviceCode": "HotspotsofConstructionDemolitionWastedumping",
+      "name": "Clearing of Construction & Demolition Waste status",
+      "active": true,
+      "keywords": "construction waste, demolition waste, illegal dumping",
+      "department": "DEPT_3",
+      "slaHours": 24,
+      "menuPath": "SwachCategory",
+      "order": 9
+    },
+    {
+      "serviceCode": "WorkingofSWMMachineries",
+      "name": "Working of SWM Machineries status (bailing machines/ shredders etc)",
+      "active": true,
+      "keywords": "machinery operation, waste management, shredders",
+      "department": "DEPT_3",
+      "slaHours": 72,
+      "menuPath": "SwachCategory",
+      "order": 10
+    },
+    {
+      "serviceCode": "Others",
+      "name": "Others",
+      "active": true,
+      "keywords": "Others",
+      "department": "DEPT_3",
+      "slaHours": 72,
+      "menuPath": "SwachCategory",
+      "order": 11
+    }
+  ]
+}
