@@ -2241,7 +2241,7 @@
                     "code": "SL_122",
                     "area": "AREA1",
                     "children": []
-                 },
+                  },
                   {
                     "id": "4c319f48-305b-4c00-9d84-3c1714370297",
                     "boundaryNum": 1,
@@ -3061,6 +3061,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "SLC52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aacb8214-15d6-45f3-8a77-55d7666cd9bb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD - WARD_13",
+                    "localname": "UNKNOWNAD - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
                   }

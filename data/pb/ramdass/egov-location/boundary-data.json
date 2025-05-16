@@ -74,7 +74,7 @@
                   }
                 ]
               },
-                        {
+              {
                 "id": "f1a1b424-0a87-40ce-9362-dbaafe64b81f",
                 "boundaryNum": 1,
                 "name": "Ward 4",
@@ -84,7 +84,8 @@
                 "label": "Block",
                 "code": "W4 Z1",
                 "children": [
-                   { "id": "59ff59f8-2190-4eaf-ab14-788d917549fa",
+                  {
+                    "id": "59ff59f8-2190-4eaf-ab14-788d917549fa",
                     "boundaryNum": 1,
                     "name": "Fatehgarh churian  Ward 4 - W4 - A1",
                     "localname": "Fatehgarh churian  Ward 4 - W4 - A1",
@@ -94,8 +95,9 @@
                     "code": "LC19",
                     "area": "AREA1",
                     "children": []
-                   },
-                     { "id": "59ff59f8-2190-4eaf-ab14-788d911287fa",
+                  },
+                  {
+                    "id": "59ff59f8-2190-4eaf-ab14-788d911287fa",
                     "boundaryNum": 1,
                     "name": "Railway Road  Ward 4 - W4 - A2",
                     "localname": "Railway Road  Ward 4 - W4 - A2",
@@ -105,9 +107,9 @@
                     "code": "LC20",
                     "area": "AREA2",
                     "children": []
-                   }
-                 ]
-               },
+                  }
+                ]
+              },
               {
                 "id": "2526f80d-8e41-4531-a81e-55cf16466ac3",
                 "boundaryNum": 1,
@@ -129,8 +131,8 @@
                     "code": "LC3",
                     "area": "AREA2",
                     "children": []
-                   },
-                   {
+                  },
+                  {
                     "id": "60ff59f8-3290-4eaf-ab14-788d914445fa",
                     "boundaryNum": 1,
                     "name": "Telephone Exchange Wala Area  Ward 6 - W6 - A2",
@@ -141,310 +143,310 @@
                     "code": "LC30",
                     "area": "AREA2",
                     "children": []
-                   }
-                           ]
-               },
-                  {
-                    "id": "9cfd7f8c-41f0-47bc-b44f-31e5f5902ee2",
-                    "boundaryNum": 1,
-                    "name": "Chowk Smadha   Ward 6 - W6 - A2",
-                    "localname": "Chowk Smadha   Ward 6 - W6 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC13",
-                    "area": "AREA2",
-                    "children": []
-                  },
-                  {
-                    "id": "e7d80ed8-0249-44cf-80ed-c816d59601d8",
-                    "boundaryNum": 1,
-                    "name": "Harijan Basti  Ward 6 - W6 - A2",
-                    "localname": "Harijan Basti  Ward 6 - W6 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC17",
-                    "area": "AREA2",
-                    "children": []
                   }
                 ]
               },
               {
-                "id": "02602a0a-73e3-4339-9378-1ad7f31491d2",
+                "id": "9cfd7f8c-41f0-47bc-b44f-31e5f5902ee2",
                 "boundaryNum": 1,
-                "name": "Ward 7",
-                "localname": "Ward 7",
+                "name": "Chowk Smadha   Ward 6 - W6 - A2",
+                "localname": "Chowk Smadha   Ward 6 - W6 - A2",
                 "longitude": null,
                 "latitude": null,
-                "label": "Block",
-                "code": "W7",
-                "children": [
-                  {
-                    "id": "948ef3f9-f890-4046-9e6e-952b2efd4062",
-                    "boundaryNum": 1,
-                    "name": "New Bus Stand  Ward 7 - W7 - A1",
-                    "localname": "New Bus Stand  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC2",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "5eeeb721-8d97-4257-ac18-8c8eb362c21a",
-                    "boundaryNum": 1,
-                    "name": "Chowk Bohar Wala  Ward 7 - W7 - A1",
-                    "localname": "Chowk Bohar Wala  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC5",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "95bd6702-0699-450e-9190-de2d056c6411",
-                    "boundaryNum": 1,
-                    "name": "Chowk Choora Khoo  Ward 7 - W7 - A1",
-                    "localname": "Chowk Choora Khoo  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC12",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "19a3bdaf-efd2-44fc-817e-363a157a89a3",
-                    "boundaryNum": 1,
-                    "name": "Chowk Wahlian  Ward 7 - W7 - A1",
-                    "localname": "Chowk Wahlian  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC15",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "ccc0037a-f283-4276-a8b8-8a35a68f56b7",
-                    "boundaryNum": 1,
-                    "name": "Harijan Basti  Ward 7 - W7 - A1",
-                    "localname": "Harijan Basti  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC16",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "ccc0037a-f283-4276-a8b8-8a35a28f89b7",
-                    "boundaryNum": 1,
-                    "name": "T Well No.1 area  Ward 7 - W7 - A1",
-                    "localname": "T Well No.1 area  Ward 7 - W7 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC21",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "512b0b55-eb51-4e04-8649-dafe564373cf",
-                "boundaryNum": 1,
-                "name": "Ward 8",
-                "localname": "Ward 8",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W8",
-                "children": [
-                  {
-                    "id": "5b720201-3309-4f8a-86c2-081a7fbf51d5",
-                    "boundaryNum": 1,
-                    "name": "Gurdwara Tap Asthan  Ward 8 - W8 - A1",
-                    "localname": "Gurdwara Tap Asthan  Ward 8 - W8 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC4",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "5523f83b-fd89-42e9-a347-02c301e4be7d",
-                    "boundaryNum": 1,
-                    "name": "Co-oprative Bank  Ward 8 - W8 - A1",
-                    "localname": "Co-oprative Bank  Ward 8 - W8 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC5",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                   {
-                    "id": "5523f83b-fd25-42e9-a347-02c301e9be9d",
-                    "boundaryNum": 1,
-                    "name": "Majhi Gate, Bania Bazar  Ward 8 - W8 - A1",
-                    "localname": "Majhi Gate, Bania Bazar  Ward 8 - W8 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC22",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                 {
-                    "id": "5523f83b-fd92-42e9-a741-02c301e9be9d",
-                    "boundaryNum": 1,
-                    "name": "Uchi Gali  Ward 8 - W8 - A1",
-                    "localname": "Uchi Gali  Ward 8 - W8 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC23",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "55296c91-adf4-4b7a-802b-109c9a8f4f43",
-                "boundaryNum": 1,
-                "name": "Ward 9",
-                "localname": "Ward 9",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W9",
-                "children": [
-                  {
-                    "id": "910df26b-60a6-4333-8f7e-b677e85ce600",
-                    "boundaryNum": 1,
-                    "name": "Main Bazar   Ward 9 - W9 - A1",
-                    "localname": "Main Bazar   Ward 9 - W9 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC6",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "6ead6a35-68e3-4a72-bb86-803c05a57f4b",
-                "boundaryNum": 1,
-                "name": "Ward 10",
-                "localname": "Ward 10",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W10",
-                "children": [
-                  {
-                    "id": "6e9d1f2b-89ca-46b1-ad76-187e2dbcf079",
-                    "boundaryNum": 1,
-                    "name": "Chowk Darbar Sahib   Ward 10 - W10 - A1",
-                    "localname": "Chowk Darbar Sahib   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC7",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                   {
-                    "id": "6e9d1f2b-89ca-64b1-ad76-187e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Chatti Gali   Ward 10 - W10 - A1",
-                    "localname": "Chatti Gali   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC24",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                {
-                    "id": "6e9d1f2b-89ca-64b1-ad76-187e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Gali Sher Singh   Ward 10 - W10 - A1",
-                    "localname": "Gali Sher Singh   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC25",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                 {
-                    "id": "9e6d6f2b-89ca-64b1-ad76-189e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Gali Sonia Wali   Ward 10 - W10 - A1",
-                    "localname": "Gali Sonia Wali   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC26",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                 {
-                    "id": "9e6d6f2b-47ca-78b1-ad24-300e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Gali Braham Sabha   Ward 10 - W10 - A1",
-                    "localname": "Gali Braham Sabha   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC27",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                 {
-                    "id": "9e6d6f2b-57ca-78b1-ad37-978e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Kasayia Wali Gali   Ward 10 - W10 - A1",
-                    "localname": "Kasayia Wali Gali   Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC28",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                 {
-                    "id": "9e6d7f2b-97ca-78b1-ad30-471e2dbcf013",
-                    "boundaryNum": 1,
-                    "name": "Raja Wali Gali    Ward 10 - W10 - A1",
-                    "localname": "Raja Wali Gali    Ward 10 - W10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "LC29",
-                    "area": "AREA1",
-                    "children": []
-                  } 
-                ]
-              },
-              {
-                "id": "ffc252f2-f6f1-4ab0-9274-f12a606cf959",
-                "boundaryNum": 1,
-                "name": "Ward 11",
-                "localname": "Ward 11",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11 Z1",
+                "label": "Locality",
+                "code": "LC13",
+                "area": "AREA2",
                 "children": []
               },
+              {
+                "id": "e7d80ed8-0249-44cf-80ed-c816d59601d8",
+                "boundaryNum": 1,
+                "name": "Harijan Basti  Ward 6 - W6 - A2",
+                "localname": "Harijan Basti  Ward 6 - W6 - A2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC17",
+                "area": "AREA2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "02602a0a-73e3-4339-9378-1ad7f31491d2",
+            "boundaryNum": 1,
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Block",
+            "code": "W7",
+            "children": [
+              {
+                "id": "948ef3f9-f890-4046-9e6e-952b2efd4062",
+                "boundaryNum": 1,
+                "name": "New Bus Stand  Ward 7 - W7 - A1",
+                "localname": "New Bus Stand  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC2",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "5eeeb721-8d97-4257-ac18-8c8eb362c21a",
+                "boundaryNum": 1,
+                "name": "Chowk Bohar Wala  Ward 7 - W7 - A1",
+                "localname": "Chowk Bohar Wala  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC5",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "95bd6702-0699-450e-9190-de2d056c6411",
+                "boundaryNum": 1,
+                "name": "Chowk Choora Khoo  Ward 7 - W7 - A1",
+                "localname": "Chowk Choora Khoo  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC12",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "19a3bdaf-efd2-44fc-817e-363a157a89a3",
+                "boundaryNum": 1,
+                "name": "Chowk Wahlian  Ward 7 - W7 - A1",
+                "localname": "Chowk Wahlian  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC15",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "ccc0037a-f283-4276-a8b8-8a35a68f56b7",
+                "boundaryNum": 1,
+                "name": "Harijan Basti  Ward 7 - W7 - A1",
+                "localname": "Harijan Basti  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC16",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "ccc0037a-f283-4276-a8b8-8a35a28f89b7",
+                "boundaryNum": 1,
+                "name": "T Well No.1 area  Ward 7 - W7 - A1",
+                "localname": "T Well No.1 area  Ward 7 - W7 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC21",
+                "area": "AREA1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "512b0b55-eb51-4e04-8649-dafe564373cf",
+            "boundaryNum": 1,
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Block",
+            "code": "W8",
+            "children": [
+              {
+                "id": "5b720201-3309-4f8a-86c2-081a7fbf51d5",
+                "boundaryNum": 1,
+                "name": "Gurdwara Tap Asthan  Ward 8 - W8 - A1",
+                "localname": "Gurdwara Tap Asthan  Ward 8 - W8 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC4",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "5523f83b-fd89-42e9-a347-02c301e4be7d",
+                "boundaryNum": 1,
+                "name": "Co-oprative Bank  Ward 8 - W8 - A1",
+                "localname": "Co-oprative Bank  Ward 8 - W8 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC5",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "5523f83b-fd25-42e9-a347-02c301e9be9d",
+                "boundaryNum": 1,
+                "name": "Majhi Gate, Bania Bazar  Ward 8 - W8 - A1",
+                "localname": "Majhi Gate, Bania Bazar  Ward 8 - W8 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC22",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "5523f83b-fd92-42e9-a741-02c301e9be9d",
+                "boundaryNum": 1,
+                "name": "Uchi Gali  Ward 8 - W8 - A1",
+                "localname": "Uchi Gali  Ward 8 - W8 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC23",
+                "area": "AREA1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "55296c91-adf4-4b7a-802b-109c9a8f4f43",
+            "boundaryNum": 1,
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Block",
+            "code": "W9",
+            "children": [
+              {
+                "id": "910df26b-60a6-4333-8f7e-b677e85ce600",
+                "boundaryNum": 1,
+                "name": "Main Bazar   Ward 9 - W9 - A1",
+                "localname": "Main Bazar   Ward 9 - W9 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC6",
+                "area": "AREA1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6ead6a35-68e3-4a72-bb86-803c05a57f4b",
+            "boundaryNum": 1,
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Block",
+            "code": "W10",
+            "children": [
+              {
+                "id": "6e9d1f2b-89ca-46b1-ad76-187e2dbcf079",
+                "boundaryNum": 1,
+                "name": "Chowk Darbar Sahib   Ward 10 - W10 - A1",
+                "localname": "Chowk Darbar Sahib   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC7",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "6e9d1f2b-89ca-64b1-ad76-187e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Chatti Gali   Ward 10 - W10 - A1",
+                "localname": "Chatti Gali   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC24",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "6e9d1f2b-89ca-64b1-ad76-187e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Gali Sher Singh   Ward 10 - W10 - A1",
+                "localname": "Gali Sher Singh   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC25",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "9e6d6f2b-89ca-64b1-ad76-189e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Gali Sonia Wali   Ward 10 - W10 - A1",
+                "localname": "Gali Sonia Wali   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC26",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "9e6d6f2b-47ca-78b1-ad24-300e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Gali Braham Sabha   Ward 10 - W10 - A1",
+                "localname": "Gali Braham Sabha   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC27",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "9e6d6f2b-57ca-78b1-ad37-978e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Kasayia Wali Gali   Ward 10 - W10 - A1",
+                "localname": "Kasayia Wali Gali   Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC28",
+                "area": "AREA1",
+                "children": []
+              },
+              {
+                "id": "9e6d7f2b-97ca-78b1-ad30-471e2dbcf013",
+                "boundaryNum": 1,
+                "name": "Raja Wali Gali    Ward 10 - W10 - A1",
+                "localname": "Raja Wali Gali    Ward 10 - W10 - A1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "LC29",
+                "area": "AREA1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ffc252f2-f6f1-4ab0-9274-f12a606cf959",
+            "boundaryNum": 1,
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Block",
+            "code": "W11 Z1",
+            "children": []
+          },
           {
             "id": "939c6b4d-f99a-4e19-8bae-f33f356aaca0",
             "boundaryNum": 1,
@@ -922,6 +924,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RMLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aaf19742-4765-4ab2-9ef4-eca3c5bfb7bb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD - Ward 11",
+                    "localname": "UNKNOWNAD - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
                   }
