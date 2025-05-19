@@ -537,6 +537,11 @@
       "code": "SV_ADMIN",
       "name": "street vending State Employee",
       "description": "Access to SV"
+    },
+    {
+      "code": "ADS_ADMIN",
+      "name": "Advertisement State Employee",
+      "description": "Access to ADS"
     }
   ]
 }
