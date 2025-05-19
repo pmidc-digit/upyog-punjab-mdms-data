@@ -16190,5 +16190,190 @@
       "code": "null",
       "path": ""
     }
+    {
+      "id": 2627,
+      "name": "SwachComplaintTypesReport_v2",
+      "url": "url",
+      "displayName": "Swach Complaint Type Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2628,
+      "name": "SwachComplaintTypesReport_v2",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Swach Complaint Type Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2629,
+      "name": "SwachComplaintTypesReport_v2",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Swach Complaint Type Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
+    {
+      "id": 2630,
+      "name": "SwachStateSourceReport_v2",
+      "url": "url",
+      "displayName": "Swach State Source Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2631,
+      "name": "SwachStateSourceReport_v2",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Swach State Source Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2632,
+      "name": "SwachStateSourceReport_v2",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Swach State Source Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
+    {
+      "id": 2633,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "url",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2634,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2635,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
+    {
+      "id": 2636,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "url",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2637,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2638,
+      "name": "SwachStateDescriptionReport_v2",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Swach State Description Report_v2",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
+    {
+      "id": 2639,
+      "name": "Complaints_Summary_Report",
+      "url": "url",
+      "displayName": "Swach Complaints Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2640,
+      "name": "Complaints_Summary_Report",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Swach Complaints Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2641,
+      "name": "Complaints_Summary_Report",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Swach Complaints Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
