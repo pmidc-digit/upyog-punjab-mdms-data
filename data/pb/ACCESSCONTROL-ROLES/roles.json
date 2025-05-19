@@ -532,6 +532,11 @@
       "code": "SWACH_STATE_EMP",
       "name": "Swach State Employee",
       "description": "Access to swach"
+    },
+    {
+      "code": "SV_ADMIN",
+      "name": "street vending State Employee",
+      "description": "Access to SV"
     }
   ]
 }
