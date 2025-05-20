@@ -16201,7 +16201,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "path": "Swach.Reports.Attendance_report_swach",
-      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/SwachComplaintTypesReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -16223,7 +16223,7 @@
       "displayName": "Swach Complaint Type Report",
       "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "MiscReceipt",
+      "serviceCode": "PGR",
       "code": "null",
       "path": ""
     },
@@ -16238,7 +16238,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "path": "Swach.Reports.Attendance_report_swach",
-      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/SwachStateSourceReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -16249,7 +16249,7 @@
       "displayName": "Swach State Source Report",
       "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "MiscReceipt",
+      "serviceCode": "PGR",
       "code": "null",
       "path": ""
     },
@@ -16260,7 +16260,7 @@
       "displayName": "Swach State Source Report",
       "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "MiscReceipt",
+      "serviceCode": "PGR",
       "code": "null",
       "path": ""
     },
@@ -16275,7 +16275,7 @@
       "enabled": true,
       "serviceCode": "PGR",
       "path": "Swach.Reports.Attendance_report_swach",
-      "navigationURL": "report/rainmaker-swach/Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/SwachStateDescriptionReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -16286,7 +16286,7 @@
       "displayName": "Swach State Description Report_v2",
       "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "MiscReceipt",
+      "serviceCode": "PGR",
       "code": "null",
       "path": ""
     },
@@ -16297,7 +16297,7 @@
       "displayName": "Swach State Description Report_v2",
       "orderNumber": 2,
       "enabled": true,
-      "serviceCode": "MiscReceipt",
+      "serviceCode": "PGR",
       "code": "null",
       "path": ""
     },
