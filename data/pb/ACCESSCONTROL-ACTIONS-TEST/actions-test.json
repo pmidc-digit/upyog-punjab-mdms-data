@@ -16079,6 +16079,26 @@
         "sidebar": "digit-ui-links",
         "sidebarURL": "/digit-ui/citizen/swach-home" 
       },
+    {
+        "id": 890051,
+        "name": "Mark Attendence",
+        "url": "digit-ui-card",
+        "displayName": "Mark Attendence",
+        "orderNumber": 3,
+        "enabled": true,
+        "parentModule": "Swach",
+        "enabled": true,
+        "serviceCode": "Swach",
+        "code": "null",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/swach/attendence",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/swach-home"
+        
+      },
       {
       "id": 2621,
       "name": "water Pending Sla Applications",
