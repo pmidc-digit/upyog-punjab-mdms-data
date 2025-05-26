@@ -1728,19 +1728,19 @@
             "tenantId": "pb.muktsar"
         },
         {
-            "cityName": "MullanpurDakha",
+            "cityName": "Mullanpur",
             "locale": "in_en",
-            "tenantId": "pb.mullanpurdakha"
+            "tenantId": "pb.mullanpur"
         },
         {
-            "cityName": "मुल्लनपुरडाखा",
+            "cityName": "मुल्लनपुर",
             "locale": "in_hi",
-            "tenantId": "pb.mullanpurdakha"
+            "tenantId": "pb.mullanpur"
         },
         {
-            "cityName": "ਮੁੱਲਾਂਪੁਰਦਾਖਾ",
+            "cityName": "ਮੁੱਲਾਂਪੁਰ",
             "locale": "in_pb",
-            "tenantId": "pb.mullanpurdakha"
+            "tenantId": "pb.mullanpur"
         },
         {
             "cityName": "Mundia kalan",
@@ -2521,6 +2521,37 @@
             "cityName": "ਟੈਸਟਿੰਗ",
             "locale": "in_pb",
             "tenantId": "pb.testing"
+        },
+        {
+            "cityName": "Gharuan",
+            "locale": "in_en",
+            "tenantId": "pb.gharuan"
+        },
+        {
+            "cityName": "घरुआं",
+            "locale": "in_hi",
+            "tenantId": "pb.gharuan"
+        },
+        {
+            "cityName": "ਘਰੂਆਂ",
+            "locale": "in_pb",
+            "tenantId": "pb.gharuan"
+        },
+
+         {
+            "cityName": "Baba Bakala Sahib",
+            "locale": "in_en",
+            "tenantId": "pb.bababakalasahib"
+        },
+        {
+            "cityName": "बाबा बकाला साहिब",
+            "locale": "in_hi",
+            "tenantId": "pb.bababakalasahib"
+        },
+        {
+            "cityName": "ਬਾਬਾ ਬਕਾਲਾ ਸਾਹਿਬ",
+            "locale": "in_pb",
+            "tenantId": "pb.bababakalasahib"
         }
     ]
 }
