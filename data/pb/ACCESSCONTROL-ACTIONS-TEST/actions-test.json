@@ -16368,6 +16368,43 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2640,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "url",
+      "displayName": "Detailed Attendance Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Detailed_Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Detailed_Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2641,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Detailed Attendance Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2642,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Detailed Attendance Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
     }
   ]
 }
