@@ -21455,7 +21455,7 @@
         "queryParams": "",
         "sidebar": "digit-ui-links",
         "sidebarURL": "/digit-ui/citizen/swach-home"
-        
+
       },
     {
         "id": 890042,
@@ -21475,7 +21475,7 @@
         "queryParams": "",
         "sidebar": "digit-ui-links",
         "sidebarURL": "/digit-ui/citizen/swach-home"
-        
+
       },
       {
       "id": 890150,
@@ -21749,6 +21749,50 @@
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000001,
+      "name": "Create NDC Application",
+      "url": "/ndc-services/v1/ndc/_create",
+      "displayName": "Create NDC Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "egov-ndc",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000002,
+      "name": "Update NDC Application",
+      "url": "/ndc-services/v1/ndc/_update",
+      "displayName": "Update NDC Application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "egov-ndc",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000003,
+      "name": "Delete NDC Application",
+      "url": "/ndc-services/v1/ndc/_delete",
+      "displayName": "Delete NDC Application",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "egov-ndc",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000004,
+      "name": "Search NDC Application",
+      "url": "/ndc-services/v1/ndc/_search",
+      "displayName": "Search NDC Application",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "egov-ndc",
       "code": "null",
       "path": ""
     }
