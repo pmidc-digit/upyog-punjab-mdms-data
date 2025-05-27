@@ -21457,6 +21457,26 @@
         "sidebarURL": "/digit-ui/citizen/swach-home"
         
       },
+    {
+        "id": 890042,
+        "name": "Mark Attendence",
+        "url": "digit-ui-card",
+        "displayName": "Mark Attendence",
+        "orderNumber": 3,
+        "enabled": true,
+        "parentModule": "Swach",
+        "enabled": true,
+        "serviceCode": "Swach",
+        "code": "null",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/swach/attendence",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/swach-home"
+        
+      },
       {
       "id": 890150,
       "name": "Third Party Wrapper",
@@ -21689,6 +21709,43 @@
       "name": "SwachStateDescriptionReport_v2",
       "url": "/report/rainmaker-swach/_get",
       "displayName": "Swach State Description Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23451590,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "url",
+      "displayName": "Detailed Attendance Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.Detailed_Attendance_report_swach",
+      "navigationURL": "report/rainmaker-swach/Detailed_Attendance_report_swach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23451591,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "Detailed Attendance Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23451592,
+      "name": "Detailed_Attendance_report_swach",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "Detailed Attendance Report",
       "orderNumber": 2,
       "enabled": true,
       "serviceCode": "MiscReceipt",

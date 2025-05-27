@@ -56672,6 +56672,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3005,
       "actioncode": "",
@@ -58509,6 +58515,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 890042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_DOC_VERIFIER",
       "actionid": 23451577,
       "actioncode": "",
@@ -58637,6 +58649,24 @@
     {
       "rolecode": "SWACH_STATE_EMP",
       "actionid": 23451589,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451591,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451592,
       "actioncode": "",
       "tenantId": "pb"
     }
