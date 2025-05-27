@@ -201,6 +201,47 @@
           "effectiveTo": 1774929282000
         }
       ]
+    },
+    {
+      "id": "7",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_NA",
+      "calculationAttribute": "SEAT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to":  0.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 1.00,
+          "to": 250.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "8",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "SEAT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 1.00,
+          "to": 250.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
     }
   ]
 }
