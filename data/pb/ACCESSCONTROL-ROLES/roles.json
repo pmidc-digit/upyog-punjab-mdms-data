@@ -542,6 +542,11 @@
       "code": "ADS_ADMIN",
       "name": "Advertisement State Employee",
       "description": "Access to ADS"
+    },
+    {
+      "code": "PTR_ADMIN",
+      "name": "Pet Employee",
+      "description": "Access to PTR"
     }
   ]
 }
