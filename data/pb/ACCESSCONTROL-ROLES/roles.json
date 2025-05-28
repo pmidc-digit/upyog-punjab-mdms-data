@@ -547,6 +547,11 @@
       "code": "PTR_ADMIN",
       "name": "Pet Employee",
       "description": "Access to PTR"
+    },
+    {
+      "code": "CHB_ADMIN",
+      "name": "Community Booking Hall Employee",
+      "description": "Access to PTR"
     }
   ]
 }
