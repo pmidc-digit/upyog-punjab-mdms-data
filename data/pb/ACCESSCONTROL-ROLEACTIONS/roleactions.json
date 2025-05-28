@@ -58669,6 +58669,82 @@
       "actionid": 23451592,
       "actioncode": "",
       "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 30000003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30000003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 30000003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantid": "pb"
     }
     
   ]
