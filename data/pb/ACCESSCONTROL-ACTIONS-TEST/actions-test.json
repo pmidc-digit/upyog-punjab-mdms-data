@@ -21753,6 +21753,43 @@
       "path": ""
     },
     {
+      "id": 23451593,
+      "name": "ULBwiseComplaintCountReport",
+      "url": "url",
+      "displayName": "ULB wise Complaints",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Reports.ULBwiseComplaintCountReport",
+      "navigationURL": "report/rainmaker-swach/ULBwiseComplaintCountReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23451594,
+      "name": "ULBwiseComplaintCountReport",
+      "url": "/report/rainmaker-swach/metadata/_get",
+      "displayName": "ULB wise Complaints",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23451595,
+      "name": "ULBwiseComplaintCountReport",
+      "url": "/report/rainmaker-swach/_get",
+      "displayName": "ULB wise Complaints",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 30000001,
       "name": "Create NDC Application",
       "url": "/ndc-services/v1/ndc/_create",
