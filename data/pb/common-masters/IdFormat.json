@@ -759,6 +759,11 @@
 	{	
 	  "format": "SV-[CITY.CODE]-[seq_street_vending_application_id]",
       "idname": "street-vending.application.id"	
-	}
+	},
+	  {
+      "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
+      "idname": "advertisement.booking.id"
+    }
+
   ]
 }

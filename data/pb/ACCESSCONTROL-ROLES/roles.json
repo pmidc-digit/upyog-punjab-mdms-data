@@ -527,6 +527,36 @@
       "code": "SWACH_ADMIN",
       "name": "Swach Officer",
       "description": "Access to Swach"
+    },
+    {
+      "code": "SWACH_STATE_EMP",
+      "name": "Swach State Employee",
+      "description": "Access to swach"
+    },
+    {
+      "code": "SV_ADMIN",
+      "name": "street vending State Employee",
+      "description": "Access to SV"
+    },
+    {
+      "code": "ADS_ADMIN",
+      "name": "Advertisement State Employee",
+      "description": "Access to ADS"
+    },
+    {
+      "code": "PTR_ADMIN",
+      "name": "Pet Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "CHB_ADMIN",
+      "name": "Community Booking Hall Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "Asset_ADMIN",
+      "name": "Asset Employee",
+      "description": "Access to Asset"
     }
   ]
 }
