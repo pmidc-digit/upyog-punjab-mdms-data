@@ -16292,7 +16292,7 @@
       "orderNumber": 6,
       "queryParams": "",
       "parentModule": "rainmaker-swach",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "path": "Swach.Reports.SwachStateDescriptionReport_v2",
       "navigationURL": "report/rainmaker-swach/SwachStateDescriptionReport_v2",
@@ -16305,7 +16305,7 @@
       "url": "/report/rainmaker-swach/metadata/_get",
       "displayName": "State Description",
       "orderNumber": 6,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
       "path": ""
@@ -16316,7 +16316,7 @@
       "url": "/report/rainmaker-swach/_get",
       "displayName": "State Description",
       "orderNumber": 6,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
       "path": ""
