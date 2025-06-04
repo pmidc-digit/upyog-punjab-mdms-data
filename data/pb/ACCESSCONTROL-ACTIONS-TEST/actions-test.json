@@ -16220,7 +16220,7 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "Swach.Reports.Attendance_report_swach",
+      "path": "Swach.Reports.SwachComplaintTypesReport_v2",
       "navigationURL": "report/rainmaker-swach/SwachComplaintTypesReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16416,8 +16416,8 @@
       "parentModule": "rainmaker-swach",
       "enabled": true,
       "serviceCode": "PGR",
-      "path": "Swach.Reports.Detailed_Attendance_report_swach",
-      "navigationURL": "report/rainmaker-swach/Detailed_Attendance_report_swach",
+      "path": "Swach.Reports.ULBwiseComplaintCountReport",
+      "navigationURL": "report/rainmaker-swach/ULBwiseComplaintCountReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
