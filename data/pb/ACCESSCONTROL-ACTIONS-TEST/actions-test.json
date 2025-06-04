@@ -21832,6 +21832,43 @@
       "serviceCode": "egov-ndc",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 30000005,
+      "name": "Survey_Question_Weightage",
+      "url": "url",
+      "displayName": "Tenant Wise Question Weightage",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-survey",
+      "enabled": true,
+      "serviceCode": "CSC",
+      "path": "Survey.Reports.Survey_Question_Weightage",
+      "navigationURL": "report/rainmaker-survey/Survey_Question_Weightage",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 30000006,
+      "name": "Survey_Question_Weightage",
+      "url": "/report/rainmaker-survey/metadata/_get",
+      "displayName": "Tenant Wise Question Weightage",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "CSC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000007,
+      "name": "Survey_Question_Weightage",
+      "url": "/report/rainmaker-survey/_get",
+      "displayName": "Tenant Wise Question Weightage",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "CSC",
+      "code": "null",
+      "path": ""
     }
   ]
 }
