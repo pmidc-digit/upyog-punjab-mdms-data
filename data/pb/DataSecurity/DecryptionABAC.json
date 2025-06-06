@@ -412,6 +412,13 @@
           "attributeAccessList": [
             {
               "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            },         
+            {
+              "attribute": {
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
