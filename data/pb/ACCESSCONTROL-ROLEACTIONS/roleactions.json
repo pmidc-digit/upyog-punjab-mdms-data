@@ -27,6 +27,12 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "CATEGORY_ADMIN",
+      "actionid": 890002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
       "rolecode": "SEARCH_CATEGORY",
       "actionid": 890013,
       "actioncode": "",
@@ -44,6 +50,12 @@
       "actionid": 890013,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "PBTRACK",
+      "actionid": 890013,
+      "actioncode": "",
+      "tenantId": "pb"
     },
 
     {
