@@ -4,6 +4,7 @@
   "citymodule": [{
     "module": "Engagement",
     "code": "Engagement",
+    "active": true,
     "order": 16,
     "tenants": [
         {
