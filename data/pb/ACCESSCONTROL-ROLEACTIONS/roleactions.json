@@ -56,7 +56,30 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-    
+    {
+      "rolecode": "CREATE_QUESTION",
+      "actionid": 890007,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890007,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CREATE_QUESTION",
+      "actionid": 890008,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 890008,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
   {
       "rolecode": "EMPLOYEE",
       "actionid": 890013,
