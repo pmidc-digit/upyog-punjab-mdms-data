@@ -557,6 +557,16 @@
       "code": "Asset_ADMIN",
       "name": "Asset Employee",
       "description": "Access to Asset"
+    },
+    {
+      "code": "VIEW_SWACH_CARD",
+      "name": "View Swach Card",
+      "description": "For Swach Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ENGAGEMENT_CARD",
+      "name": "View Engagement Card",
+      "description": "For Engagement Card Display in Dashboard"
     }
   ]
 }
