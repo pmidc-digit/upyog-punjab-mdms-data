@@ -680,6 +680,10 @@
      {
       "format": "SBMR-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "swach.servicerequestid"
+    },
+    {
+      "format": "SS-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ss.surveyid"
     }
   ]
 }
