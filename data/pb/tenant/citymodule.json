@@ -525,7 +525,7 @@
       "code": "Swach",
       "order": 20,
       "active": true,
-      "access": "view_swach_card",
+      "access": "VIEW_SWACH_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -6571,7 +6571,7 @@
       "code": "Engagement",
       "active": true,
       "order": 16,
-      "access": "view_engagement_card",
+      "access": "VIEW_ENGAGEMENT_CARD",
       "tenants": [
         {
           "code": "pb.testing"
