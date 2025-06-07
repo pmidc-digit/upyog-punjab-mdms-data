@@ -440,6 +440,16 @@
       "code": "SWACH_STATE_EMP",
       "name": "Swach State Employee",
       "description": "Access to swach"
+    },
+	  {
+      "code": "VIEW_SWACH_CARD",
+      "name": "View Swach Card",
+      "description": "For Swach Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ENGAGEMENT_CARD",
+      "name": "View Engagement Card",
+      "description": "For Engagement Card Display in Dashboard"
     }
   ]
 }
