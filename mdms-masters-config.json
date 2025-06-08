@@ -152,6 +152,23 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "ServiceMappingsCitizen": {
+      "masterName": "ServiceMappingsCitizen",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.serviceName"
+      ]
+    },
+    "questionType": {
+      "masterName": "questionType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.title",
+        "$.code"
+      ]
     }
   },
   "egf-master": {
