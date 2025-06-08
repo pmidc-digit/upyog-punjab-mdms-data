@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "questionType": [
+    {
+      "title": "Surveys_Short_Answer",
+      "code": "SHORT_ANSWER_TYPE",
+      "active": false
+    },
+    {
+      "title": "Surveys_Multiple_Choice",
+      "code": "MULTIPLE_ANSWER_TYPE",
+      "active": true
+    },
+    {
+      "title": "Surveys_Check_Boxes",
+      "code": "CHECKBOX_ANSWER_TYPE",
+      "active": true
+    },
+    {
+      "title": "Surveys_Paragraph",
+      "code": "LONG_ANSWER_TYPE",
+      "active": false
+    },
+    {
+      "title": "Surveys_Date",
+      "code": "DATE_ANSWER_TYPE",
+      "active": true
+    },
+    {
+      "title": "Surveys_Time",
+      "code": "TIME_ANSWER_TYPE",
+      "active": true
+    },
+    {
+      "title": "Surveys_Drop_Down_Menu",
+      "code": "DROP_DOWN_MENU_ANSWER_TYPE",
+      "active": true
+    }
+  ]
+}
