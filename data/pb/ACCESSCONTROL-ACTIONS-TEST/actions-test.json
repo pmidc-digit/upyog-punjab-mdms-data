@@ -16471,6 +16471,41 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
+    },
+    {
+      "id": 30000009,
+      "name": "Engagement_ActiveOpenSurveys",
+      "url": "url",
+      "displayName": "Engagement",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "tenantId": "pb",
+      "createdDate": null,
+      "createdBy": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "path": "Engagement.Engagement_ActiveOpenSurveys",
+      "navigationURL": "/digit-ui/employee/engagement/surveys/inbox",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 30000010,
+      "name": "Swach_Home",
+      "url": "url",
+      "displayName": "Swach Home",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach.Swach_Home",
+      "navigationURL": "/digit-ui/employee/swach/inbox",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
