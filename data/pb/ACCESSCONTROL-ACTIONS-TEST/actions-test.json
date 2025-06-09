@@ -6437,6 +6437,22 @@
       "queryParams": ""
     },
     {
+      "id": 1212,
+      "name": "rainmaker-citizen-Survey",
+      "url": "card",
+      "displayName": "Citizen Score Card",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "fire-noc/home",
+      "leftIcon": "custom:fire",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
       "id": 1818,
       "name": "PropertyTax new payments search by ra",
       "url": "/egov-searcher/rainmaker-pt-rasearch-punjab/searchPropertyIDBypayername/_get",
