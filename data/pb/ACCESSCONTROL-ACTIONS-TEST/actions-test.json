@@ -16453,6 +16453,24 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 30000008,
+      "name": "Engagement_ActiveOpenSurveys",
+      "url": "digit-ui-card",
+      "displayName": "Engagement",
+      "orderNumber": 1,
+      "parentModule": "Engagement",
+      "enabled": true,
+      "serviceCode": "Engagement",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/engagement/surveys/active-open-surveys",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
     }
   ]
 }
