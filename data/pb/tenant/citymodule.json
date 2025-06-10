@@ -7,6 +7,7 @@
       "code": "PGR",
       "order": 4,
       "active": true,
+      "access": "VIEW_PGR_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -1043,6 +1044,7 @@
       "module": "PT",
       "code": "PT",
       "active": true,
+      "access": "VIEW_PT_CARD",
       "tenants": [
         {
           "code": "pb.khanna"
@@ -2074,6 +2076,7 @@
       "code": "TL",
       "order": 6,
       "active": true,
+      "access": "VIEW_TL_CARD",
       "tenants": [
         {
           "code": "pb.mohali"
@@ -2487,6 +2490,7 @@
       "code": "UC",
       "order": 7,
       "active": true,
+      "access": "VIEW_UC_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -3014,6 +3018,7 @@
       "code": "PGR.WHATSAPP",
       "order": 21,
       "active": true,
+      "access": "VIEW_PGR.WHATSAPP_CARD",
       "tenants": [
         {
           "code": "pb.hoshiarpur",
@@ -3690,6 +3695,7 @@
       "code": "SWACH.WHATSAPP",
       "order": 8,
       "active": true,
+      "access": "VIEW_SWACH.WHATSAPP_CARD",
       "tenants": [
         {
           "code": "pb.hoshiarpur",
@@ -4378,6 +4384,7 @@
       "code": "FIRENOC",
       "order": 5,
       "active": true,
+      "access": "VIEW_FIRENOC_CARD",
       "tenants": [
         {
           "code": "pb.fatehgarhchurian"
@@ -4431,6 +4438,7 @@
       "code": "BPAAPPLY",
       "order": 1,
       "active": true,
+      "access": "VIEW_BPAAPPLY_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -4445,6 +4453,7 @@
       "code": "BPAREG",
       "order": 2,
       "active": true,
+      "access": "VIEW_BPAREG_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -4459,6 +4468,7 @@
       "code": "OBPS",
       "order": 3,
       "active": true,
+      "access": "VIEW_OBPS_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -4976,6 +4986,7 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
+      "access": "VIEW_PAYMENT_CARD",
       "order": 9,
       "tenants": [
         {
@@ -4990,6 +5001,7 @@
       "module": "BR",
       "code": "BR",
       "active": true,
+      "access": "VIEW_BR_CARD",
       "order": 10,
       "tenants": [
         {
@@ -5004,6 +5016,7 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
+      "access": "VIEW_HRMS_CARD",
       "order": 11,
       "tenants": [
         {
@@ -5529,6 +5542,7 @@
       "code": "SW",
       "order": 12,
       "active": true,
+      "access": "VIEW_SW_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -6050,6 +6064,7 @@
       "code": "WS",
       "order": 13,
       "active": true,
+      "access": "VIEW_WS_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -7099,6 +7114,7 @@
       "code": "MCollect",
       "order": 15,
       "active": true,
+      "access": "VIEW_MCOLLECT_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -7626,6 +7642,7 @@
       "code": "PTR",
       "order": 17,
       "active": true,
+      "access": "VIEW_PTR_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -8144,6 +8161,7 @@
       "code": "NDC",
       "order": 19,
       "active": true,
+      "access": "VIEW_NDC_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -8662,6 +8680,7 @@
       "code": "CommonPT",
       "order": 22,
       "active": true,
+      "access": "VIEW_COMMONPT_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -9180,6 +9199,7 @@
       "code": "SV",
       "order": 23,
       "active": true,
+      "access": "VIEW_SV_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -9707,6 +9727,7 @@
       "code": "ADS",
       "order": 24,
       "active": true,
+      "access": "VIEW_ADS_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -10234,6 +10255,7 @@
       "code": "CHB",
       "order": 25,
       "active": true,
+      "access": "VIEW_CHB_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -10761,6 +10783,7 @@
       "code": "ASSET",
       "order": 26,
       "active": true,
+      "access": "VIEW_ASSET_CARD",
       "tenants": [
         {
           "code": "pb.testing"
