@@ -5,31 +5,31 @@
     {
       "name": "Berm Cutting (Katcha)",
       "code": "BERMCUTTINGKATCHA",
-      "unitCost": 16,
+      "unitCost": 18,
       "isActive": true
     },
     {
       "name": "BM and Premix Road",
       "code": "BMPREMIXROAD",
-      "unitCost": 466,
+      "unitCost": 513,
       "isActive": true
     },
     {
       "name": "Brick Paving",
       "code": "BRICKPAVING",
-      "unitCost": 89,
+      "unitCost": 98,
       "isActive": true
     },
     {
       "name": "CC Road",
       "code": "CCROAD",
-      "unitCost": 350,
+      "unitCost": 385,
       "isActive": true
     },
     {
       "name": "Interlocking Paver Block",
       "code": "INTERLOCKINGPAVERBLOCK",
-      "unitCost": 527,
+      "unitCost": 580,
       "isActive": true
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "Premix Carpet",
       "code": "PREMIXCARPET",
-      "unitCost": 350,
+      "unitCost": 385,
       "isActive": true
     }
   ]
