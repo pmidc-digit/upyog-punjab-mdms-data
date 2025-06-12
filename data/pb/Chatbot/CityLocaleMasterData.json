@@ -2567,6 +2567,21 @@
             "cityName": "ਦੇਵੀਗੜ੍ਹ",
             "locale": "in_pb",
             "tenantId": "pb.devigarh"
+        },
+          {
+            "cityName": "Dhanaula",
+            "locale": "in_en",
+            "tenantId": "pb.dhanaula"
+        },
+        {
+            "cityName": "धनौला",
+            "locale": "in_hi",
+            "tenantId": "pb.dhanaula"
+        },
+        {
+            "cityName": "ਧਨੌਲਾ",
+            "locale": "in_pb",
+            "tenantId": "pb.dhanaula"
         }
     ]
 }
