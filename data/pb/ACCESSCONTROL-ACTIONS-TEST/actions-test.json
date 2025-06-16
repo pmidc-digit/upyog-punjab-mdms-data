@@ -16570,6 +16570,80 @@
       "leftIcon": "custom:description",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1216,
+      "name": "seweragePendingSlaApplicationsState",
+      "url": "url",
+      "displayName": "Sewerage Pending SLA Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Sewerage SLA Pendency Report",
+      "navigationURL": "report/rainmaker-ws/seweragePendingSlaApplicationsState",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1217,
+      "name": "seweragePendingSlaApplicationsState",
+      "url": "/report/rainmaker-ws/seweragePendingSlaApplicationsState/metadata/_get",
+      "displayName": "Pending SLA Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1218,
+      "name": "seweragePendingSlaApplicationsState",
+      "url": "/report/rainmaker-ws/seweragePendingSlaApplicationsState/_get",
+      "displayName": "Pending SLA Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1219,
+      "name": "waterPendingSlaApplicationsState",
+      "url": "url",
+      "displayName": "Water Pending SLA Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Water SLA Pendency Report",
+      "navigationURL": "report/rainmaker-ws/waterPendingSlaApplicationsState",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1220,
+      "name": "waterPendingSlaApplicationsState",
+      "url": "/report/rainmaker-ws/waterPendingSlaApplicationsState/metadata/_get",
+      "displayName": "Pending SLA Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1221,
+      "name": "waterPendingSlaApplicationsState",
+      "url": "/report/rainmaker-ws/waterPendingSlaApplicationsState/_get",
+      "displayName": "Pending SLA Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
