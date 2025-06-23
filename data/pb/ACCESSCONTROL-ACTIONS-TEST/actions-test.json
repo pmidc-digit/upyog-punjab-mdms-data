@@ -4880,7 +4880,7 @@
       "url": "/user/users/_updatenovalidate",
       "displayName": "Update User novalidate",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
