@@ -552,6 +552,11 @@
       "code": "CHB_ADMIN",
       "name": "Community Booking Hall Employee",
       "description": "Access to PTR"
+    },
+    {
+      "code": "NDCADMIN",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
     }
   ]
 }
