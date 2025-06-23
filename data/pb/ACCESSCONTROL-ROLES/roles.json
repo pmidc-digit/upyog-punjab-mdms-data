@@ -554,6 +554,136 @@
       "description": "Access to PTR"
     },
     {
+      "code": "Asset_ADMIN",
+      "name": "Asset Employee",
+      "description": "Access to Asset"
+    },
+    {
+      "code": "VIEW_SWACH_CARD",
+      "name": "View Swach Card",
+      "description": "For Swach Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ENGAGEMENT_CARD",
+      "name": "View Engagement Card",
+      "description": "For Engagement Card Display in Dashboard"
+    },
+    {
+    "code": "VIEW_PGR_CARD",
+    "name": "View PGR Card",
+    "description": "For PGR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_TL_CARD",
+      "name": "View TL Card",
+      "description": "For TL Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PT_CARD",
+      "name": "View PT Card",
+      "description": "For PT Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_UC_CARD",
+      "name": "View UC Card",
+      "description": "For UC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PGR.WHATSAPP_CARD",
+      "name": "View PGR Whatsapp Card",
+      "description": "For PGR Whatsapp Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SWACH.WHATSAPP_CARD",
+      "name": "View Swach Whatsapp Card",
+      "description": "For Swach Whatsapp Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_FIRENOC_CARD",
+      "name": "View FireNOC Card",
+      "description": "For FireNOC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BPAAPPLY_CARD",
+      "name": "View BPA Apply Card",
+      "description": "For BPA Apply Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BPAREG_CARD",
+      "name": "View BPA Reg Card",
+      "description": "For BPA Reg Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_OBPS_CARD",
+      "name": "View OBPS Card",
+      "description": "For OBPS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PAYMENT_CARD",
+      "name": "View Payment Card",
+      "description": "For Payment Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BR_CARD",
+      "name": "View BR Card",
+      "description": "For BR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_HRMS_CARD",
+      "name": "View HRMS Card",
+      "description": "For HRMS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SW_CARD",
+      "name": "View SW Card",
+      "description": "For SW Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_WS_CARD",
+      "name": "View WS Card",
+      "description": "For WS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_MCOLLECT_CARD",
+      "name": "View mCollect Card",
+      "description": "For mCollect Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PTR_CARD",
+      "name": "View PTR Card",
+      "description": "For PTR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_NDC_CARD",
+      "name": "View NDC Card",
+      "description": "For NDC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_COMMONPT_CARD",
+      "name": "View CommonPT Card",
+      "description": "For CommonPT Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SV_CARD",
+      "name": "View SV Card",
+      "description": "For SV Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ADS_CARD",
+      "name": "View ADS Card",
+      "description": "For ADS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_CHB_CARD",
+      "name": "View CHB Card",
+      "description": "For CHB Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ASSET_CARD",
+      "name": "View Asset Card",
+      "description": "For Asset Card Display in Dashboard"
+    },
+    {
       "code": "NDCADMIN",
       "name": "Admin NDC Role",
       "description": "Access to NDC"

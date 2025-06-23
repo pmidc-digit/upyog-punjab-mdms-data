@@ -1,31 +1,26 @@
 {
-    "tenantId": "pb",
-    "moduleName": "BPA",
-    "QualificationType": [
-        {
-            "name": "B-Arch",
-            "code": "B_ARCH",
-            "active": true
-        },
-        {
-            "name": "BE",
-            "code": "BE",
-            "active": true
-        },
-        {
-            "name": "B-Tech",
-            "code": "B_TECH",
-            "active": true
-        },
-        {
-            "name": "Diploma",
-            "code": "DIPLOMA",
-            "active": true
-        },
-        {
-            "name": "Building designer & supervisor",
-            "code": "BUILDING_DESIGNER_SUPERVISOR",
-            "active": true
-        }
-    ]
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "QualificationType": [
+    {
+      "name": "B-Arch",
+      "code": "B_ARCH",
+      "active": true
+    },
+    {
+      "name": "BE/B-Tech",
+      "code": "BE",
+      "active": true
+    },
+    {
+      "name": "Diploma in Civil Engineering/Architect",
+      "code": "DIPLOMA",
+      "active": true
+    },
+    {
+      "name": "Town and Country Planning",
+      "code": "Town_and_Country_Planner",
+      "active": true
+    }
+  ]
 }

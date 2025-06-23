@@ -11043,12 +11043,6 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1700,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 1629,
       "actioncode": "",
@@ -12353,6 +12347,30 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1817,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1212,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1213,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1214,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1215,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -36944,6 +36962,12 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 1700,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 1701,
       "actioncode": "",
       "tenantId": "pb"
@@ -58135,6 +58159,55 @@
       "actioncode": "",
       "tenantid": "pb"
     },
+
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SWACH_ADMIN",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PASCO",
+      "actionid": 5490034,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 890039,
@@ -58521,6 +58594,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 890043,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_DOC_VERIFIER",
       "actionid": 23451577,
       "actioncode": "",
@@ -58670,7 +58749,24 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451593,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451594,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 23451595,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "NDCADMIN",
       "actionid": 30000001,
@@ -58745,7 +58841,42 @@
       "actionid": 30000004,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 30000005,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 30000006,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 30000007,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SURVEY_ADMIN",
+      "actionid": 8900190,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900190,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8900190,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-    
   ]
 }
