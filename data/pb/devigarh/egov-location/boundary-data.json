@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.adampur",
+  "tenantId": "pb.devigarh",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,25 +10,25 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Adampur",
-        "localname": "Adampur",
+        "name": "Devigarh",
+        "localname": "Devigarh",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.adampur",
+        "code": "pb.devigarh",
         "children": [
           {
             "id": "960c9b2a-50cd-46fb-81b3-48858f830e02",
             "boundaryNum": 1,
-            "name": "Adampur",
-            "localname": "Adampur",
+            "name": "Devigarh",
+            "localname": "Devigarh",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
-            "code": "ADM1",
+            "code": "DEVI1",
             "children": [
               {
-                "id": "086b34c3-be08-485e-8690-890d854b2414",
+                "id": "aa6b34c3-be08-485e-8690-890d854b24bb",
                 "boundaryNum": 1,
                 "name": "WARD - 1",
                 "localname": "WARD - 1",
@@ -38,38 +38,38 @@
                 "code": "Ward 1",
                 "children": [
                   {
-                    "id": "3d22b8b8-736e-457e-89de-bcb5f6f1da33",
+                    "id": "aa22b8b8-736e-457e-89de-bcb5f6f1dabb",
                     "boundaryNum": 1,
-                    "name": "Begampura",
-                    "localname": "Begampura",
+                    "name": "Near Bustand",
+                    "localname": "Near Bustand",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "ADM1",
+                    "code": "DEVI1",
                     "area": "",
                     "children": []
                   },
                   {
-                    "id": "f6d7dc6f-5703-4351-a094-efa02672553d",
+                    "id": "aad7dc6f-5703-4351-a094-efa0267255bb",
                     "boundaryNum": 1,
-                    "name": "Gandhi Nagar",
-                    "localname": "Gandhi Nagar",
+                    "name": "UNKNOWN",
+                    "localname": "UNKNOWN",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "ADM2",
+                    "code": "DEVI2",
                     "area": "",
                     "children": []
                   },
                   {
-                    "id": "1dd8b474-34d8-43fa-b4db-e8957d2a804c",
+                    "id": "aad8b474-34d8-43fa-b4db-e8957d2a80bb",
                     "boundaryNum": 1,
                     "name": "Main Road",
                     "localname": "Main Road",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "ADM3",
+                    "code": "DEVI3",
                     "area": "",
                     "children": []
                   }
