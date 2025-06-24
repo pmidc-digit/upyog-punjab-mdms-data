@@ -687,6 +687,11 @@
       "code": "NDCADMIN",
       "name": "Admin NDC Role",
       "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_ADMIN_ROLE",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
     }
   ]
 }

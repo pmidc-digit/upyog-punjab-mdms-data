@@ -58774,6 +58774,12 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 30000001,
       "actioncode": "",
@@ -58791,6 +58797,11 @@
       "actionid": 30000002,
       "actioncode": "",
       "tenantid": "pb"
+    },{
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantid": "pb"
     },
     {
       "rolecode": "EMPLOYEE",
@@ -58812,6 +58823,12 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 30000003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 30000003,
       "actioncode": "",
@@ -58826,6 +58843,12 @@
 
     {
       "rolecode": "NDCADMIN",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
       "actionid": 30000004,
       "actioncode": "",
       "tenantid": "pb"
