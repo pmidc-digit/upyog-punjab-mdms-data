@@ -1,0 +1,18 @@
+{
+    "tenantId": "pb",
+    "moduleName": "NDC",
+    "Reasons": [
+        {
+            "code": "ELECTRICITY_CONNECTION_FOR_PLPCL",
+            "active": true
+        },
+        {
+            "code": "FOR_SALE_OF_PROPERTY",
+            "active": true
+        },
+        {
+            "code": "FOR_CHANGE_OF_OWNERSHIP",
+            "active": true
+        }
+    ]
+}
