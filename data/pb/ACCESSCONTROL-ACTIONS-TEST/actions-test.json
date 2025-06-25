@@ -21902,6 +21902,56 @@
       "serviceCode": "egov-user",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890044,
+      "name": "NDC_NEW_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "New Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "parentModule": "ndc",
+      "serviceCode": "ndc",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ndc/new-application",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ndc-home"
+    },
+    {
+      "id": 890046,
+      "name": "rainmaker-citizen-ndc",
+      "url": "card",
+      "displayName": "NDC",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ndc",
+      "code": "",
+      "path": "ndc",
+      "navigationURL": "/digit-ui/citizen/ndc-home",
+      "leftIcon": "custom:publicIcon",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 890047,
+      "name": "ndc",
+      "url": "url",
+      "displayName": "NDC",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ndc-home",
+      "leftIcon": "custom:description",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
