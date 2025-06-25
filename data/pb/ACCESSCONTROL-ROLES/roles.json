@@ -692,6 +692,11 @@
       "code": "NDC_ADMIN_ROLE",
       "name": "Admin NDC Role",
       "description": "Access to NDC"
+    },
+    {
+      "code": "SURVEY_REPORTS",
+      "name": "Survey Reports Admin",
+      "description": "Survey Reports to view reports of citizen scorecard survey"
     }
   ]
 }
