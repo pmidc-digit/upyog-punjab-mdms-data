@@ -58930,6 +58930,18 @@
       "actionid": 890047,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 890048,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 890048,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }

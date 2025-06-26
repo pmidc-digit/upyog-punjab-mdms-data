@@ -21952,6 +21952,24 @@
       "leftIcon": "custom:description",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 890048,
+      "name": "NDC_MY_APPLICATIONS",
+      "url": "digit-ui-card",
+      "displayName": "My Application",
+      "orderNumber": 4,
+      "enabled": true,
+      "parentModule": "NDC",
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ndc/my-application",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ndc-home"
     }
   ]
 }
