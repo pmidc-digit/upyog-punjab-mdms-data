@@ -1150,6 +1150,22 @@
                 "code": "pb.mehraj"  
               }
             ]
+      },
+      {
+            "code": "FS_BHULATH_01",
+            "baseTenantId": "pb.bhulath",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Bhulath"
+              }
+            ],
+            "ulb": [
+              {
+                "code": "pb.bhulath"  
+              }
+            ]
       }
   ]
 }
