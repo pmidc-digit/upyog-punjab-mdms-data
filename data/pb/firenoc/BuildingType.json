@@ -570,37 +570,37 @@
       "BuildingSubType": [
         {
           "code": "MODERATEHAZARD",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(2)"
         },
         {
           "code": "SMSE",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(5)"
         },
         {
           "code": "LOWHAZARD",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "HIGHHAZARD",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(3)"
         },
         {
           "code": "COTTON",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "PETROLPUMP",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(3)"
         }
