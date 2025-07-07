@@ -763,7 +763,10 @@
 	  {
       "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
       "idname": "advertisement.booking.id"
+    },
+    {
+      "format": "NDC-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ndc.applicationid"
     }
-
   ]
 }
