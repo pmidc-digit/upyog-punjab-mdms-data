@@ -21414,6 +21414,21 @@
       "rightIcon": ""
     },
     {
+      "id": 890049,
+      "name": "GCMODULE",
+      "url": "url",
+      "displayName": "GCMODULE",
+      "orderNumber": 1,
+      "parentModule": "GC",
+      "enabled": true,
+      "serviceCode": "GC",
+      "code": "null",
+      "path": "GCMODULE",
+      "navigationURL": "/digit-ui/employee/gc/inbox",
+      "leftIcon": "custom:open-GCMODULE",
+      "rightIcon": ""
+    },
+    {
       "id": 890038,
       "name": "swach Bharat Reform",
       "url": "/swach-services/v2/request/_count",

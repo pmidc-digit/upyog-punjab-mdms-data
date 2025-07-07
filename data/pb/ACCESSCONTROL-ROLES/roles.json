@@ -519,6 +519,11 @@
       "description": "Access to NDC"
     },
     {
+      "code": "GC_ADMIN",
+      "name": "Search GC Role",
+      "description": "Access to GC"
+    },
+    {
       "code": "OBPS_ADMIN",
       "name": "Search OBPS Role",
       "description": "Access to OBPS"
@@ -569,9 +574,9 @@
       "description": "For Engagement Card Display in Dashboard"
     },
     {
-    "code": "VIEW_PGR_CARD",
-    "name": "View PGR Card",
-    "description": "For PGR Card Display in Dashboard"
+      "code": "VIEW_PGR_CARD",
+      "name": "View PGR Card",
+      "description": "For PGR Card Display in Dashboard"
     },
     {
       "code": "VIEW_TL_CARD",

@@ -58323,6 +58323,12 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "GC_ADMIN",
+      "actionid": 890049,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 890038,
       "actioncode": "",
@@ -58797,7 +58803,8 @@
       "actionid": 30000002,
       "actioncode": "",
       "tenantid": "pb"
-    },{
+    },
+    {
       "rolecode": "NDC_ADMIN_ROLE",
       "actionid": 30000002,
       "actioncode": "",
