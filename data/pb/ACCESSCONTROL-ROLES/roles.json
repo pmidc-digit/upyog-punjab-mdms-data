@@ -664,6 +664,11 @@
       "description": "For NDC Card Display in Dashboard"
     },
     {
+      "code": "VIEW_GC_CARD",
+      "name": "View GC Card",
+      "description": "For GC Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_COMMONPT_CARD",
       "name": "View CommonPT Card",
       "description": "For CommonPT Card Display in Dashboard"
