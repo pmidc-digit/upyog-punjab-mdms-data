@@ -145,11 +145,11 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": true,
+      "active": false,
       "BuildingSubType": [
         {
           "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
-          "active": true,
+          "active": false,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
         }
@@ -566,7 +566,7 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": true,
+      "active": false,
       "BuildingSubType": [
         {
           "code": "MODERATEHAZARD",
