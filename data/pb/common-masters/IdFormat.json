@@ -754,12 +754,7 @@
     {
       "format": "CHB-[CITY.CODE]-[seq_chb_booking_id]",
       "idname": "communityhall.booking.id"
-    }
-	,
-	{	
-	  "format": "SV-[CITY.CODE]-[seq_street_vending_application_id]",
-      "idname": "street-vending.application.id"	
-	},
+    },
 	  {
       "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
       "idname": "advertisement.booking.id"
@@ -767,6 +762,26 @@
     {
       "format": "NDC-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "ndc.applicationid"
+    },
+    {
+      "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "sv-services.receipt.id"
+    },
+    {
+      "format": "SV/MONTHLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "sv-services.monthly.receipt.id"
+    },
+    {
+      "format": "SV/QUATERLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "sv-services.quaterly.receipt.id"
+    },
+    {
+      "format": "SV-CT-[seq_street_vending_certificate_no]",
+      "idname": "street-vending.certificate.no"
+    },
+    {
+      "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+      "idname": "egov.idgen.asset.applicationNum"
     }
   ]
 }

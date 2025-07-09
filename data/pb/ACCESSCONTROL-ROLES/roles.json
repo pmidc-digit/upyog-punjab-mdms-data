@@ -707,6 +707,46 @@
       "code": "SURVEY_REPORTS",
       "name": "Survey Reports Admin",
       "description": "Survey Reports to view reports of citizen scorecard survey"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator Employee",
+      "description": "Employee in Asset Application who files asset Registration"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Document Verifier",
+      "description": "Asset Registration Information/Document Verifier"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_REPORT_VIEWER",
+      "name": "Asset Report Viewer",
+      "description": "Who Can View Asset Reports"
+    },
+    {
+      "code": "SVCEMP",
+      "name": "SV CEMP ",
+      "description": "Street Vending Counter Employee"
+    },
+    {
+      "code": "TVCEMPLOYEE",
+      "name": "TVC Employee",
+      "description": "Town Vending Commitee Employee"
+    },
+    {
+      "code": "INSPECTIONOFFICER",
+      "name": "Inspection Officer",
+      "description": "Inspection Officer who will visit"
     }
   ]
 }
