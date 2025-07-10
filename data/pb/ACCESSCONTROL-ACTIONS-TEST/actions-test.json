@@ -22358,12 +22358,12 @@
       "serviceCode": "SV",
       "code": "null",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/sv/apply",
+      "navigationURL": "/sv-ui/citizen/sv/apply",
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/sv-home"
+      "sidebarURL": "/sv-ui/citizen/sv-home"
     },
     {
       "id": 4033,
@@ -22376,12 +22376,12 @@
       "serviceCode": "SV",
       "code": "null",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/sv/my-applications",
+      "navigationURL": "/sv-ui/citizen/sv/my-applications",
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/sv-home"
+      "sidebarURL": "/sv-ui/citizen/sv-home"
     },
     {
       "id": 4034,
@@ -22536,42 +22536,6 @@
     "code": "null",
     "path": ""
   },
-  {
-      "id": 4046,
-      "name": "SV_APPLY",
-      "url": "sv-ui-card",
-      "displayName": "Apply",
-      "orderNumber": 1,
-      "parentModule": "SV",
-      "enabled": true,
-      "serviceCode": "SV",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/sv-ui/citizen/sv/apply",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "sv-ui-links",
-      "sidebarURL": "/sv-ui/citizen/sv-home"
-    },
-    {
-      "id": 4047,
-      "name": "SV_MY_APPLICATION",
-      "url": "sv-ui-card",
-      "displayName": "My Applications",
-      "orderNumber": 2,
-      "parentModule": "SV",
-      "enabled": true,
-      "serviceCode": "SV",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/sv-ui/citizen/sv/my-applications",
-      "leftIcon": "",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "sv-ui-links",
-      "sidebarURL": "/sv-ui/citizen/sv-home"
-    },
      {
       "id": 4048,
       "name": "PGRAI_FILE_MY_GRIEVANCE",
