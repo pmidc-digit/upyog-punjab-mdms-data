@@ -11824,6 +11824,17 @@
           "code": "pb.bababakalasahib"
         }
       ]
-    }
+    },
+    {
+      "module": "PGRAI",
+      "code": "PGRAI",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
+    } 
   ]
 }
