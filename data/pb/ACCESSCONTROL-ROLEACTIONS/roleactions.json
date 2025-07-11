@@ -59142,6 +59142,12 @@
         "actioncode": "",
         "tenantId": "pb"
     },
+     {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 4018,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 4021,
@@ -59685,6 +59691,84 @@
     {
       "rolecode": "CSR",
       "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR_LME",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GO",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "SVCEMP",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
     }
