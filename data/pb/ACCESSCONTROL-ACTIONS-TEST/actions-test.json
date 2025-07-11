@@ -16644,6 +16644,21 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 23451581,
+      "name": "PT_Defaulters",
+      "url": "url",
+      "displayName": "PT Defaulter Details",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PT Defaulters",
+      "navigationURL": "report/rainmaker-pt/PT_Defaulters",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
