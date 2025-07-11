@@ -16674,6 +16674,21 @@
       "navigationURL": "report/rainmaker-pt/PT_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 23451583,
+      "name": "PTunsynchSummaryReport",
+      "url": "url",
+      "displayName": "PT Summary Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.PTunsynchSummaryReport",
+      "navigationURL": "report/rainmaker-pt/PTunsynchSummaryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
