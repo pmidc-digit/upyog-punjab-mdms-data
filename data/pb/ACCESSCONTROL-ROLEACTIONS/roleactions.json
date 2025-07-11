@@ -59531,6 +59531,90 @@
       "actionid": 4052,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
