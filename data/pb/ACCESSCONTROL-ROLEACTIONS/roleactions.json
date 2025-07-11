@@ -59771,6 +59771,24 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 4036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 4036,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "INSPECTIONOFFICER",
+      "actionid": 4036,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
