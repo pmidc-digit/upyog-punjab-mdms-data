@@ -28131,6 +28131,30 @@
       "actionid": 23451582,
       "actioncode": "",
       "tenantid": "pb"
-    }	  	  
+    },
+   {
+      "rolecode": "PTCEMP",
+      "actionid": 23451583,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 23451583,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 23451583,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "23451583",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
    ]
 }
