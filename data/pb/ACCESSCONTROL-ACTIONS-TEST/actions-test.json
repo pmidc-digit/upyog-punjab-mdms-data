@@ -22622,7 +22622,7 @@
     {
       "id": 23451596,
       "name": "PT_Defaulters",
-      "url": "url",
+      "url": "/report/rainmaker-pdc/metadata/_get",
       "displayName": "PT Defaulter Details",
       "orderNumber": 1,
       "queryParams": "",
@@ -22637,7 +22637,7 @@
     {
       "id": 23451597,
       "name": "PT_Invalid_Defaulters",
-      "url": "url",
+      "url": "/report/rainmaker-pdc/metadata/_get",
       "displayName": "PT Invalid Defaulter Details",
       "orderNumber": 2,
       "queryParams": "",
