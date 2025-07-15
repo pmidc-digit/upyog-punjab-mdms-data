@@ -13,6 +13,11 @@
       "description": "Citizen who can raise complaint"
     },
     {
+      "code": "PDC",
+      "name": "PDC Officer",
+      "description": "Access to PDC report"
+    },
+    {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "INTERNAL MICROSERVICE ROLE",
       "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally"
