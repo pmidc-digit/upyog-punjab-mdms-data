@@ -276,41 +276,41 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": true,
+      "active": false,
       "BuildingSubType": [
         {
           "code": "MEDICAL",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(7)"
         },
         {
           "code": "LAW",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "ENGINEERING",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "MBA",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(6)"
         },
         {
           "code": "NURSING",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(5)"
         },
         {
           "code": "ARTS",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(4)"
         }
