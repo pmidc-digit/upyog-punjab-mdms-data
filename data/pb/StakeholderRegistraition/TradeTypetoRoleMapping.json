@@ -9,7 +9,7 @@
       "role": ["BPA_ARCHITECT"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 500,
+      "applicationFee": 0,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -58,7 +58,7 @@
       "tradeType": "ARCHITECT.CLASSB",
       "role": ["BPA_ARCHITECT"],
       "endstate": "APPROVED",
-      "applicationFee": 500,
+      "applicationFee": 0,
       "docTypes": null
     },
     {
