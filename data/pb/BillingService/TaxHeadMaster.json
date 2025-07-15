@@ -5756,15 +5756,7 @@
       "order": "8",
       "service": "SW.ONE_TIME_FEE"
     },
-	{
-        "category": "FEE",
-        "service": "sv-services",
-        "name": "Street Vending registration fee",
-        "code": "SV_STREET_VENDING_REGISTRATION_FEE",
-        "isDebit": false,
-        "isActualDemand": true,
-        "isRequired": false
-	},
+	
     {
       "category": "FEE",
       "code": "SW_CONNECTION_FEE",
