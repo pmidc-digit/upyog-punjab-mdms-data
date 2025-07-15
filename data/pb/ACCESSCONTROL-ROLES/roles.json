@@ -13,11 +13,6 @@
       "description": "Default role for all employees"
     },
     {
-      "code": "PDC",
-      "name": "PDC Officer",
-      "description": "Access to PDC report"
-    },
-    {
       "code": "SUPERUSER",
       "name": "Super User",
       "description": "System Administrator. Can change all master data and has access to all the system screens."
