@@ -22630,7 +22630,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "PDC Report.PT Defaulters",
-      "navigationURL": "report/rainmaker-pdc/PT_Defaulters",
+      "navigationURL": "PDC Report/rainmaker-pdc/PT_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -22645,7 +22645,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "PDC Report.PT Invalid Defaulters",
-      "navigationURL": "report/rainmaker-pdc/PT_Invalid_Defaulters",
+      "navigationURL": "PDC Report/rainmaker-pdc/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
