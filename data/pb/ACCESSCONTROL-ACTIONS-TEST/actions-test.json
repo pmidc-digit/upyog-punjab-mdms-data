@@ -22660,7 +22660,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.PDC.PT_Defaulters",
-      "navigationURL": "report-v2/rainmaker-pt/PT_Defaulters",
+      "navigationURL": "report/rainmaker-pt/PT_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -22675,7 +22675,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.PDC.PT_Defaulters",
-      "navigationURL": "report-v2/rainmaker-pt/PT_Invalid_Defaulters",
+      "navigationURL": "report/rainmaker-pt/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
