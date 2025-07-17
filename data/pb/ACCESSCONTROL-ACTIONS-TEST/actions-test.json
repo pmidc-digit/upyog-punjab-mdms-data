@@ -22659,8 +22659,8 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.PDC.PT_Defaulters",
-      "navigationURL": "report/rainmaker-pt/PT_Defaulters",
+      "path": "PDC Reports.PT_Defaulters",
+      "navigationURL": "report/rainmaker-pdc/PT_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -22674,7 +22674,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.PDC.PT_Defaulters",
+      "path": "PDC Reports.PT_Defaulters",
       "navigationURL": "report/rainmaker-pt/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
