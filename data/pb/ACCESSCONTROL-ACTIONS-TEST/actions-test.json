@@ -16646,7 +16646,22 @@
       "path": ""
     },
     {
-      "id": 23451581,
+      "id": 23451583,
+      "name": "PTunsynchSummaryReport",
+      "url": "url",
+      "displayName": "PT Summary Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.PTunsynchSummaryReport",
+      "navigationURL": "report/rainmaker-pt/PTunsynchSummaryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23451599,
       "name": "PT_Defaulters",
       "url": "url",
       "displayName": "PT Defaulter Details",
@@ -16661,7 +16676,7 @@
       "rightIcon": ""
     },
     {
-      "id": 23451582,
+      "id": 23451600,
       "name": "PT_Invalid_Defaulters",
       "url": "url",
       "displayName": "PT Invalid Defaulter Details",
@@ -16672,21 +16687,6 @@
       "serviceCode": "",
       "path": "PDC Reports.PT Invalid Defaulters",
       "navigationURL": "report/rainmaker-pdc/PT_Invalid_Defaulters",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 23451583,
-      "name": "PTunsynchSummaryReport",
-      "url": "url",
-      "displayName": "PT Summary Report",
-      "orderNumber": 2,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.From Report Tables.PTunsynchSummaryReport",
-      "navigationURL": "report/rainmaker-pt/PTunsynchSummaryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
