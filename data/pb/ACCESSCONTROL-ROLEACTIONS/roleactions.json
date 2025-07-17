@@ -27,6 +27,18 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "PDC",
+      "actionid": 23451600,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "PDC",
+      "actionid": 23451599,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
       "rolecode": "SWACH_ADMIN",
       "actionid": 23451582,
       "actioncode": "",
@@ -53,18 +65,6 @@
     {
       "rolecode": "PDC",
       "actionid": 23451598,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-    {
-      "rolecode": "PT_APPROVER",
-      "actionid": 23451599,
-      "actioncode": "",
-      "tenantid": "pb"
-    },
-        {
-      "rolecode": "PT_APPROVER",
-      "actionid": 23451600,
       "actioncode": "",
       "tenantid": "pb"
     },
