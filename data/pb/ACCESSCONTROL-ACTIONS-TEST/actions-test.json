@@ -16661,6 +16661,17 @@
       "rightIcon": ""
     },
     {
+      "id": 23451601,
+      "name": "PDC Report",
+      "url": "/report/rainmaker-pdc/metadata/_get",
+      "displayName": "PDC Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PDCREPORTS",
+      "code": "null",
+      "path": "PDC Report"
+    },
+    {
       "id": 23451599,
       "name": "PT_Defaulters",
       "url": "url",
