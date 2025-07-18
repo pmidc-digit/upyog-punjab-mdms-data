@@ -16663,7 +16663,7 @@
     {
       "id": 23451601,
       "name": "PDC Report",
-      "url": "/report/rainmaker-pdc/metadata/_get",
+      "url": "/report/rainmaker-pt/metadata/_get",
       "displayName": "PDC Report",
       "orderNumber": 0,
       "enabled": true,
@@ -16682,7 +16682,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "PDC Reports.PT Defaulters",
-      "navigationURL": "report/rainmaker-pdc/PT_Defaulters",
+      "navigationURL": "report/rainmaker-pt/PT_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -16697,7 +16697,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "PDC Reports.PT Invalid Defaulters",
-      "navigationURL": "report/rainmaker-pdc/PT_Invalid_Defaulters",
+      "navigationURL": "report/rainmaker-pt/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
