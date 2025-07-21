@@ -16663,7 +16663,7 @@
     {
       "id": 23451604,
       "name": "PT_Defaulters",
-      "url": "report/rainmaker-swach/_get",
+      "url": "report/rainmaker-pt/_get",
       "displayName": "PT Defaulter Report",
       "orderNumber": 1,
       "enabled": true,
@@ -16674,7 +16674,7 @@
     {
       "id": 23451605,
       "name": "PT_Invalid_Defaulters",
-      "url": "report/rainmaker-swach/_get",
+      "url": "report/rainmaker-pt/_get",
       "displayName": "PT Invalid Defaulters Report",
       "orderNumber": 2,
       "enabled": true,
