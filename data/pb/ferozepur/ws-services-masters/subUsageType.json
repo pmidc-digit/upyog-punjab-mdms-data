@@ -49,6 +49,30 @@
       "name": "COMMERCIAL",
       "parentUsageType": "MIXED",
       "active": true
+    },
+	{
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "active": true
+    },
+	{
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
+      "active": true
+    },
+	{
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
+      "active": true
+    },
+	{
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.AHATAS.AHATAS",
+      "active": true
     }
   ]
 }
