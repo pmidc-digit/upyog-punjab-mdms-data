@@ -16849,24 +16849,6 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 2611,
-      "name": "PTR_CREATE_PET_APPLICATION",
-      "url": "digit-ui-card",
-      "displayName": "Apply for Pet Application",
-      "orderNumber": 1,
-      "parentModule": "PTR",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ptr/petservice/new-application",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/ptr-home"
-    },
 
     {
       "id": 2613,
