@@ -4331,10 +4331,17 @@
     },
     {
       "tenant": "pb.mansa",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2024-25",
       "isRented": true
+    },
+    {
+      "tenant": "pb.pahgwara",
+       "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": true
     }
+
 
 	  
   ]
