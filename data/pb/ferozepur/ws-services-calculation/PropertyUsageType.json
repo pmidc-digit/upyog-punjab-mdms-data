@@ -67,6 +67,12 @@
       "code": "NONRESIDENTIAL.COMMERCIAL.AHATAS.AHATAS",
       "unitCost" : 15,
       "isActive": true
+    },
+    {
+      "name": "Hotels",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "unitCost" : 15,
+      "isActive": true
     }
   ]
 }
