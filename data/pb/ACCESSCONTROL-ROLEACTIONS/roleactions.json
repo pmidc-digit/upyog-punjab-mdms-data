@@ -506,6 +506,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 25821,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 635,
@@ -59819,6 +59825,30 @@
       "actionid": 4036,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23241,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 23251,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23371,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 23381,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
