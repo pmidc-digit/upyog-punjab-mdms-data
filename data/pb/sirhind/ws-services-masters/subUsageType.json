@@ -14,6 +14,12 @@
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
       "active": true
     },
+     {
+      "code": "USAGE_COMM_OTHER",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
     {
       "code": "USAGE_INDUSTRIAL_NA",
       "name": "INDUSTRIAL",
