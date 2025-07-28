@@ -107,7 +107,7 @@
     {
       "code": "BPAREG",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
-      "receiptKey": "consolidatedreceipt",
+      "receiptKey": "bpa-receipt",
       "billKey": "consolidatedbill",
       "arrears": true,
       "buttons": [
