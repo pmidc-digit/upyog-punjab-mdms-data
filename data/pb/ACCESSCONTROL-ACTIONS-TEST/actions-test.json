@@ -10080,6 +10080,20 @@
       "leftIcon": "action:receipt"
     },
     {
+      "id": 2820,
+      "name": "Disconnection",
+      "url": "url",
+      "displayName": "Disconnection",
+      "orderNumber": 9,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/ws/water/search-connection",
+      "path": "w_s.BG",
+      "leftIcon": "action:receipt"
+    },
+    {
       "id": 2067,
       "name": "Receipt Register SW",
       "url": "url",
