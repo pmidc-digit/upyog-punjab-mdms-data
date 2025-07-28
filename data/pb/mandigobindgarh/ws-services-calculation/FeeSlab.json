@@ -1,0 +1,130 @@
+{
+  "tenantId": "pb.mandigobindgarh",
+  "moduleName": "ws-services-calculation",
+  "FeeSlab": [
+    {
+      "formFee": 0,
+      "securityCharge": 
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "securityCharge":"50",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"250",
+          "securityCharge":"50",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"251",
+          "toPlotSize":"100000",
+          "securityCharge":"50",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "securityCharge":"100",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "securityCharge":"100",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "securityCharge":"100",
+          "usageType":"INDUSTRIAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "securityCharge":"100",
+          "usageType":"INDUSTRIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "securityCharge":"100",
+          "usageType":"INSTITUTIONAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "securityCharge":"100",
+          "usageType":"INSTITUTIONAL"
+        }
+      ],
+      "meterTestingFee": 0,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"50",
+          "usageType":"DOMESTIC"
+        },
+    
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"250",
+          "connectionFee":"50",
+          "usageType":"DOMESTIC"
+        },
+
+        {
+          "fromPlotSize":"251",
+          "toPlotSize":"100000",
+          "connectionFee":"50",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"100",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "connectionFee":"100",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"100",
+          "usageType":"INDUSTRIAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "connectionFee":"100",
+          "usageType":"INDUSTRIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"100",
+          "usageType":"INSTITUTIONAL"
+        },
+        {
+          "fromPlotSize":"126",
+          "toPlotSize":"100000",
+          "connectionFee":"100",
+          "usageType":"INSTITUTIONAL"
+        }
+        
+      ],
+      "other": 0,
+      "taxpercentage": 0,
+      "isActive": true
+    }
+  ]
+}
