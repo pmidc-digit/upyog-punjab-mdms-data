@@ -92,6 +92,15 @@
       "order": "2",
       "isRequired": false
     },
+      { "category": "TAX",
+      "service": "PT",
+      "name": "Pt  oTS penalty waveoff",
+      "code": "OTS_PENALTY_WAVEOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "PT",
@@ -100,6 +109,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "OTS INTEREST WAVEOFF",
+      "code": "OTS_INTEREST_WAVEOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": false
     },
     {
