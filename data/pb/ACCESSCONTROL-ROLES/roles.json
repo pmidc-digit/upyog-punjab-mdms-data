@@ -589,6 +589,11 @@
       "description": "For TL Card Display in Dashboard"
     },
     {
+      "code": "VIEW_NOC_CARD",
+      "name": "View NOC Card",
+      "description": "For NOC Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_PT_CARD",
       "name": "View PT Card",
       "description": "For PT Card Display in Dashboard"
