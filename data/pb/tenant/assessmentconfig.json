@@ -4337,8 +4337,14 @@
     },
     {
       "tenant": "pb.phagwara",
-       "enabled": true,
+       "enabled": false,
       "financialyear": "2025-26",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.phagwara",
+       "enabled": true,
+      "financialyear": "2024-25",
       "isRented": true
     }
 
