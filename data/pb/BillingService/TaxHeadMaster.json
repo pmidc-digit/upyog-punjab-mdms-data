@@ -7193,5 +7193,16 @@
         "order": "0",
         "isRequired": false
     }
+    ,
+    {
+      "category": "FEE",
+      "service": "ndc-services",
+      "name": "No Dues Certificate Fee",
+      "code": "NDC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
