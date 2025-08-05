@@ -679,6 +679,11 @@
       "description": "For GC Card Display in Dashboard"
     },
     {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_COMMONPT_CARD",
       "name": "View CommonPT Card",
       "description": "For CommonPT Card Display in Dashboard"
