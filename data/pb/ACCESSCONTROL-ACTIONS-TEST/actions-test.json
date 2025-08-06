@@ -21825,6 +21825,28 @@
       "path": ""
     },
     {
+      "id": 31000010,
+      "name": "NDC calculator",
+      "url": "/ndc-calculator/v1/_calculate",
+      "displayName": "Calculator NDC Application",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 31000011,
+      "name": "NDC calculator update demand",
+      "url": "/ndc-calculator/v1/_updatedemand",
+      "displayName": "Calculator NDC Application updatedemand",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 30000005,
       "name": "Survey_Question_Weightage",
       "url": "url",
