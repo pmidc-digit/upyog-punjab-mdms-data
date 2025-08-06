@@ -59825,6 +59825,48 @@
       "actionid": 31000010,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantid": "pb"
+    },,
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }
