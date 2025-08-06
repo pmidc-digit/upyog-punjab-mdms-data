@@ -8,27 +8,57 @@
       "unitCost" : 20,
       "isActive": true
     },
-{
+   {
      "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
       "unitCost" : 30,
       "isActive": true
     },
-{
+    {
+      "name": "Commercial",
+       "code": "COMMERCIAL",
+       "unitCost" : 30,
+       "isActive": true
+     },
+     {
+      "name": "Commercial",
+       "code": "NONRESIDENTIAL.OTHERS",
+       "unitCost" : 30,
+       "isActive": true
+     },
+   {
       "name": "Industrial",
       "code": "NONRESIDENTIAL.INDUSTRIAL",
       "unitCost" : 15,
       "isActive": true
     },
     {
-      "name": "Institutional",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "name": "Mixed",
+      "code": "MIXED",
       "unitCost" : 15,
       "isActive": true
     },
     {
-      "name": "Mixed",
-      "code": "MIXED",
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Other Non-Residential",
+      "code": "NONRESIDENTIAL.OTHERS",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Other Commercial Usage",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Other Commercial Usage",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "unitCost" : 15,
       "isActive": true
     }
