@@ -3,22 +3,52 @@
   "moduleName": "ws-services-calculation",
   "PropertyUsageType": [
     {
-      "name": "Residential",
-      "code": "RESIDENTIAL",
-      "unitCost" : 20,
-      "isActive": true
+      "code": "USAGE_DOM_NA",
+      "name": "DOMESTIC",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
     },
     {
-     "name": "Commercial",
-      "code": "NONRESIDENTIAL.COMMERCIAL",
-      "unitCost" : 30,
-      "isActive": true
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true
     },
     {
-      "name": "Industrial",
-      "code": "NONRESIDENTIAL.INDUSTRIAL",
-      "unitCost" : 15,
-      "isActive": true
+      "code": "USAGE_INDUSTRIAL_NA",
+      "name": "INDUSTRIAL",
+      "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INSTITUTIONAL_NA",
+      "name": "INSTITUTIONAL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_NA",
+      "name": "DOMESTIC",
+      "parentUsageType": "MIXED",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "MIXED",
+      "active": true
     }
   ]
 }
