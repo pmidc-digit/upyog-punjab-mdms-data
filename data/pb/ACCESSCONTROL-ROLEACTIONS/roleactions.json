@@ -506,6 +506,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 25821,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 635,
@@ -57476,6 +57482,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 23382,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 882448,
       "actioncode": "",
       "tenantId": "pb"
@@ -59821,6 +59833,60 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "STADMIN",
+      "actionid": 23241,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 23251,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23371,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 23381,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+        {
+      "rolecode": "WS_CLERK",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "NDC_ADMIN_ROLE",
       "actionid": 31000010,
       "actioncode": "",
@@ -59843,7 +59909,7 @@
       "actionid": 31000010,
       "actioncode": "",
       "tenantid": "pb"
-    },,
+    },
     {
       "rolecode": "NDC_ADMIN_ROLE",
       "actionid": 31000011,
@@ -59868,5 +59934,6 @@
       "actioncode": "",
       "tenantid": "pb"
     }
+
   ]
 }

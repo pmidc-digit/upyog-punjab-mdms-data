@@ -589,6 +589,11 @@
       "description": "For TL Card Display in Dashboard"
     },
     {
+      "code": "VIEW_NOC_CARD",
+      "name": "View NOC Card",
+      "description": "For NOC Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_PT_CARD",
       "name": "View PT Card",
       "description": "For PT Card Display in Dashboard"
@@ -672,6 +677,11 @@
       "code": "VIEW_GC_CARD",
       "name": "View GC Card",
       "description": "For GC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard"
     },
     {
       "code": "VIEW_COMMONPT_CARD",
