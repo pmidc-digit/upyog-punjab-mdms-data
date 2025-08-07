@@ -4,6 +4,27 @@
   "moduleName": "NOC",
   "Documents": [
     {
+      "code": "OWNER.OWNERPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERPHOTO.OWNERPHOTO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERVALIDID",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERVALIDID.OWNERVALIDID_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.AUTHORIZATIONLETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
+    },
+    {
       "code": "OWNER.OWNERSHIPPROOF",
       "documentType": "OWNER",
       "required": true,
