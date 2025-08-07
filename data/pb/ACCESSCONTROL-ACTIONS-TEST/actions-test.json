@@ -22732,6 +22732,24 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
+    },
+    {
+      "id": 23383,
+      "name": "UC_MY_CHALLANS",
+      "url": "digit-ui-card",
+      "displayName": "Rent And Lease",
+      "orderNumber": 1,
+      "parentModule": "RentAndLease",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/rentandlease/My-Challans",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/rentandlease-home"
     }
   ]
 }
