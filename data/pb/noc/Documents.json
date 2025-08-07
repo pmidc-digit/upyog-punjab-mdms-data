@@ -1,0 +1,57 @@
+
+{
+  "tenantId": "pb",
+  "moduleName": "NOC",
+  "Documents": [
+    {
+      "code": "OWNER.OWNERPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERPHOTO.OWNERPHOTO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERVALIDID",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERVALIDID.OWNERVALIDID_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.AUTHORIZATIONLETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERSHIPPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERSHIPPROOF.OWNERSHIPPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.DETAILEDLOCATIONPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.BUILDINGDRAWING",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.BUILDINGDRAWING.BUILDINGDRAWING_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.GOOGLEMARKEDSITE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+    }
+   
+  ]
+}
