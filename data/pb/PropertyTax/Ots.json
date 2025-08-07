@@ -9,10 +9,17 @@
        "startingDay": "01/03/2024"
      },
      { 
-    "isOTSEnabled": false,
-      "OTSEndDate": "30/09/2025",
+    "isOTSEnabled": true,
+      "OTSEndDate": "31/03/2023",
       "rate": 80,
        "startingDay": "01/04/2022"
+     },
+
+       { 
+    "isOTSEnabled": true,
+      "OTSEndDate": "31/03/2019",
+      "rate": 68,
+       "startingDay": "01/04/2018"
      }
   ]
   }
