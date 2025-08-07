@@ -760,7 +760,7 @@
       "idname": "advertisement.booking.id"
     },
     {
-      "format": "NDC-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
       "idname": "ndc.applicationid"
     },
     {
