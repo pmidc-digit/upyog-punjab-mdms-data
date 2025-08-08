@@ -22750,6 +22750,60 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/rentandlease-home"
+    },
+    {
+      "id": 23384,
+      "name": "NDC REPORTS",
+      "url": "/report/rainmaker-ndc/metadata/_get",
+      "displayName": "Get NDC Report Metadata",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": "NDC.NDC Reports.NDC Report MetaData"
+    },
+    {
+      "id": 23385,
+      "name": "NDC Report GET",
+      "url": "/report/rainmaker-ndc/_get",
+      "displayName": "Get NDC Report",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": "NDC.NDC Reports.NDC Reports"
+    },
+    {
+      "id": 23386,
+      "name": "Applicant Detail Report",
+      "url": "url",
+      "displayName": "Applicant Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "NDC.NDC-REPORTS.Applicant Detail Report",
+      "navigationURL": "report/rainmaker-ndc/ApplicantDetailReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23387,
+      "name": "CollectionsReport",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "NDC.NDC-REPORTS.Collection Report",
+      "navigationURL": "report/rainmaker-ndc/CollectionsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
