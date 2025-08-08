@@ -25,6 +25,20 @@
       "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
     },
     {
+      "code": "OWNER.SITEPHOTOGRAPHONE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTWO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+    },
+    {
       "code": "OWNER.OWNERSHIPPROOF",
       "documentType": "OWNER",
       "required": true,
