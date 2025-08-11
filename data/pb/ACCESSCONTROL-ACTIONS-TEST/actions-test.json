@@ -22841,6 +22841,24 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 883300,
+      "name": "NOC_NEW_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "New Application",
+      "orderNumber": 1,
+      "parentModule": "NOC",
+      "enabled": true,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/noc/new-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/noc-home"
     }
     
   ]
