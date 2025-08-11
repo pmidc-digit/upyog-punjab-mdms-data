@@ -16689,6 +16689,43 @@
       "navigationURL": "report/rainmaker-pt/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 23451601,
+      "name": "Ws Quaterly Bill Generate Report",
+      "url": "url",
+      "displayName": "Ws Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WSQuaterly_Bill_Generate",
+      "navigationURL": "report/rainmaker-ws/WSQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23451602,
+      "name": "Ws Quaterly Bill Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/metadata/_get",
+      "displayName": "Ws Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23451603,
+      "name": "Ws Quaterly Bill Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/_get",
+      "displayName": "Ws Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
