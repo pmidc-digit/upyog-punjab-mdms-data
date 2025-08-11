@@ -27,6 +27,30 @@
       "tenantid": "pb"
     },
     {
+      "rolecode": "NDC REPORTS",
+      "actionid": 23387,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC RPORTS",
+      "actionid": 23384,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 23385,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC Reports",
+      "actionid": 23386,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PDC",
       "actionid": 23451600,
       "actioncode": "",
@@ -57674,6 +57698,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 883300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 4032,
       "actioncode": "",
       "tenantId": "pb"
@@ -59941,20 +59971,272 @@
       "tenantid": "pb"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 23384,
+      "rolecode": "WS_CEMP",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 23388,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 23389,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WATER_REPORT_VIEWER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SEWERAGE_REPORT_VIEWER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 23390,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 23390,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 23385,
+      "actionid": 883321,
       "actioncode": "",
       "tenantId": "pb"
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 23386,
+      "actionid": 883322,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883323,
       "actioncode": "",
       "tenantId": "pb"
     }

@@ -760,7 +760,7 @@
       "idname": "advertisement.booking.id"
     },
     {
-      "format": "NDC-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
       "idname": "ndc.applicationid"
     },
     {
@@ -780,8 +780,8 @@
       "idname": "street-vending.certificate.no"
     },
     {
-      "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
-      "idname": "egov.idgen.asset.applicationNum"
+      "format": "PB-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+      "idname": "ptr.registrationid"
     }
   ]
 }
