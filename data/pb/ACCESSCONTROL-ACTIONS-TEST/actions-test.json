@@ -22750,6 +22750,39 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/rentandlease-home"
+    },
+    {
+      "id": 23384,
+      "name": "create advertisement  application",
+      "url": "/adv-services/booking/v1/_create",
+      "displayName": "create ads Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23385,
+      "name": "search advertisement  application",
+      "url": "/adv-services/booking/v1/_search",
+      "displayName": "search ads Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23386,
+      "name": "update advertisement  application",
+      "url": "/adv-services/booking/v1/_update",
+      "displayName": "update ads Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "adv-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }

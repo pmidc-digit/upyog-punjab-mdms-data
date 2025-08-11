@@ -506,7 +506,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 25821,
       "actioncode": "",
@@ -58999,178 +58999,178 @@
       "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4001,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_INITIATOR",
-        "actionid": 4001,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_VERIFIER",
-        "actionid": 4001,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4002,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_INITIATOR",
-        "actionid": 4002,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_VERIFIER",
-        "actionid": 4002,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_APPROVER",
       "actionid": 4003,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
+    },
+    {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 4003,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
+    },
+    {
       "rolecode": "ASSET_VERIFIER",
       "actionid": 4003,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4004,
-        "actioncode": "",
-        "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_INITIATOR",
-        "actionid": 4004,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_VERIFIER",
-        "actionid": 4004,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_INITIATOR",
-        "actionid": 4005,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_VERIFIER",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_INITIATOR",
+      "actionid": 4005,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 4006,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
+    },
+    {
       "rolecode": "ASSET_VERIFIER",
       "actionid": 4006,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4006,
-        "actioncode": "",
-        "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4006,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_INITIATOR",
       "actionid": 4007,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
+    },
+    {
       "rolecode": "ASSET_VERIFIER",
       "actionid": 4007,
       "actioncode": "",
       "tenantId": "pb"
-  },
-  {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4007,
-        "actioncode": "",
-        "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_ALLOCATOR",
-        "actionid": 4008,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4007,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_ALLOCATOR",
-        "actionid": 4009,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 4008,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4010,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_ALLOCATOR",
+      "actionid": 4009,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4011,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4010,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4012,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4011,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4013,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4012,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4014,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4013,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4015,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4014,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4016,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4015,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4017,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4016,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4017,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_INITIATOR",
@@ -59185,12 +59185,12 @@
       "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4018,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4018,
+      "actioncode": "",
+      "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "ASSET_ALLOCATOR",
       "actionid": 4018,
       "actioncode": "",
@@ -59209,34 +59209,34 @@
       "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4021,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4021,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4019,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4019,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4020,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4020,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4022,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4022,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4023,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4023,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_INITIATOR",
@@ -59251,46 +59251,46 @@
       "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4024,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4024,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4025,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4025,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4026,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4026,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4027,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4027,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4028,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4028,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4029,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4029,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4030,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4030,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "ASSET_INITIATOR",
@@ -59305,10 +59305,10 @@
       "tenantId": "pb"
     },
     {
-        "rolecode": "ASSET_APPROVER",
-        "actionid": 4031,
-        "actioncode": "",
-        "tenantId": "pb"
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 4031,
+      "actioncode": "",
+      "tenantId": "pb"
     },
     {
       "rolecode": "SVCEMP",
@@ -59454,13 +59454,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 4049,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CSR",
       "actionid": 4050,
       "actioncode": "",
@@ -59538,7 +59538,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CSR",
       "actionid": 4051,
       "actioncode": "",
@@ -59580,7 +59580,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CSR",
       "actionid": 4052,
       "actioncode": "",
@@ -59598,7 +59598,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 3005,
       "actioncode": "",
@@ -59622,7 +59622,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "INSPECTIONOFFICER",
       "actionid": 1755,
       "actioncode": "",
@@ -59640,7 +59640,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "INSPECTIONOFFICER",
       "actionid": 3005,
       "actioncode": "",
@@ -59658,7 +59658,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 1755,
       "actioncode": "",
@@ -59700,7 +59700,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CSR",
       "actionid": 1755,
       "actioncode": "",
@@ -59778,7 +59778,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "SVCEMP",
       "actionid": 1757,
       "actioncode": "",
@@ -59790,7 +59790,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "INSPECTIONOFFICER",
       "actionid": 1757,
       "actioncode": "",
@@ -59808,7 +59808,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 1757,
       "actioncode": "",
@@ -59832,7 +59832,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "INSPECTIONOFFICER",
       "actionid": 4036,
       "actioncode": "",
@@ -59862,7 +59862,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-        {
+    {
       "rolecode": "WS_CLERK",
       "actionid": 2820,
       "actioncode": "",
@@ -59939,7 +59939,24 @@
       "actionid": 31000011,
       "actioncode": "",
       "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 23384,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 23385,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 23386,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
   ]
 }
