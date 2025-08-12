@@ -782,6 +782,10 @@
     {
       "format": "PB-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
       "idname": "ptr.registrationid"
+    },
+    {
+      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ndc.receipt.id"
     }
   ]
 }
