@@ -27,15 +27,7 @@
       ]
     }
   },
-  "StakeholderRegistraition": {
-    "TradeTypetoRoleMapping": {
-      "masterName": "TradeTypetoRoleMapping",
-      "moduleDefinition": null,
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.tradeType"
-      ]
-    },
+  
   "ASSET": {
     "AssetCategory": {
       "masterName": "AssetCategory",
