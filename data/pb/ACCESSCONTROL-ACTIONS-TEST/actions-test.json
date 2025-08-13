@@ -15527,15 +15527,15 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.WSNew_Connection_Fee_Report",
-      "navigationURL": "report/rainmaker-ws/WSNew_Connection_Fee_Report",
+      "path": "w_s.WS Reports.SWNew_Connection_Fee_Report",
+      "navigationURL": "report/rainmaker-ws/SWNew_Connection_Fee_Report",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 2596,
       "name": "SW New Connection Fee Report",
-      "url": "/report/rainmaker-ws/WSNew_Connection_Fee_Report/metadata/_get",
+      "url": "/report/rainmaker-ws/SWNew_Connection_Fee_Report/metadata/_get",
       "displayName": "SW New Connection Fee Report",
       "orderNumber": 1,
       "enabled": true,
@@ -15546,7 +15546,7 @@
     {
       "id": 2597,
       "name": "SW New Connection Fee Report",
-      "url": "/report/rainmaker-ws/WSNew_Connection_Fee_Report/_get",
+      "url": "/report/rainmaker-ws/SWNew_Connection_Fee_Report/_get",
       "displayName": "SW New Connection Fee Report",
       "orderNumber": 1,
       "enabled": true,
