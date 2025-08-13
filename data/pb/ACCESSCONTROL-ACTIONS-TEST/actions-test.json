@@ -22870,6 +22870,18 @@
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 883324,
+      "name": "Employee Search",
+      "url": "/egov-hrms/employees/_searchV2",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
