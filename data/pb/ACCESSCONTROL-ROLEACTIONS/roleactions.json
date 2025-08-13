@@ -28545,16 +28545,20 @@
       "actionid": 2602,
       "actioncode": "",
       "tenantId": "pb"
-     
-    
     },
-	  {
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2602,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
+	{
       "rolecode": "ESEWAEMP",
       "actionid": 1685,
       "actioncode": "",
       "tenantId": "pb"
     },
- {
+    {
       "rolecode": "ESEWAEMP",
       "actionid": 1686,
       "actioncode": "",
