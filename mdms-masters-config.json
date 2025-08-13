@@ -1,4 +1,13 @@
 {
+  "StakeholderRegistraition": {
+    "TradeTypetoRoleMapping": {
+      "masterName": "aTradeTypetoRoleMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.tradeType"
+      ]
+    }
+  },
   "ACCESSCONTROL-ACTIONS-TEST": {
     "actions-test": {
       "masterName": "actions-test",
@@ -27,6 +36,7 @@
       ]
     }
   },
+  
   "ASSET": {
     "AssetCategory": {
       "masterName": "AssetCategory",
