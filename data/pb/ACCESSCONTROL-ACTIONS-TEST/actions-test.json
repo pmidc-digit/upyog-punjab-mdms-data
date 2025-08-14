@@ -22751,21 +22751,31 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/rentandlease-home"
     },
-
     {
       "id": 23385,
-      "name": "NDC Report GET",
-      "url": "/report/rainmaker-ndc/_get",
-      "displayName": "Get NDC Report",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
+      "name": "NDC Reports",
+      "url": "/report/rainmaker-pt/_get",
+      "displayName": "NDC Reports",
+      "orderNumber": 0,
+      "enabled": true,
       "serviceCode": "NDCREPORTS",
       "code": "null",
-      "path": "NDC.NDC Reports.NDC Reports"
+      "path": "NDC Reports"
     },
     {
       "id": 23386,
+      "name": "NDC Reports",
+      "url": "/report/rainmaker-ndc/metadata/_get",
+      "displayName": "NDC Reports",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": "NDC Reports"
+    },
+    {
+      "id": 23387,
       "name": "Applicant Detail Report",
       "url": "url",
       "displayName": "Applicant Detail Report",
@@ -22780,7 +22790,7 @@
       "rightIcon": ""
     },
     {
-      "id": 23387,
+      "id": 23390,
       "name": "CollectionsReport",
       "url": "url",
       "displayName": "Collections Report",
