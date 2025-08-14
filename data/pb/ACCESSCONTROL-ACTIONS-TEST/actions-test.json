@@ -22754,15 +22754,15 @@
 
     {
       "id": 23385,
-      "name": "NDC Report GET",
-      "url": "/report/rainmaker-ndc/_get",
-      "displayName": "Get NDC Report",
+      "name": "NDC Report",
+      "url": "/report/rainmaker-ndc/metadata/_get",
+      "displayName": "NDC Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NDCREPORTS",
       "code": "null",
-      "path": "NDC.NDC Reports.NDC Reports"
+      "path": "NDC.NDC Reports"
     },
     {
       "id": 23386,
