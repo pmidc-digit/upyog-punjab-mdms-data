@@ -13,14 +13,14 @@
     {
       "code": "OWNER.SANCTIONPLANPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.SANCTIONPLANPROOF.SANCTIONPLANPROOF_DESCRIPTION"
     },
     {
       "code": "OWNER.LASTWATERTAXRECEIPT",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.LASTWATERTAXRECEIPT.LASTWATERTAXRECEIPT_DESCRIPTION"
     },
@@ -30,6 +30,13 @@
       "required": true,
       "active": true,
       "description": "OWNER.LASTPROPERTYTAXRECEIPT.LASTPROPERTYTAXRECEIPT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.LASTTRADELICENSERECEIPT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.LASTTRADELICENSERECEIPT.LASTTRADELICENSERECEIPT_DESCRIPTION"
     },
     {
       "code": "OWNER.IDENTITYPROOF",
