@@ -5,22 +5,26 @@
     {
       "name": "B-Arch",
       "code": "B_ARCH",
-      "active": true
+      "active": true,
+      "role": "ARCHITECT"
     },
     {
       "name": "BE/B-Tech",
       "code": "BE",
-      "active": true
+      "active": true,
+      "role": "ENGINEER"
     },
     {
       "name": "Diploma in Civil Engineering/Architect",
       "code": "DIPLOMA",
-      "active": true
+      "active": true,
+      "role": "SUPERVISOR"
     },
     {
       "name": "Town and Country Planning",
       "code": "Town_and_Country_Planner",
-      "active": true
+      "active": true,
+      "role": "TOWNPLANNER"
     }
   ]
 }

@@ -772,6 +772,11 @@
       "code": "INSPECTIONOFFICER",
       "name": "Inspection Officer",
       "description": "Inspection Officer who will visit"
+    },
+    {
+      "code": "VIEW_BPA_STAKEHOLDER_CARD",
+      "name": "VIEW BPA Stakeholder Card",
+      "description": "For Stakeholder Card Display in Dashboard"
     }
   ]
 }
