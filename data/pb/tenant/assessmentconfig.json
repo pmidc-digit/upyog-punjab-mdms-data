@@ -4343,7 +4343,13 @@
     },
     {
       "tenant": "pb.phagwara",
-       "enabled": true,
+       "enabled": false,
+      "financialyear": "2024-25",
+      "isRented": true
+    },
+	{
+      "tenant": "pb.anandpursahib",
+      "enabled": true,
       "financialyear": "2024-25",
       "isRented": true
     }
