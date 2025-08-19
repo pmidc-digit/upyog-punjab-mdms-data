@@ -3,6 +3,36 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "Testing",
+      "actionid": 883325,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "Testing",
+      "actionid": 883326,
+      "actioncode": "",
+      "tenantId": "pb"
+    },   
+	{
+      "rolecode": "Testing",
+      "actionid": 883327,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "Testing",
+      "actionid": 883328,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "Testing",
+      "actionid": 883329,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "RO",
       "actionid": 429,
       "actioncode": "",
