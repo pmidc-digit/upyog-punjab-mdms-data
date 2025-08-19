@@ -30,8 +30,10 @@
           "charge": 918,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
-        },
-       {
+        }
+	  ]
+	}, 
+    {
       "id": "2",
       "buildingType": "COMMERCIAL",
       "waterSubUsageType": "USAGE_COMM_NA",
@@ -252,10 +254,8 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
-       ]
-      }
-     ]
+      ]
     }
-   ]
-  }
+  ]
+}
 

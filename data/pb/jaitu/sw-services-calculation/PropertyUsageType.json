@@ -2,7 +2,7 @@
   "tenantId": "pb.jaitu",
   "moduleName": "sw-services-calculation",
   "PropertyUsageType": [
-    {
+        {
       "name": "Residential",
       "code": "RESIDENTIAL",
       "unitCost" : 20,
