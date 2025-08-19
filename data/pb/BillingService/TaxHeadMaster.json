@@ -7203,6 +7203,26 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "OTHER",
+      "code": "WS_OTHER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application other charge fee",
+      "order": "14",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "OTHER",
+      "code": "SW_OTHER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application other charge fee",
+      "order": "14",
+      "service": "SW.ONE_TIME_FEE"
     }
   ]
 }
