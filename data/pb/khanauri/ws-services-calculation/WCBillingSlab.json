@@ -125,7 +125,99 @@
                "effectiveTo":1774929282000
             }
          ]
-      }
-     
+      },
+      {
+         "id":"5",
+         "buildingType":"MIXED",
+         "waterSubUsageType": "USAGE_DOM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":125.00,
+               "charge":0,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":125.01,
+               "to":250.00,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":250.00,
+               "to":1000000000.00,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"6",
+         "buildingType":"MIXED",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":125.00,
+               "charge":900,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":125.01,
+               "to":250.00,
+               "charge":930,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":250.01,
+               "to":1000000000.00,
+               "charge":1200,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"7",
+         "buildingType":"OTHERS",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":125.00,
+               "charge":900,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":125.01,
+               "to":250.00,
+               "charge":930,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":250.01,
+               "to":1000000000.00,
+               "charge":1200,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      } 
    ]
 }

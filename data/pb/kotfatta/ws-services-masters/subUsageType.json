@@ -2,6 +2,7 @@
   "tenantId": "pb.kotfatta",
   "moduleName": "ws-services-masters",
   "subUsageType": [
+    
     {
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
@@ -30,6 +31,18 @@
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
       "parentUsageType": "MIXED",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     },
     {
