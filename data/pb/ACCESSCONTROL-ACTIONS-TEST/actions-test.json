@@ -16689,6 +16689,80 @@
       "navigationURL": "report/rainmaker-pt/PT_Invalid_Defaulters",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 3001,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "url",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WSQuaterly_Bill_Not_Generate",
+      "navigationURL": "report/rainmaker-ws/WSQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3002,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Not_Generate/metadata/_get",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3003,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Not_Generate/_get",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3004,
+      "name": "Sw Quarterly Bill Not Generate Report",
+      "url": "url",
+      "displayName": "Sw Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.SWQuaterly_Bill_Not_Generate",
+      "navigationURL": "report/rainmaker-ws/SWQuaterly_Bill_Not_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3005,
+      "name": "Sw Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/SWQuaterly_Bill_Not_Generate/metadata/_get",
+      "displayName": "Sw Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3006,
+      "name": "Sw Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/SWQuaterly_Bill_Not_Generate/_get",
+      "displayName": "Sw Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }    
   ]
 }
