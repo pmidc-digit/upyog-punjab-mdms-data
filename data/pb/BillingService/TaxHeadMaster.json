@@ -7205,7 +7205,7 @@
       "isRequired": false
     },
     {
-      "category": "OTHER",
+      "category": "FEE",
       "code": "WS_OTHER_CHARGE",
       "isActualDemand": true,
       "isDebit": false,
@@ -7215,7 +7215,7 @@
       "service": "WS.ONE_TIME_FEE"
     },
     {
-      "category": "OTHER",
+      "category": "FEE",
       "code": "SW_OTHER_CHARGE",
       "isActualDemand": true,
       "isDebit": false,
