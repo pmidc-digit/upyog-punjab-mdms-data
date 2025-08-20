@@ -119,6 +119,20 @@
       ]
     },
     {
+      "code": "NDC",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "ndc-receipt",
+      "billKey": "consolidatedbill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/ndc-home",
+          "employeeUrl": "/ndc/inbox"
+        }
+      ]
+    },
+    {
       "code": "WS",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "ws-onetime-receipt",
