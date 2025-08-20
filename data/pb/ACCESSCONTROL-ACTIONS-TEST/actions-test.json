@@ -23031,6 +23031,43 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 883330,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "url",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.WSQuaterly_Bill_Not_Generate",
+      "navigationURL": "/report/rainmaker-ws/WSQuaterly_Bill_Not_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 883331,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Not_Generate/metadata/_get",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883332,
+      "name": "Ws Quarterly Bill Not Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Not_Generate/_get",
+      "displayName": "Ws Quarterly Bill Not Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }	  
   ]
 }
