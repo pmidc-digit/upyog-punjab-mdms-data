@@ -22802,7 +22802,7 @@
     {
       "id": 23392,
       "name": "Applicant Detail Report",
-      "url": "/report/rainmaker-at/ApplicantDetailReport/_get",
+      "url": "/report/rainmaker-ndc/ApplicantDetailReport/_get",
       "displayName": "Applicant Detail Report",
       "orderNumber": 1,
       "enabled": true,
@@ -22839,7 +22839,7 @@
     {
       "id": 23394,
       "name": "Collections Report",
-      "url": "/report/rainmaker-at/CollectionsReport/_get",
+      "url": "/report/rainmaker-ndc/CollectionsReport/_get",
       "displayName": "Collections Report",
       "orderNumber": 1,
       "enabled": true,
