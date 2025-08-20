@@ -8,6 +8,11 @@
       "description": "Citizen who can raise complaint"
     },
     {
+      "code": "NDC REPORTS",
+      "name": "NDC REPORTS",
+      "description": "Access to all NDC Reports"
+    },
+    {
       "code": "PESCO",
       "name": "PESCO",
       "description": "Citizen who can raise complaint"
@@ -684,6 +689,11 @@
       "description": "For Challan Generation Card Display in Dashboard"
     },
     {
+      "code": "VIEW_RENTANDLEASE_CARD",
+      "name": "View Rent And Lease Card",
+      "description": "For Rent and Lease Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_COMMONPT_CARD",
       "name": "View CommonPT Card",
       "description": "For CommonPT Card Display in Dashboard"
@@ -762,6 +772,16 @@
       "code": "INSPECTIONOFFICER",
       "name": "Inspection Officer",
       "description": "Inspection Officer who will visit"
+    },
+    {
+      "code": "VIEW_BPA_STAKEHOLDER_CARD",
+      "name": "VIEW BPA Stakeholder Card",
+      "description": "For Stakeholder Card Display in Dashboard"
+    },
+    {
+      "code": "Testing",
+      "name": "Testing",
+      "description": "For testing purpose"
     },
     {
       "code": "NDCCEMP",

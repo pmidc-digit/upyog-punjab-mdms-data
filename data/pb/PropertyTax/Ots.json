@@ -4,15 +4,22 @@
   "Ots": [ 
  { 
     "isOTSEnabled": true,
-      "OTSEndDate": "30/09/2025",
+      "OTSEndDate": "30/09/2027",
       "rate": 50,
-       "startingDay": "01/04/2023"
+       "startingDay": "01/03/2024"
      },
      { 
-    "isOTSEnabled": false,
-      "OTSEndDate": "30/09/2025",
+    "isOTSEnabled": true,
+      "OTSEndDate": "01/10/2021",
       "rate": 80,
-       "startingDay": "01/04/2022"
+       "startingDay": "31/07/2021"
+     },
+
+       { 
+    "isOTSEnabled": true,
+      "OTSEndDate": "31/05/2018",
+      "rate": 68,
+       "startingDay": "01/04/2018"
      }
   ]
   }
