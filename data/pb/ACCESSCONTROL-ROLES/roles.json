@@ -782,6 +782,16 @@
       "code": "Testing",
       "name": "Testing",
       "description": "For testing purpose"
+    },
+    {
+      "code": "NDCCEMP",
+      "name": "NDC Counter Employee",
+      "description": "NDC Counter Employee"
+    },
+    {
+      "code": "NDC_REC_CANCEL",
+      "name": "NDC Receipt Cancellation",
+      "description": "Allowed to Cancel NDC Receipts"
     }
   ]
 }

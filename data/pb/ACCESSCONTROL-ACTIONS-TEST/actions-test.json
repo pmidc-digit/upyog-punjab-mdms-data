@@ -22809,7 +22809,7 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
-    },	  
+    },
     {
       "id": 23390,
       "name": "Collections Report",
@@ -23068,6 +23068,18 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 31000012,
+      "name": "NDC Payment search",
+      "url": "/collection-services/payments/NDC/_search",
+      "displayName": "NDC Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

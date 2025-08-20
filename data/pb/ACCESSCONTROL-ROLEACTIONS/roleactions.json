@@ -13,7 +13,7 @@
       "actionid": 883326,
       "actioncode": "",
       "tenantId": "pb"
-    },   
+    },
 	{
       "rolecode": "Testing",
       "actionid": 883327,
@@ -73,7 +73,7 @@
       "actionid": 23393,
       "actioncode": "",
       "tenantId": "pb"
-    }, 
+    },
 	{
       "rolecode": "NDC REPORTS",
       "actionid": 23394,
@@ -60965,6 +60965,43 @@
       "actionid": 883332,
       "actioncode": "",
       "tenantId": "pb"
-    }        	  
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_REC_CANCEL",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantid": "pb"
+    }
+
   ]
 }
