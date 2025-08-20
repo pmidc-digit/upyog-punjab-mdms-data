@@ -22732,6 +22732,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
+    },
+    {
+      "id": 31000012,
+      "name": "NDC Payment search",
+      "url": "/collection-services/payments/NDC/_search",
+      "displayName": "NDC Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
