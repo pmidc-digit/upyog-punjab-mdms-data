@@ -792,6 +792,12 @@
       "code": "NDC_REC_CANCEL",
       "name": "NDC Receipt Cancellation",
       "description": "Allowed to Cancel NDC Receipts"
-    }
+    },
+	{
+	  "code": "ATP_APPROVER",
+	  "name": "BPAREG ATP Approver",
+	  "description": "BPA Stakeholder workflow ATP Approver"
+	}
+	
   ]
 }
