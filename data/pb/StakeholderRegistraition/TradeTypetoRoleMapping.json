@@ -143,7 +143,7 @@
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 500,
+      "applicationFee": 0,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -192,7 +192,7 @@
       "tradeType": "ENGINEER.CLASSB",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 500,
+      "applicationFee": 0,
       "docTypes": null
     },
     {
@@ -329,7 +329,7 @@
       "role": ["BPA_SUPERVISOR"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 500,
+      "applicationFee": 0,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
