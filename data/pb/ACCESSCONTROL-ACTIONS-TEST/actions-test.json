@@ -23080,6 +23080,43 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 883333,
+      "name": "Zone Wise Collection Summary",
+      "url": "url",
+      "displayName": "Zone Wise Collection Summary",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Zone_wise_Collection_Summary",
+      "navigationURL": "/report/rainmaker-ws/Zone_wise_Collection_Summary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 883334,
+      "name": "Zone Wise Collection Summary",
+      "url": "/report/rainmaker-ws/Zone_wise_Collection_Summary/metadata/_get",
+      "displayName": "Zone Wise Collection Summary",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883335,
+      "name": "Zone Wise Collection Summary",
+      "url": "/report/rainmaker-ws/Zone_wise_Collection_Summary/_get",
+      "displayName": "Zone Wise Collection Summary",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
