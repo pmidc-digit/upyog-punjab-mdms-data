@@ -9,82 +9,112 @@
       "WFState": "INPROGRESS",
       "docTypes": [
         {
-          "code": "BPD.SITP",
+          "code": "OWNERSHIP_DOCUMENT_FARD_JAMABANDI_REGISTERED_DEED_POA",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "OWNERSHIP.DOCUMENT",
+          "code": "DETAILED_LOCATION_PLAN",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "SITEPHOTOGRAPH.ONE",
+          "code": "OWNER_SIGNED_UNDERTAKING",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "OWNER.LASTPROPERTYTAX",
+          "code": "FIRM_DOCUMENTS_IF_ANY",
           "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "OWNER.OTHERNOC",
+          "code": "IMPROVEMENT_TRUST_SCHEME_NOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "code": "INDEMNITY_BOND_FOR_BASEMENT",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "INDEMNITY.BONDFORBASEMENT",
+          "code": "STRUCTURE_STABILITY_SAFETY_CERTIFICATE",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "AIRPORTAUTHORITY.NOC",
+          "code": "STRUCTURE_DRAWINGS",
           "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "ARCHITECT.UNDERTAKING",
+          "code": "SELF_DECLARATION_CATEGORY_OF_INDUSTRY",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "CITIZEN.UNDERTAKING",
+          "code": "NOC_NEIGHBOURING_PLOT_BUILDING_BASEMENT",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPA.ISN",
+          "code": "NOC_FIRE_DEPARTMENT",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPA.NHAI",
+          "code": "NOC_NHAI_PWD",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPA.NFD",
+          "code": "NOC_AIRPORT_AUTHORITY",
           "required": false,
           "allow": true,
           "order": 13
+        },
+        {
+          "code": "NOC_GAS_AUTHORITY_OF_INDIA",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "ANY_OTHER_NOC",
+          "required": false,
+          "allow": true,
+          "order": 15
+        },
+        {
+          "code": "ANY_OTHER_SUPPORTING_DOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 16
+        },
+        {
+          "code": "LAST_PROPERTY_TAX",
+          "required": false,
+          "allow": true,
+          "order": 17
+        },
+        {
+          "code": "SITEPHOTOGRAPH_ONE",
+          "required": true,
+          "allow": true,
+          "order": 18
         }
       ]
     },
@@ -349,7 +379,7 @@
           "required": false,
           "allow": true,
           "order": 214
-        }       
+        }
       ]
     },
     {
