@@ -16573,7 +16573,7 @@
     },
     {
       "id": 1216,
-      "name": "seweragePendingSlaApplicationsState",
+      "name": "Sewerage Pending Sla Applications State",
       "url": "url",
       "displayName": "Sewerage Pending Sla Applications State",
       "orderNumber": 1,
@@ -16581,14 +16581,14 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Sewerage Pending Sla Applications State",
+      "path": "w_s.WS Reports.seweragePendingSlaApplicationsState",
       "navigationURL": "report/rainmaker-ws/seweragePendingSlaApplicationsState",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 1217,
-      "name": "seweragePendingSlaApplicationsState",
+      "name": "Sewerage Pending Sla Applications State",
       "url": "/report/rainmaker-ws/seweragePendingSlaApplicationsState/metadata/_get",
       "displayName": "Sewerage Pending Sla Applications State",
       "orderNumber": 1,
@@ -16599,7 +16599,7 @@
     },
     {
       "id": 1218,
-      "name": "seweragePendingSlaApplicationsState",
+      "name": "Sewerage Pending Sla Applications State",
       "url": "/report/rainmaker-ws/seweragePendingSlaApplicationsState/_get",
       "displayName": "Sewerage Pending Sla Applications State",
       "orderNumber": 1,
@@ -16610,7 +16610,7 @@
     },
     {
       "id": 1219,
-      "name": "waterPendingSlaApplicationsState",
+      "name": "Water Pending Sla Applications State",
       "url": "url",
       "displayName": "Water Pending Sla Applications State",
       "orderNumber": 1,
@@ -16618,14 +16618,14 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.Water Pending Sla Applications State",
+      "path": "w_s.WS Reports.waterPendingSlaApplicationsState",
       "navigationURL": "report/rainmaker-ws/waterPendingSlaApplicationsState",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 1220,
-      "name": "waterPendingSlaApplicationsState",
+      "name": "Water Pending Sla Applications State",
       "url": "/report/rainmaker-ws/waterPendingSlaApplicationsState/metadata/_get",
       "displayName": "Water Pending Sla Applications State",
       "orderNumber": 1,
@@ -16636,7 +16636,7 @@
     },
     {
       "id": 1222,
-      "name": "waterPendingSlaApplicationsState",
+      "name": "Water Pending Sla Applications State",
       "url": "/report/rainmaker-ws/waterPendingSlaApplicationsState/_get",
       "displayName": "Water Pending Sla Applications State",
       "orderNumber": 1,
