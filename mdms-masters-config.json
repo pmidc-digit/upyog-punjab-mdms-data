@@ -1,4 +1,16 @@
 {
+	"BPA": {
+	  "CalculationType": {
+	    "masterName": "CalculationType",
+	    "isStateLevel": true,
+	    "uniqueKeys": [
+	       "$.applicationType",
+	        "$.serviceType",
+	        "$.riskType",
+	        "$.feeType"
+	    ]
+	  }
+	},
   "StakeholderRegistraition": {
     "TradeTypetoRoleMapping": {
       "masterName": "aTradeTypetoRoleMapping",
