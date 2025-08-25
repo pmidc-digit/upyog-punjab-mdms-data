@@ -1,4 +1,15 @@
 {
+	"PetService": {
+		  "CalculationType": {
+		    "masterName": "CalculationType",
+		    "isStateLevel": true,
+		    "uniqueKeys": [
+		       "$.applicationType",
+		        "$.serviceType",
+		        "$.feeType"
+		    ]
+		  }
+		},
 	"BPA": {
 	  "CalculationType": {
 	    "masterName": "CalculationType",
