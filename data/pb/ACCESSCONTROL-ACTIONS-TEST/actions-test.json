@@ -16111,6 +16111,25 @@
         
       },
       {
+      "id": 890052,
+      "name": "View Attendence",
+      "url": "digit-ui-card",
+      "displayName": "View Attendence",
+      "orderNumber": 3,
+      "enabled": true,
+      "parentModule": "Swach",
+      "enabled": true,
+      "serviceCode": "Swach",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/swach/ViewAttendence",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/swach-home"
+    },
+      {
       "id": 2621,
       "name": "water Pending Sla Applications",
       "url": "url",
