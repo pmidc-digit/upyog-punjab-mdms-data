@@ -5,7 +5,7 @@
     {
       "code": "pb.adampur",
       "name": "Adampur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ahmedgarh",
@@ -41,6 +41,16 @@
       "code": "pb.amritsar",
       "name": "Amritsar",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.ropar",
+      "name": "Ropar",
+      "isautodemand": "true"
+    },
+    {
+      "code": "pb.derabassi",
+      "name": "Derabassi",
+      "isautodemand": "true"
     },
     {
       "code": "pb.anandpursahib",
@@ -100,7 +110,7 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhadaur",
@@ -120,7 +130,7 @@
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhikhiwind",
@@ -130,7 +140,7 @@
     {
       "code": "pb.bhogpur",
       "name": "Bhogpur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhuchomandi",
@@ -140,7 +150,7 @@
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.boha",
@@ -165,7 +175,7 @@
     {
       "code": "pb.dirba",
       "name": "Dirba",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.doraha",
@@ -240,7 +250,7 @@
     {
       "code": "pb.lehragaga",
       "name": "Lehragaga",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.machhiwara",
@@ -280,7 +290,7 @@
     {
       "code": "pb.nangal",
       "name": "Nangal",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.nihalsinghwala",
