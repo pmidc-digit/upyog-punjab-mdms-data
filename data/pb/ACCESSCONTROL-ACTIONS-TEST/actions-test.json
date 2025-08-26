@@ -23117,6 +23117,43 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 883336,
+      "name": "Dead/Dameged Meter Report",
+      "url": "url",
+      "displayName": "Dead/Dameged Meter Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.DeadMeterReport",
+      "navigationURL": "/report/rainmaker-ws/DeadMeterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 883337,
+      "name": "Dead/Dameged Meter Report",
+      "url": "/report/rainmaker-ws/DeadMeterReport/metadata/_get",
+      "displayName": "Dead/Dameged Meter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883338,
+      "name": "Dead/Dameged Meter Report",
+      "url": "/report/rainmaker-ws/DeadMeterReport/_get",
+      "displayName": "Dead/Dameged Meter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }	  
   ]
 }
