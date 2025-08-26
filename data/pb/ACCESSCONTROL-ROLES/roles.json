@@ -812,7 +812,16 @@
       "code": "PET_DOC_APPROVER",
       "name": "Pet Application Approver",
       "description": "Access to PTR"
+    },
+    {
+      "code": "ADV_VERIFIER",
+      "name": "Advertisement Verifier",
+      "description": "Employee who verifies Advertisement applications"
+    },
+    {
+      "code": "ADV_APPROVER",
+      "name": "Advertisement Approver",
+      "description": "Employee who approves Advertisement applications"
     }
-	
   ]
 }

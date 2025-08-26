@@ -16847,7 +16847,7 @@
       "url": "/pet-services/pet-registration/_create",
       "displayName": "Create Pet Registration Application",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pet-services",
       "code": "null",
       "path": ""
@@ -16858,7 +16858,7 @@
       "url": "/pet-services/pet-registration/_update",
       "displayName": "Update Pet Application",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pet-services",
       "code": "null",
       "path": ""
@@ -16869,7 +16869,7 @@
       "url": "/pet-services/pet-registration/_search",
       "displayName": "Search Pet Application",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pet-services",
       "code": "null",
       "path": ""
@@ -22897,7 +22897,7 @@
       "url": "/adv-services/booking/v1/_create",
       "displayName": "create ads Application",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
@@ -22908,7 +22908,7 @@
       "url": "/adv-services/booking/v1/_search",
       "displayName": "search ads Application",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
@@ -22919,7 +22919,7 @@
       "url": "/adv-services/booking/v1/_update",
       "displayName": "update ads Application",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "adv-services",
       "code": "null",
       "path": ""
