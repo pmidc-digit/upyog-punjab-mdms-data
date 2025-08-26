@@ -61351,24 +61351,14 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 883321,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "ADV_EMPLOYEE",
       "actionid": 883321,
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 883323,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "ADV_EMPLOYEE",
       "actionid": 883323,
@@ -61387,12 +61377,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 883322,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "ADV_EMPLOYEE",
       "actionid": 883322,
@@ -61661,6 +61646,6 @@
       "actionid": 883338,
       "actioncode": "",
       "tenantId": "pb"
-    }    
+    }
   ]
 }
