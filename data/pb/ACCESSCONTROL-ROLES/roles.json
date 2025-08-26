@@ -822,6 +822,11 @@
       "code": "ADV_APPROVER",
       "name": "Advertisement Approver",
       "description": "Employee who approves Advertisement applications"
+    },
+    {
+      "code": "ADV_EMPLOYEE",
+      "name": "Advertisement Employee",
+      "description": "Advertisement Employee"
     }
   ]
 }
