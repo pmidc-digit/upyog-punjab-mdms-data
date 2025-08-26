@@ -809,8 +809,13 @@
       "description": "Access to PTR"
     },
     {
-      "code": "PET_DOC_APPROVER",
+      "code": "PET_APPROVER",
       "name": "Pet Application Approver",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_COLLECTOR",
+      "name": "Pet Payment Collector",
       "description": "Access to PTR"
     },
     {
