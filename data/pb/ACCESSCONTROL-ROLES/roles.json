@@ -797,7 +797,22 @@
 	  "code": "ATP_APPROVER",
 	  "name": "BPAREG ATP Approver",
 	  "description": "BPA Stakeholder workflow ATP Approver"
-	}
+	},
+    {
+      "code": "PET_REG_EMPLOYEE",
+      "name": "Pet Registration Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_DOC_VERIFIER",
+      "name": "Pet Document Verifier",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_DOC_APPROVER",
+      "name": "Pet Application Approver",
+      "description": "Access to PTR"
+    }
 	
   ]
 }

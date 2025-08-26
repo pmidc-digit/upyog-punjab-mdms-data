@@ -61289,6 +61289,55 @@
       "actionid": 883335,
       "actioncode": "",
       "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2610,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 2608,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYE",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYE",
+      "actionid": 2610,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_DOC_VERIFIER",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_DOC_APPROVER",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
