@@ -31,6 +31,23 @@
           "code": "OLD_BUILT_UP_AREA",
           "active": true
         }
+      ],
+      "schemeType":[
+        {
+          "name": "Affordable",
+          "code": "AFFORDABLE",
+          "active": true
+        },
+        {
+          "name": "Residential",
+          "code": "RESIDENTIAL",
+          "active": true
+        },
+        {
+          "name": "Commercial",
+          "code": "COMMERCIAL",
+          "active": true
+        }
       ]
     }
   ]
