@@ -23154,6 +23154,28 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 883339,
+      "name": "create noc application",
+      "url": "/noc-services/v1/noc/_create",
+      "displayName": "create noc application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883340,
+      "name": "update noc application",
+      "url": "/noc-services/v1/noc/_update",
+      "displayName": "update noc application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    }   
   ]
 }
