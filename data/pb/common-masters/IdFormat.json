@@ -786,6 +786,11 @@
     {
       "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "ndc.receipt.id"
+    },
+    {
+      "format": "PB-NOC-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APPLICATION]",
+      "idname": "noc.application.number"
     }
+
   ]
 }
