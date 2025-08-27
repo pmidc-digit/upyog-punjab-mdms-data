@@ -20,7 +20,7 @@
     {
       "code": "OWNER.AUTHORIZATIONLETTER",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
     },
