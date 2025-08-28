@@ -4,9 +4,7 @@
 		    "masterName": "CalculationType",
 		    "isStateLevel": true,
 		    "uniqueKeys": [
-		       "$.applicationType",
-		        "$.serviceType",
-		        "$.feeType"
+		       "$.applicationType"
 		    ]
 		  }
 		},
