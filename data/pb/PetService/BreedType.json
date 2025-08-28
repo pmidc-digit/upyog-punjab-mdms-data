@@ -6,42 +6,46 @@
       "name": "Labrador Retriever",
       "code": "LABRADOR_RETRIEVER",
       "active": true,
-      "PetType": "DOG",
-      "amount": 500
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
     },
     {
       "name": "German Shepherd",
       "code": "GERMAN_SHEPHARD",
       "active": true,
-      "PetType": "DOG",
-      "amount": 500
+      "petType": "DOG",
+      "newapplication": 50,
+      "renewapplication": 30,
+      "feeType": "PET_REGISTRATION_FEE"
     },
     {
       "name": "Golden Retriever",
       "code": "GOLDEN_RETRIEVER",
       "active": true,
-      "PetType": "DOG",
+      "petType": "DOG",
       "amount": 500
     },
     {
       "name": "Indian Billi",
       "code": "INDIAN_BILLI",
       "active": true,
-      "PetType": "CAT",
+      "petType": "CAT",
       "amount": 500
     },
     {
       "name": "Bengal Cat",
       "code": "BENGAL_CAT",
       "active": true,
-      "PetType": "CAT",
+      "petType": "CAT",
       "amount": 500
     },
     {
       "name": "Bombay Cat",
       "code": "BOMBAY_CAT",
       "active": true,
-      "PetType": "CAT",
+      "petType": "CAT",
       "amount": 500
     }
   ]
