@@ -30,7 +30,7 @@
     {
       "code": "pb.amargarh",
       "name": "Amargarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.amloh",
@@ -65,7 +65,7 @@
     {
       "code": "pb.badhnikalan",
       "name": "Badhni Kalan",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.balachaur",
@@ -120,7 +120,7 @@
     {
       "code": "pb.bhadson",
       "name": "Bhadson",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhawanigarh",
@@ -190,7 +190,7 @@
     {
       "code": "pb.ghagga",
       "name": "Ghagga",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.hariana",
@@ -230,7 +230,7 @@
     {
       "code": "pb.kartarpur",
       "name": "Kartarpur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.khamano",
@@ -250,7 +250,7 @@
     {
       "code": "pb.lehragaga",
       "name": "Lehragaga",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.machhiwara",
@@ -270,7 +270,7 @@
     {
       "code": "pb.moga",
       "name": "Moga",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.morinda",
@@ -280,7 +280,7 @@
     {
       "code": "pb.mudki",
       "name": "Mudki",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.nadala",
@@ -300,7 +300,7 @@
     {
       "code": "pb.patiala",
       "name": "Patiala",
-          "isautodemand": "true"
+          "isautodemand": "false"
     },
     {
       "code": "pb.quadian",
@@ -350,12 +350,12 @@
     {
       "code": "pb.srihargobindpur",
       "name": "Srihargobindpur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.sujanpur",
       "name": "Sujanpur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.sultanpurlodhi",
