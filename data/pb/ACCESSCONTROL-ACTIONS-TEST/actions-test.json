@@ -22846,6 +22846,43 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },,
+    {
+      "id": 23395,
+      "name": "SLA Report",
+      "url": "url",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "NDC Reports.SLA Report",
+      "navigationURL": "report/rainmaker-ndc/SLAReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 23396,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-ndc/SLAReport/metadata/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 23397,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-ndc/SLAReport/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 23388,
