@@ -9,12 +9,17 @@
     },
     {
       "name": "Regularized Connection",
-     "code": "REGULARIZED",
+      "code": "REGULARIZED",
       "active": true
     },
     {
       "name": "General",
       "code": "GEN",
+      "active": true
+    },
+    {
+      "name": "Legacy Connection",
+      "code": "LEGACY",
       "active": true
     },
     {
