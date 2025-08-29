@@ -190,7 +190,7 @@
     {
       "code": "pb.ghagga",
       "name": "Ghagga",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.hariana",
@@ -255,7 +255,7 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mahilpur",
@@ -265,7 +265,7 @@
     {
       "code": "pb.mamdot",
       "name": "Mamdot",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.moga",
@@ -315,7 +315,7 @@
     {
       "code": "pb.ramdass",
       "name": "Ramdass",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.rampuraphul",
@@ -377,6 +377,13 @@
       "name": "Tarn Taran",
       "isautodemand": "false"
     },
+
+    {
+      "code": "pb.sanaur",
+      "name": "Sanaur",
+      "isautodemand": "true"
+    },
+    
     {
       "code": "pb.zirakpur",
       "name": "Zirakpur",
