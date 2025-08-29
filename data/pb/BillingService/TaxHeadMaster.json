@@ -6993,6 +6993,16 @@
       "order": "1",
       "isRequired": false
     },
+	{
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+	    },
     {
       "category": "FEE",
       "service": "BPA.NC_OC_SAN_FEE",
@@ -7223,6 +7233,16 @@
       "name": "Sewerage application other charge fee",
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Pet Registration Fee",
+      "code": "PET_REGISTRATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false
     }
   ]
 }
