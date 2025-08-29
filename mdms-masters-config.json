@@ -1125,9 +1125,44 @@
       "masterName": "Advertisements",
       "isStateLevel": false,
       "uniqueKeys": [
-        "$.id",
-        "$.poleNo",
-        "$.locationCode"
+        "$.id"
+      ]
+    },
+    "AdType": {
+      "masterName": "AdType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+          "$.code"
+      ]
+    },
+    "Location": {
+      "masterName": "Location",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CalculationType": {
+      "masterName": "CalculationType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.location"
+      ]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TaxAmount": {
+      "masterName": "TaxAmount",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.applicationType",
+        "$.serviceType",
+        "$.feeType"
       ]
     }
   }
