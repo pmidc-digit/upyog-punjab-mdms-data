@@ -1026,8 +1026,498 @@
 			"slabs": [
 				{
 					"from": 0,
-					"to": 250,
+					"to": 0,
+					"charge": 0,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 1,
+					"to": 1,
 					"charge": 390,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 2,
+					"to": 2,
+					"charge": 780,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 3,
+					"to": 3,
+					"charge": 1170,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 4,
+					"to": 4,
+					"charge": 1560,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 5,
+					"to": 5,
+					"charge": 1950,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 6,
+					"to": 6,
+					"charge": 2340,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 7,
+					"to": 7,
+					"charge": 2730,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 8,
+					"to": 8,
+					"charge": 3120,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 9,
+					"to": 9,
+					"charge": 3510,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 10,
+					"to": 10,
+					"charge": 3900,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 11,
+					"to": 11,
+					"charge": 4290,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 12,
+					"to": 12,
+					"charge": 4680,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 13,
+					"to": 13,
+					"charge": 5070,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 14,
+					"to": 14,
+					"charge": 5460,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 15,
+					"to": 15,
+					"charge": 5850,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 16,
+					"to": 16,
+					"charge": 6240,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 17,
+					"to": 17,
+					"charge": 6630,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 18,
+					"to": 18,
+					"charge": 7020,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 19,
+					"to": 19,
+					"charge": 7410,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 20,
+					"to": 20,
+					"charge": 7800,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 21,
+					"to": 21,
+					"charge": 8190,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 22,
+					"to": 22,
+					"charge": 8580,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 23,
+					"to": 23,
+					"charge": 8970,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 24,
+					"to": 24,
+					"charge": 9360,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 25,
+					"to": 25,
+					"charge": 9750,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 26,
+					"to": 26,
+					"charge": 10140,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 27,
+					"to": 27,
+					"charge": 10530,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 28,
+					"to": 28,
+					"charge": 10920,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 29,
+					"to": 29,
+					"charge": 11310,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 30,
+					"to": 30,
+					"charge": 11700,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 31,
+					"to": 31,
+					"charge": 12090,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 32,
+					"to": 32,
+					"charge": 12480,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 33,
+					"to": 33,
+					"charge": 12870,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 34,
+					"to": 34,
+					"charge": 13260,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 35,
+					"to": 35,
+					"charge": 13650,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 36,
+					"to": 36,
+					"charge": 14040,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 37,
+					"to": 37,
+					"charge": 14430,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 38,
+					"to": 38,
+					"charge": 14820,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 39,
+					"to": 39,
+					"charge": 15210,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 40,
+					"to": 40,
+					"charge": 15600,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 41,
+					"to": 41,
+					"charge": 15990,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 42,
+					"to": 42,
+					"charge": 16380,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 43,
+					"to": 43,
+					"charge": 16770,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 44,
+					"to": 44,
+					"charge": 17160,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 45,
+					"to": 45,
+					"charge": 17550,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 46,
+					"to": 46,
+					"charge": 17940,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 47,
+					"to": 47,
+					"charge": 18330,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 48,
+					"to": 48,
+					"charge": 18720,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 49,
+					"to": 49,
+					"charge": 19110,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 50,
+					"to": 50,
+					"charge": 19500,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 51,
+					"to": 51,
+					"charge": 19890,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 52,
+					"to": 52,
+					"charge": 20280,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 53,
+					"to": 53,
+					"charge": 20670,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 54,
+					"to": 54,
+					"charge": 21060,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 55,
+					"to": 55,
+					"charge": 21450,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 56,
+					"to": 56,
+					"charge": 21840,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 57,
+					"to": 57,
+					"charge": 22230,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 58,
+					"to": 58,
+					"charge": 22620,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 59,
+					"to": 59,
+					"charge": 23010,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 60,
+					"to": 60,
+					"charge": 23400,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 61,
+					"to": 61,
+					"charge": 23790,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 62,
+					"to": 62,
+					"charge": 24180,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 63,
+					"to": 63,
+					"charge": 24570,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 64,
+					"to": 64,
+					"charge": 24960,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 65,
+					"to": 65,
+					"charge": 25350,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 66,
+					"to": 66,
+					"charge": 25740,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 67,
+					"to": 67,
+					"charge": 26130,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 68,
+					"to": 68,
+					"charge": 26520,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 69,
+					"to": 69,
+					"charge": 26910,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 70,
+					"to": 70,
+					"charge": 27300,
 					"effectiveFrom": 917523271000,
 					"effectiveTo": 1774929282000
 				}
@@ -1043,8 +1533,498 @@
 			"slabs": [
 				{
 					"from": 0,
-					"to": 250,
+					"to": 0,
+					"charge": 0,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 1,
+					"to": 1,
 					"charge": 390,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 2,
+					"to": 2,
+					"charge": 780,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 3,
+					"to": 3,
+					"charge": 1170,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 4,
+					"to": 4,
+					"charge": 1560,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 5,
+					"to": 5,
+					"charge": 1950,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 6,
+					"to": 6,
+					"charge": 2340,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 7,
+					"to": 7,
+					"charge": 2730,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 8,
+					"to": 8,
+					"charge": 3120,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 9,
+					"to": 9,
+					"charge": 3510,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 10,
+					"to": 10,
+					"charge": 3900,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 11,
+					"to": 11,
+					"charge": 4290,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 12,
+					"to": 12,
+					"charge": 4680,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 13,
+					"to": 13,
+					"charge": 5070,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 14,
+					"to": 14,
+					"charge": 5460,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 15,
+					"to": 15,
+					"charge": 5850,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 16,
+					"to": 16,
+					"charge": 6240,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 17,
+					"to": 17,
+					"charge": 6630,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 18,
+					"to": 18,
+					"charge": 7020,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 19,
+					"to": 19,
+					"charge": 7410,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 20,
+					"to": 20,
+					"charge": 7800,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 21,
+					"to": 21,
+					"charge": 8190,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 22,
+					"to": 22,
+					"charge": 8580,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 23,
+					"to": 23,
+					"charge": 8970,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 24,
+					"to": 24,
+					"charge": 9360,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 25,
+					"to": 25,
+					"charge": 9750,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 26,
+					"to": 26,
+					"charge": 10140,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 27,
+					"to": 27,
+					"charge": 10530,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 28,
+					"to": 28,
+					"charge": 10920,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 29,
+					"to": 29,
+					"charge": 11310,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 30,
+					"to": 30,
+					"charge": 11700,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 31,
+					"to": 31,
+					"charge": 12090,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 32,
+					"to": 32,
+					"charge": 12480,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 33,
+					"to": 33,
+					"charge": 12870,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 34,
+					"to": 34,
+					"charge": 13260,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 35,
+					"to": 35,
+					"charge": 13650,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 36,
+					"to": 36,
+					"charge": 14040,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 37,
+					"to": 37,
+					"charge": 14430,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 38,
+					"to": 38,
+					"charge": 14820,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 39,
+					"to": 39,
+					"charge": 15210,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 40,
+					"to": 40,
+					"charge": 15600,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 41,
+					"to": 41,
+					"charge": 15990,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 42,
+					"to": 42,
+					"charge": 16380,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 43,
+					"to": 43,
+					"charge": 16770,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 44,
+					"to": 44,
+					"charge": 17160,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 45,
+					"to": 45,
+					"charge": 17550,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 46,
+					"to": 46,
+					"charge": 17940,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 47,
+					"to": 47,
+					"charge": 18330,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 48,
+					"to": 48,
+					"charge": 18720,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 49,
+					"to": 49,
+					"charge": 19110,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 50,
+					"to": 50,
+					"charge": 19500,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 51,
+					"to": 51,
+					"charge": 19890,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 52,
+					"to": 52,
+					"charge": 20280,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 53,
+					"to": 53,
+					"charge": 20670,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 54,
+					"to": 54,
+					"charge": 21060,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 55,
+					"to": 55,
+					"charge": 21450,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 56,
+					"to": 56,
+					"charge": 21840,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 57,
+					"to": 57,
+					"charge": 22230,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 58,
+					"to": 58,
+					"charge": 22620,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 59,
+					"to": 59,
+					"charge": 23010,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 60,
+					"to": 60,
+					"charge": 23400,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 61,
+					"to": 61,
+					"charge": 23790,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 62,
+					"to": 62,
+					"charge": 24180,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 63,
+					"to": 63,
+					"charge": 24570,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 64,
+					"to": 64,
+					"charge": 24960,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 65,
+					"to": 65,
+					"charge": 25350,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 66,
+					"to": 66,
+					"charge": 25740,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 67,
+					"to": 67,
+					"charge": 26130,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 68,
+					"to": 68,
+					"charge": 26520,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 69,
+					"to": 69,
+					"charge": 26910,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 70,
+					"to": 70,
+					"charge": 27300,
 					"effectiveFrom": 917523271000,
 					"effectiveTo": 1774929282000
 				}
@@ -1060,8 +2040,498 @@
 			"slabs": [
 				{
 					"from": 0,
-					"to": 250,
+					"to": 0,
+					"charge": 0,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 1,
+					"to": 1,
 					"charge": 390,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 2,
+					"to": 2,
+					"charge": 780,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 3,
+					"to": 3,
+					"charge": 1170,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 4,
+					"to": 4,
+					"charge": 1560,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 5,
+					"to": 5,
+					"charge": 1950,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 6,
+					"to": 6,
+					"charge": 2340,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 7,
+					"to": 7,
+					"charge": 2730,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 8,
+					"to": 8,
+					"charge": 3120,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 9,
+					"to": 9,
+					"charge": 3510,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 10,
+					"to": 10,
+					"charge": 3900,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 11,
+					"to": 11,
+					"charge": 4290,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 12,
+					"to": 12,
+					"charge": 4680,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 13,
+					"to": 13,
+					"charge": 5070,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 14,
+					"to": 14,
+					"charge": 5460,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 15,
+					"to": 15,
+					"charge": 5850,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 16,
+					"to": 16,
+					"charge": 6240,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 17,
+					"to": 17,
+					"charge": 6630,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 18,
+					"to": 18,
+					"charge": 7020,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 19,
+					"to": 19,
+					"charge": 7410,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 20,
+					"to": 20,
+					"charge": 7800,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 21,
+					"to": 21,
+					"charge": 8190,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 22,
+					"to": 22,
+					"charge": 8580,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 23,
+					"to": 23,
+					"charge": 8970,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 24,
+					"to": 24,
+					"charge": 9360,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 25,
+					"to": 25,
+					"charge": 9750,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 26,
+					"to": 26,
+					"charge": 10140,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 27,
+					"to": 27,
+					"charge": 10530,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 28,
+					"to": 28,
+					"charge": 10920,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 29,
+					"to": 29,
+					"charge": 11310,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 30,
+					"to": 30,
+					"charge": 11700,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 31,
+					"to": 31,
+					"charge": 12090,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 32,
+					"to": 32,
+					"charge": 12480,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 33,
+					"to": 33,
+					"charge": 12870,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 34,
+					"to": 34,
+					"charge": 13260,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 35,
+					"to": 35,
+					"charge": 13650,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 36,
+					"to": 36,
+					"charge": 14040,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 37,
+					"to": 37,
+					"charge": 14430,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 38,
+					"to": 38,
+					"charge": 14820,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 39,
+					"to": 39,
+					"charge": 15210,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 40,
+					"to": 40,
+					"charge": 15600,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 41,
+					"to": 41,
+					"charge": 15990,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 42,
+					"to": 42,
+					"charge": 16380,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 43,
+					"to": 43,
+					"charge": 16770,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 44,
+					"to": 44,
+					"charge": 17160,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 45,
+					"to": 45,
+					"charge": 17550,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 46,
+					"to": 46,
+					"charge": 17940,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 47,
+					"to": 47,
+					"charge": 18330,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 48,
+					"to": 48,
+					"charge": 18720,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 49,
+					"to": 49,
+					"charge": 19110,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 50,
+					"to": 50,
+					"charge": 19500,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 51,
+					"to": 51,
+					"charge": 19890,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 52,
+					"to": 52,
+					"charge": 20280,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 53,
+					"to": 53,
+					"charge": 20670,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 54,
+					"to": 54,
+					"charge": 21060,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 55,
+					"to": 55,
+					"charge": 21450,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 56,
+					"to": 56,
+					"charge": 21840,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 57,
+					"to": 57,
+					"charge": 22230,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 58,
+					"to": 58,
+					"charge": 22620,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 59,
+					"to": 59,
+					"charge": 23010,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 60,
+					"to": 60,
+					"charge": 23400,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 61,
+					"to": 61,
+					"charge": 23790,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 62,
+					"to": 62,
+					"charge": 24180,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 63,
+					"to": 63,
+					"charge": 24570,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 64,
+					"to": 64,
+					"charge": 24960,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 65,
+					"to": 65,
+					"charge": 25350,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 66,
+					"to": 66,
+					"charge": 25740,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 67,
+					"to": 67,
+					"charge": 26130,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 68,
+					"to": 68,
+					"charge": 26520,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 69,
+					"to": 69,
+					"charge": 26910,
+					"effectiveFrom": 917523271000,
+					"effectiveTo": 1774929282000
+				},
+				{
+					"from": 70,
+					"to": 70,
+					"charge": 27300,
 					"effectiveFrom": 917523271000,
 					"effectiveTo": 1774929282000
 				}
