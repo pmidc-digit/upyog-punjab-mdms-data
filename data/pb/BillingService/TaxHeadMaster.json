@@ -7223,6 +7223,16 @@
       "name": "Sewerage application other charge fee",
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Pet Registration Fee",
+      "code": "PET_REGISTRATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false
     }
   ]
 }

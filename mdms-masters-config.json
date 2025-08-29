@@ -1,12 +1,10 @@
 {
 	"PetService": {
 		  "CalculationType": {
-		    "masterName": "CalculationType",
+		    "masterName": "BreedType",
 		    "isStateLevel": true,
 		    "uniqueKeys": [
-		       "$.applicationType",
-		        "$.serviceType",
-		        "$.feeType"
+		       "$.code"
 		    ]
 		  }
 		},
