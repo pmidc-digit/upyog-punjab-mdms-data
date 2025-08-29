@@ -1,0 +1,33 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Advertisement",
+  "Locations": [
+    {
+      "name": "Green Park",
+      "code": "GREEN_PARK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.558899,
+        "longitude": 77.202805
+      }
+    },
+    {
+      "name": "Hauz Khas",
+      "code": "HAUZ_KHAS",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.549507,
+        "longitude": 77.203613
+      }
+    },
+    {
+      "name": "Jor Bagh",
+      "code": "JOR_BAGH",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5865979,
+        "longitude": 77.212534
+      }
+    }
+  ]
+}

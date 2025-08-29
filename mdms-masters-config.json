@@ -1121,5 +1121,16 @@
       "isStateLevel": false,
       "uniqueKeys": []
     }
+  },
+  "Advertisement": {
+    "Advertisements": {
+      "masterName": "Advertisements",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.id",
+        "$.poleNo",
+        "$.locationCode"
+      ]
+    }
   }
 }
