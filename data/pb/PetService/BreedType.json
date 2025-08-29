@@ -25,28 +25,36 @@
       "code": "GOLDEN_RETRIEVER",
       "active": true,
       "petType": "DOG",
-      "amount": 500
+      "newapplication": 900,
+      "renewapplication": 100,
+      "feeType": "PET_REGISTRATION_FEE"
     },
     {
       "name": "Indian Billi",
       "code": "INDIAN_BILLI",
       "active": true,
       "petType": "CAT",
-      "amount": 500
+      "newapplication": 400,
+      "renewapplication": 600,
+      "feeType": "PET_REGISTRATION_FEE"
     },
     {
       "name": "Bengal Cat",
       "code": "BENGAL_CAT",
       "active": true,
       "petType": "CAT",
-      "amount": 500
+      "newapplication": 900,
+      "renewapplication": 100,
+      "feeType": "PET_REGISTRATION_FEE"
     },
     {
       "name": "Bombay Cat",
       "code": "BOMBAY_CAT",
       "active": true,
       "petType": "CAT",
-      "amount": 500
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
     }
   ]
 }
