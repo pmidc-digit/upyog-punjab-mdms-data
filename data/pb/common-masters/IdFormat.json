@@ -734,6 +734,10 @@
       "idname": "bpa.low_risk_permit_fee.receipt.id"
     },
     {
+      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+      "idname": "bpa.permitnumber"
+    },
+    {
       "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "bpa.nc_oc_app_fee.receipt.id"
     }
