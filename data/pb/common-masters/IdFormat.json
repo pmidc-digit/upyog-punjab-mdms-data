@@ -784,6 +784,11 @@
       "idname": "ptr.registrationid"
     },
     {
+      "format": "PB-PTR[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+      "idname": "ptr.tokennumber"
+
+    },
+    {
       "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "ndc.receipt.id"
     }
