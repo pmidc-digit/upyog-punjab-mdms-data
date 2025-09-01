@@ -149,7 +149,7 @@
       "waterSubUsageType": "USAGE_COLLEGE_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 500,
       "slabs": [
         {
           "from": 0.00,
@@ -166,7 +166,7 @@
       "waterSubUsageType": "USAGE_HOTEL_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 250,
       "slabs": [
         {
           "from": 0.00,
@@ -183,7 +183,7 @@
       "waterSubUsageType": "USAGE_SERVICESTATION_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 300,
       "slabs": [
         {
           "from": 0.00,
@@ -200,7 +200,7 @@
       "waterSubUsageType": "USAGE_AHATAS_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 25,
       "slabs": [
         {
           "from": 0.00,
@@ -217,7 +217,7 @@
       "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 50,
       "slabs": [
          {
           "from": 0.00,
@@ -248,7 +248,7 @@
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 60,
       "slabs": [
         {
           "from": 0.00,
