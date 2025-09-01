@@ -166,7 +166,7 @@
       "waterSubUsageType": "USAGE_HOTEL_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 500,
       "slabs": [
         {
           "from": 0.00,
@@ -183,7 +183,7 @@
       "waterSubUsageType": "USAGE_SERVICESTATION_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 25,
       "slabs": [
         {
           "from": 0.00,
@@ -200,7 +200,7 @@
       "waterSubUsageType": "USAGE_AHATAS_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 0,
+      "minimumCharge": 1000,
       "slabs": [
         {
           "from": 0.00,
