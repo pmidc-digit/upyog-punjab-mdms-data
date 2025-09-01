@@ -797,6 +797,10 @@
       "idname": "ndc.receipt.id"
     },
     {
+      "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "ptr.receipt.id"
+    },
+    {
       "format": "PB-NOC-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APPLICATION]",
       "idname": "noc.application.number"
     }
