@@ -7223,6 +7223,17 @@
       "name": "Sewerage application other charge fee",
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "No Object Certificate Fee",
+      "code": "NOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
+
   ]
 }
