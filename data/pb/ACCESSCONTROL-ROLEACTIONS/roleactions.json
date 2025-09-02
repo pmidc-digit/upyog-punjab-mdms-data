@@ -29955,6 +29955,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "FIRE_NOC_APPROVER",
       "actionid": 5009,
       "actioncode": "",
@@ -29962,6 +29968,12 @@
     },
     {
       "rolecode": "BPAREG_DOC_VERIFIER",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
       "actionid": 5010,
       "actioncode": "",
       "tenantId": "pb"
@@ -40438,6 +40450,24 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PT_APPROVER",
       "actionid": 1755,
       "actioncode": "",
@@ -43236,6 +43266,24 @@
     },
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
