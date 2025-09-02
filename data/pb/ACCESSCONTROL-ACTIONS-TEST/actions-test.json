@@ -23213,6 +23213,18 @@
       "serviceCode": "noc-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 883341,
+      "name": "Search NOC Applications",
+      "url": "/noc-services/v1/noc/_search",
+      "parentModule": "",
+      "displayName": "Search NOC Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
     }   
   ]
 }
