@@ -13,7 +13,8 @@
       "light": "With Light",
       "price": 979.0,
       "available": true,
-      "locationCode": "GREEN_PARK"
+      "locationCode": "GREEN_PARK",
+      "taxApplicable": true
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
       "light": "With Light",
       "price": 979.0,
       "available": true,
-      "locationCode": "HAUZ_KHAS"
+      "locationCode": "HAUZ_KHAS",
+      "taxApplicable": true
     },
     {
       "id": 3,
@@ -39,7 +41,8 @@
       "light": "With Light",
       "price": 979.0,
       "available": true,
-      "locationCode": "GREEN_PARK"
+      "locationCode": "GREEN_PARK",
+      "taxApplicable": true
     },
     {
       "id": 4,
