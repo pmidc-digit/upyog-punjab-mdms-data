@@ -1,7 +1,7 @@
 {
   "tenantId": "pb.ferozepur",
   "moduleName": "sw-services-calculation",
-  "WCBillingSlab": [
+  "SCBillingSlab": [
     {
       "id": "1",
       "buildingType": "RESIDENTIAL",
@@ -24,7 +24,8 @@
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-           {
+        
+        {
           "from": 250.01,
           "to": 10000.00,
           "charge": 918,
@@ -166,7 +167,7 @@
       "waterSubUsageType": "USAGE_HOTEL_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 500,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
@@ -183,7 +184,7 @@
       "waterSubUsageType": "USAGE_SERVICESTATION_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 25,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
@@ -200,7 +201,7 @@
       "waterSubUsageType": "USAGE_AHATAS_NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 1000,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
