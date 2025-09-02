@@ -433,6 +433,11 @@
       "name": "BPA Services Approver",
       "description": "BPA Services workflow Approver"
     },
+	{
+      "code": "BPA_DOC_VERIFIER",
+      "name": "BPA Doc verifier",
+      "description": "BPA Services workflow document verifier"
+    },
     {
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
