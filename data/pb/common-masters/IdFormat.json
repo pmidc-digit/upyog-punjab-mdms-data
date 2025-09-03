@@ -764,6 +764,10 @@
       "idname": "advertisement.booking.id"
     },
     {
+      "format": "ADV/[CITY.CODE]/[seq_adv_receipt_id]",
+      "idname": "adv-services.receipt.id"
+    },
+    {
       "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
       "idname": "ndc.applicationid"
     },
