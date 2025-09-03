@@ -798,7 +798,7 @@
     },
     {
       "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID]",
-      "idname": "ptr.receipt.id"
+      "idname": "pet-services.receipt.id"
     },
     {
       "format": "PB-NOC-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APPLICATION]",
