@@ -4367,36 +4367,58 @@
     },
 	{
       "tenant": "pb.jalandhar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.samana",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.sirhind",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.sunam",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.sangrur",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.patiala",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.derabassi",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.zirakpur",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.dhuri",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
-
-
 	  
   ]
 }
