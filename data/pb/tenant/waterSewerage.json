@@ -10,7 +10,7 @@
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ahmedpur",
@@ -119,7 +119,7 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhadaur",
@@ -139,7 +139,7 @@
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhikhiwind",
@@ -202,9 +202,14 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.garhdiwala",
+      "name": "Garhdiwala",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.hariana",
       "name": "Hariana",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.itpatiala",
@@ -214,7 +219,7 @@
     {
       "code": "pb.jalalabad",
       "name": "Jalalabad",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.jandialaguru",
