@@ -4397,12 +4397,24 @@
     },
 	{
       "tenant": "pb.patiala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.derabassi",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.dhuri",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kapurthala",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
@@ -4414,11 +4426,10 @@
       "isRented": false
     },
 	{
-      "tenant": "pb.dhuri",
+      "tenant": "pb.mansa",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
-    }
-	  
+    }	  
   ]
 }
