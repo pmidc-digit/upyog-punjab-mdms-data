@@ -7750,6 +7750,17 @@
       "code": "null",
       "path": ""
     },
+	  {
+      "id": 3202,
+      "name": "Update Meter Reading",
+      "url": "/ws-calculator/meterConnection/_update",
+      "displayName": "Enter Meter Reading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 1914,
       "name": "Search Meter Reading",
