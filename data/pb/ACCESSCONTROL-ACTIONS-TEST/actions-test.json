@@ -16874,7 +16874,17 @@
       "code": "null",
       "path": ""
     },
-
+    {
+      "id": 2611,
+      "name": "Pet Collection Search Reciept",
+      "url": "/collection-services/payments/pet-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 2613,
       "name": "Update Service Definition",
