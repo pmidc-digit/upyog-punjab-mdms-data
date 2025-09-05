@@ -1123,7 +1123,7 @@
   "noc": {
     "NocFee": {
       "masterName": "NocFee",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   },
