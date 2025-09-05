@@ -7243,6 +7243,16 @@
       "isActualDemand": true,
       "order": "15",
       "isRequired": false
+    },
+	  {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "No Object Certificate Fee",
+      "code": "NOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
