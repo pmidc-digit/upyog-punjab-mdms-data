@@ -23000,6 +23000,17 @@
       "code": "null",
       "path": ""
     },
+    {
+      "id": 883324,
+      "name": "Advertisement Collection Search Reciept",
+      "url": "/collection-services/payments/adv-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
 	{
       "id": 883324,
       "name": "Employee Search",

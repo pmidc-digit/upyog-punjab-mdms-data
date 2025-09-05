@@ -61618,6 +61618,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PET_REG_EMPLOYEE",
       "actionid": 2608,
       "actioncode": "",
@@ -61642,6 +61648,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PET_DOC_VERIFIER",
       "actionid": 2609,
       "actioncode": "",
@@ -61680,6 +61692,12 @@
     {
       "rolecode": "PET_COLLECTOR",
       "actionid": 2611,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_COLLECTOR",
+      "actionid": 1896,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -61707,10 +61725,10 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ADV_EMPLOYEE",
       "actionid": 883322,
+      "actioncode": "",
       "tenantId": "pb"
     },
     {
@@ -61722,6 +61740,24 @@
     {
       "rolecode": "ADV_APPROVER",
       "actionid": 883322,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 883324,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883324,
       "actioncode": "",
       "tenantId": "pb"
     },
