@@ -5114,7 +5114,55 @@
                     "code": "BLC289",
                     "area": "AREA1",
                     "children": []
-                  }
+                  },
+                   {
+                      "id": "06715dfa-63d9-4480-b4ae-e9f71115803a",
+                      "boundaryNum": 1,
+                      "name": "Bhatthal Street  Block 14A - B-14A - A1",
+                      "localname": "Bhatthal Street  Block 14A - B-14A - A1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "BLC301",
+                      "area": "AREA1",
+                      "children": []
+                    },
+                    {
+                      "id": "44ecf307-9e88-4e0e-a8ec-ee17b1664176",
+                      "boundaryNum": 1,
+                      "name": "Gurudwara Kalgidhar Di Back Street  Block 14A - B-14A - A1",
+                      "localname": "Gurudwara Kalgidhar Di Back Street  Block 14A - B-14A - A1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "BLC304",
+                      "area": "AREA1",
+                      "children": []
+                    },
+                    {
+                      "id": "d156f8cb-f206-406f-8dab-60baeefb4fa0",
+                      "boundaryNum": 1,
+                      "name": "Soap Factory Lekh Raj  Block 14A - B-14A - A1",
+                      "localname": "Soap Factory Lekh Raj  Block 14A - B-14A - A1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "BLC284",
+                      "area": "AREA1",
+                      "children": []
+                    },
+                    {
+                      "id": "9e91cb07-4c23-4e83-ad6c-19c925b0750c",
+                      "boundaryNum": 1,
+                      "name": "Swami Nitiya Nand Ji Majharaj Street  Block 14A - B-14A - A1",
+                      "localname": "Swami Nitiya Nand Ji Majharaj Street  Block 14A - B-14A - A1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "BLC386",
+                      "area": "AREA1",
+                      "children": []
+                    }
                 ]
               }
             ]
