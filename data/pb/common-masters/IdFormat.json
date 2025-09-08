@@ -807,7 +807,12 @@
     {
       "format": "PB-NOC-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APPLICATION]",
       "idname": "noc.application.number"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "noc-services.receipt.id"
     }
+
 
   ]
 }
