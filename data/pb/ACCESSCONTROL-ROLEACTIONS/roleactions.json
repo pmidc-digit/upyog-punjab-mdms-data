@@ -62150,7 +62150,18 @@
       "actionid": 3005,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "NOC_CEMP",
+      "actionid": 883342,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883342,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
   ]
 }

@@ -23275,6 +23275,17 @@
       "serviceCode": "noc-services",
       "code": "null",
       "path": ""
-    }   
+    },
+    {
+      "id": 883342,
+      "name": "Noc Collection Search Reciept",
+      "url": "/collection-services/payments/noc-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
