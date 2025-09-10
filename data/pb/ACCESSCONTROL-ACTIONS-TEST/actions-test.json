@@ -16567,6 +16567,36 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }    
+    },
+    {
+      "id": 3010,
+      "name": "Receipt Register_Without_Locality_Live",
+      "url": "url",
+      "displayName": "Receipt Register Today",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment_Collection.Receipt Register_without_locality_LIVE",
+      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegister_without_locality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3011,
+      "name": "PT_RECEIPTREGISTER_REPORT_V2",
+      "url": "url",
+      "displayName": "Receipt Register For All Years",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment_Collection.PT_RECEIPTREGISTER_REPORT_V2",
+      "navigationURL": "report/rainmaker-pt/PT_RECEIPTREGISTER_REPORT_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
