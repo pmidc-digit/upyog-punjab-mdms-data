@@ -792,6 +792,26 @@
       "code": "NDCCEMP",
       "name": "NDC Counter Employee",
       "description": "NDC Counter Employee"
+    },{
+      "code": "NDC_DOC_VERIFIER",
+      "name": "NDC Document Verifier",
+      "description": "No Dues Document Verifier"
+    },{
+      "code": "NDC_PT_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Property "
+    },{
+      "code": "NDC_SW_VERIFIER",
+      "name": "NDC Sewerage Verifier",
+      "description": "No Dues Verifier for Sewerage Service"
+    },{
+      "code": "NDC_WS_VERIFIER",
+      "name": "NDC Water Verifier",
+      "description": "No Dues Verifier for Water Service"
+    },{
+      "code": "NDC_TL_VERIFIER",
+      "name": "NDC Trade License Verifier",
+      "description": "No Dues Verifier for Trade License"
     },
     {
       "code": "NDC_REC_CANCEL",
