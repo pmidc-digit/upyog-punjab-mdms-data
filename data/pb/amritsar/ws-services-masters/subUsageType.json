@@ -8,25 +8,24 @@
       "parentUsageType": "RESIDENTIAL",
       "active": true
     },
-     {
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL",
-      "active": true
-    },
     {
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
       "parentUsageType": "MIXED",
       "active": true
     },
-     {
+    {
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
-      "parentUsageType": "MIXED",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
       "active": true
     },
     {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "active": true
+    },{
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
       "parentUsageType": "NONRESIDENTIAL",
@@ -40,20 +39,8 @@
     },
      {
       "code": "USAGE_COMM_NA",
-      "name": "Other Commercial subminor",
-      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
-      "active": true
-    },
-     {
-      "code": "USAGE_COMM_NA",
-      "name": "Other Commercial subminor othercommercial",
-      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
-      "active": true
-    },
-    {
-      "code": "USAGE_COMM_NA",
-      "name": "Other Commercial Usage",
-      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "name": "COMMERCIAL",
+      "parentUsageType": "MIXED",
       "active": true
     },
    {
@@ -66,12 +53,6 @@
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
-      "active": true
-    },
-    {
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
       "active": true
     },
    {
@@ -390,6 +371,11 @@
       "code": "USAGE_COMM_SEW_WATER",
       "name": "COMMERCIAL_SEWERAGE+WATER",
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true
+    },{
+      "code": "USAGE_INDUSTRIAL_NA",
+      "name": "INDUSTRIAL",
+      "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
       "active": true
     }
   ]
