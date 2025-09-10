@@ -29711,6 +29711,53 @@
       "actionid": 3009,
       "actioncode": "",
       "tenantId": "pb"
-    }	  
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "pb"
+    }        	  
    ]
 }
