@@ -18,11 +18,19 @@
 	        "$.riskType",
 	        "$.feeType"
 	    ]
+	  },
+	  "ChargesType": {
+	    "masterName": "ChargesType",
+	    "isStateLevel": true,
+	    "uniqueKeys": [
+	       "$.code",
+		   "$name"
+	    ]
 	  }
 	},
   "StakeholderRegistraition": {
     "TradeTypetoRoleMapping": {
-      "masterName": "aTradeTypetoRoleMapping",
+      "masterName": "TradeTypetoRoleMapping",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.tradeType"
