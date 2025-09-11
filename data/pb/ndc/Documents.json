@@ -1,4 +1,3 @@
-
 {
   "tenantId": "pb",
   "moduleName": "NDC",
@@ -55,7 +54,7 @@
     {
       "code": "OWNER.AUTHORITYLETTER",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "description": "OWNER.AUTHORITYLETTER.AUTHORITYLETTER_DESCRIPTION"
     }
