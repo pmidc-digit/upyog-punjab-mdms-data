@@ -372,6 +372,12 @@
       "name": "COMMERCIAL_SEWERAGE+WATER",
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
       "active": true
+    },
+    {
+      "code": "USAGE_INDUSTRIAL_NA",
+      "name": "INDUSTRIAL",
+      "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
     }
   ]
 }
