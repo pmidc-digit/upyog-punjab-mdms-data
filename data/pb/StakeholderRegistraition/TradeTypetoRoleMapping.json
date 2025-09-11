@@ -369,6 +369,88 @@
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": null
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "ARCHITECT+TOWNPLANNER.CLASSA",
+      "code": "Architect",
+      "role": ["BPA_ARCHITECT"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        }, 
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
+      "tradeType": "ENGINEER+TOWNPLANNER.CLASSA",
+      "code": "Engineer",
+      "role": ["BPA_ENGINEER"],
+      "endstate": "APPROVED",
+      "isActive": "true",
+      "applicationFee": 0,
+      "docTypes": [
+        {
+          "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EDC_CERTIFICATE",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_EXP_CERTIFICATE",
+          "info": "",
+          "required": false
+        },
+        {
+          "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+          "info": "",
+          "required": true
+        },
+        {
+          "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+          "info": "",
+          "required": false
+        }, 
+        {
+          "code": "APPL.BPAREG_OTHERS",
+          "info": "",
+          "required": false
+        }
+      ]
     }
   ]
 }
