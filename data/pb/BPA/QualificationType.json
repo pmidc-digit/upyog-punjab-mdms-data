@@ -9,22 +9,34 @@
       "role": "ARCHITECT"
     },
     {
-      "name": "BE/B-Tech",
+      "name": "BE/B-Tech Civil Engineer",
       "code": "BE",
       "active": true,
       "role": "ENGINEER"
     },
     {
-      "name": "Diploma in Civil Engineering/Architect",
+      "name": "Diploma in Civil Engineering/Architect/ITI",
       "code": "DIPLOMA",
       "active": true,
       "role": "SUPERVISOR"
     },
     {
-      "name": "Town and Country Planning",
+      "name": "Town Planner",
       "code": "Town_and_Country_Planner",
       "active": true,
       "role": "TOWNPLANNER"
+    },
+    {
+      "name": "B.Arch. + Town Planner",
+      "code": "B_ARCH_AND_Town_and_Country_Planner",
+      "active": true,
+      "role": "ARCHITECT+TOWNPLANNER"
+    },
+    {
+      "name": "BE/B-Tech Civil Engineer + Town Planner",
+      "code": "BE_AND_Town_and_Country_Planner",
+      "active": true,
+      "role": "ENGINEER+TOWNPLANNER"
     }
   ]
 }
