@@ -4445,15 +4445,46 @@
     },
 	{
       "tenant": "pb.hoshiarpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.jagraon",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.gurdaspur",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.pathankot",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.abohar",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.adampur",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.anandpursahib",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
+	  
   ]
 }
