@@ -23286,6 +23286,43 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 883343,
+      "name": "Outstanding Arrears Report",
+      "url": "url",
+      "displayName": "Outstanding Arrears Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.OutstandingArrears",
+      "navigationURL": "report/rainmaker-ws/OutstandingArrears",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 883344,
+      "name": "Outstanding Arrears Report",
+      "url": "/report/rainmaker-ws/OutstandingArrears/metadata/_get",
+      "displayName": "Outstanding Arrears Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883345,
+      "name": "Outstanding Arrears Report",
+      "url": "/report/rainmaker-ws/OutstandingArrears/_get",
+      "displayName": "Outstanding Arrears Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
