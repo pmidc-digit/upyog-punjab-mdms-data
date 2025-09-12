@@ -6,12 +6,18 @@
       "name": "Metered",
       "code": "Metered",
       "attribute": "PLOT_BASED",
-      "active": true
+      "active": false
     },
     {
       "name": "Non Metered",
       "code": "Non Metered",
       "attribute": "PLOT_BASED",
+      "active": false
+    },
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "attribute": "TAP_BASED",
       "active": true
     }
   ]
