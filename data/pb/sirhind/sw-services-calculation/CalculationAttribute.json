@@ -3,15 +3,9 @@
   "moduleName": "sw-services-calculation",
   "CalculationAttribute": [
     {
-      "name": "Metered",
-      "code": "Metered",
-      "attribute": "PLOT_BASED",
-      "active": true
-    },
-    {
       "name": "Non Metered",
       "code": "Non Metered",
-      "attribute": "PLOT_BASED",
+      "attribute": "SEAT_BASED",
       "active": true
     }
   ]
