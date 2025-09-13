@@ -7750,7 +7750,7 @@
       "code": "null",
       "path": ""
     },
-	  {
+    {
       "id": 3202,
       "name": "Update Meter Reading",
       "url": "/ws-calculator/meterConnection/_update",
@@ -21937,7 +21937,7 @@
       "id": 890046,
       "name": "rainmaker-citizen-ndc",
       "url": "card",
-      "displayName": "NDC",
+      "displayName": "No Due Certificate",
       "orderNumber": 2,
       "parentModule": "NDC",
       "enabled": true,
@@ -21953,7 +21953,7 @@
       "id": 890047,
       "name": "NDC",
       "url": "url",
-      "displayName": "NDC",
+      "displayName": "No Due Certificate",
       "orderNumber": 3,
       "parentModule": "NDC",
       "enabled": true,
@@ -23011,7 +23011,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 883324,
       "name": "Employee Search",
       "url": "/egov-hrms/employees/_searchV2",
@@ -23323,6 +23323,6 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }	  
+    }
   ]
 }
