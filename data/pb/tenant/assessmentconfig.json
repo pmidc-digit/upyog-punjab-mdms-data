@@ -2219,9 +2219,8 @@
     },
     {
       "tenant": "pb.patiala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2022-23",
-      "locality": ["PTA287"],
       "isRented": false
        
    },   
@@ -2233,7 +2232,7 @@
     },
     {
       "tenant": "pb.adampur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2022-23",
       "isRented": true
     },
