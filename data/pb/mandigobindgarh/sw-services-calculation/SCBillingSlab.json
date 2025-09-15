@@ -2,204 +2,1244 @@
   "tenantId": "pb.mandigobindgarh",
   "moduleName": "sw-services-calculation",
   "SCBillingSlab": [
-    {
+          {
       "id": "1",
       "buildingType": "RESIDENTIAL",
       "waterSubUsageType": "USAGE_DOM_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
-          "to": 125.00,
+          "to":  0.00,
           "charge": 0,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
         {
-          "from": 125.01,
-          "to": 250.00,
-          "charge": 315,
+          "from": 1.00,
+          "to": 1.00,
+          "charge": 30,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-           {
-          "from": 250.01,
-          "to": 300.00,
+		{
+          "from": 2.00,
+          "to": 2.00,
+          "charge": 60,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 3.00,
+          "to": 3.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 4.00,
+          "to": 4.00,
+          "charge": 120,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 5.00,
+          "to": 5.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 6.00,
+          "to": 6.00,
+          "charge": 180,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 7.00,
+          "to": 7.00,
+          "charge": 210,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 8.00,
+          "to": 8.00,
+          "charge": 240,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 9.00,
+          "to": 9.00,
+          "charge": 270,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 10.00,
+          "to": 10.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 11.00,
+          "to": 11.00,
+          "charge": 330,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 12.00,
+          "to": 12.00,
+          "charge": 360,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 13.00,
+          "to": 13.00,
+          "charge": 390,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 14.00,
+          "to": 14.00,
           "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-        {
-          "from": 300.01,
-          "to": 10000.00,
-          "charge": 420,
+		{
+          "from": 15.00,
+          "to": 15.00,
+          "charge": 450,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
-        }
+        },
+		{
+          "from": 16.00,
+          "to": 16.00,
+          "charge": 480,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 17.00,
+          "to": 17.00,
+          "charge": 510,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 18.00,
+          "to": 18.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 19.00,
+          "to": 19.00,
+          "charge": 570,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 20.00,
+          "to": 20.00,
+          "charge": 600,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 21.00,
+          "to": 21.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 22.00,
+          "to": 22.00,
+          "charge": 660,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 23.00,
+          "to": 23.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 24.00,
+          "to": 24.00,
+          "charge": 720,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 25.00,
+          "to": 25.00,
+          "charge": 750,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 26.00,
+          "to": 26.00,
+          "charge": 780,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 27.00,
+          "to": 27.00,
+          "charge": 810,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 28.00,
+          "to": 28.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 29.00,
+          "to": 29.00,
+          "charge": 870,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 30.00,
+          "to": 30.00,
+          "charge": 900,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 31.00,
+          "to": 31.00,
+          "charge": 930,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 32.00,
+          "to": 32.00,
+          "charge": 960,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 33.00,
+          "to": 33.00,
+          "charge": 990,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }	
       ]
     },
-    {
+	{
       "id": "2",
       "buildingType": "COMMERCIAL",
       "waterSubUsageType": "USAGE_COMM_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
-          "to": 125.00,
-          "charge": 420,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 125.01,
-          "to": 250.00,
-          "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 250.01,
-          "to": 10000.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "buildingType": "INDUSTRIAL",
-      "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0.00,
-          "to": 150.00,
-          "charge": 420,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 150.01,
-          "to": 250.00,
-          "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 250.01,
-          "to": 10000.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "buildingType": "INSTITUTIONAL",
-      "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0.00,
-          "to": 150.00,
-          "charge": 420,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 150.01,
-          "to": 250.00,
-          "charge": 630,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 250.01,
-          "to": 10000.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "buildingType": "MIXED",
-      "waterSubUsageType": "USAGE_DOM_NA",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0.00,
-          "to": 125.00,
+          "to":  0.00,
           "charge": 0,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
         {
-          "from": 125.01,
-          "to": 250.00,
-          "charge": 315,
+          "from": 1.00,
+          "to": 1.00,
+          "charge": 30,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-           {
-          "from": 250.01,
-          "to": 300.00,
+		{
+          "from": 2.00,
+          "to": 2.00,
+          "charge": 60,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 3.00,
+          "to": 3.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 4.00,
+          "to": 4.00,
+          "charge": 120,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 5.00,
+          "to": 5.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 6.00,
+          "to": 6.00,
+          "charge": 180,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 7.00,
+          "to": 7.00,
+          "charge": 210,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 8.00,
+          "to": 8.00,
+          "charge": 240,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 9.00,
+          "to": 9.00,
+          "charge": 270,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 10.00,
+          "to": 10.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 11.00,
+          "to": 11.00,
+          "charge": 330,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 12.00,
+          "to": 12.00,
+          "charge": 360,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 13.00,
+          "to": 13.00,
+          "charge": 390,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 14.00,
+          "to": 14.00,
           "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-        {
-          "from": 300.01,
-          "to": 10000.00,
-          "charge": 420,
+		{
+          "from": 15.00,
+          "to": 15.00,
+          "charge": 450,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
-        }
+        },
+		{
+          "from": 16.00,
+          "to": 16.00,
+          "charge": 480,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 17.00,
+          "to": 17.00,
+          "charge": 510,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 18.00,
+          "to": 18.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 19.00,
+          "to": 19.00,
+          "charge": 570,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 20.00,
+          "to": 20.00,
+          "charge": 600,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 21.00,
+          "to": 21.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 22.00,
+          "to": 22.00,
+          "charge": 660,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 23.00,
+          "to": 23.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 24.00,
+          "to": 24.00,
+          "charge": 720,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 25.00,
+          "to": 25.00,
+          "charge": 750,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 26.00,
+          "to": 26.00,
+          "charge": 780,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 27.00,
+          "to": 27.00,
+          "charge": 810,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 28.00,
+          "to": 28.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 29.00,
+          "to": 29.00,
+          "charge": 870,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 30.00,
+          "to": 30.00,
+          "charge": 900,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 31.00,
+          "to": 31.00,
+          "charge": 930,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 32.00,
+          "to": 32.00,
+          "charge": 960,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 33.00,
+          "to": 33.00,
+          "charge": 990,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }	
       ]
     },
-    {
-      "id": "6",
+	{
+      "id": "3",
       "buildingType": "MIXED",
       "waterSubUsageType": "USAGE_COMM_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0.00,
-          "to": 125.00,
+          "to":  0.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 1.00,
+          "to": 1.00,
+          "charge": 30,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 2.00,
+          "to": 2.00,
+          "charge": 60,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 3.00,
+          "to": 3.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 4.00,
+          "to": 4.00,
+          "charge": 120,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 5.00,
+          "to": 5.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 6.00,
+          "to": 6.00,
+          "charge": 180,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 7.00,
+          "to": 7.00,
+          "charge": 210,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 8.00,
+          "to": 8.00,
+          "charge": 240,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 9.00,
+          "to": 9.00,
+          "charge": 270,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 10.00,
+          "to": 10.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 11.00,
+          "to": 11.00,
+          "charge": 330,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 12.00,
+          "to": 12.00,
+          "charge": 360,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 13.00,
+          "to": 13.00,
+          "charge": 390,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 14.00,
+          "to": 14.00,
           "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-        {
-          "from": 125.01,
-          "to": 250.00,
+		{
+          "from": 15.00,
+          "to": 15.00,
+          "charge": 450,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 16.00,
+          "to": 16.00,
+          "charge": 480,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 17.00,
+          "to": 17.00,
+          "charge": 510,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 18.00,
+          "to": 18.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 19.00,
+          "to": 19.00,
+          "charge": 570,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 20.00,
+          "to": 20.00,
+          "charge": 600,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 21.00,
+          "to": 21.00,
           "charge": 630,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
-        {
-          "from": 250.01,
-          "to": 10000.00,
+		{
+          "from": 22.00,
+          "to": 22.00,
+          "charge": 660,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 23.00,
+          "to": 23.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 24.00,
+          "to": 24.00,
+          "charge": 720,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 25.00,
+          "to": 25.00,
+          "charge": 750,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 26.00,
+          "to": 26.00,
+          "charge": 780,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 27.00,
+          "to": 27.00,
+          "charge": 810,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 28.00,
+          "to": 28.00,
           "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
-        }
+        },
+		{
+          "from": 29.00,
+          "to": 29.00,
+          "charge": 870,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 30.00,
+          "to": 30.00,
+          "charge": 900,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 31.00,
+          "to": 31.00,
+          "charge": 930,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 32.00,
+          "to": 32.00,
+          "charge": 960,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 33.00,
+          "to": 33.00,
+          "charge": 990,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }	
+      ]
+    },
+	{
+      "id": "4",
+      "buildingType": "MIXED",
+      "waterSubUsageType": "USAGE_DOM_NA",
+      "calculationAttribute": "SEAT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to":  0.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 1.00,
+          "to": 1.00,
+          "charge": 30,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 2.00,
+          "to": 2.00,
+          "charge": 60,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 3.00,
+          "to": 3.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 4.00,
+          "to": 4.00,
+          "charge": 120,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 5.00,
+          "to": 5.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 6.00,
+          "to": 6.00,
+          "charge": 180,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 7.00,
+          "to": 7.00,
+          "charge": 210,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 8.00,
+          "to": 8.00,
+          "charge": 240,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 9.00,
+          "to": 9.00,
+          "charge": 270,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 10.00,
+          "to": 10.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 11.00,
+          "to": 11.00,
+          "charge": 330,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 12.00,
+          "to": 12.00,
+          "charge": 360,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 13.00,
+          "to": 13.00,
+          "charge": 390,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 14.00,
+          "to": 14.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 15.00,
+          "to": 15.00,
+          "charge": 450,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 16.00,
+          "to": 16.00,
+          "charge": 480,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 17.00,
+          "to": 17.00,
+          "charge": 510,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 18.00,
+          "to": 18.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 19.00,
+          "to": 19.00,
+          "charge": 570,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 20.00,
+          "to": 20.00,
+          "charge": 600,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 21.00,
+          "to": 21.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 22.00,
+          "to": 22.00,
+          "charge": 660,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 23.00,
+          "to": 23.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 24.00,
+          "to": 24.00,
+          "charge": 720,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 25.00,
+          "to": 25.00,
+          "charge": 750,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 26.00,
+          "to": 26.00,
+          "charge": 780,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 27.00,
+          "to": 27.00,
+          "charge": 810,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 28.00,
+          "to": 28.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 29.00,
+          "to": 29.00,
+          "charge": 870,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 30.00,
+          "to": 30.00,
+          "charge": 900,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 31.00,
+          "to": 31.00,
+          "charge": 930,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 32.00,
+          "to": 32.00,
+          "charge": 960,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 33.00,
+          "to": 33.00,
+          "charge": 990,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }	
+      ]
+    },
+	{
+      "id": "5",
+      "buildingType": "MIXED",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "SEAT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to":  0.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 1.00,
+          "to": 1.00,
+          "charge": 30,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 2.00,
+          "to": 2.00,
+          "charge": 60,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 3.00,
+          "to": 3.00,
+          "charge": 90,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 4.00,
+          "to": 4.00,
+          "charge": 120,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 5.00,
+          "to": 5.00,
+          "charge": 150,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 6.00,
+          "to": 6.00,
+          "charge": 180,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 7.00,
+          "to": 7.00,
+          "charge": 210,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 8.00,
+          "to": 8.00,
+          "charge": 240,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 9.00,
+          "to": 9.00,
+          "charge": 270,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 10.00,
+          "to": 10.00,
+          "charge": 300,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 11.00,
+          "to": 11.00,
+          "charge": 330,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 12.00,
+          "to": 12.00,
+          "charge": 360,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 13.00,
+          "to": 13.00,
+          "charge": 390,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 14.00,
+          "to": 14.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 15.00,
+          "to": 15.00,
+          "charge": 450,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 16.00,
+          "to": 16.00,
+          "charge": 480,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 17.00,
+          "to": 17.00,
+          "charge": 510,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 18.00,
+          "to": 18.00,
+          "charge": 540,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 19.00,
+          "to": 19.00,
+          "charge": 570,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 20.00,
+          "to": 20.00,
+          "charge": 600,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 21.00,
+          "to": 21.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 22.00,
+          "to": 22.00,
+          "charge": 660,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 23.00,
+          "to": 23.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 24.00,
+          "to": 24.00,
+          "charge": 720,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 25.00,
+          "to": 25.00,
+          "charge": 750,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 26.00,
+          "to": 26.00,
+          "charge": 780,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 27.00,
+          "to": 27.00,
+          "charge": 810,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 28.00,
+          "to": 28.00,
+          "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 29.00,
+          "to": 29.00,
+          "charge": 870,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 30.00,
+          "to": 30.00,
+          "charge": 900,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 31.00,
+          "to": 31.00,
+          "charge": 930,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 32.00,
+          "to": 32.00,
+          "charge": 960,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+		{
+          "from": 33.00,
+          "to": 33.00,
+          "charge": 990,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }	
       ]
     }
   ]
