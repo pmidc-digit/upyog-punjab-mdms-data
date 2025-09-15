@@ -72,6 +72,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.banur",
+      "name": "Banur",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.badhnikalan",
       "name": "Badhni Kalan",
       "isautodemand": "false"
@@ -269,7 +274,7 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.mahilpur",
@@ -324,7 +329,7 @@
     {
       "code": "pb.raikot",
       "name": "Raikot",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ramdass",
