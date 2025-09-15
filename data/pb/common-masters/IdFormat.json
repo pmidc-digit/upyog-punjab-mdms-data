@@ -810,7 +810,7 @@
     },
     {
       "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
-      "idname": "noc-services.receipt.id"
+      "idname": "obpas_noc.receipt.id"
     }
 
 
