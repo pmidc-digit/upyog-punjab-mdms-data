@@ -809,7 +809,7 @@
       "idname": "noc.application.number"
     },
     {
-      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
       "idname": "noc-services.receipt.id"
     }
 
