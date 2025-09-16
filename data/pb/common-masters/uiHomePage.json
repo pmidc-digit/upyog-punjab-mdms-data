@@ -67,6 +67,13 @@
               "label": "ACTION_TEST_SWACH_SERVICES",
               "enabled": true,
               "navigationUrl": "/digit-ui/citizen/swach-home"
+            },
+              {
+              "code": "CITIZEN_SERVICE_BUILDING_PLAN_APPROVAL",
+              "name": "Building Plan Approval",
+              "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/obpas-home"
             }
           ]
         },
