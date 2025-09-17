@@ -54,7 +54,7 @@
       
       "code": "pb.ropar",
       "name": "Ropar",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.derabassi",
@@ -132,9 +132,14 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.batala",
+      "name": "Batala",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.bhadson",
       "name": "Bhadson",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhawanigarh",
@@ -274,7 +279,7 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.mahilpur",
@@ -294,7 +299,7 @@
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.mudki",
