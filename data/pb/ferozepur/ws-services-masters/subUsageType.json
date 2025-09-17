@@ -26,25 +26,43 @@
       "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
       "active": true
     },
-    {
+	{
+      "code": "USAGE_SCHOOL_NA",
+      "name": "SCHOOL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+	{
+      "code": "USAGE_COLLEGE_NA",
+      "name": "COLLEGE",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+	{
+      "code": "USAGE_HOTEL_NA",
+      "name": "HOTEL",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+	{
+      "code": "USAGE_SERVICESTATION_NA",
+      "name": "SERVICESTATION",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+	{
+      "code": "USAGE_AHATAS_NA",
+      "name": "AHATAS",
+      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true
+    },
+	{
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
       "parentUsageType": "MIXED",
       "active": true
     },
-    {
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL",
-      "active": true
-    },
-    {
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.OTHERS",
-      "active": true
-    },
-    {
+	{
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
       "parentUsageType": "MIXED",
@@ -53,25 +71,37 @@
 	{
       "code": "USAGE_COMM_NA",
       "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     },
 	{
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
+      "code": "USAGE_SCHOOL_NA",
+      "name": "SCHOOL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     },
 	{
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
+      "code": "USAGE_COLLEGE_NA",
+      "name": "COLLEGE",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     },
 	{
-      "code": "USAGE_COMM_NA",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL.AHATAS.AHATAS",
+      "code": "USAGE_HOTEL_NA",
+      "name": "HOTEL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
+	{
+      "code": "USAGE_SERVICESTATION_NA",
+      "name": "SERVICESTATION",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
+      "active": true
+    },
+	{
+      "code": "USAGE_AHATAS_NA",
+      "name": "AHATAS",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     }
   ]

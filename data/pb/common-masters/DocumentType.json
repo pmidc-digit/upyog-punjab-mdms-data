@@ -159,6 +159,78 @@
       {
         "code": "NOC.AIRPORT.CERTIFICATE",
         "active": true
-      }
+      },
+	{
+		"code": "OWNERSHIP_DOCUMENT_FARD_JAMABANDI_REGISTERED_DEED_POA",
+		"active": true
+	},
+	{
+		"code": "DETAILED_LOCATION_PLAN",
+		"active": true
+	},
+	{
+		"code": "OWNER_SIGNED_UNDERTAKING",
+		"active": true
+	},
+	{
+		"code": "FIRM_DOCUMENTS_IF_ANY",
+		"active": true
+	},
+	{
+		"code": "IMPROVEMENT_TRUST_SCHEME_NOC",
+		"active": true
+	},
+	{
+		"code": "INDEMNITY_BOND_FOR_BASEMENT",
+		"active": true
+	},
+	{
+		"code": "STRUCTURE_STABILITY_SAFETY_CERTIFICATE",
+		"active": true
+	},
+	{
+		"code": "STRUCTURE_DRAWINGS",
+		"active": true
+	},
+	{
+		"code": "SELF_DECLARATION_CATEGORY_OF_INDUSTRY",
+		"active": true
+	},
+	{
+		"code": "NOC_NEIGHBOURING_PLOT_BUILDING_BASEMENT",
+		"active": true
+	},
+	{
+		"code": "NOC_FIRE_DEPARTMENT",
+		"active": true
+	},
+	{
+		"code": "NOC_NHAI_PWD",
+		"active": true
+	},
+	{
+		"code": "NOC_AIRPORT_AUTHORITY",
+		"active": true
+	},
+	{
+		"code": "NOC_GAS_AUTHORITY_OF_INDIA",
+		"active": true
+	},
+	{
+		"code": "ANY_OTHER_NOC",
+		"active": true
+	},
+	{
+		"code": "ANY_OTHER_SUPPORTING_DOCUMENT",
+		"active": true
+	},
+	{
+		"code": "LAST_PROPERTY_TAX",
+		"active": true
+	},
+	{
+		"code": "SITEPHOTOGRAPH_ONE",
+		"active": true
+	}
   ]
 }

@@ -1,25 +1,27 @@
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
-  "Ots": [ 
- { 
-    "isOTSEnabled": true,
-      "OTSEndDate": "30/09/2027",
-      "rate": 50,
-       "startingDay": "01/03/2024"
-     },
-     { 
-    "isOTSEnabled": true,
-      "OTSEndDate": "01/10/2021",
-      "rate": 80,
-       "startingDay": "31/07/2021"
-     },
-
-       { 
-    "isOTSEnabled": true,
+  "Ots": [
+         {    
+      "isOTSEnabled": true,
+       "OTSEndDate": "01/10/2027",
+      "interestRatePercent": 50,
+      "penaltyRatePercent": 10,
+      "financialYearsApplicable": "2024-25"
+    },
+    {
+      "isOTSEnabled": true,
+      "OTSEndDate": "01/10/2027",
+      "interestRatePercent": 20,
+      "penaltyRatePercent": 30,
+      "financialYearsApplicable": "2021-22"
+    },
+    {
+      "isOTSEnabled": true,
       "OTSEndDate": "31/05/2018",
-      "rate": 68,
-       "startingDay": "01/04/2018"
-     }
+      "interestRatePercent": 67,
+      "penaltyRatePercent": 87,
+      "financialYearsApplicable": "2018-19"
+    }
   ]
-  }
+}

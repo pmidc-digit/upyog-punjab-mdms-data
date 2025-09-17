@@ -1,7 +1,36 @@
 {
+	"PetService": {
+		  "CalculationType": {
+		    "masterName": "BreedType",
+		    "isStateLevel": true,
+		    "uniqueKeys": [
+		       "$.code"
+		    ]
+		  }
+		},
+	"BPA": {
+	  "CalculationType": {
+	    "masterName": "CalculationType",
+	    "isStateLevel": true,
+	    "uniqueKeys": [
+	       "$.applicationType",
+	        "$.serviceType",
+	        "$.riskType",
+	        "$.feeType"
+	    ]
+	  },
+	  "ChargesType": {
+	    "masterName": "ChargesType",
+	    "isStateLevel": true,
+	    "uniqueKeys": [
+	       "$.code",
+		   "$name"
+	    ]
+	  }
+	},
   "StakeholderRegistraition": {
     "TradeTypetoRoleMapping": {
-      "masterName": "aTradeTypetoRoleMapping",
+      "masterName": "TradeTypetoRoleMapping",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.tradeType"
@@ -1097,6 +1126,59 @@
       "masterName": "NdcFee",
       "isStateLevel": false,
       "uniqueKeys": []
+    }
+  },
+  "noc": {
+    "NocFee": {
+      "masterName": "NocFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
+  "Advertisement": {
+    "Advertisements": {
+      "masterName": "Advertisements",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.id"
+      ]
+    },
+    "AdType": {
+      "masterName": "AdType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+          "$.code"
+      ]
+    },
+    "Location": {
+      "masterName": "Location",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CalculationType": {
+      "masterName": "CalculationType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.location"
+      ]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TaxAmount": {
+      "masterName": "TaxAmount",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.applicationType",
+        "$.serviceType",
+        "$.feeType"
+      ]
     }
   }
 }

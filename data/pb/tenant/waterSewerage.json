@@ -5,7 +5,7 @@
     {
       "code": "pb.adampur",
       "name": "Adampur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ahmedgarh",
@@ -92,10 +92,17 @@
       "name": "Bathinda",
       "isautodemand": "false"
     },
+
+       {
+      "code": "pb.batala",
+      "name": "Batala",
+      "isautodemand": "true"
+    },
+
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.begowal",
@@ -160,7 +167,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.dirba",

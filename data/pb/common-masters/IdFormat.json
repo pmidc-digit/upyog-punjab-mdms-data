@@ -734,6 +734,10 @@
       "idname": "bpa.low_risk_permit_fee.receipt.id"
     },
     {
+      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+      "idname": "bpa.permitnumber"
+    },
+    {
       "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "bpa.nc_oc_app_fee.receipt.id"
     }
@@ -760,7 +764,11 @@
       "idname": "advertisement.booking.id"
     },
     {
-      "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
+      "format": "ADV/[CITY.CODE]/[seq_adv_receipt_id]",
+      "idname": "adv-services.receipt.id"
+    },
+    {
+      "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_NDC_ID]",
       "idname": "ndc.applicationid"
     },
     {
@@ -784,8 +792,27 @@
       "idname": "ptr.registrationid"
     },
     {
-      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "format": "PB-PTR[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+      "idname": "ptr.tokennumber"
+
+    },
+    {
+      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID]",
       "idname": "ndc.receipt.id"
+    },
+    {
+      "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID]",
+      "idname": "pet-services.receipt.id"
+    },
+    {
+      "format": "PB-NOC-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APPLICATION]",
+      "idname": "noc.application.number"
+    },
+    {
+      "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
+      "idname": "obpas_noc.receipt.id"
     }
+
+
   ]
 }

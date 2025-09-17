@@ -6993,6 +6993,16 @@
       "order": "1",
       "isRequired": false
     },
+	{
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_PERMIT_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+	    },
     {
       "category": "FEE",
       "service": "BPA.NC_OC_SAN_FEE",
@@ -7073,6 +7083,86 @@
       "order": "1",
       "isRequired": false
     },
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Processing Fees",
+	  "code": "BPA_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA CLU Charges",
+	  "code": "BPA_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA External Development Charges",
+	  "code": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Urban Development Cess",
+	  "code": "BPA_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Mining Charges",
+	  "code": "BPA_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Rain Water Harvesting Charges",
+	  "code": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Clubbing Charges",
+	  "code": "BPA_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Sub-Division Charges",
+	  "code": "BPA_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
     {
       "category": "FEE",
       "service": "chb-services",
@@ -7223,6 +7313,26 @@
       "name": "Sewerage application other charge fee",
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Pet Registration Fee",
+      "code": "PET_REGISTRATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false
+    },
+	  {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "No Object Certificate Fee",
+      "code": "NOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }

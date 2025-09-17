@@ -433,6 +433,11 @@
       "name": "BPA Services Approver",
       "description": "BPA Services workflow Approver"
     },
+	{
+      "code": "BPA_DOC_VERIFIER",
+      "name": "BPA Doc verifier",
+      "description": "BPA Services workflow document verifier"
+    },
     {
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
@@ -787,6 +792,30 @@
       "code": "NDCCEMP",
       "name": "NDC Counter Employee",
       "description": "NDC Counter Employee"
+    },{
+      "code": "NDC_DOC_VERIFIER",
+      "name": "NDC Document Verifier",
+      "description": "No Dues Document Verifier"
+    },{
+      "code": "NDC_PT_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Property "
+    },{
+      "code": "NDC_WS_SW_VERIFIER",
+      "name": "NDC Water and Sewerage Verifier",
+      "description": "No Dues Verifier for Water and Sewerage Service"
+    },{
+      "code": "NDC_BPA_VERIFIER",
+      "name": "NDC BPA Verifier",
+      "description": "No Dues Verifier for BPA Service"
+    },{
+      "code": "NDC_TL_VERIFIER",
+      "name": "NDC Trade License Verifier",
+      "description": "No Dues Verifier for Trade License"
+    },{
+      "code": "NDC_APPROVER",
+      "name": "NDC Approver",
+      "description": "No Dues Certificate Approver"
     },
     {
       "code": "NDC_REC_CANCEL",
@@ -797,7 +826,56 @@
 	  "code": "ATP_APPROVER",
 	  "name": "BPAREG ATP Approver",
 	  "description": "BPA Stakeholder workflow ATP Approver"
-	}
-	
+	},
+    {
+      "code": "PET_REG_EMPLOYEE",
+      "name": "Pet Registration Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_DOC_VERIFIER",
+      "name": "Pet Document Verifier",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_APPROVER",
+      "name": "Pet Application Approver",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_COLLECTOR",
+      "name": "Pet Payment Collector",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "ADV_VERIFIER",
+      "name": "Advertisement Verifier",
+      "description": "Employee who verifies Advertisement applications"
+    },
+    {
+      "code": "ADV_APPROVER",
+      "name": "Advertisement Approver",
+      "description": "Employee who approves Advertisement applications"
+    },
+    {
+      "code": "ADV_EMPLOYEE",
+      "name": "Advertisement Employee",
+      "description": "Advertisement Employee"
+    },
+    {
+       "code": "CHB_CEMP",
+      "name": "CommunityHall Employee",
+      "description": "CommunityHallBooking Employee"
+    },
+    {
+      "code": "CHB_VERIFIER",
+      "name": "CommunityHall Verifier",
+      "description": "CommunityHallBooking Verifier"
+    },
+    {
+      "code": "CHB_FIELD_INSPECTOR",
+      "name": "CommunityHall Field Inspector",
+      "description": "CommunityHallBooking Field Inspector"
+    }
   ]
 }

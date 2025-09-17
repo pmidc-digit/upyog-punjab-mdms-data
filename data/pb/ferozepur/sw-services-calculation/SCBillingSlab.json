@@ -1,229 +1,364 @@
 {
-   "tenantId":"pb.ferozepur",
-   "moduleName":"sw-services-calculation",
-   "WCBillingSlab":[
-      {
-         "id":"1",
-         "buildingType":"RESIDENTIAL",
-         "waterSubUsageType": "USAGE_DOM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":125.00,
-               "charge":0,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":125.01,
-               "to":250.00,
-               "charge":690,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":1000000.00,
-               "charge":918,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-      {
-         "id":"2",
-         "buildingType":"COMMERCIAL",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":1380,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":1836,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
+  "tenantId": "pb.ferozepur",
+  "moduleName": "sw-services-calculation",
+  "SCBillingSlab": [
+    {
+      "id": "1",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        
+        {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 918,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+	  ]
+	}, 
+    {
+      "id": "2",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1836,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "3",
+      "buildingType": "MIXED",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1836,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "4",
+      "buildingType": "MIXED",
+      "waterSubUsageType": "USAGE_DOM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 0,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 690,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+           {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 918,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "5",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_SCHOOL_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 9000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "6",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_COLLEGE_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 15000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "7",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_HOTEL_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 18000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "8",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_SERVICESTATION_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 24000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "9",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_AHATAS_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 24000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "10",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+         {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1836,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
 	  {
-         "id":"3",
-         "buildingType":"INSTITUTIONAL",
-         "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":1380,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":1836,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"4",
-         "buildingType":"MIXED",
-         "waterSubUsageType": "USAGE_DOM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":690,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":918,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"5",
-         "buildingType":"MIXED",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":1380,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":1836,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"6",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":18000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":18000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"7",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":15000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":15000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"8",
-         "buildingType":"NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":9000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":9000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-	  {
-         "id":"9",
-         "buildingType":"NONRESIDENTIAL.COMMERCIAL.AHATAS.AHATAS",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0.00,
-               "to":250.00,
-               "charge":24000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":250.01,
-               "to":25000.00,
-               "charge":24000,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      }
-   ]
+      "id": "11",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 1380,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 250.01,
+          "to": 10000.00,
+          "charge": 1836,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_SCHOOL_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 9000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "13",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_COLLEGE_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 15000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "14",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_HOTEL_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 18000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "15",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_SERVICESTATION_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 24000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+	{
+      "id": "16",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_AHATAS_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 100000.00,
+          "charge": 24000,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    }	
+  ]
 }
+
