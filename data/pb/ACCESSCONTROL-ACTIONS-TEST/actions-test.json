@@ -16597,6 +16597,21 @@
       "navigationURL": "report/rainmaker-pt/PT_RECEIPTREGISTER_REPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 3012,
+      "name": "Defaulter report with tax due",
+      "url": "url",
+      "displayName": "Defaulter report with tax due",
+      "orderNumber": 8,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Defaulter_report_with_taxdue",
+      "navigationURL": "report/rainmaker-pt/Defaulter_report_with_taxdue",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }    
   ]
 }
