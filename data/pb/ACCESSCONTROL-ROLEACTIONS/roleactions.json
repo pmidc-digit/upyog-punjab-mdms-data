@@ -62952,6 +62952,96 @@
       "actionid": 883345,
       "actioncode": "",
       "tenantId": "pb"
-    }    	  
+    },
+      {
+        "rolecode": "CHB_CEMP",
+        "actionid": 5555,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_CEMP",
+        "actionid": 5556,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_CEMP",
+        "actionid": 5557,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_CEMP",
+        "actionid": 1945,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+      "rolecode": "CHB_CEMP",
+      "actionid": 5558,
+      "actioncode": "",
+      "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_VERIFIER",
+        "actionid": 5555,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_VERIFIER",
+        "actionid": 5556,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_VERIFIER",
+        "actionid": 5557,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_FIELD_INSPECTOR",
+        "actionid": 5555,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_FIELD_INSPECTOR",
+        "actionid": 5556,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "CHB_FIELD_INSPECTOR",
+        "actionid": 5557,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 5559,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 5559,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC REPORTS",
+      "actionid": 5559,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 5559,
+      "actioncode": "",
+      "tenantid": "pb"
+    }            		
   ]
 }

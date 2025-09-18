@@ -67,6 +67,62 @@
               "label": "ACTION_TEST_SWACH_SERVICES",
               "enabled": true,
               "navigationUrl": "/digit-ui/citizen/swach-home"
+            },
+            {
+              "code": "OBPAS",
+              "name": "Building Plan Approval",
+              "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/obps-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_NDC",
+              "name": "No Due Cretificate",
+              "label": "ACTION_TEST_NDC",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/ndc-home"
+            },
+              {
+              "code": "CITIZEN_SERVICE_NOC",
+              "name": "No Objection Cretificate",
+              "label": "ACTION_TEST_NOC",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/noc-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_SV",
+              "name": "Street Vending",
+              "label": "ACTION_TEST_SV",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/sv-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_ADS",
+              "name": "Advertisement and Hoarding Services",
+              "label": "ACTION_TEST_ADS",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/sv-home"
+            },
+              {
+              "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
+              "name": "Community Hall Booking",
+              "label": "ACTION_TEST_CHB",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/chb-home"
+            },
+            {
+              "code": "CITIZEN_SERVICE_RENT_AND_LEASE",
+              "name": "Rent and Lease",
+              "label": "ACTION_TEST_RENT_AND_LEASE",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/rentandlease-home"
+            },
+             {
+              "code": "CITIZEN_SERVICE_MIS_COLLECTION",
+              "name": "MCollect",
+              "label": "ACTION_TEST_MCOLLECT",
+              "enabled": true,
+              "navigationUrl": "/digit-ui/citizen/mcollect-home"
             }
           ]
         },

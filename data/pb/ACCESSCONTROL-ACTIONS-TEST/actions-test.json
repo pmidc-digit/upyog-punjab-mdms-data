@@ -23339,6 +23339,65 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 5555,
+      "name": "create community hall booking application",
+      "url": "/chb-services/booking/v1/_create",
+      "displayName": "create chb Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5556,
+      "name": "search community hall booking application",
+      "url": "/chb-services/booking/v1/_search",
+      "displayName": "search chb Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5557,
+      "name": "update community hall booking application",
+      "url": "/chb-services/booking/v1/_update",
+      "displayName": "update chb Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "chb-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5558,
+      "name": "CHB Collection Search Receipt",
+      "url": "/collection-services/payments/chb-services/_search",
+      "displayName": "Search CHB Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5559,
+      "name": "Defaulter report with tax due",
+      "url": "url",
+      "displayName": "Defaulter report with tax due",
+      "orderNumber": 13,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Defaulter_report_with_taxdue",
+      "navigationURL": "report/rainmaker-pt/Defaulter_report_with_taxdue",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }    
   ]
 }

@@ -861,6 +861,21 @@
       "code": "ADV_EMPLOYEE",
       "name": "Advertisement Employee",
       "description": "Advertisement Employee"
+    },
+    {
+       "code": "CHB_CEMP",
+      "name": "CommunityHall Employee",
+      "description": "CommunityHallBooking Employee"
+    },
+    {
+      "code": "CHB_VERIFIER",
+      "name": "CommunityHall Verifier",
+      "description": "CommunityHallBooking Verifier"
+    },
+    {
+      "code": "CHB_FIELD_INSPECTOR",
+      "name": "CommunityHall Field Inspector",
+      "description": "CommunityHallBooking Field Inspector"
     }
   ]
 }

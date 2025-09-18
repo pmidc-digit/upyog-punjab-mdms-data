@@ -60,7 +60,7 @@
     {
       "code": "pb.balachaur",
       "name": "Balachaur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.banga",
@@ -92,10 +92,17 @@
       "name": "Bathinda",
       "isautodemand": "false"
     },
+
+       {
+      "code": "pb.batala",
+      "name": "Batala",
+      "isautodemand": "true"
+    },
+
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.begowal",
@@ -160,7 +167,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.dirba",
