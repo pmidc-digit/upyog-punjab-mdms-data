@@ -21389,6 +21389,22 @@
       "rightIcon": ""
     },
     {
+      "id": 2470,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": "NDC.NDC Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/ndc/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 890049,
       "name": "GCMODULE",
       "url": "url",
