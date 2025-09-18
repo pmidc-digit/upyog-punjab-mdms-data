@@ -16600,15 +16600,15 @@
     },
     {
       "id": 3012,
-      "name": "Defaulter report with tax due",
+      "name": "Defaulter_report_with_taxdue",
       "url": "url",
       "displayName": "Defaulter report with tax due",
-      "orderNumber": 9,
+      "orderNumber": 13,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Other Reports.Defaulter_report_with_taxdue",
+      "path": "Property Tax.PT Reports.Defaulter_report_with_taxdue",
       "navigationURL": "report/rainmaker-pt/Defaulter_report_with_taxdue",
       "leftIcon": "action:assignment",
       "rightIcon": ""
