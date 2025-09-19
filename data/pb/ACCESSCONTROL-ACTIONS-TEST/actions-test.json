@@ -16603,15 +16603,15 @@
       "name": "Defaulter_report_with_taxdue",
       "url": "url",
       "displayName": "Defaulter report with tax due",
-      "orderNumber": 13,
+      "orderNumber": 3,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Defaulter_report_with_taxdue",
+      "path": "PDC Reports.Defaulter_report_with_taxdue",
       "navigationURL": "report/rainmaker-pt/Defaulter_report_with_taxdue",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    
+    }   
   ]
 }
