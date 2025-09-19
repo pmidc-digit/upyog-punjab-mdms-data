@@ -1,0 +1,79 @@
+{
+  "tenantId": "pb",
+  "moduleName": "NOC",
+  "AllNocCategories": {
+    "BuildingCategory": [
+      {
+        "name": "Residential Plotted",
+        "code": "RESIDENTIAL_PLOTTED",
+        "active": true
+      },
+      {
+        "name": "Residential Independent Floors",
+        "code": "RESIDENTIAL_INDEPENDENT_FLOORS",
+        "active": true
+      },
+      {
+        "name": "Commercial",
+        "code": "COMMERCIAL",
+        "active": true
+      },
+      {
+        "name": "Industrial / Warehouse Building",
+        "code": "INDUSTRIAL_WAREHOUSE_BUILDING",
+        "active": true
+      }
+    ],
+    "BuildingType": [
+      {
+        "name": "Vacant Land",
+        "code": "VACANT",
+        "active": true
+      },
+      {
+        "name": "Built Up",
+        "code": "BUILTUP",
+        "active": true
+      }
+    ],
+    "RoadType": [
+      {
+        "name": "National Highway",
+        "code": "NATIONAL_HIGHWAY",
+        "active": true
+      },
+      {
+        "name": "State Highway",
+        "code": "STATE_HIGHWAY",
+        "active": true
+      },
+      {
+        "name": "Major District Road",
+        "code": "MAJOR_DISTRICT_ROAD",
+        "active": true
+      },
+      {
+        "name": "Bypass/Scheduled Road",
+        "code": "BYPASS_SCHEDULED_ROAD",
+        "active": true
+      },
+      {
+        "name": "Other Road",
+        "code": "OTHER_ROAD",
+        "active": true
+      }
+    ],
+    "NocType": [
+      {
+        "name": "Provisional",
+        "code": "PROVISIONAL",
+        "active": true
+      },
+      {
+        "name": "Final",
+        "code": "FINAL",
+        "active": true
+      }
+    ]
+  }
+}
