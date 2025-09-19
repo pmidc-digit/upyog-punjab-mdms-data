@@ -89,6 +89,23 @@
          ]
       },
       {
+         "id":"7",
+         "buildingType":"NONRESIDENTIAL",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":99999999,
+               "charge":900,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
       "id": "5",
       "buildingType": "OTHERS",
       "waterSubUsageType": "USAGE_COMM_NA",
