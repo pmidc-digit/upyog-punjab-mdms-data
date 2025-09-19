@@ -1133,7 +1133,12 @@
       "masterName": "NocFee",
       "isStateLevel": true,
       "uniqueKeys": []
-    }
+    },
+	"ChargesType": {
+	  "masterName": "ChargesType",
+	  "isStateLevel": true,
+	  "uniqueKeys": []
+	}
   },
   "Advertisement": {
     "Advertisements": {
