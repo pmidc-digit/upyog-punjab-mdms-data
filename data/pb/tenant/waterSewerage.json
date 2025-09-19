@@ -84,7 +84,7 @@
     {
       "code": "pb.balachaur",
       "name": "Balachaur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.banga",
@@ -204,7 +204,7 @@
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ghagga",
@@ -224,7 +224,7 @@
     {
       "code": "pb.itpatiala",
       "name": "Improvement Trust Patiala",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.jalalabad",
@@ -281,10 +281,20 @@
       "name": "Machhiwara",
       "isautodemand": "true"
     },
+     {
+      "code": "pb.malerkotla",
+      "name": "Malerkotla",
+      "isautodemand": "true"
+    },
     {
       "code": "pb.mahilpur",
       "name": "Mahilpur",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.mandigobindgarh",
+      "name": "Mandigobindgarh",
+      "isautodemand": "true"
     },
     {
       "code": "pb.mamdot",
