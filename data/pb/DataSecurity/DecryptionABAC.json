@@ -6,6 +6,35 @@
       "key": "ALL_ACCESS",
       "roleAttributeAccessList": [
         {
+          "rolecode": "NDCAPPLICATION",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/emailid"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },              
+        {
           "roleCode": "CITIZEN",
           "attributeAccessList": [
             {
