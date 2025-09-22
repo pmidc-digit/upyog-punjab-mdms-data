@@ -23295,7 +23295,7 @@
     {
       "id": 883342,
       "name": "Noc Collection Search Reciept",
-      "url": "/collection-services/payments/noc-services/_search",
+      "url": "/collection-services/payments/obpas_noc/_search",
       "displayName": "Search Payment",
       "orderNumber": 0,
       "enabled": false,
