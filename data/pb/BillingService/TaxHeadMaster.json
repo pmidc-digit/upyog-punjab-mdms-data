@@ -7333,6 +7333,156 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
-    }
+    },
+	{
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Malwa fees",
+	  "code": "NOC_MALBA_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Labour cess",
+	  "code": "NOC_LABOUR_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Water fees",
+	  "code": "NOC_WATER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Gaushala charge fees",
+	  "code": "NOC_GAUSHALA_CHARGES_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC less adjustment plot",
+	  "code": "NOC_LESS_ADJUSMENT_PLOT",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Development fees",
+	  "code": "NOC_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Other fees",
+	  "code": "NOC_OTHER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Processing Fees",
+	  "code": "NOC_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC CLU Charges",
+	  "code": "NOC_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC External Development Charges",
+	  "code": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Urban Development Cess",
+	  "code": "NOC_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Mining Charges",
+	  "code": "NOC_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Rain Water Harvesting Charges",
+	  "code": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Clubbing Charges",
+	  "code": "NOC_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Sub-Division Charges",
+	  "code": "NOC_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	}
   ]
 }

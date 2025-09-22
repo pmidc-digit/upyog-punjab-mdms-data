@@ -1,6 +1,6 @@
 {
   "tenantId": "pb",
-  "moduleName": "NOC",
+  "moduleName": "noc",
   "ChargesType": [
      {
       "code": "101",
@@ -13,19 +13,19 @@
 	  "Charges": [
 		{
 			"name": "Processing Fees",
-			"rate": 31.0,
+			"rate": 5.0,
 			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
+			"applicable": true	
 		},
 		{
 			"name": "CLU Charges",
-			"rate": 140.0,
+			"rate": 5.0,
 			"taxHeadCode": "NOC_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
-			"rate": 217.0,
+			"rate": 5.0,
 			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
@@ -87,7 +87,7 @@
 		},
 		{
 			"name": "Labour Cess",
-			"rate": 11.0,
+			"rate": 5.0,
 			"taxHeadCode": "NOC_LABOUR_CESS",
 			"applicable": true
 		},
