@@ -65,6 +65,13 @@
       "required": true,
       "active": true,
       "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERDOCUMENT",
+      "documentType": "OWNER",
+      "required":false,
+      "active": true,
+      "description": "OWNER.ANYOTHERDOCUMENT.ANYOTHERDOCUMENT_DESCRIPTION"
     }
    
   ]
