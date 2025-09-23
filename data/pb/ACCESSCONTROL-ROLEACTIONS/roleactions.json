@@ -61684,6 +61684,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PET_DOC_VERIFIER",
       "actionid": 2609,
       "actioncode": "",
@@ -61696,6 +61702,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PET_DOC_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PET_APPROVER",
       "actionid": 2609,
       "actioncode": "",
@@ -61704,6 +61716,12 @@
     {
       "rolecode": "PET_APPROVER",
       "actionid": 2610,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_APPROVER",
+      "actionid": 3005,
       "actioncode": "",
       "tenantId": "pb"
     },
