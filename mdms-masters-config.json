@@ -2,12 +2,19 @@
 	"PetService": {
 		  "CalculationType": {
 		    "masterName": "BreedType",
-		    "isStateLevel": true,
+		    "isStateLevel": false,
 		    "uniqueKeys": [
 		       "$.code"
 		    ]
-		  }
-		},
+		  },
+          "ApplicationType": {
+            "masterName": "ApplicationType",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          }
+    },
 	"BPA": {
 	  "CalculationType": {
 	    "masterName": "CalculationType",

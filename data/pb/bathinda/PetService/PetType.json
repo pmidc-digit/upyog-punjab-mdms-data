@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb.mohali",
+  "moduleName": "PetService",
+  "PetType": [
+    {
+      "name": "Dog",
+      "code": "DOG",
+      "active": true
+    },
+    {
+      "name": "Cat",
+      "code": "CAT",
+      "active": true
+    },
+    {
+      "name": "Bird",
+      "code": "BIRD",
+      "active": true
+    }
+  ]
+}
