@@ -21375,15 +21375,16 @@
     },
     {
       "id": 890037,
-      "name": "NDCMODULE",
+      "name": "NDC Inbox",
       "url": "url",
-      "displayName": "NDCMODULE",
+      "displayName": "No Due Certificate Inbox",
       "orderNumber": 1,
-      "parentModule": "NDC",
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
       "enabled": true,
       "serviceCode": "NDC",
       "code": "null",
-      "path": "NDCMODULE",
+      "path": "NDC.NDC Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/ndc/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
@@ -23398,6 +23399,6 @@
       "navigationURL": "report/rainmaker-pt/Defaulter_report_with_taxdue",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    
+    }
   ]
 }
