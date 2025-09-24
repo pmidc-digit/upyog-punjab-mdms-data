@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "PetService",
+  "GenderType": [
+    {
+      "name": "Male",
+      "code": "MALE",
+      "active": true,
+      "i18nKey": "PTR_GENDER_MALE"
+    },
+    {
+      "name": "Female",
+      "code": "FEMALE",
+      "active": true,
+      "i18nKey": "PTR_GENDER_FEMALE"
+    }
+  ]
+}
