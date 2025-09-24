@@ -16578,7 +16578,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Payment_Collection.Receipt Register_without_locality_LIVE",
+      "path": "Property Tax.PT Reports.Payments_Collection.Receipt Register_without_locality_LIVE",
       "navigationURL": "report-v2/rainmaker-pt/ReceiptRegister_without_locality_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16593,7 +16593,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Payment_Collection.PT_RECEIPTREGISTER_REPORT_V2",
+      "path": "Property Tax.PT Reports.Payments_Collection.PT_RECEIPTREGISTER_REPORT_V2",
       "navigationURL": "report/rainmaker-pt/PT_RECEIPTREGISTER_REPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
