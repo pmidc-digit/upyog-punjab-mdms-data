@@ -29771,6 +29771,36 @@
       "actionid": 3012,
       "actioncode": "",
       "tenantId": "pb"
-    }   	  
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 3012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },	  
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 3014,
+      "actioncode": "",
+      "tenantId": "pb"
+    }    	  
    ]
 }
