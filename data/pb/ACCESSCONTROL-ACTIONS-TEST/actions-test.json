@@ -11118,6 +11118,43 @@
       "rightIcon": ""
     },
     {
+      "id": 2243,
+      "name": "Outstanding Arrears Report",
+      "url": "url",
+      "displayName": "Outstanding Arrears Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.OutstandingArrears",
+      "navigationURL": "report/rainmaker-ws/OutstandingArrears",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2244,
+      "name": "Outstanding Arrears Report",
+      "url": "/report/rainmaker-ws/OutstandingArrears/metadata/_get",
+      "displayName": "Dead/Dameged Meter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2245,
+      "name": "Outstanding Arrears Report",
+      "url": "/report/rainmaker-ws/OutstandingArrears/_get",
+      "displayName": "Dead/Dameged Meter Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },    
+    {
       "id": 2246,
       "name": "WS Report",
       "url": "/report/rainmaker-ws/JE_PendencyReport/_get",
