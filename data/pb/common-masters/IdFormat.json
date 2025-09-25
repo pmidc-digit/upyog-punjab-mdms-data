@@ -759,6 +759,10 @@
       "format": "CHB-[CITY.CODE]-[seq_chb_booking_id]",
       "idname": "communityhall.booking.id"
     },
+    {
+      "format": "CHB/[CITY.CODE]/[seq_chb_receipt_id]",
+      "idname": "chb-services.receipt.id"
+    },
 	  {
       "format": "ADV-[CITY.CODE]-[seq_adv_booking_id]",
       "idname": "advertisement.booking.id"
