@@ -50,7 +50,7 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.derabassi",
@@ -195,7 +195,7 @@
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ghagga",
@@ -215,7 +215,7 @@
     {
       "code": "pb.itpatiala",
       "name": "Improvement Trust Patiala",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.jalalabad",
@@ -270,12 +270,12 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.malerkotla",
       "name": "Malerkotla",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mahilpur",
@@ -285,7 +285,7 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mamdot",
@@ -300,7 +300,7 @@
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mudki",
@@ -415,6 +415,11 @@
     {
       "code": "pb.zira",
       "name": "Zira",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.nurmahal",
+      "name": "Nurmahal",
       "isautodemand": "true"
     }
   ]
