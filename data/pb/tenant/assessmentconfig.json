@@ -4462,13 +4462,19 @@
       "isRented": false
     },
 	{
-      "tenant": "pb.gurdaspur",
+      "tenant": "pb.pathankot",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.mohali",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
-      "tenant": "pb.pathankot",
+      "tenant": "pb.gurdaspur",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
