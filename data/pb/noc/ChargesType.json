@@ -465,7 +465,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Office",
+	  "Category": "RESIDENTIAL_PLOTTED",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -580,7 +580,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Commercial",
+	  "Category": "RESIDENTIAL_INDEPENDENT_FLOORS",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -695,7 +695,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Industrial",
+	  "Category": "COMMERCIAL",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -810,7 +810,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Storage",
+	  "Category": "INDUSTRIAL_WAREHOUSE_BUILDING",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
