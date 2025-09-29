@@ -5,7 +5,7 @@
         {
             "fromPlotArea": 500,
             "toPlotArea": 9999999999,
-            "fromBuildingHeight": 15,
+            "fromBuildingHeight": 15.01,
             "toBuildingHeight": 9999999999,
             "riskType": "HIGH",
             "note": "(Heigh 15 Mt or More) or ( Plot area >=800 sq.Mt)"
@@ -14,7 +14,7 @@
             "fromPlotArea": 0,
             "toPlotArea": 500,
             "fromBuildingHeight": 0,
-            "toBuildingHeight": 15,
+            "toBuildingHeight": 15.01,
             "riskType": "LOW",
             "note": "Up to 10.0 mt Height and Plot area upto 300 sq.mt and No basement and No stilt floor and Number of floor <=3"
         }
