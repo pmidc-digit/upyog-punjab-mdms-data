@@ -16687,6 +16687,36 @@
       "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 3018,
+      "name": "PendingPTApplicationsReport_V2",
+      "url": "url",
+      "displayName": "Pending PT Applications Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Application Status.PendingPTApplicationsReport_V2",
+      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3019,
+      "name": "Status Report_V2",
+      "url": "url",
+      "displayName": "Status Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Application Status.StatusReport_V2",
+      "navigationURL": "report/rainmaker-pt/StatusReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }    
   ]
 }
