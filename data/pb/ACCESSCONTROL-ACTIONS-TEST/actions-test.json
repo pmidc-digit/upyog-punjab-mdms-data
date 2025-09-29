@@ -16717,6 +16717,81 @@
       "navigationURL": "report/rainmaker-pt/StatusReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    
+    },
+    {
+      "id": 3020,
+      "name": "Cancelled Receipt Register_V2",
+      "url": "url",
+      "displayName": "Cancelled Receipt Register_V2",
+      "orderNumber": 6,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payments_Collection.CancelledReceiptRegister_V2",
+      "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3021,
+      "name": "ReceiptRegisterSummary_V2",
+      "url": "url",
+      "displayName": "Summary Receipt Register",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payments_Collection.ReceiptRegisterSummary_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3022,
+      "name": "ReceiptRegisterSummary_LIVE",
+      "url": "url",
+      "displayName": "Summary Receipt Register Today",
+      "orderNumber": 8,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payments_Collection.ReceiptRegisterSummary_LIVE",
+      "navigationURL": "report-v2/rainmaker-pt/ReceiptRegisterSummary_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3023,
+      "name": "Account Receipt Register WithoutLocality",
+      "url": "url",
+      "displayName": "Account Receipt Register WithoutLocality",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payments_Collection.ReceiptRegisterShort_WithoutLocality_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort_WithoutLocality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3024,
+      "name": "Online Reconsiliation Report",
+      "url": "url",
+      "displayName": "Online Reconsiliation Report",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payments_Collection.ReceiptRegisterGatewayTxnId_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterGatewayTxnId_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }          
   ]
 }
