@@ -13,6 +13,27 @@
             "uniqueKeys": [
               "$.code"
             ]
+          },
+          "ServiceCharge": {
+            "masterName": "ServiceCharge",
+            "isStateLevel": false,
+            "uniqueKeys": [
+              "$.fromFY"
+            ]
+          },
+          "PenaltyFee": {
+            "masterName": "PenaltyFee",
+            "isStateLevel": false,
+            "uniqueKeys": [
+              "$.fromFY"
+            ]
+          },
+          "InterestAmount": {
+            "masterName": "InterestAmount",
+            "isStateLevel": false,
+            "uniqueKeys": [
+              "$.fromFY"
+            ]
           }
     },
 	"BPA": {

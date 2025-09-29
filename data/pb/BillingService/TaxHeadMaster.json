@@ -7324,7 +7324,37 @@
       "order": "15",
       "isRequired": false
     },
-	  {
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Service Charge",
+      "code": "SERVICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "16",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Penalty Fee",
+      "code": "PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "17",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "pet-services",
+      "name": "Interest Amount",
+      "code": "INTEREST_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "18",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "obpas_noc",
       "name": "No Object Certificate Fee",
