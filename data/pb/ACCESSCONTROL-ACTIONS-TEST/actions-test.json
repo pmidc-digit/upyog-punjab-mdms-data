@@ -16657,6 +16657,36 @@
       "navigationURL": "report/rainmaker-pt/FYCollectionsReport_WithoutLocality_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 3016,
+      "name": "Count_ Usage Category_ V2",
+      "url": "url",
+      "displayName": "Count_ Usage Category",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Data.Count_UsageCategory_V2",
+      "navigationURL": "report/rainmaker-pt/Count_UsageCategory_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 3017,
+      "name": "PT Data Dump_V2",
+      "url": "url",
+      "displayName": "PT Data Dump_V2",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Data.ULBPTDataDumpReport_V2",
+      "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }    
   ]
 }
