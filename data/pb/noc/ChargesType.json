@@ -5,7 +5,7 @@
      {
       "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "RESIDENTIAL_PLOTTED",
+	  "Category": "Residential Plotted",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -120,352 +120,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Educational",
-	  "fromFY": "2025-26",
-	  "startingDate": 1743465600000,
-	  "endingDate": 1774981799000,
-	  "active": true,
-	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Malba Fees",
-			"rate": 0.5,
-			"slabs": [
-				{
-					"fromPlotArea": 0.0,
-					"toPlotArea": 500.0,
-					"rate": 500.0,
-					"note": "Plot area <=500 sq.ft"
-				},
-				{
-					"fromPlotArea": 501.0,
-					"toPlotArea": 1000.0,
-					"rate": 1000.0,
-					"note": "Plot area >= 501 && <=1000 sq.ft"
-				},
-				{
-					"fromPlotArea": 1001.0,
-					"toPlotArea": 1500.0,
-					"rate": 1500.0,
-					"note": "Plot area >= 1001 && <=1500 sq.ft"
-				},
-				{
-					"fromPlotArea": 1501.0,
-					"toPlotArea": 2000.0,
-					"rate": 2000.0,
-					"note": "Plot area >= 1501 && <=2000 sq.ft"
-				}
-			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Water Charges",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Mining Charges",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Guashala Fees",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Labour Cess",
-			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Rain Water Harvesting Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Clubbing Charges",
-			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Sub-Division Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
-			"applicable": true
-		}
-	  ]
-	},
-	 {
-	  "code": "101",
-	  "name": "Bulding Plan",
-	  "Category": "Medical",
-	  "fromFY": "2025-26",
-	  "startingDate": 1743465600000,
-	  "endingDate": 1774981799000,
-	  "active": true,
-	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Malba Fees",
-			"rate": 0.5,
-			"slabs": [
-				{
-					"fromPlotArea": 0.0,
-					"toPlotArea": 500.0,
-					"rate": 500.0,
-					"note": "Plot area <=500 sq.ft"
-				},
-				{
-					"fromPlotArea": 501.0,
-					"toPlotArea": 1000.0,
-					"rate": 1000.0,
-					"note": "Plot area >= 501 && <=1000 sq.ft"
-				},
-				{
-					"fromPlotArea": 1001.0,
-					"toPlotArea": 1500.0,
-					"rate": 1500.0,
-					"note": "Plot area >= 1001 && <=1500 sq.ft"
-				},
-				{
-					"fromPlotArea": 1501.0,
-					"toPlotArea": 2000.0,
-					"rate": 2000.0,
-					"note": "Plot area >= 1501 && <=2000 sq.ft"
-				}
-			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Water Charges",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Mining Charges",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Guashala Fees",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Labour Cess",
-			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Rain Water Harvesting Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Clubbing Charges",
-			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Sub-Division Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
-			"applicable": true
-		}
-	  ]
-	},
-	 {
-	  "code": "101",
-	  "name": "Bulding Plan",
-	  "Category": "Assembly",
-	  "fromFY": "2025-26",
-	  "startingDate": 1743465600000,
-	  "endingDate": 1774981799000,
-	  "active": true,
-	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Malba Fees",
-			"rate": 0.5,
-			"slabs": [
-				{
-					"fromPlotArea": 0.0,
-					"toPlotArea": 500.0,
-					"rate": 500.0,
-					"note": "Plot area <=500 sq.ft"
-				},
-				{
-					"fromPlotArea": 501.0,
-					"toPlotArea": 1000.0,
-					"rate": 1000.0,
-					"note": "Plot area >= 501 && <=1000 sq.ft"
-				},
-				{
-					"fromPlotArea": 1001.0,
-					"toPlotArea": 1500.0,
-					"rate": 1500.0,
-					"note": "Plot area >= 1001 && <=1500 sq.ft"
-				},
-				{
-					"fromPlotArea": 1501.0,
-					"toPlotArea": 2000.0,
-					"rate": 2000.0,
-					"note": "Plot area >= 1501 && <=2000 sq.ft"
-				}
-			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Water Charges",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Mining Charges",
-			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Guashala Fees",
-			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Labour Cess",
-			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Rain Water Harvesting Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Clubbing Charges",
-			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Sub-Division Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
-			"applicable": true
-		}
-	  ]
-	},
-	 {
-	  "code": "101",
-	  "name": "Bulding Plan",
-	  "Category": "Office",
+	  "Category": "Residential Independent Floors",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -695,7 +350,7 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Industrial",
+	  "Category": "Industrial / Warehouse Building",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
@@ -810,7 +465,352 @@
 	 {
 	  "code": "101",
 	  "name": "Bulding Plan",
-	  "Category": "Storage",
+	  "Category": "RESIDENTIAL_PLOTTED",
+	  "fromFY": "2025-26",
+	  "startingDate": 1743465600000,
+	  "endingDate": 1774981799000,
+	  "active": true,
+	  "Charges": [
+		{
+			"name": "Processing Fees",
+			"rate": 31.0,
+			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"applicable": true
+		},
+		{
+			"name": "CLU Charges",
+			"rate": 140.0,
+			"taxHeadCode": "NOC_CLU_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "External Development Charges",
+			"rate": 217.0,
+			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Urban Development Cess",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Malba Fees",
+			"rate": 0.5,
+			"slabs": [
+				{
+					"fromPlotArea": 0.0,
+					"toPlotArea": 500.0,
+					"rate": 500.0,
+					"note": "Plot area <=500 sq.ft"
+				},
+				{
+					"fromPlotArea": 501.0,
+					"toPlotArea": 1000.0,
+					"rate": 1000.0,
+					"note": "Plot area >= 501 && <=1000 sq.ft"
+				},
+				{
+					"fromPlotArea": 1001.0,
+					"toPlotArea": 1500.0,
+					"rate": 1500.0,
+					"note": "Plot area >= 1001 && <=1500 sq.ft"
+				},
+				{
+					"fromPlotArea": 1501.0,
+					"toPlotArea": 2000.0,
+					"rate": 2000.0,
+					"note": "Plot area >= 1501 && <=2000 sq.ft"
+				}
+			],
+			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Water Charges",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_WATER_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Mining Charges",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_MINING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Guashala Fees",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Labour Cess",
+			"rate": 11.0,
+			"taxHeadCode": "NOC_LABOUR_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Rain Water Harvesting Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Clubbing Charges",
+			"rate": 400.0,
+			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Sub-Division Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Other Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"applicable": true
+		}
+	  ]
+	},
+	 {
+	  "code": "101",
+	  "name": "Bulding Plan",
+	  "Category": "RESIDENTIAL_INDEPENDENT_FLOORS",
+	  "fromFY": "2025-26",
+	  "startingDate": 1743465600000,
+	  "endingDate": 1774981799000,
+	  "active": true,
+	  "Charges": [
+		{
+			"name": "Processing Fees",
+			"rate": 31.0,
+			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"applicable": true
+		},
+		{
+			"name": "CLU Charges",
+			"rate": 140.0,
+			"taxHeadCode": "NOC_CLU_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "External Development Charges",
+			"rate": 217.0,
+			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Urban Development Cess",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Malba Fees",
+			"rate": 0.5,
+			"slabs": [
+				{
+					"fromPlotArea": 0.0,
+					"toPlotArea": 500.0,
+					"rate": 500.0,
+					"note": "Plot area <=500 sq.ft"
+				},
+				{
+					"fromPlotArea": 501.0,
+					"toPlotArea": 1000.0,
+					"rate": 1000.0,
+					"note": "Plot area >= 501 && <=1000 sq.ft"
+				},
+				{
+					"fromPlotArea": 1001.0,
+					"toPlotArea": 1500.0,
+					"rate": 1500.0,
+					"note": "Plot area >= 1001 && <=1500 sq.ft"
+				},
+				{
+					"fromPlotArea": 1501.0,
+					"toPlotArea": 2000.0,
+					"rate": 2000.0,
+					"note": "Plot area >= 1501 && <=2000 sq.ft"
+				}
+			],
+			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Water Charges",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_WATER_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Mining Charges",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_MINING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Guashala Fees",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Labour Cess",
+			"rate": 11.0,
+			"taxHeadCode": "NOC_LABOUR_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Rain Water Harvesting Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Clubbing Charges",
+			"rate": 400.0,
+			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Sub-Division Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Other Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"applicable": true
+		}
+	  ]
+	},
+	 {
+	  "code": "101",
+	  "name": "Bulding Plan",
+	  "Category": "COMMERCIAL",
+	  "fromFY": "2025-26",
+	  "startingDate": 1743465600000,
+	  "endingDate": 1774981799000,
+	  "active": true,
+	  "Charges": [
+		{
+			"name": "Processing Fees",
+			"rate": 31.0,
+			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"applicable": true
+		},
+		{
+			"name": "CLU Charges",
+			"rate": 140.0,
+			"taxHeadCode": "NOC_CLU_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "External Development Charges",
+			"rate": 217.0,
+			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Urban Development Cess",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Malba Fees",
+			"rate": 0.5,
+			"slabs": [
+				{
+					"fromPlotArea": 0.0,
+					"toPlotArea": 500.0,
+					"rate": 500.0,
+					"note": "Plot area <=500 sq.ft"
+				},
+				{
+					"fromPlotArea": 501.0,
+					"toPlotArea": 1000.0,
+					"rate": 1000.0,
+					"note": "Plot area >= 501 && <=1000 sq.ft"
+				},
+				{
+					"fromPlotArea": 1001.0,
+					"toPlotArea": 1500.0,
+					"rate": 1500.0,
+					"note": "Plot area >= 1001 && <=1500 sq.ft"
+				},
+				{
+					"fromPlotArea": 1501.0,
+					"toPlotArea": 2000.0,
+					"rate": 2000.0,
+					"note": "Plot area >= 1501 && <=2000 sq.ft"
+				}
+			],
+			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Water Charges",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_WATER_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Mining Charges",
+			"rate": 5.0,
+			"taxHeadCode": "NOC_MINING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Guashala Fees",
+			"rate": 50.0,
+			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Labour Cess",
+			"rate": 11.0,
+			"taxHeadCode": "NOC_LABOUR_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Rain Water Harvesting Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Clubbing Charges",
+			"rate": 400.0,
+			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Sub-Division Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Other Charges",
+			"rate": 100.0,
+			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"applicable": true
+		}
+	  ]
+	},
+	 {
+	  "code": "101",
+	  "name": "Bulding Plan",
+	  "Category": "INDUSTRIAL_WAREHOUSE_BUILDING",
 	  "fromFY": "2025-26",
 	  "startingDate": 1743465600000,
 	  "endingDate": 1774981799000,
