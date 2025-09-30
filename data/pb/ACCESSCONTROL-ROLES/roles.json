@@ -2,6 +2,11 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
+	{
+      "code": "PET REPORTS",
+      "name": "PET REPORTS",
+      "description": "Access to all Pet Service Reports"
+    },
     {
       "code": "CITIZEN",
       "name": "Citizen",
