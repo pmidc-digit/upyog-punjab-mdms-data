@@ -54,6 +54,13 @@
 	       "$.code",
 		   "$name"
 	    ]
+	  },
+	  "ApplicationFees": {
+	    "masterName": "ApplicationFees",
+	    "isStateLevel": true,
+	    "uniqueKeys": [
+	       
+	    ]
 	  }
 	},
   "StakeholderRegistraition": {
