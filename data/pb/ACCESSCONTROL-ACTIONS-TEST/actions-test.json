@@ -23029,13 +23029,24 @@
       "path": ""
     },
     {
-      "id": 883324,
+      "id": 883346,
       "name": "Advertisement Collection Search Reciept",
       "url": "/collection-services/payments/adv-services/_search",
       "displayName": "Search Payment",
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883347,
+      "name": "Advertisement Slot Search",
+      "url": "/adv-services/booking/v1/_slot-search",
+      "displayName": "Search Slot",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "adv-services",
       "code": "null",
       "path": ""
     },
