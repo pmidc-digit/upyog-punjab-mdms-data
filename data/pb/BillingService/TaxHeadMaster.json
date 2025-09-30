@@ -6953,6 +6953,26 @@
       "order": "1",
       "isRequired": false
     },
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_APP_FEE",
+	  "name": "Building Application Fees",
+	  "code": "BPA_BUILDING_APPLICATION_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_APP_FEE",
+	  "name": "Boundary Wall Fees",
+	  "code": "BPA_BOUNDARY_WALL_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
