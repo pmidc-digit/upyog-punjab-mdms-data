@@ -14046,15 +14046,15 @@
     },
     {
       "id": 2485,
-      "name": "cybertech_additional_transactions",
+      "name": "Patiala Cybertech legacy Receipts",
       "url": "url",
-      "displayName": "cybertech_additional_transactions",
+      "displayName": "Patiala Cybertech legacy Receipts",
       "orderNumber": 7,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.cybertech_additional_transactions",
+      "path": "Property Tax.PT Reports..Payments_Collection.cybertech_additional_transactions",
       "navigationURL": "report/rainmaker-pt/cybertech_additional_transactions",
       "leftIcon": "action:assignment",
       "rightIcon": ""
