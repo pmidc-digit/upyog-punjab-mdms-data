@@ -51,19 +51,12 @@
       "fromFY": "2024-25",
       "endingDay": "30/09/2024"
     },
-	{
-	   "rate": 10,
-	   "maxAmount": null,
-	   "flatAmount": null,
-	   "fromFY": "2025-26",
-	   "endingDay": "30/09/2025"
-	  },
-	  {
+	 {
 	   "rate": 10,
 	   "maxAmount": null,
 	   "flatAmount": null,
 	   "fromFY": "2025-26",
 	   "endingDay": "30/10/2025"
-	  }
+	}
   ]
 }
