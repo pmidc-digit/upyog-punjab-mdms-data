@@ -3,10 +3,10 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
-      "key": "ALL_ACCESS",
+      "key": "NDCAPPLICATION",
       "roleAttributeAccessList": [
         {
-          "rolecode": "NDCAPPLICATION",
+          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {
@@ -16,13 +16,13 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobilenumber"
+                "jsonPath": "*/mobileNumber"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/emailid"
+                "jsonPath": "*/emailId"
               },
               "accessType": "PLAIN"
             },
@@ -33,7 +33,12 @@
               "accessType": "PLAIN"
             }
           ]
-        },              
+        }
+      ]
+    },
+    {
+      "key": "ALL_ACCESS",
+      "roleAttributeAccessList": [             
         {
           "roleCode": "CITIZEN",
           "attributeAccessList": [
