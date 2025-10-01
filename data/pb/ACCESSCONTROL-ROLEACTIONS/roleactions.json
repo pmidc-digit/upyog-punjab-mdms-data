@@ -5234,6 +5234,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+
     {
       "rolecode": "SUPERUSER",
       "actionid": 864,
@@ -63256,6 +63257,18 @@
     {
       "rolecode": "CHB_CEMP",
       "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 5554,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5554,
       "actioncode": "",
       "tenantId": "pb"
     },

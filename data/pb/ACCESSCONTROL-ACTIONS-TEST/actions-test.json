@@ -23408,6 +23408,17 @@
       "path": ""
     },
     {
+      "id": 5554,
+      "name": "CHB Slot Search Api",
+      "url": "/chb-services/booking/v1/_slot-search",
+      "displayName": "Search CHB Slots",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "SLOTSEARCH",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 5559,
       "name": "Defaulter report with tax due",
       "url": "url",
