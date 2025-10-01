@@ -881,6 +881,21 @@
       "code": "CHB_FIELD_INSPECTOR",
       "name": "CommunityHall Field Inspector",
       "description": "CommunityHallBooking Field Inspector"
-    }
+    },
+	{
+	  "code": "PROFESSIONAL_DOC_VERIFIER",
+	  "name": "Professional doc verifier",
+	  "description": "BPA Stakeholder workflow document verifier"
+	},
+	{
+	  "code": "PROFESSIONAL_VERIFIER",
+	  "name": "Professional verifier",
+	  "description": "BPA Stakeholder workflow verifier"
+	},
+	{
+	  "code": "PROFESSIONAL_APPROVER",
+	  "name": "Professional Approver",
+	  "description": "BPA Stakeholder workflow Approver"
+	}
   ]
 }
