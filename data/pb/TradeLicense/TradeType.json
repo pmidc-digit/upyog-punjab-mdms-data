@@ -6572,7 +6572,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5
+      "validityPeriod": 10
     },
     {
       "code": "BUILDER.CLASSA",
@@ -6585,7 +6585,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5
+      "validityPeriod": 3
     },
     {
       "code": "ENGINEER.CLASSA",
@@ -6598,7 +6598,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5,
+      "validityPeriod": 3,
         "restrictions":{
         "maxPlotArea":500,
         "maxBulidingheight":15,
@@ -6616,7 +6616,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5
+      "validityPeriod": 3
     },
     {
       "code": "TOWNPLANNER.CLASSA",
@@ -6629,7 +6629,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5
+      "validityPeriod": 3
     },
     {
       "code": "SUPERVISOR.CLASSA",
@@ -6642,7 +6642,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5,
+      "validityPeriod": 3,
        "restrictions":{
         "maxPlotArea":100,
         "maxBulidingheight":10,
@@ -6660,7 +6660,7 @@
       "verificationDocument": [],
       "active": true,
       "type": "BPA",
-      "validityPeriod": 5
+      "validityPeriod": 3
     }
   ]
 }
