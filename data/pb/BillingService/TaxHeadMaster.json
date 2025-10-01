@@ -7533,6 +7533,46 @@
 	  "isActualDemand": true,
 	  "order": "1",
 	  "isRequired": false
-	}
+	},
+{
+      "category": "TAX",
+      "service": "chb-services",
+      "name": "CHB Service Charge",
+      "code": "CHB_SERVICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 4,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services", 
+      "name": "CHB Penalty Fee",
+      "code": "CHB_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 5,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB Interest Amount", 
+      "code": "CHB_INTEREST_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 6,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB Security Deposit",
+      "code": "CHB_SECURITY_DEPOSIT", 
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 7,
+      "isRequired": false
+    }
   ]
 }
