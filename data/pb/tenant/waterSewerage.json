@@ -40,7 +40,7 @@
     {
       "code": "pb.amritsar",
       "name": "Amritsar",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.kurali",
@@ -95,7 +95,7 @@
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bariwala",
@@ -325,7 +325,7 @@
     {
       "code": "pb.patiala",
       "name": "Patiala",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.quadian",
