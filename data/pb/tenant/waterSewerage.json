@@ -95,7 +95,7 @@
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bariwala",
@@ -198,6 +198,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.ferozepur",
+      "name": "Ferozepur",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.ghagga",
       "name": "Ghagga",
       "isautodemand": "false"
@@ -210,7 +215,7 @@
     {
       "code": "pb.hariana",
       "name": "Hariana",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.itpatiala",
@@ -385,7 +390,7 @@
     {
       "code": "pb.sultanpurlodhi",
       "name": "Sultanpurlodhi",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.talwara",
