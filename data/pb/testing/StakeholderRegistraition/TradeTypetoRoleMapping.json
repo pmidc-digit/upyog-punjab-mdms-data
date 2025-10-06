@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.testing",
   "moduleName": "StakeholderRegistraition",
   "TradeTypetoRoleMapping": [
     {
@@ -69,8 +69,8 @@
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -109,8 +109,8 @@
       "tradeType": "BUILDER.CLASSB",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -118,8 +118,8 @@
       "tradeType": "BUILDER.CLASSC",
       "role": ["BPA_BUILDER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -129,8 +129,8 @@
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -169,8 +169,8 @@
       "tradeType": "ENGINEER.CLASSB",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -178,8 +178,8 @@
       "tradeType": "ENGINEER.CLASSC",
       "role": ["BPA_ENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -189,8 +189,8 @@
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -229,8 +229,8 @@
       "tradeType": "STRUCTURALENGINEER.CLASSB",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -238,8 +238,8 @@
       "tradeType": "STRUCTURALENGINEER.CLASSC",
       "role": ["BPA_STRUCTURALENGINEER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -249,8 +249,8 @@
       "role": ["BPA_TOWNPLANNER"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -292,8 +292,8 @@
       "role": ["BPA_SUPERVISOR"],
       "endstate": "APPROVED",
       "isActive": "true",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -334,8 +334,8 @@
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
       "isActive": "false",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": [
         {
           "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
@@ -374,8 +374,8 @@
       "tradeType": "DESIGNER.CLASSB",
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {
@@ -383,8 +383,8 @@
       "tradeType": "DESIGNER.CLASSC",
       "role": ["BPA_DESIGNER"],
       "endstate": "APPROVED",
-      "applicationFee": 3000,
-	  "renewalFee": 1500,
+      "applicationFee": 6000,
+	  "renewalFee": 3000,
       "docTypes": null
     },
     {

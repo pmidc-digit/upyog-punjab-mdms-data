@@ -7573,6 +7573,156 @@
       "isActualDemand": true,
       "order": 7,
       "isRequired": false
-    }
+    },
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Processing Fees",
+	  "code": "ADJ_BPA_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment CLU Charges",
+	  "code": "ADJ_BPA_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment External Development Charges",
+	  "code": "ADJ_BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Urban Development Cess",
+	  "code": "ADJ_BPA_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Malwa fees",
+	  "code": "ADJ_BPA_MALBA_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Water fees",
+	  "code": "ADJ_BPA_WATER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Mining Charges",
+	  "code": "ADJ_BPA_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Gaushala charge fees",
+	  "code": "ADJ_BPA_GAUSHALA_CHARGES_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Labour cess",
+	  "code": "ADJ_BPA_LABOUR_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Rain Water Harvesting Charges",
+	  "code": "ADJ_BPA_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Clubbing Charges",
+	  "code": "ADJ_BPA_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Sub-Division Charges",
+	  "code": "ADJ_BPA_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment less adjustment plot",
+	  "code": "ADJ_BPA_LESS_ADJUSMENT_PLOT",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Development fees",
+	  "code": "ADJ_BPA_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Other fees",
+	  "code": "ADJ_BPA_OTHER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	}
   ]
 }
