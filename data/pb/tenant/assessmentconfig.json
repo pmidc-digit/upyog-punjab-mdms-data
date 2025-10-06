@@ -4456,20 +4456,26 @@
       "isRented": false
     },
 	{
-      "tenant": "pb.gurdaspur",
-      "enabled": true,
+      "tenant": "pb.abohar",
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
-      "tenant": "pb.abohar",
-      "enabled": true,
+      "tenant": "pb.mohali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.gurdaspur",
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },

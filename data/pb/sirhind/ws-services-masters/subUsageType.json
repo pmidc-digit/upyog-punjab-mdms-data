@@ -14,12 +14,6 @@
       "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
       "active": true
     },
-     {
-      "code": "USAGE_COMM_OTHER",
-      "name": "COMMERCIAL",
-      "parentUsageType": "NONRESIDENTIAL.OTHERS",
-      "active": true
-    },
     {
       "code": "USAGE_INDUSTRIAL_NA",
       "name": "INDUSTRIAL",
@@ -36,6 +30,18 @@
       "code": "USAGE_DOM_NA",
       "name": "DOMESTIC",
       "parentUsageType": "MIXED",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.OTHERS",
       "active": true
     },
     {

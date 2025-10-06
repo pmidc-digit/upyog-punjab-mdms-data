@@ -21,20 +21,32 @@
       "isActive": true
     },
     {
-      "name": "Intitutional",
+      "name": "Mixed",
+      "code": "MIXED",
+      "unitCost" : 15,
+      "isActive": true
+    },
+	{
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+	{
+      "name": "Institutional",
       "code": "NONRESIDENTIAL.INSTITUTIONAL",
       "unitCost" : 15,
       "isActive": true
     },
-    {
-      "name": "Others",
+	{
+     "name": "Other Commercial Usage",
       "code": "NONRESIDENTIAL.OTHERS",
-      "unitCost" : 15,
+      "unitCost" : 30,
       "isActive": true
     },
     {
-      "name": "Mixed",
-      "code": "MIXED",
+      "name": "Other Non-Residential",
+      "code": "NONRESIDENTIAL.OTHERS",
       "unitCost" : 15,
       "isActive": true
     }
