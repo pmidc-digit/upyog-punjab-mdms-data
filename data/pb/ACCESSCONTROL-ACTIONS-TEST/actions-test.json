@@ -15736,7 +15736,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.waterPendingSlaReport",
+      "path": "w_s.WS Reports.Other Report.waterPendingSlaReport",
       "navigationURL": "report/rainmaker-ws/waterPendingSlaReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -15773,7 +15773,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.seweragePendingSlaReport",
+      "path": "w_s.WS Reports.Other Report.seweragePendingSlaReport",
       "navigationURL": "report/rainmaker-ws/seweragePendingSlaReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -16391,7 +16391,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "w_s.WS Reports.DeadMeterReport",
+      "path": "w_s.WS Reports.Other Report.DeadMeterReport",
       "navigationURL": "report/rainmaker-ws/DeadMeterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
