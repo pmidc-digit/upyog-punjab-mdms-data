@@ -21401,6 +21401,22 @@
       "rightIcon": ""
     },
     {
+      "id": 8900890,
+      "name": "CHB Inbox",
+      "url": "url",
+      "displayName": "Community Hall and Booking Inbox",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.CHB Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/chb/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
       "id": 24701,
       "name": "Create Application",
       "url": "url",
@@ -21413,6 +21429,22 @@
       "code": "null",
       "path": "NDC.NDC Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/ndc/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900891,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.CHB Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/chb/bookHall",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },

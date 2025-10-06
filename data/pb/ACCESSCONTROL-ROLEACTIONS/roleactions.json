@@ -63244,6 +63244,18 @@
     },
     {
       "rolecode": "CHB_CEMP",
+      "actionid": 8900890,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 8900891,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_CEMP",
       "actionid": 5556,
       "actioncode": "",
       "tenantId": "pb"
@@ -63286,6 +63298,18 @@
     },
     {
       "rolecode": "CHB_VERIFIER",
+      "actionid": 8900890,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 8900891,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
       "actionid": 5556,
       "actioncode": "",
       "tenantId": "pb"
@@ -63299,6 +63323,18 @@
     {
       "rolecode": "CHB_FIELD_INSPECTOR",
       "actionid": 5555,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_FIELD_INSPECTOR",
+      "actionid": 8900890,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_FIELD_INSPECTOR",
+      "actionid": 8900891,
       "actioncode": "",
       "tenantId": "pb"
     },
