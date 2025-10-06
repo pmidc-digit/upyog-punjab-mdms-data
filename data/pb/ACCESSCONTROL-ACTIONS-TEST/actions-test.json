@@ -14689,21 +14689,6 @@
       "path": ""
     },
     {
-      "id": 2533,
-      "name": "Paid Property Ownership Report",
-      "url": "url",
-      "displayName": "Paid Property Ownership Report",
-      "orderNumber": 8,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Other Reports.PAID_PROPERTY_OWNERSHIP_REPORT_V2",
-      "navigationURL": "report/rainmaker-pt/PAID_PROPERTY_OWNERSHIP_REPORT_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 2534,
       "name": "ULBNEWMiscReceipt_v2",
       "url": "url",
