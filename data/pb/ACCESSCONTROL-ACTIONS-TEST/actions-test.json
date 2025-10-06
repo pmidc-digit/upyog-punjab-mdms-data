@@ -8128,21 +8128,6 @@
       "rightIcon": ""
     },
     {
-      "id": 2005,
-      "name": "ULB-wise PT Collection_V2",
-      "url": "url",
-      "displayName": "ULB-wise PT Collection Report_V2",
-      "orderNumber": 7,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Collections.ULB-wise PT Collection_V2",
-      "navigationURL": "report/rainmaker-pt/UlbWisePtCollection_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 2006,
       "name": "Receipt Register_V2",
       "url": "url",
@@ -14478,21 +14463,6 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2515,
-      "name": "Property Category Report",
-      "url": "url",
-      "displayName": "Property Category Report",
-      "orderNumber": 8,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Other Reports.PROPERTY_CATEGORY_REPORT_V2",
-      "navigationURL": "report/rainmaker-pt/PROPERTY_CATEGORY_REPORT_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
     },
     {
       "id": 2516,
