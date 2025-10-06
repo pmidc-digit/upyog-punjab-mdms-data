@@ -8583,36 +8583,6 @@
       "path": ""
     },
     {
-      "id": 2038,
-      "name": "ZoneFYReport_V2",
-      "url": "url",
-      "displayName": "Zone FY Report",
-      "orderNumber": 10,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Other Reports.ZoneFYReport_V2",
-      "navigationURL": "report/rainmaker-pt/ZoneFYReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2039,
-      "name": "BlockFYReport_V2",
-      "url": "url",
-      "displayName": "Block FY Collection",
-      "orderNumber": 11,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Other Reports.BlockFYReport_V2",
-      "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 2040,
       "name": "Receipt Register_Without_Locality_V2",
       "url": "url",
@@ -8627,7 +8597,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    
     {
       "id": 2041,
       "name": "Receipt RegisterShortWithoutLocality_V2",
