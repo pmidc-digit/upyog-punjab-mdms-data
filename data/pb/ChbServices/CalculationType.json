@@ -3,7 +3,7 @@
   "moduleName": "CHB",
   "CalculationType": [
     {
-      "CH001": [
+      "1": [
         {
           "sector": "Sector_70",
           "applicationType": "COMMUNITY_HALL_BOOKING",
@@ -15,19 +15,19 @@
       ]
     },
     {
-      "CH002": [
+      "2": [
         {
           "sector": "Sector_71",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 10500,
+          "amount": 9000,
           "taxApplicable": true
         }
       ]
     },
     {
-      "CH003": [
+      "5": [
         {
           "sector": "Sector_69",
           "applicationType": "COMMUNITY_HALL_BOOKING",
@@ -39,61 +39,61 @@
       ]
     },
     {
-      "CH004": [
+      "6": [
         {
           "sector": "Sector_65_Phase_11",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 7500,
+          "amount": 15000,
           "taxApplicable": true
         }
       ]
     },
     {
-      "CH005": [
+      "7": [
         {
           "sector": "Sector_61_Phase_7",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 10500,
+          "amount": 16000,
           "taxApplicable": true
         }
       ]
     },
     {
-      "CH006": [
+      "8": [
         {
           "sector": "Sector_59_Phase_5",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 10500,
+          "amount": 9500,
           "taxApplicable": true
         }
       ]
     },
     {
-      "CH007": [
+      "9": [
         {
           "sector": "Sector_55_Phase_1",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 10500,
+          "amount": 10000,
           "taxApplicable": true
         }
       ]
     },
     {
-      "CH008": [
+      "10": [
         {
           "sector": "Sector_54_Phase_2",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
-          "amount": 7500,
+          "amount": 11000,
           "taxApplicable": true
         }
       ]
