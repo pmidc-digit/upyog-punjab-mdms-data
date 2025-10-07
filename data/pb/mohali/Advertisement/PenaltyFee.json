@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.mohali",
+  "moduleName": "Advertisement",
+  "PenaltyFee": [
+    {
+      "rate": 60,
+      "minAmount": 400,
+      "applicableAfterDays":0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}

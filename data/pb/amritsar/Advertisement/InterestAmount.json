@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "Advertisement",
+  "InterestAmount": [
+    {
+      "rate": 2,
+      "minAmount": 50,
+      "flatAmount": null,
+      "maxAmount": 500,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "7",
+      "active": true,
+      "taxApplicable": false
+    }
+  ]
+}

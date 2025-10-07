@@ -1200,6 +1200,13 @@
         "$.code"
       ]
     },
+    "ScheduleType": {
+      "masterName": "ScheduleType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.frequency"
+      ]
+    },
     "CalculationType": {
       "masterName": "CalculationType",
       "isStateLevel": false,
