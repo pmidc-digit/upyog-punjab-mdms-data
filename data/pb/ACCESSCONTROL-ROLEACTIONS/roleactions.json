@@ -63309,6 +63309,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CHB_CEMP",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 5554,
       "actioncode": "",
@@ -63351,6 +63357,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CHB_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CHB_FIELD_INSPECTOR",
       "actionid": 5555,
       "actioncode": "",
@@ -63377,6 +63389,12 @@
     {
       "rolecode": "CHB_FIELD_INSPECTOR",
       "actionid": 5557,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_FIELD_INSPECTOR",
+      "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
     },
