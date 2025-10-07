@@ -1,0 +1,48 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "EDCR-ROLES",
+  "roles": [	
+    {
+      "code": "BPA_ARCHITECT",
+      "name": "BPA Architect",
+	  "maxAllowedPlotArea":2147483647,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Architect"
+    },
+    {
+      "code": "BPA_ENGINEER",
+      "name": "BPA Engineer",
+	  "maxAllowedPlotArea":500,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Engineer"
+    },
+    {
+      "code": "BPA_BUILDER",
+      "name": "BPA Builder",
+	  "maxAllowedPlotArea":250,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Builder"
+    },
+    {
+      "code": "BPA_STRUCTURALENGINEER",
+      "name": "BPA Structural Engineer",
+	  "maxAllowedPlotArea":"NA",
+	  "isScrutinizeAllow":false,
+      "description": "BPA Structural Engineer"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "BPA Town Planner",
+	  "maxAllowedPlotArea":500,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Town Planner"
+    },
+    {
+      "code": "BPA_DESIGNER",
+      "name": "BPA Designer",
+	  "maxAllowedPlotArea":250,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Designer"
+    }
+  ]
+}
