@@ -455,6 +455,40 @@
       "code": "VIEW_ENGAGEMENT_CARD",
       "name": "View Engagement Card",
       "description": "For Engagement Card Display in Dashboard"
+    },
+    {
+      "code": "NDCCEMP",
+      "name": "NDC Counter Employee",
+      "description": "NDC Counter Employee"
+    },{
+      "code": "NDC_DOC_VERIFIER",
+      "name": "NDC Document Verifier",
+      "description": "No Dues Document Verifier"
+    },{
+      "code": "NDC_PT_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Property "
+    },{
+      "code": "NDC_WS_SW_VERIFIER",
+      "name": "NDC Water and Sewerage Verifier",
+      "description": "No Dues Verifier for Water and Sewerage Service"
+    },{
+      "code": "NDC_BPA_VERIFIER",
+      "name": "NDC BPA Verifier",
+      "description": "No Dues Verifier for BPA Service"
+    },{
+      "code": "NDC_TL_VERIFIER",
+      "name": "NDC Trade License Verifier",
+      "description": "No Dues Verifier for Trade License"
+    },{
+      "code": "NDC_APPROVER",
+      "name": "NDC Approver",
+      "description": "No Dues Certificate Approver"
+    },
+    {
+      "code": "NDC_REC_CANCEL",
+      "name": "NDC Receipt Cancellation",
+      "description": "Allowed to Cancel NDC Receipts"
     }
   ]
 }

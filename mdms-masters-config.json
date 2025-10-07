@@ -1074,5 +1074,12 @@
         "$.code"
       ]
     }
+  },
+  "ndc": {
+    "NdcFee": {
+      "masterName": "NdcFee",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    }
   }
 }

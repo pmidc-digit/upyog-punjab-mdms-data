@@ -16642,6 +16642,84 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterGatewayTxnId_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }          
+    },
+    {
+      "id": 30000001,
+      "name": "Create NDC Application",
+      "url": "/ndc-services/ndc/_create",
+      "displayName": "Create NDC Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000002,
+      "name": "Update NDC Application",
+      "url": "/ndc-services/ndc/_update",
+      "displayName": "Update NDC Application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000003,
+      "name": "Delete NDC Application",
+      "url": "/ndc-services/ndc/_delete",
+      "displayName": "Delete NDC Application",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 30000004,
+      "name": "Search NDC Application",
+      "url": "/ndc-services/ndc/_search",
+      "displayName": "Search NDC Application",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 31000010,
+      "name": "NDC calculator",
+      "url": "/ndc-calculator/v1/_calculate",
+      "displayName": "Calculator NDC Application",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 31000011,
+      "name": "NDC calculator update demand",
+      "url": "/ndc-calculator/v1/_updatedemand",
+      "displayName": "Calculator NDC Application updatedemand",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 31000012,
+      "name": "NDC Payment search",
+      "url": "/collection-services/payments/NDC/_search",
+      "displayName": "NDC Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

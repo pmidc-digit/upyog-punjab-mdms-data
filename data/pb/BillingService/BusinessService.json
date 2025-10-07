@@ -74,6 +74,17 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
+      "businessService": "ndc-services",
+      "code": "NDC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "Advertisement Tax.Hoardings",
       "code": "ADVT.Hoardings",
       "collectionModesNotAllowed": [
