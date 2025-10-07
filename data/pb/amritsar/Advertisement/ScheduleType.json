@@ -1,7 +1,9 @@
 {
   "tenantId": "pb.amritsar",
   "moduleName": "Advertisement",
-  "ScheduleType": {
+  "ScheduleType": [
+    {
     "frequency": "Monthly"
-  }
+    }
+  ]
 }

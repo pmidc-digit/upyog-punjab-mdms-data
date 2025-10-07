@@ -1,7 +1,9 @@
 {
   "tenantId": "pb",
   "moduleName": "Advertisement",
-  "ScheduleType": {
-    "frequency": "Weekly"
-  }
+  "ScheduleType": [
+    {
+      "frequency": "Weekly"
+    }
+  ]
 }

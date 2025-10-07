@@ -1,7 +1,9 @@
 {
   "tenantId": "pb.mohali",
   "moduleName": "Advertisement",
-  "ScheduleType": {
-    "frequency": "Yearly"
-  }
+  "ScheduleType": [
+    {
+      "frequency": "Yearly"
+    }
+  ]
 }

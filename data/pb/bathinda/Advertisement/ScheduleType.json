@@ -1,7 +1,10 @@
 {
   "tenantId": "pb.bathinda",
   "moduleName": "Advertisement",
-  "ScheduleType": {
-    "frequency": "FortNight"
-  }
+  "ScheduleType": [
+    {
+      "frequency": "FortNight"
+    }
+  ]
+
 }
