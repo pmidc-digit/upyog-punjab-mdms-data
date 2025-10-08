@@ -7294,6 +7294,46 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "adv-services",
+      "name": "ADV Service Charge",
+      "code": "ADV_SERVICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 4,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "ADV Penalty Fee",
+      "code": "ADV_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 5,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "ADV Interest Amount",
+      "code": "ADV_INTEREST_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 6,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "ADV Security Deposit",
+      "code": "ADV_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 7,
+      "isRequired": false
+    },
+    {
         "category": "FEE",
         "service": "sv-services",
         "name": "Street Vending registration fee",
