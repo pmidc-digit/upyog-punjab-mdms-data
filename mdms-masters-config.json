@@ -1237,5 +1237,73 @@
 				"$.feeType"
 			]
 		}
-	}
+	},
+  "CHB":
+  {
+    "CommunityHalls": {
+      "masterName": "CommunityHalls",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.communityHallId"
+      ]
+    },
+    "HallCode": {
+      "masterName": "HallCode",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.hallId"
+      ]
+    },
+    "Location": {
+      "masterName": "Location",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CalculationType": {
+      "masterName": "CalculationType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.sector"
+      ]
+    },
+    "SpecialCategory": {
+      "masterName": "SpecialCategory",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ResidentType": {
+      "masterName": "ResidentType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Purpose": {
+      "masterName": "Purpose",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TaxRates": {
+      "masterName": "TaxAmount",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.applicationType",
+        "$.serviceType",
+        "$.feeType"
+      ]
+    }
+  }
 }

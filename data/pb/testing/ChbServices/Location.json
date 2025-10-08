@@ -1,0 +1,96 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Mehram Nagar Barat Ghar",
+      "code": "MEHRAM_NAGAR_BARAT_GHAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.564143,
+        "longitude": 77.123490
+      }
+    },
+    {
+      "name": "Jharera Barat Ghar",
+      "code": "JHARERA_BARAT_GHAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5802044,
+        "longitude": 77.1378208
+      }
+    },
+    {
+      "name": "Manglam Barat Ghar",
+      "code": "MANGLAM_BARAT_GHAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.605519,
+        "longitude": 77.115316
+      }
+    },
+    {
+      "name": "Ashoka Barat Ghar",
+      "code": "ASHOKA_BARAT_GHAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5978913,
+        "longitude": 77.1322511
+      }
+    },
+    {
+      "name": "Alankar Barat Ghar",
+      "code": "ALANKAR_BARAT_GHAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5934095,
+        "longitude": 77.1195994
+      }
+    },
+    {
+      "name": "Dussehra Ground Part I",
+      "code": "DUSSEHRA_GROUND_PART_I",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5926723,
+        "longitude": 77.1196247
+      }
+    },
+    {
+      "name": "Dussehra Ground Part II",
+      "code": "DUSSEHRA_GROUND_PART_II",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.5926723,
+        "longitude": 77.1196247
+      }
+    },
+    {
+      "name": "DAV Ground",
+      "code": "DAV_GROUND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.596320,
+        "longitude": 77.121770
+      }
+    },
+    {
+      "name": "Jain Mandir",
+      "code": "JAIN_MANDIR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.594060,
+        "longitude": 77.120439
+      }
+    },
+    {
+      "name": "Masjid Ground",
+      "code": "MASJID_GROUND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.595236,
+        "longitude": 77.121738
+      }
+    }
+  ]
+}
