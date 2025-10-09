@@ -29505,6 +29505,532 @@
       "actionid": 3024,
       "actioncode": "",
       "tenantId": "pb"      
-    }                       	  
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1570,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 30000002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 31000011,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 31000012,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
    ]
 }
