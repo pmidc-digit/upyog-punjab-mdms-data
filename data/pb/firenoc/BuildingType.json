@@ -566,7 +566,7 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "MODERATEHAZARD",
@@ -600,7 +600,7 @@
         },
         {
           "code": "PETROLPUMP",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(3)"
         }
