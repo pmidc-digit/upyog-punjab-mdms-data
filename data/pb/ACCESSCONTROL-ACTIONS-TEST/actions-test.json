@@ -23611,6 +23611,18 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 5571,
+      "name": "NOC Calculator",
+      "url": "/noc-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "NOC Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
