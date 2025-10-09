@@ -23463,6 +23463,16 @@
       "serviceCode": "SLOTSEARCH",
       "code": "null",
       "path": ""
+    },{
+      "id": 6621,
+      "name": "CHB Collection Search Reciept",
+      "url": "/collection-services/payments/chb-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 5559,
