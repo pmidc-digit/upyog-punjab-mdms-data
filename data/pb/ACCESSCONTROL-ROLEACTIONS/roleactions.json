@@ -63787,6 +63787,30 @@
 	  "actionid": 5026,
 	  "actioncode": "",
 	  "tenantId": "pb"
-	}
+	},
+  	{
+      "rolecode": "CITIZEN",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+  	},
+  	{
+      "rolecode": "BPA_APPROVER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+  	},
+  	{
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+  	},
+  	{
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+  	}
   ]
 }
