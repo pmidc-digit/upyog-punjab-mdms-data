@@ -63394,6 +63394,12 @@
     },
     {
       "rolecode": "CHB_VERIFIER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_VERIFIER",
       "actionid": 8900890,
       "actioncode": "",
       "tenantId": "pb"
@@ -63491,6 +63497,12 @@
     {
       "rolecode": "CHB_FIELD_INSPECTOR",
       "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_FIELD_INSPECTOR",
+      "actionid": 3005,
       "actioncode": "",
       "tenantId": "pb"
     },
