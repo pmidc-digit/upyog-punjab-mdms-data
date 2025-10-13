@@ -99,6 +99,54 @@
       "active": true
     },
     {
+      "communityHallId": "4",
+      "hallId": "4",
+      "HallCode": "HallCode-1008",
+      "capacity": "250",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "7",
+      "hallId": "4",
+      "HallCode": "HallCode-1010",
+      "capacity": "600",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
       "communityHallId": "5",
       "hallId": "5",
       "HallCode": "HallCode-1005",

@@ -19675,7 +19675,7 @@
     {
       "id": 5024,
       "name": "BPA Calculator",
-      "url": "/bpa-calculator/v1/_calculate",
+      "url": "/bpa-calculator/_calculate",
       "parentModule": "",
       "displayName": "BPA Calculator",
       "orderNumber": 0,
@@ -23463,6 +23463,16 @@
       "serviceCode": "SLOTSEARCH",
       "code": "null",
       "path": ""
+    },{
+      "id": 6621,
+      "name": "CHB Collection Search Reciept",
+      "url": "/collection-services/payments/chb-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 5559,
@@ -23609,6 +23619,18 @@
       "orderNumber": 3,
       "enabled": true,
       "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5571,
+      "name": "NOC Calculator",
+      "url": "/noc-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "NOC Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "noc-services",
       "code": "null",
       "path": ""
     }
