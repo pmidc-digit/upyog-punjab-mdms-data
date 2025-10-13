@@ -8,7 +8,8 @@
     },
     {
       "code": "RENEWAPPLICATION",
-      "active": true
+      "active": true,
+      "renewalPeriod": 7889400000
     }
   ]
 }
