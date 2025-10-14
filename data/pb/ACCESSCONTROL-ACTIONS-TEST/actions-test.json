@@ -22829,6 +22829,24 @@
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
     {
+      "id": 23382,
+      "name": "UC_MY_CHALLANS",
+      "url": "digit-ui-card",
+      "displayName": "Search and Pay Challan",
+      "orderNumber": 1,
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/challangeneration/search",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/challangeneration-home"
+    },
+    {
       "id": 23383,
       "name": "UC_MY_CHALLANS",
       "url": "digit-ui-card",
@@ -23463,7 +23481,8 @@
       "serviceCode": "SLOTSEARCH",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 6621,
       "name": "CHB Collection Search Reciept",
       "url": "/collection-services/payments/chb-services/_search",
