@@ -23042,6 +23042,24 @@
       "sidebarURL": "/digit-ui/citizen/noc-home"
     },
     {
+      "id": 883302,
+      "name": "NOC_SEARCH_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "Search Application",
+      "orderNumber": 3,
+      "parentModule": "NOC",
+      "enabled": true,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/noc/search-application",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/noc-home"
+    },
+    {
       "id": 883321,
       "name": "create advertisement  application",
       "url": "/adv-services/booking/v1/_create",
