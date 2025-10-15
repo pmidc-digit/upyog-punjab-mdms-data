@@ -3,6 +3,34 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
+      "key": "PETREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "PET REPORTS",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileNumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/assigned_employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+          ]
+        }
+      ]
+    },
+    {
       "key": "NDCAPPLICATION",
       "roleAttributeAccessList": [
         {
