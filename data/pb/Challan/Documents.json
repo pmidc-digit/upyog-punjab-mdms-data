@@ -1,62 +1,30 @@
 {
   "tenantId": "pb",
-  "moduleName": "NDC",
+  "moduleName": "Challan",
   "Documents": [
     {
-      "code": "OWNER.REGISTRATIONPROOF",
-      "documentType": "OWNER",
+      "code": "CHALLAN.ID_PROOF",
+      "documentType": "ID_PROOF",
       "required": true,
       "active": true,
-      "description": "OWNER.REGISTRATIONPROOF.REGISTRATIONPROOF_DESCRIPTION"
+      "description": "ID proof of offender",
+      "maxSizeMB": 2
     },
     {
-      "code": "OWNER.SANCTIONPLANPROOF",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.SANCTIONPLANPROOF.SANCTIONPLANPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.LASTWATERTAXRECEIPT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.LASTWATERTAXRECEIPT.LASTWATERTAXRECEIPT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.LASTPROPERTYTAXRECEIPT",
-      "documentType": "OWNER",
+      "code": "CHALLAN.EVIDENCE_IMAGE",
+      "documentType": "IMAGE",
       "required": true,
       "active": true,
-      "description": "OWNER.LASTPROPERTYTAXRECEIPT.LASTPROPERTYTAXRECEIPT_DESCRIPTION"
+      "description": "Evidence of offence done by offender",
+      "maxSizeMB": 2
     },
     {
-      "code": "OWNER.LASTTRADELICENSERECEIPT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.LASTTRADELICENSERECEIPT.LASTTRADELICENSERECEIPT_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.IDENTITYPROOF",
-      "documentType": "OWNER",
+      "code": "CHALLAN.CANCELLATION_PROOF",
+      "documentType": "DOCUMENT",
       "required": true,
       "active": true,
-      "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.ADDRESSPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.AUTHORITYLETTER",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.AUTHORITYLETTER.AUTHORITYLETTER_DESCRIPTION"
+      "description": "Evidence of Cancellation of challan",
+      "maxSizeMB": 2
     }
   ]
 }
