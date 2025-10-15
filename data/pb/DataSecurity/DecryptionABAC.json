@@ -6,7 +6,7 @@
       "key": "NDCAPPLICATION",
       "roleAttributeAccessList": [
         {
-          "roleCode": "EMPLOYEE",
+          "roleCode": "NDC REPORTS",
           "attributeAccessList": [
             {
               "attribute": {
@@ -16,13 +16,13 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobileNumber"
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/emailId"
+                "jsonPath": "*/emailid"
               },
               "accessType": "PLAIN"
             },
