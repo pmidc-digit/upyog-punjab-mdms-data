@@ -28,7 +28,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/address"
+                "jsonPath": "*/employee_name"
               },
               "accessType": "PLAIN"
             }
