@@ -1,0 +1,66 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "Challan",
+  "Category": [
+    {
+      "code": "CAT01",
+      "name": "Signal and Signage",
+      "offenceTypeCode": "OT001",
+      "active": true
+    },
+    {
+      "code": "CAT02",
+      "name": "Speeding",
+      "offenceTypeCode": "OT001",
+      "active": true
+    },
+    {
+      "code": "CAT03",
+      "name": "No-Parking Zone",
+      "offenceTypeCode": "OT002",
+      "active": true
+    },
+    {
+      "code": "CAT04",
+      "name": "Driving License",
+      "offenceTypeCode": "OT003",
+      "active": true
+    },
+    {
+      "code": "CAT05",
+      "name": "Vehicle Registration",
+      "offenceTypeCode": "OT003",
+      "active": true
+    },
+    {
+      "code": "CAT06",
+      "name": "Vehicle Lights",
+      "offenceTypeCode": "OT004",
+      "active": true
+    },
+    {
+      "code": "CAT07",
+      "name": "Excessive Honking",
+      "offenceTypeCode": "OT005",
+      "active": true
+    },
+    {
+      "code": "CAT08",
+      "name": "Overloading",
+      "offenceTypeCode": "OT006",
+      "active": true
+    },
+    {
+      "code": "CAT09",
+      "name": "Pollution Control",
+      "offenceTypeCode": "OT007",
+      "active": true
+    },
+    {
+      "code": "CAT10",
+      "name": "Helmet and Seatbelt",
+      "offenceTypeCode": "OT008",
+      "active": true
+    }
+  ]
+}
