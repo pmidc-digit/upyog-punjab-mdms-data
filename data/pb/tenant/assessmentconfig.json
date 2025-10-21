@@ -4481,12 +4481,22 @@
     },
 	{
       "tenant": "pb.adampur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	{
       "tenant": "pb.anandpursahib",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+
+
+	  
+	  
+	{
+      "tenant": "pb.amritsar",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false

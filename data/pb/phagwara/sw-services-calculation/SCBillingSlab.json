@@ -26,21 +26,15 @@
         },
            {
           "from": 250.01,
-          "to": 500.00,
-          "charge": 420,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },{
-          "from": 500.01,
           "to": 10000.00,
-          "charge": 540,
+          "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
       ]
     },
     {
-      "id": "4",
+      "id": "2",
       "buildingType": "COMMERCIAL",
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "PLOT_BASED",
@@ -49,6 +43,13 @@
       "slabs": [
         {
           "from": 0.00,
+          "to": 125.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
           "to": 250.00,
           "charge": 630,
           "effectiveFrom": 917523271000,
@@ -56,22 +57,15 @@
         },
         {
           "from": 250.01,
-          "to": 500.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 500.01,
           "to": 10000.00,
-          "charge": 1080,
+          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
       ]
     },
     {
-      "id": "5",
+      "id": "3",
       "buildingType": "INSTITUTIONAL",
       "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
       "calculationAttribute": "PLOT_BASED",
@@ -80,6 +74,13 @@
       "slabs": [
         {
           "from": 0.00,
+          "to": 125.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
           "to": 250.00,
           "charge": 630,
           "effectiveFrom": 917523271000,
@@ -87,22 +88,15 @@
         },
         {
           "from": 250.01,
-          "to": 500.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 500.01,
           "to": 10000.00,
-          "charge": 1080,
+          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
       ]
     },
     {
-      "id": "11",
+      "id": "4",
       "buildingType": "INDUSTRIAL",
       "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
       "calculationAttribute": "PLOT_BASED",
@@ -111,6 +105,13 @@
       "slabs": [
         {
           "from": 0.00,
+          "to": 125.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
           "to": 250.00,
           "charge": 630,
           "effectiveFrom": 917523271000,
@@ -118,22 +119,15 @@
         },
         {
           "from": 250.01,
-          "to": 500.00,
-          "charge": 840,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },
-        {
-          "from": 500.01,
           "to": 10000.00,
-          "charge": 1080,
+          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
       ]
     },
     {
-      "id": "9",
+      "id": "5",
       "buildingType": "MIXED",
       "waterSubUsageType": "USAGE_DOM_NA",
       "calculationAttribute": "PLOT_BASED",
@@ -156,21 +150,15 @@
         },
            {
           "from": 250.01,
-          "to": 500.00,
-          "charge": 420,
-          "effectiveFrom": 917523271000,
-          "effectiveTo": 1774929282000
-        },{
-          "from": 500.01,
           "to": 10000.00,
-          "charge": 540,
+          "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }
       ]
     },
     {
-      "id": "10",
+      "id": "6",
       "buildingType": "MIXED",
       "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "PLOT_BASED",
@@ -179,6 +167,13 @@
       "slabs": [
         {
           "from": 0.00,
+          "to": 125.00,
+          "charge": 420,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 125.01,
           "to": 250.00,
           "charge": 630,
           "effectiveFrom": 917523271000,
@@ -186,15 +181,39 @@
         },
         {
           "from": 250.01,
-          "to": 500.00,
+          "to": 10000.00,
           "charge": 840,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "buildingType": "OTHERS",
+      "waterSubUsageType": "USAGE_COMM_NA",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0.00,
+          "to": 125.00,
+          "charge": 420,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         },
         {
-          "from": 500.01,
+          "from": 125.01,
+          "to": 250.00,
+          "charge": 630,
+          "effectiveFrom": 917523271000,
+          "effectiveTo": 1774929282000
+        },
+        {
+          "from": 250.01,
           "to": 10000.00,
-          "charge": 1080,
+          "charge": 840,
           "effectiveFrom": 917523271000,
           "effectiveTo": 1774929282000
         }

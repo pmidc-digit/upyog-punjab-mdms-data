@@ -684,6 +684,14 @@
     {
       "format": "SS-[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "ss.surveyid"
+    },
+    {
+      "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_NDC_ID]",
+      "idname": "ndc.applicationid"
+    },
+    {
+      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID]",
+      "idname": "ndc.receipt.id"
     }
   ]
 }

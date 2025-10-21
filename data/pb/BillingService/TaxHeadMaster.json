@@ -6932,6 +6932,16 @@
       "name": "Sewerage application other charge fee",
       "order": "14",
       "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "service": "ndc-services",
+      "name": "No Dues Certificate Fee",
+      "code": "NDC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
 	  
   ]

@@ -566,41 +566,11 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
-          "code": "MODERATEHAZARD",
-          "active": false,
-          "NBCGroup": "Zone 6",
-          "NBCSubGroup": "(2)"
-        },
-        {
-          "code": "SMSE",
-          "active": false,
-          "NBCGroup": "Zone 6",
-          "NBCSubGroup": "(5)"
-        },
-        {
-          "code": "LOWHAZARD",
-          "active": false,
-          "NBCGroup": "Zone 6",
-          "NBCSubGroup": "(1)"
-        },
-        {
-          "code": "HIGHHAZARD",
-          "active": false,
-          "NBCGroup": "Zone 6",
-          "NBCSubGroup": "(3)"
-        },
-        {
-          "code": "COTTON",
-          "active": false,
-          "NBCGroup": "Zone 6",
-          "NBCSubGroup": "(4)"
-        },
-        {
           "code": "PETROLPUMP",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(3)"
         }
@@ -754,11 +724,11 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": true,
+      "active": false,
       "BuildingSubType": [
         {
           "code": "NURSINGHOME",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(1)"
         }
