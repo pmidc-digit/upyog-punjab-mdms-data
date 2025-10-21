@@ -15836,10 +15836,30 @@
       "sidebarURL": "/digit-ui/citizen/swach-home"
     },
     {
-      "id": 890051,
-      "name": "Mark Attendence",
+        "id": 890051,
+        "name": "Mark Attendence",
+        "url": "digit-ui-card",
+        "displayName": "Mark Attendence",
+        "orderNumber": 3,
+        "enabled": true,
+        "parentModule": "Swach",
+        "enabled": true,
+        "serviceCode": "Swach",
+        "code": "null",
+        "path": "",
+        "navigationURL": "/digit-ui/citizen/swach/attendence",
+        "leftIcon": "",
+        "rightIcon": "",
+        "queryParams": "",
+        "sidebar": "digit-ui-links",
+        "sidebarURL": "/digit-ui/citizen/swach-home"
+        
+      },
+      {
+      "id": 890052,
+      "name": "View Attendence",
       "url": "digit-ui-card",
-      "displayName": "Mark Attendence",
+      "displayName": "View Attendence",
       "orderNumber": 3,
       "enabled": true,
       "parentModule": "Swach",
@@ -15847,12 +15867,86 @@
       "serviceCode": "Swach",
       "code": "null",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/swach/attendence",
+      "navigationURL": "/digit-ui/citizen/swach/ViewAttendence",
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/swach-home"
+    },
+      {
+      "id": 2621,
+      "name": "water Pending Sla Applications",
+      "url": "url",
+      "displayName": "water Pending Sla Applications",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Collections.water Pending Sla Applications",
+      "navigationURL": "report/rainmaker-ws/waterPendingSlaApplications",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2622,
+      "name": "water Pending Sla Applications",
+      "url": "/report/rainmaker-ws/waterPendingSlaApplications/metadata/_get",
+      "displayName": "water Pending Sla Applications",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2623,
+      "name": "water Pending Sla Applications",
+      "url": "/report/rainmaker-ws/waterPendingSlaApplications/_get",
+      "displayName": "water Pending Sla Applications",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2624,
+      "name": "sewerage Pending Sla Applications",
+      "url": "url",
+      "displayName": "sewerage Pending Sla Applications",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Collections.sewerage Pending Sla Applications",
+      "navigationURL": "report/rainmaker-ws/seweragePendingSlaApplications",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2625,
+      "name": "sewerage Pending Sla Applications",
+      "url": "/report/rainmaker-ws/seweragePendingSlaApplications/metadata/_get",
+      "displayName": "sewerage Pending Sla Applications",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2626,
+      "name": "sewerage Pending Sla Applications",
+      "url": "/report/rainmaker-ws/seweragePendingSlaApplications/_get",
+      "displayName": "sewerage Pending Sla Applications",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""  
     },
     {
       "id": 23451578,
@@ -16883,6 +16977,20 @@
       "serviceCode": "NDCREPORTS",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2820,
+      "name": "Disconnection",
+      "url": "url",
+      "displayName": "Disconnection",
+      "orderNumber": 9,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/ws/water/search-connection",
+      "path": "w_s.BG",
+      "leftIcon": "action:receipt"
     }
   ]
 }
