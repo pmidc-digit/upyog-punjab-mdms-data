@@ -20,6 +20,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -107,12 +122,6 @@
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
 			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
 			"applicable": true
 		},
 		{
@@ -237,12 +246,6 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
 			"name": "Development Charges",
 			"rate": 0.0,
 			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
@@ -361,12 +364,6 @@
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
 			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
 			"applicable": true
 		},
 		{
@@ -491,12 +488,6 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
 			"name": "Development Charges",
 			"rate": 0.0,
 			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
@@ -615,12 +606,6 @@
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
 			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
 			"applicable": true
 		},
 		{
@@ -745,12 +730,6 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
 			"name": "Development Charges",
 			"rate": 0.0,
 			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
@@ -869,12 +848,6 @@
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
 			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
 			"applicable": true
 		},
 		{
@@ -999,12 +972,6 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
 			"name": "Development Charges",
 			"rate": 0.0,
 			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
@@ -1123,12 +1090,6 @@
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
 			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
 			"applicable": true
 		},
 		{
