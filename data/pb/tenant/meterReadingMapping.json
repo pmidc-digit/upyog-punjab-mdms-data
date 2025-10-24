@@ -2,12 +2,19 @@
 	"tenantId": "pb",
     "moduleName": "tenant",
     "meterReadingMapping": [
-		{
-            "tenantId": "pb.amritsar",
-            "status": "Active",
-            "usageCategory": [
-                "NONRESIDENTIAL.COMMERCIAL"
-            ]
-        }
-    ]
+    {
+      "tenantId": "pb.amritsar",
+      "status": "Active",
+      "usageCategory": [
+        "NONRESIDENTIAL.COMMERCIAL"
+      ]
+    },
+    {
+      "tenantId": "pb.dirba",
+      "status": "Active",
+      "usageCategory": [
+        "NONRESIDENTIAL.COMMERCIAL"
+      ]
+    }
+  ]
 }
