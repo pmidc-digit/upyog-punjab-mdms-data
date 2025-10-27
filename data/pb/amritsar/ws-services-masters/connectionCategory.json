@@ -26,6 +26,11 @@
       "name": "Below Poverty Line",
       "code": "BPL",
       "active": true
+    },
+    {
+      "name": "Discharge Connection",
+      "code": "DISCHARGE_CONNECTION",
+      "active": true
     }
   ]
 }
