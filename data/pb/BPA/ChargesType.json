@@ -13,6 +13,139 @@
 	  "Charges": [
 		{
 			"name": "Processing Fees",
+			"rate": 46.4876,
+			"discount": 50.0,
+			"taxHeadCode": "BPA_PROCESSING_FEES",
+			"applicable": true
+		},
+		{
+			"name": "CLU Charges",
+			"rate": 0.0,
+			"discount": 50.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
+			"taxHeadCode": "BPA_CLU_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "External Development Charges",
+			"rate": 371.9008,
+			"discount": 50.0,
+			"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Urban Development Cess",
+			"rate": 5.0,
+			"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Malba Fees",
+			"rate": 0.5,
+			"slabs": [
+				{
+					"fromPlotArea": 0.0,
+					"toPlotArea": 500.0,
+					"rate": 500.0,
+					"note": "Plot area <=500 sq.ft"
+				},
+				{
+					"fromPlotArea": 501.0,
+					"toPlotArea": 1000.0,
+					"rate": 1000.0,
+					"note": "Plot area >= 501 && <=1000 sq.ft"
+				},
+				{
+					"fromPlotArea": 1001.0,
+					"toPlotArea": 1500.0,
+					"rate": 1500.0,
+					"note": "Plot area >= 1001 && <=1500 sq.ft"
+				},
+				{
+					"fromPlotArea": 1501.0,
+					"toPlotArea": 2000.0,
+					"rate": 2000.0,
+					"note": "Plot area >= 1501 && <=2000 sq.ft"
+				}
+			],
+			"taxHeadCode": "BPA_MALBA_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Water Charges",
+			"rate": 50.0,
+			"taxHeadCode": "BPA_WATER_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Mining Charges",
+			"rate": 5.0,
+			"taxHeadCode": "BPA_MINING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Guashala Fees",
+			"rate": 50.0,
+			"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Labour Cess",
+			"rate": 11.0,
+			"taxHeadCode": "BPA_LABOUR_CESS",
+			"applicable": true
+		},
+		{
+			"name": "Rain Water Harvesting Charges",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Clubbing Charges",
+			"rate": 400.0,
+			"taxHeadCode": "BPA_CLUBBING_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Sub-Division Charges",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
+			"applicable": true
+		},
+		{
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
+			"applicable": true
+		}
+      ]
+    },
+	 {
+	  "code": "101",
+	  "name": "Bulding Plan",
+	  "Category": "Educational",
+	  "fromFY": "2025-26",
+	  "startingDate": 1743465600000,
+	  "endingDate": 1774981799000,
+	  "active": true,
+	  "Charges": [
+		{
+			"name": "Processing Fees",
 			"rate": 31.0,
 			"taxHeadCode": "BPA_PROCESSING_FEES",
 			"applicable": true
@@ -30,7 +163,7 @@
 					"rate": 108.4710
 				},
 				{
-					"roadType": "OTHER",
+					"roadType": "OTHER ROAD",
 					"rate": 77.4793
 				}
 				
@@ -125,136 +258,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
-			"applicable": true
-		}
-      ]
-    },
-	 {
-	  "code": "101",
-	  "name": "Bulding Plan",
-	  "Category": "Educational",
-	  "fromFY": "2025-26",
-	  "startingDate": 1743465600000,
-	  "endingDate": 1774981799000,
-	  "active": true,
-	  "Charges": [
-		{
-			"name": "Processing Fees",
-			"rate": 31.0,
-			"taxHeadCode": "BPA_PROCESSING_FEES",
-			"applicable": true
-		},
-		{
-			"name": "CLU Charges",
-			"rate": 140.0,
-			"taxHeadCode": "BPA_CLU_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "External Development Charges",
-			"rate": 217.0,
-			"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Urban Development Cess",
-			"rate": 5.0,
-			"taxHeadCode": "BPA_URBAN_DEVELOPMENT_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Malba Fees",
-			"rate": 0.5,
-			"slabs": [
-				{
-					"fromPlotArea": 0.0,
-					"toPlotArea": 500.0,
-					"rate": 500.0,
-					"note": "Plot area <=500 sq.ft"
-				},
-				{
-					"fromPlotArea": 501.0,
-					"toPlotArea": 1000.0,
-					"rate": 1000.0,
-					"note": "Plot area >= 501 && <=1000 sq.ft"
-				},
-				{
-					"fromPlotArea": 1001.0,
-					"toPlotArea": 1500.0,
-					"rate": 1500.0,
-					"note": "Plot area >= 1001 && <=1500 sq.ft"
-				},
-				{
-					"fromPlotArea": 1501.0,
-					"toPlotArea": 2000.0,
-					"rate": 2000.0,
-					"note": "Plot area >= 1501 && <=2000 sq.ft"
-				}
-			],
-			"taxHeadCode": "BPA_MALBA_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Water Charges",
-			"rate": 50.0,
-			"taxHeadCode": "BPA_WATER_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Mining Charges",
-			"rate": 5.0,
-			"taxHeadCode": "BPA_MINING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Guashala Fees",
-			"rate": 50.0,
-			"taxHeadCode": "BPA_GAUSHALA_CHARGES_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Labour Cess",
-			"rate": 11.0,
-			"taxHeadCode": "BPA_LABOUR_CESS",
-			"applicable": true
-		},
-		{
-			"name": "Rain Water Harvesting Charges",
+			"name": "Purchasable FAR fees",
 			"rate": 100.0,
-			"taxHeadCode": "BPA_RAIN_WATER_HARVESTING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Clubbing Charges",
-			"rate": 400.0,
-			"taxHeadCode": "BPA_CLUBBING_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Sub-Division Charges",
-			"rate": 100.0,
-			"taxHeadCode": "BPA_SUB-DIVISION_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -277,6 +283,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -367,15 +388,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -398,6 +413,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -488,15 +518,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -519,6 +543,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -609,15 +648,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -640,6 +673,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -730,15 +778,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -761,6 +803,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -851,15 +908,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -882,6 +933,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -972,15 +1038,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -1003,6 +1063,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -1093,15 +1168,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
