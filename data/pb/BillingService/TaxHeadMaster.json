@@ -7537,6 +7537,16 @@
 	     {
 	  "category": "FEE",
 	  "service": "obpas_noc",
+	  "name": "NOC Compounding fees",
+	  "code": "NOC_COMPOUNDING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
 	  "name": "NOC Mining Charges",
 	  "code": "NOC_MINING_CHARGES",
 	  "isDebit": false,
