@@ -23735,6 +23735,39 @@
       "serviceCode": "challan-generation",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 6284,
+      "name": "Update Challan Generation",
+      "url": "/challan-services/Challan/v1/_update",
+      "displayName": "Update Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6285,
+      "name": "Search Challan Generation",
+      "url": "/challan-services/Challan/v1/_search",
+      "displayName": "Search Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6286,
+      "name": "Challan Collection Search Reciept",
+      "url": "/collection-services/payments/challan-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
