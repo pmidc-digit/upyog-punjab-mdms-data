@@ -523,9 +523,9 @@
     },
 
     {
-      "code": "echallan-services",
+      "code": "Challan_Generation",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
-      "receiptKey": "echallanservice-receipt",
+      "receiptKey": "challangeneration-receipt",
       "billKey": "consolidatedbill",
       "arrears": true,
       "buttons": [
