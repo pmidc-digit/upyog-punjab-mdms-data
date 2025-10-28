@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.testing",
   "moduleName": "Challan",
   "Documents": [
     {
@@ -16,14 +16,6 @@
       "required": true,
       "active": true,
       "description": "Evidence of offence done by offender",
-      "maxSizeMB": 2
-    },
-    {
-      "code": "CHALLAN.CANCELLATION_PROOF",
-      "documentType": "DOCUMENT",
-      "required": true,
-      "active": true,
-      "description": "Evidence of Cancellation of challan",
       "maxSizeMB": 2
     }
   ]
