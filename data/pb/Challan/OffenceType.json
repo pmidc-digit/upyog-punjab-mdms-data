@@ -1,0 +1,66 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Challan",
+  "OffenceType": [
+    {
+      "code": "OT001",
+      "name": "Traffic Violation",
+      "description": "Violations related to moving vehicles and traffic rules.",
+      "active": true
+    },
+    {
+      "code": "OT002",
+      "name": "Parking Violation",
+      "description": "Offences related to improper parking of vehicles.",
+      "active": true
+    },
+    {
+      "code": "OT003",
+      "name": "Documentation Violation",
+      "description": "Offences related to missing or invalid vehicle/driver documents.",
+      "active": true
+    },
+    {
+      "code": "OT004",
+      "name": "Vehicle Condition Violation",
+      "description": "Violations concerning the roadworthiness and condition of the vehicle.",
+      "active": true
+    },
+    {
+      "code": "OT005",
+      "name": "Public Nuisance Violation",
+      "description": "Offences that cause public inconvenience or nuisance.",
+      "active": true
+    },
+    {
+      "code": "OT006",
+      "name": "Commercial Vehicle Violation",
+      "description": "Specific violations applicable only to commercial vehicles.",
+      "active": true
+    },
+    {
+      "code": "OT007",
+      "name": "Environmental Violation",
+      "description": "Violations related to vehicle emissions and noise.",
+      "active": true
+    },
+    {
+      "code": "OT008",
+      "name": "Rider/Driver Safety Violation",
+      "description": "Offences related to the personal safety of the driver or rider.",
+      "active": true
+    },
+    {
+      "code": "OT009",
+      "name": "Road Safety Violation",
+      "description": "Violations that endanger other road users.",
+      "active": true
+    },
+    {
+      "code": "OT010",
+      "name": "Licensing & Permit Violation",
+      "description": "Violations related to permits and licensing for special vehicle use.",
+      "active": true
+    }
+  ]
+}

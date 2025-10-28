@@ -1,0 +1,76 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "Challan",
+  "SubCategory": [
+    {
+      "code": "SC001",
+      "name": "Jumping Red Light",
+      "categoryCode": "CAT01",
+      "penaltyAmount": 1000,
+      "active": true
+    },
+    {
+      "code": "SC002",
+      "name": "Exceeding Speed Limit in a Residential Area",
+      "categoryCode": "CAT02",
+      "penaltyAmount": 2000,
+      "active": true
+    },
+    {
+      "code": "SC003",
+      "name": "Parking on a footpath",
+      "categoryCode": "CAT03",
+      "penaltyAmount": 500,
+      "active": true
+    },
+    {
+      "code": "SC004",
+      "name": "Driving without a valid License",
+      "categoryCode": "CAT04",
+      "penaltyAmount": 5000,
+      "active": true
+    },
+    {
+      "code": "SC005",
+      "name": "Driving with an Expired Registration Certificate (RC)",
+      "categoryCode": "CAT05",
+      "penaltyAmount": 2000,
+      "active": true
+    },
+    {
+      "code": "SC006",
+      "name": "Driving with faulty or non-functional headlights",
+      "categoryCode": "CAT06",
+      "penaltyAmount": 1000,
+      "active": true
+    },
+    {
+      "code": "SC007",
+      "name": "Honking unnecessarily in a silent zone (Hospital, School)",
+      "categoryCode": "CAT07",
+      "penaltyAmount": 1000,
+      "active": true
+    },
+    {
+      "code": "SC008",
+      "name": "Overloading a goods carrier beyond permissible weight",
+      "categoryCode": "CAT08",
+      "penaltyAmount": 20000,
+      "active": true
+    },
+    {
+      "code": "SC009",
+      "name": "Driving without a valid Pollution Under Control (PUC) certificate",
+      "categoryCode": "CAT09",
+      "penaltyAmount": 10000,
+      "active": true
+    },
+    {
+      "code": "SC010",
+      "name": "Riding a two-wheeler without a helmet",
+      "categoryCode": "CAT10",
+      "penaltyAmount": 1000,
+      "active": true
+    }
+  ]
+}

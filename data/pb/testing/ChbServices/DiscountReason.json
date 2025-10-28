@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "CHB",
+  "DiscountReason": [
+    {
+      "reasonId": 1,
+      "reasonName": "EMPLOYEE_DISCOUNT"
+    }
+  ]
+}

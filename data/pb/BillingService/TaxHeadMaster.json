@@ -7076,8 +7076,8 @@
 	   {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "BPA less adjustment plot",
-      "code": "BPA_LESS_ADJUSMENT_PLOT",
+      "name": "BPA Purchasable FAR fees",
+      "code": "BPA_PURCHASABLE_FAR_CHARGES",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -7537,6 +7537,16 @@
 	     {
 	  "category": "FEE",
 	  "service": "obpas_noc",
+	  "name": "NOC Compounding fees",
+	  "code": "NOC_COMPOUNDING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
 	  "name": "NOC Mining Charges",
 	  "code": "NOC_MINING_CHARGES",
 	  "isDebit": false,
@@ -7737,8 +7747,8 @@
 	{
 	  "category": "FEE",
 	  "service": "BPA.NC_SAN_FEE",
-	  "name": "BPA Adjustment less adjustment plot",
-	  "code": "ADJ_BPA_LESS_ADJUSMENT_PLOT",
+	  "name": "BPA Adjustment Purchasable FAR fees",
+	  "code": "ADJ_BPA_PURCHASABLE_FAR_CHARGES",
 	  "isDebit": false,
 	  "isActualDemand": true,
 	  "order": "1",

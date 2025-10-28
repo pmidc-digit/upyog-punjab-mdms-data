@@ -13,19 +13,37 @@
 	  "Charges": [
 		{
 			"name": "Processing Fees",
-			"rate": 31.0,
+			"rate": 46.4876,
+			"discount": 50.0,
 			"taxHeadCode": "BPA_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
-			"rate": 140.0,
+			"rate": 0.0,
+			"discount": 50.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
-			"rate": 217.0,
+			"rate": 371.9008,
+			"discount": 50.0,
 			"taxHeadCode": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
@@ -110,21 +128,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
       ]
@@ -147,6 +153,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -237,21 +258,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -274,6 +283,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -364,21 +388,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -401,6 +413,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -491,21 +518,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -528,6 +543,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -618,21 +648,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -655,6 +673,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -745,21 +778,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -782,6 +803,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -872,21 +908,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -909,6 +933,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -999,21 +1038,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -1036,6 +1063,21 @@
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
+			"slabs": [
+				{
+					"roadType": "NH",
+					"rate": 139.4628
+				},
+				{
+					"roadType": "SH",
+					"rate": 108.4710
+				},
+				{
+					"roadType": "OTHER ROAD",
+					"rate": 77.4793
+				}
+				
+			],
 			"taxHeadCode": "BPA_CLU_CHARGES",
 			"applicable": true
 		},
@@ -1126,21 +1168,9 @@
 			"applicable": true
 		},
 		{
-			"name": "Less Adjustment for Plot",
-			"rate": -1.0,
-			"taxHeadCode": "BPA_LESS_ADJUSMENT_PLOT",
-			"applicable": true
-		},
-		{
-			"name": "Development Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_DEVELOPMENT_CHARGES",
-			"applicable": true
-		},
-		{
-			"name": "Other Charges",
-			"rate": 0.0,
-			"taxHeadCode": "BPA_OTHER_CHARGES",
+			"name": "Purchasable FAR fees",
+			"rate": 100.0,
+			"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 			"applicable": true
 		}
 	  ]
