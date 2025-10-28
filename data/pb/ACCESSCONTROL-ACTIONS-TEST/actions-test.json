@@ -23724,6 +23724,17 @@
       "serviceCode": "noc-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 6283,
+      "name": "Create Challan Generation",
+      "url": "/challan-services/Challan/v1/_create",
+      "displayName": "Create Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
     }
   ]
 }

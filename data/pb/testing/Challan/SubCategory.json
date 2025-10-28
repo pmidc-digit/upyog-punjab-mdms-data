@@ -3,74 +3,57 @@
   "moduleName": "Challan",
   "SubCategory": [
     {
-      "code": "SC001",
-      "name": "Jumping Red Light",
-      "categoryCode": "CAT01",
-      "penaltyAmount": 1000,
-      "active": true
+      "id": "SC101",
+      "name": "Loud Music After 10 PM",
+      "categoryId": "C10"
     },
     {
-      "code": "SC002",
-      "name": "Exceeding Speed Limit in a Residential Area",
-      "categoryCode": "CAT02",
-      "penaltyAmount": 2000,
-      "active": true
+      "id": "SC102",
+      "name": "Construction Noise (Night)",
+      "categoryId": "C10"
     },
     {
-      "code": "SC003",
-      "name": "Parking on a footpath",
-      "categoryCode": "CAT03",
-      "penaltyAmount": 500,
-      "active": true
+      "id": "SC111",
+      "name": "Urinating in Public",
+      "categoryId": "C11"
     },
     {
-      "code": "SC004",
-      "name": "Driving without a valid License",
-      "categoryCode": "CAT04",
-      "penaltyAmount": 5000,
-      "active": true
+      "id": "SC201",
+      "name": "Dumping Household Waste",
+      "categoryId": "C20" },
+    {
+      "id": "SC202",
+      "name": "Dumping Construction Debris",
+      "categoryId": "C20"
     },
     {
-      "code": "SC005",
-      "name": "Driving with an Expired Registration Certificate (RC)",
-      "categoryCode": "CAT05",
-      "penaltyAmount": 2000,
-      "active": true
+      "id": "SC211",
+      "name": "Spitting in Public",
+      "categoryId": "C21"
     },
     {
-      "code": "SC006",
-      "name": "Driving with faulty or non-functional headlights",
-      "categoryCode": "CAT06",
-      "penaltyAmount": 1000,
-      "active": true
+      "id": "SC212",
+      "name": "Throwing Wrappers/Bottles",
+      "categoryId": "C21"
     },
     {
-      "code": "SC007",
-      "name": "Honking unnecessarily in a silent zone (Hospital, School)",
-      "categoryCode": "CAT07",
-      "penaltyAmount": 1000,
-      "active": true
+      "id": "SC301",
+      "name": "Obstructing Public Footpath",
+      "categoryId": "C30"
     },
     {
-      "code": "SC008",
-      "name": "Overloading a goods carrier beyond permissible weight",
-      "categoryCode": "CAT08",
-      "penaltyAmount": 20000,
-      "active": true
+      "id": "SC302",
+      "name": "Illegal Banners/Hoardings",
+      "categoryId": "C30"
     },
     {
-      "code": "SC009",
-      "name": "Driving without a valid Pollution Under Control (PUC) certificate",
-      "categoryCode": "CAT09",
-      "penaltyAmount": 10000,
-      "active": true
+      "id": "SC311",
+      "name": "Illegal Extension/Modification",
+      "categoryId": "C31"
     },
     {
-      "code": "SC010",
-      "name": "Riding a two-wheeler without a helmet",
-      "categoryCode": "CAT10",
-      "penaltyAmount": 1000,
-      "active": true
-    }
+      "id": "SC401",
+      "name": "Vending in Non-Designated Zone",
+      "categoryId": "C40" }
   ]
 }
