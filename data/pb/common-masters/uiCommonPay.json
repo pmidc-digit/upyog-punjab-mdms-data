@@ -505,6 +505,36 @@
           "employeeUrl": "/noc/inbox"
         }
       ]
+    },
+
+    {
+      "code": "chb-services",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "chbservice-receipt",
+      "billKey": "consolidatedbill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/chb-home",
+          "employeeUrl": "/chb/inbox"
+        }
+      ]
+    },
+
+    {
+      "code": "Challan_Generation",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "challangeneration-receipt",
+      "billKey": "consolidatedbill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/challangeneration-home",
+          "employeeUrl": "/challangeneration/inbox"
+        }
+      ]
     }
   ]
 }
