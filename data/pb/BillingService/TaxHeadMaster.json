@@ -7624,6 +7624,16 @@
       "order": 7,
       "isRequired": false
     },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB DISCOUNT",
+      "code": "CHB_DISCOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
 	{
 	  "category": "FEE",
 	  "service": "BPA.NC_SAN_FEE",
