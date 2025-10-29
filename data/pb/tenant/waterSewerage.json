@@ -35,7 +35,7 @@
     {
       "code": "pb.amloh",
       "name": "Amloh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.amritsar",
@@ -160,7 +160,7 @@
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.boha",
@@ -341,6 +341,11 @@
       "code": "pb.payal",
       "name": "Payal",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.phillaur",
+      "name": "Phillaur",
+      "isautodemand": "true"
     },
     {
       "code": "pb.quadian",
