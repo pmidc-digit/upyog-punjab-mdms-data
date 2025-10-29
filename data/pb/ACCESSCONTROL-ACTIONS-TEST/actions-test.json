@@ -23768,6 +23768,38 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900900,
+      "name": "Challan Inbox",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900901,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Challan",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/generate-challan",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
