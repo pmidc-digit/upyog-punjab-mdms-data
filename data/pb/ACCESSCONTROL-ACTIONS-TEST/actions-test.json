@@ -23728,7 +23728,7 @@
     {
       "id": 6283,
       "name": "Create Challan Generation",
-      "url": "/challan-generation/challan/v1/_create",
+      "url": "/challan-generation/challan/_create",
       "displayName": "Create Challan Generation",
       "orderNumber": 1,
       "enabled": true,
@@ -23739,7 +23739,7 @@
     {
       "id": 6284,
       "name": "Update Challan Generation",
-      "url": "/challan-generation/challan/v1/_update",
+      "url": "/challan-generation/challan/_update",
       "displayName": "Update Challan Generation",
       "orderNumber": 1,
       "enabled": true,
@@ -23750,7 +23750,7 @@
     {
       "id": 6285,
       "name": "Search Challan Generation",
-      "url": "/challan-generation/challan/v1/_search",
+      "url": "/challan-generation/challan/_search",
       "displayName": "Search Challan Generation",
       "orderNumber": 1,
       "enabled": true,
