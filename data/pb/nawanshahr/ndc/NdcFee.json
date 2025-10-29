@@ -1,16 +1,16 @@
 {
-  "tenantId": "pb.sultanpurlodhi",
+  "tenantId": "pb.nawanshahr",
   "moduleName": "ndc",
   "NdcFee": [
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 500
+      "flatFee": 1000
     },
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 500
+      "flatFee": 1000
     }
   ]
 }
