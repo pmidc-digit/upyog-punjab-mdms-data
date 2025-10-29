@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "Challan",
+  "Category": [
+    {
+      "id": "C10",
+      "name": "Noise Violation",
+      "offenceTypeId": "OT1"
+    },
+    {
+      "id": "C11",
+      "name": "Public Indecency",
+      "offenceTypeId": "OT1"
+    },
+    {
+      "id": "C20",
+      "name": "Improper Waste Disposal",
+      "offenceTypeId": "OT2"
+    },
+    {
+      "id": "C21",
+      "name": "Littering",
+      "offenceTypeId": "OT2"
+    },
+    {
+      "id": "C30",
+      "name": "Encroachment",
+      "offenceTypeId": "OT3"
+    },
+    {
+      "id": "C31",
+      "name": "Unapproved Construction",
+      "offenceTypeId": "OT3"
+    },
+    {
+      "id": "C40",
+      "name": "Street Vending",
+      "offenceTypeId": "OT4"
+    }
+  ]
+}

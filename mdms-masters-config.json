@@ -69,6 +69,11 @@
 			"masterName": "ApplicationFees",
 			"isStateLevel": true,
 			"uniqueKeys": []
+		},
+		"BuildingHeight": {
+			"masterName": "BuildingHeight",
+			"isStateLevel": true,
+			"uniqueKeys": []
 		}
 	},
 	"StakeholderRegistraition": {
@@ -1305,5 +1310,35 @@
         "$.feeType"
       ]
     }
-  }
+  },
+	"Challan": {
+		"OffenceType": {
+			"masterName": "OffenceType",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.id"
+			]
+		},
+		"Category": {
+			"masterName": "Category",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.id"
+			]
+		},
+		"SubCategory": {
+			"masterName": "SubCategory",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.id"
+			]
+		},
+		"Rates": {
+			"masterName": "Rates",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.subCategoryId"
+			]
+		}
+	}
 }

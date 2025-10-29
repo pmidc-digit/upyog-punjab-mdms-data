@@ -1,0 +1,21 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Challan",
+  "OffenceType": [
+    {
+      "id": "OT1",
+      "name": "Public Nuisance"
+    },
+    {
+      "id": "OT2",
+      "name": "Sanitation & Waste"
+    },
+    {
+      "id": "OT3",
+      "name": "Property & Zoning"
+    },
+    {
+      "id": "OT4",
+      "name": "Vending Violations" }
+  ]
+}
