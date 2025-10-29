@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.hariana",
+  "moduleName": "ndc",
+  "NdcFee": [
+    {
+      "name": "Commercial Fee",
+      "code": "COMMERCIAL",
+      "flatFee": 250
+    },
+    {
+      "name": "Residential Fee",
+      "code": "RESIDENTIAL",
+      "flatFee": 250
+    }
+  ]
+}

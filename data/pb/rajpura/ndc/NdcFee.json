@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.rajpura",
+  "moduleName": "ndc",
+  "NdcFee": [
+    {
+      "name": "Commercial Fee",
+      "code": "COMMERCIAL",
+      "flatFee": 400
+    },
+    {
+      "name": "Residential Fee",
+      "code": "RESIDENTIAL",
+      "flatFee": 200
+    }
+  ]
+}

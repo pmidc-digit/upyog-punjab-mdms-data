@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.derababananak",
+  "moduleName": "ndc",
+  "NdcFee": [
+    {
+      "name": "Commercial Fee",
+      "code": "COMMERCIAL",
+      "flatFee": 2000
+    },
+    {
+      "name": "Residential Fee",
+      "code": "RESIDENTIAL",
+      "flatFee": 2000
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.pathankot",
+  "moduleName": "ndc",
+  "NdcFee": [
+    {
+      "name": "Commercial Fee",
+      "code": "COMMERCIAL",
+      "flatFee": 0
+    },
+    {
+      "name": "Residential Fee",
+      "code": "RESIDENTIAL",
+      "flatFee": 16250
+    }
+  ]
+}

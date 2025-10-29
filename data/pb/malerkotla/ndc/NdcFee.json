@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.malerkotla",
+  "moduleName": "ndc",
+  "NdcFee": [
+    {
+      "name": "Commercial Fee",
+      "code": "COMMERCIAL",
+      "flatFee": 50
+    },
+    {
+      "name": "Residential Fee",
+      "code": "RESIDENTIAL",
+      "flatFee": 50
+    }
+  ]
+}
