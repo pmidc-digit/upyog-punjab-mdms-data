@@ -69,6 +69,11 @@
 			"masterName": "ApplicationFees",
 			"isStateLevel": true,
 			"uniqueKeys": []
+		},
+		"BuildingHeight": {
+			"masterName": "BuildingHeight",
+			"isStateLevel": true,
+			"uniqueKeys": []
 		}
 	},
 	"StakeholderRegistraition": {
