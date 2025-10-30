@@ -4,19 +4,19 @@
   "LocalityRates": [
     {
       "id": 2265,
-      "ulbname": "testing",
-      "residentialrate": 68600,
-      "commercialrate": 1080000,
-      "industrialrate": 1080000,
-      "localitycode": "JALLC74"
+      "ulbName": "testing",
+      "residentialRate": 68600,
+      "commercialRate": 1080000,
+      "industrialRate": 1080000,
+      "localityCode": "JALLC74"
     },
     {
       "id": 2266,
-      "ulbname": "testing",
-      "residentialrate": 110000,
-      "commercialrate": 330000,
-      "industrialrate": 330000,
-      "localitycode": "JALLC75"
+      "ulbName": "testing",
+      "residentialRate": 110000,
+      "commercialRate": 330000,
+      "industrialRate": 330000,
+      "localityCode": "JALLC75"
     }
   ]
 }
