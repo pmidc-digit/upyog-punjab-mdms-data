@@ -23800,6 +23800,40 @@
       "navigationURL": "/digit-ui/employee/challangeneration/generate-challan",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8900902,
+      "name": "create layout application",
+      "url": "/layout-services/v1/layout/_create",
+      "displayName": "create layout application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900903,
+      "name": "update layout application",
+      "url": "/layout-services/v1/layout/_update",
+      "displayName": "update layout application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900904,
+      "name": "Search layout Applications",
+      "url": "/layout-services/v1/layout/_search",
+      "parentModule": "",
+      "displayName": "Search layout Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "layout-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
