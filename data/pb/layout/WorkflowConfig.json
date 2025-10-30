@@ -1,0 +1,62 @@
+{
+  "tenantId": "pb",
+  "moduleName": "LAYOUT",
+  "WorkflowConfig": [
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "Layout_mcUp"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "Layout_mco_abv"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 0,
+      "maxArea": 2,
+      "businessService": "Layout_mcUp"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 2.01,
+      "maxArea": 999999,
+      "businessService": "Layout_mco_abv"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "Layout_mcl_up"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "Layout_mcl_abv"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 0,
+      "maxArea": 2,
+      "businessService": "Layout_mcl_up"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 2.01,
+      "maxArea": 999999,
+      "businessService": "Layout_mcl_abv"
+    }
+  ]
+}
