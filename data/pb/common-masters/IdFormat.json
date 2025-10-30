@@ -822,7 +822,7 @@
     },
     {
       "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID]",
-      "idname": "challan_Generation.receipt.id"
+      "idname": "challan_generation.receipt.id"
     }
   ]
 }
