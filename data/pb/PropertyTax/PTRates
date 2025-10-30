@@ -1,1 +1,22 @@
-
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "LocalityRates": [
+    {
+      "id": 2265,
+      "ulb_name": "testing",
+      "residential_rate": 68600,
+      "commercial_rate": 1080000,
+      "industrial_rate": 1080000,
+      "locality_code": "JALLC74"
+    },
+    {
+      "id": 2266,
+      "ulb_name": "testing",
+      "residential_rate": 110000,
+      "commercial_rate": 330000,
+      "industrial_rate": 330000,
+      "locality_code": "JALLC75"
+    }
+  ]
+}
