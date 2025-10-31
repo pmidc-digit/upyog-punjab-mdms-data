@@ -7783,17 +7783,6 @@
 	  "isActualDemand": true,
 	  "order": "1",
 	  "isRequired": false
-	},
-    {
-      "category": "CHALLAN",
-      "service": "Challan_Generation",
-      "name": "Challan Fine",
-      "code": "CH.CHALLAN_FINE",
-      "isRequired": true,
-      "order": 1,
-      "isDebit": false,
-      "isActualDemand": true,
-      "isActive": true
-    }
+	}
   ]
 }
