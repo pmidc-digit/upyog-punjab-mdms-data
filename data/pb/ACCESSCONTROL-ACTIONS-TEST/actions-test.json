@@ -23866,6 +23866,38 @@
       "navigationURL": "/digit-ui/employee/ptr/petservice/new-application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8900907,
+      "name": "Pet Registration Inbox",
+      "url": "url",
+      "displayName": "Search ADS Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "ADS",
+      "code": "null",
+      "path": "ADS.ADS Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/ads/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900908,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "ADS",
+      "code": "null",
+      "path": "ADS.ADS Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/ads/bookad",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
