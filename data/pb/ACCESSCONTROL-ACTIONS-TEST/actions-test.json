@@ -16963,7 +16963,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2820,
       "name": "Disconnection",
       "url": "url",
@@ -16976,6 +16976,51 @@
       "navigationURL": "/digit-ui/employee/ws/water/search-connection",
       "path": "w_s.BG",
       "leftIcon": "action:receipt"
-    }
+    },
+    {
+      "id": 2821,
+      "name": "PT_DEFAULTER_REPORT_V2",
+      "url": "url",
+      "displayName": "Defaulters Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Defaulters Report.PT_DEFAULTER_REPORT_V2",
+      "navigationURL": "report/rainmaker-pt/PT_DEFAULTER_REPORT_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2822,
+      "name": "DEFAULTER_REPORT_WITH_LOCALITY",
+      "url": "url",
+      "displayName": "DEFAULTER REPORT WITH LOCALITY",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Defaulters Report.DEFAULTER_REPORT_WITH_LOCALITY",
+      "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2823,
+      "name": "DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "url": "url",
+      "displayName": "DEFAULTERS UNPAID DEMAND",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Defaulters Report.DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }            
   ]
 }
