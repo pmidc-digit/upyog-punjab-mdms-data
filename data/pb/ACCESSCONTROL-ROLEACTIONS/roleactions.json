@@ -64216,8 +64216,7 @@
       "actionid": 8900902,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900903,
@@ -64353,13 +64352,6 @@
       "tenantId": "pb"
     },
 
-
-
-
-
-
-
-
     {
       "rolecode": "JE",
       "actionid": 8900904,
@@ -64441,6 +64433,18 @@
     {
       "rolecode": "STP(HQ)",
       "actionid": 8900904,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 8900905,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 8900906,
       "actioncode": "",
       "tenantId": "pb"
     }
