@@ -62045,6 +62045,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 883348,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ADV_VERIFIER",
       "actionid": 883323,
       "actioncode": "",
@@ -62173,6 +62179,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 883347,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883348,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -64109,6 +64121,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 6285,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 6286,
       "actioncode": "",
@@ -64210,8 +64228,7 @@
       "actionid": 8900902,
       "actioncode": "",
       "tenantId": "pb"
-    }
-    ,
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900903,
@@ -64347,13 +64364,6 @@
       "tenantId": "pb"
     },
 
-
-
-
-
-
-
-
     {
       "rolecode": "JE",
       "actionid": 8900904,
@@ -64435,6 +64445,30 @@
     {
       "rolecode": "STP(HQ)",
       "actionid": 8900904,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 8900905,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET_REG_EMPLOYEE",
+      "actionid": 8900906,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 8900907,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 8900908,
       "actioncode": "",
       "tenantId": "pb"
     }
