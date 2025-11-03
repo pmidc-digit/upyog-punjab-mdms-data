@@ -62045,6 +62045,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 883348,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ADV_VERIFIER",
       "actionid": 883323,
       "actioncode": "",
@@ -62173,6 +62179,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 883347,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883348,
       "actioncode": "",
       "tenantId": "pb"
     },
