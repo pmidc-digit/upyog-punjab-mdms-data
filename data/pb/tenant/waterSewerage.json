@@ -70,7 +70,7 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.badhnikalan",
@@ -185,7 +185,7 @@
     {
       "code": "pb.dirba",
       "name": "Dirba",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.doraha",
@@ -250,7 +250,7 @@
     {
       "code": "pb.kartarpur",
       "name": "Kartarpur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.khamano",
