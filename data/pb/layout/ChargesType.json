@@ -14,25 +14,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true	
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -64,55 +64,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
       ]
@@ -129,25 +129,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -179,55 +179,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -244,25 +244,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -294,55 +294,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -359,25 +359,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -409,55 +409,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -474,25 +474,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -524,55 +524,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -589,25 +589,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -639,55 +639,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -704,25 +704,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -754,55 +754,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -819,25 +819,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -869,55 +869,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]
@@ -934,25 +934,25 @@
 		{
 			"name": "Processing Fees",
 			"rate": 31.0,
-			"taxHeadCode": "NOC_PROCESSING_FEES",
+			"taxHeadCode": "LAYOUT_PROCESSING_FEES",
 			"applicable": true
 		},
 		{
 			"name": "CLU Charges",
 			"rate": 140.0,
-			"taxHeadCode": "NOC_CLU_CHARGES",
+			"taxHeadCode": "LAYOUT_CLU_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "External Development Charges",
 			"rate": 217.0,
-			"taxHeadCode": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+			"taxHeadCode": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Urban Development Cess",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_URBAN_DEVELOPMENT_CESS",
+			"taxHeadCode": "LAYOUT_URBAN_DEVELOPMENT_CESS",
 			"applicable": true
 		},
 		{
@@ -984,55 +984,55 @@
 					"note": "Plot area >= 1501 && <=2000 sq.ft"
 				}
 			],
-			"taxHeadCode": "NOC_MALBA_CHARGES",
+			"taxHeadCode": "LAYOUT_MALBA_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Water Charges",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_WATER_CHARGES",
+			"taxHeadCode": "LAYOUT_WATER_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Mining Charges",
 			"rate": 5.0,
-			"taxHeadCode": "NOC_MINING_CHARGES",
+			"taxHeadCode": "LAYOUT_MINING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Guashala Fees",
 			"rate": 50.0,
-			"taxHeadCode": "NOC_GAUSHALA_CHARGES_CESS",
+			"taxHeadCode": "LAYOUT_GAUSHALA_CHARGES_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Labour Cess",
 			"rate": 11.0,
-			"taxHeadCode": "NOC_LABOUR_CESS",
+			"taxHeadCode": "LAYOUT_LABOUR_CESS",
 			"applicable": true
 		},
 		{
 			"name": "Rain Water Harvesting Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+			"taxHeadCode": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Clubbing Charges",
 			"rate": 400.0,
-			"taxHeadCode": "NOC_CLUBBING_CHARGES",
+			"taxHeadCode": "LAYOUT_CLUBBING_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Sub-Division Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_SUB-DIVISION_CHARGES",
+			"taxHeadCode": "LAYOUT_SUB-DIVISION_CHARGES",
 			"applicable": true
 		},
 		{
 			"name": "Other Charges",
 			"rate": 100.0,
-			"taxHeadCode": "NOC_OTHER_CHARGES",
+			"taxHeadCode": "LAYOUT_OTHER_CHARGES",
 			"applicable": true
 		}
 	  ]

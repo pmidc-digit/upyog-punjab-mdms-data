@@ -7794,6 +7794,193 @@
       "isDebit": false,
       "isActualDemand": true,
       "isActive": true
+    },
+
+
+
+
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "No Object Certificate Fee",
+      "code": "LAYOUT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Malwa fees",
+      "code": "LAYOUT_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Labour cess",
+      "code": "LAYOUT_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Water fees",
+      "code": "LAYOUT_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Gaushala charge fees",
+      "code": "LAYOUT_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT less adjustment plot",
+      "code": "LAYOUT_LESS_ADJUSMENT_PLOT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Development fees",
+      "code": "LAYOUT_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Other fees",
+      "code": "LAYOUT_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Processing Fees",
+      "code": "LAYOUT_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT CLU Charges",
+      "code": "LAYOUT_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT External Development Charges",
+      "code": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Urban Development Cess",
+      "code": "LAYOUT_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Compounding fees",
+      "code": "LAYOUT_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Mining Charges",
+      "code": "LAYOUT_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Rain Water Harvesting Charges",
+      "code": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Clubbing Charges",
+      "code": "LAYOUT_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Sub-Division Charges",
+      "code": "LAYOUT_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
