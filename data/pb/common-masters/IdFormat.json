@@ -828,9 +828,18 @@
       "format": "PB-LAYOUT-[cy:yyyy-MM-dd]-[SEQ_EG_LAYOUT_APPLICATION]",
       "idname": "layout.application.number"
     },
+
+    {
+      "format": "PB-CLU-[cy:yyyy-MM-dd]-[SEQ_EG_CLU_APPLICATION]",
+      "idname": "clu.application.number"
+    },
     {
       "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
       "idname": "layout.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.receipt.id"
     }
   ]
 }
