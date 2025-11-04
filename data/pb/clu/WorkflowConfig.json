@@ -1,0 +1,133 @@
+{
+  "tenantId": "pb",
+  "moduleName": "CLU",
+  "WorkflowConfig": [
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcUp"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mco_abv"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcUp"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mco_abv"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 0,
+      "maxArea": 2,
+      "businessService": "clu_mcUp"
+    },
+    {
+      "ulbType": "Municipal Corporation",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 2.01,
+      "maxArea": 999999,
+      "businessService": "clu_mco_abv"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 0,
+      "maxArea": 2,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Municipal Council",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 2.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    },
+
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "RESIDENTIAL_PLOTTED",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    },
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 0,
+      "maxArea": 25,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "minArea": 25.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    },
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 0,
+      "maxArea": 2,
+      "businessService": "clu_mcl_up"
+    },
+    {
+      "ulbType": "Nagar Panchayat",
+      "buildingCategory": "COMMERCIAL",
+      "minArea": 2.01,
+      "maxArea": 999999,
+      "businessService": "clu_mcl_abv"
+    }
+  ]
+}

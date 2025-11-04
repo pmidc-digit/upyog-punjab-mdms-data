@@ -7968,6 +7968,179 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+
+
+
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "No Object Certificate Fee",
+      "code": "CLU",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Malwa fees",
+      "code": "CLU_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Labour cess",
+      "code": "CLU_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Water fees",
+      "code": "CLU_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Gaushala charge fees",
+      "code": "CLU_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU less adjustment plot",
+      "code": "CLU_LESS_ADJUSMENT_PLOT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Development fees",
+      "code": "CLU_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Other fees",
+      "code": "CLU_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Processing Fees",
+      "code": "CLU_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU CLU Charges",
+      "code": "CLU_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU External Development Charges",
+      "code": "CLU_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Urban Development Cess",
+      "code": "CLU_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Compounding fees",
+      "code": "CLU_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Mining Charges",
+      "code": "CLU_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Rain Water Harvesting Charges",
+      "code": "CLU_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Clubbing Charges",
+      "code": "CLU_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Sub-Division Charges",
+      "code": "CLU_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
 
 
