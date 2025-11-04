@@ -1,0 +1,60 @@
+{
+  "tenantId": "pb.nangal",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Naya Nangal Community Centre",
+      "code": "NAYA_NANGAL_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Nehru Bhawan Community Centre",
+      "code": "NEHRU_BHAWAN_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Indra Nagar Community Centre",
+      "code": "INDRA_NAGAR_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Parshu Ram Bhawan Community Centre",
+      "code": "PARSHU_RAM_BHAWAN_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Jawahar Market Community Centre",
+      "code": "JAWAHAR_MARKET_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Mojowal Community Centre",
+      "code": "MOJOWAL_COMMUNITY_CENTRE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    }
+  ]
+}

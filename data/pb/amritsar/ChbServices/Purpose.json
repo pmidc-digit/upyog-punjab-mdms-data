@@ -1,36 +1,41 @@
 {
-    "tenantId": "pb.amritsar",
-    "moduleName": "CHB",
-    "Purpose": [
-      {
-        "name": "Religious",
-        "code": "RELIGIOUS",
-        "active": true
-      },
-      {
-        "name": "Marriage",
-        "code": "MARRIAGE",
-        "active": true
-      },
-      {
-        "name": "Social",
-        "code": "SOCIAL",
-        "active": true
-      },
-      {
-        "name": "Conference",
-        "code": "CONFERENCE",
-        "active": true
-      },
-      {
-        "name": "Public Gathering",
-        "code": "PUBLIC_GATHERING",
-        "active": true
-      },
-      {
-        "name": "None",
-        "code": "NONE",
-        "active":true
-      }
-    ]
-  }
+  "tenantId": "pb.amritsar",
+  "moduleName": "CHB",
+  "Purpose": [
+    {
+      "name": "Marriage Function",
+      "code": "MARRIAGE_FUNCTION",
+      "active": true
+    },
+    {
+      "name": "Ring Ceremony",
+      "code": "RING_CEREMONY",
+      "active": true
+    },
+    {
+      "name": "Shagun",
+      "code": "SHAGUN",
+      "active": true
+    },
+    {
+      "name": "Social Gathering",
+      "code": "SOCIAL_GATHERING",
+      "active": true
+    },
+    {
+      "name": "Exibhition",
+      "code": "EXIBHITION",
+      "active": true
+    },
+    {
+      "name": "Ritual Ceremony",
+      "code": "RITUAL_CEREMONY",
+      "active": true
+    },
+    {
+      "name": "Retirement Party",
+      "code": "RETIREMENT_PARTY",
+      "active": true
+    }
+  ]
+}

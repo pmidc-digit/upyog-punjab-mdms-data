@@ -1,0 +1,102 @@
+{
+  "tenantId": "pb.mandigobindgarh",
+  "moduleName": "CHB",
+  "CalculationType": [
+    {
+      "1": [
+        {
+          "sector": "Nasrali_Road_Near_Gouwashalla",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "sector": "Sabzi_Mandi_Opp_Dusahara_Ground",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 3500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "3": [
+        {
+          "sector": "Near_Masster_Colony",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "4": [
+        {
+          "sector": "Guru_Nanak_Colony",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 3500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "5": [
+        {
+          "sector": "Gandhi_Nagar_Sector_21_C",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "6": [
+        {
+          "sector": "Shanti_Nagar_Near_Disposal_Road",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2100,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "7": [
+        {
+          "sector": "Prem_Nagar_Near_Gymikhaana_Club",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 3500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "8": [
+        {
+          "sector": "Trilok_Puri_Near_Ajnali",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2100,
+          "taxApplicable": true
+        }
+      ]
+    }
+  ]
+}

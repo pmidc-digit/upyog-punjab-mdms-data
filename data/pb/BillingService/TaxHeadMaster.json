@@ -7969,6 +7969,16 @@
       "order": "1",
       "isRequired": false
     },
+    {
+      "category": "FEE",
+      "service": "Challan_Generation",
+      "name": "Challan Fine",
+      "code": "CH.CHALLAN_FINE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
 
 
 
