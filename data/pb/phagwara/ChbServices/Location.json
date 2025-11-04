@@ -1,0 +1,33 @@
+{
+  "tenantId": "pb.phagwara",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Community Hall, Urban Estate - Morning",
+      "code": "COMMUNITY_HALL_URBAN_ESTATE_MORNING",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.2248,
+        "longitude": 75.7730
+      }
+    },
+    {
+      "name": "Community Hall, Urban Estate - Evening",
+      "code": "COMMUNITY_HALL_URBAN_ESTATE_EVENING",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.2248,
+        "longitude": 75.7730
+      }
+    },
+    {
+      "name": "Auditorium",
+      "code": "AUDITORIUM_PHAGWARA",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.2248,
+        "longitude": 75.7730
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "pb.phagwara",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall, Urban Estate - Morning",
+      "code": "COMMUNITY_HALL_URBAN_ESTATE_MORNING",
+      "locationCode": "COMMUNITY_HALL_URBAN_ESTATE_MORNING",
+      "contactDetails": "011-25695450",
+      "address": "Urban Estate, Phagwara",
+      "type": "HALL",
+      "hallDescription": "Community hall facility - Morning slot.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "name": "Community Hall, Urban Estate - Evening",
+      "code": "COMMUNITY_HALL_URBAN_ESTATE_EVENING",
+      "locationCode": "COMMUNITY_HALL_URBAN_ESTATE_EVENING",
+      "contactDetails": "011-25695450",
+      "address": "Urban Estate, Phagwara",
+      "type": "HALL",
+      "hallDescription": "Community hall facility - Evening slot.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "3",
+      "name": "Auditorium",
+      "code": "AUDITORIUM_PHAGWARA",
+      "locationCode": "AUDITORIUM_PHAGWARA",
+      "contactDetails": "011-25695450",
+      "address": "GT Road Phagwara",
+      "type": "HALL",
+      "hallDescription": "Auditorium facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}
