@@ -7785,21 +7785,6 @@
 	  "isRequired": false
 	},
     {
-      "category": "CHALLAN",
-      "service": "Challan_Generation",
-      "name": "Challan Fine",
-      "code": "CH.CHALLAN_FINE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false,
-      "isActive": true
-    },
-
-
-
-
-    {
       "category": "FEE",
       "service": "layout",
       "name": "No Object Certificate Fee",
@@ -8152,18 +8137,5 @@
       "order": "1",
       "isRequired": false
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
   ]
 }
