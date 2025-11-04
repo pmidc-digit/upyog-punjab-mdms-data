@@ -1208,6 +1208,23 @@
 			]
 		}
 	},
+
+
+	"clu": {
+		"NocFee": {
+			"masterName": "NocFee",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		},
+		"ChargesType": {
+			"masterName": "ChargesType",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code",
+				"$name"
+			]
+		}
+	},
 	"Advertisement": {
 		"Advertisements": {
 			"masterName": "Advertisements",
