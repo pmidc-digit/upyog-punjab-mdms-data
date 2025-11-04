@@ -836,6 +836,10 @@
     {
       "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
       "idname": "layout.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+      "idname": "clu.receipt.id"
     }
   ]
 }
