@@ -1,16 +1,16 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.sahnewal",
   "moduleName": "ndc",
   "NdcFee": [
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 1000
+      "flatFee": 200
     },
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 500
+      "flatFee": 200
     }
   ]
 }

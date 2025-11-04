@@ -1,16 +1,16 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.dinanagar",
   "moduleName": "ndc",
   "NdcFee": [
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 1000
+      "flatFee": 2000
     },
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 500
+      "flatFee": 2000
     }
   ]
 }
