@@ -17096,6 +17096,21 @@
       "navigationURL": "report/rainmaker-pt/PTReportforGISMappingg",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }                        
+    },
+    {
+      "id": 2830,
+      "name": "USERNAME PT ULB Wise",
+      "url": "url",
+      "displayName": "USERNAME PT ULB Wise",
+      "orderNumber": 12,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Data.USERNAME_PT_ULB_Wise",
+      "navigationURL": "report/rainmaker-pt/USERNAME_PT_ULB_Wise",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }        
   ]
 }
