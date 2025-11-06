@@ -30289,6 +30289,36 @@
       "actionid": 2829,
       "actioncode": "",
       "tenantId": "pb"
-    }                            	  
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 2830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 2830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2830,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2830,
+      "actioncode": "",
+      "tenantId": "pb"
+    }    	  
    ]
 }
