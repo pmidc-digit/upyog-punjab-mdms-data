@@ -22895,24 +22895,6 @@
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
     {
-      "id": 23382,
-      "name": "UC_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
-      "displayName": "Search and Pay Challan",
-      "orderNumber": 1,
-      "parentModule": "ChallanGeneration",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/challangeneration/search",
-      "leftIcon": "MCollectIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/challangeneration-home"
-    },
-    {
       "id": 23383,
       "name": "UC_MY_CHALLANS",
       "url": "digit-ui-card",
@@ -23859,9 +23841,8 @@
       "path": ""
     },
 
-
     {
-      "id":8900912 ,
+      "id": 8900912,
       "name": "LAYOUT Calculator",
       "url": "/layout-calculator/v1/_calculate",
       "parentModule": "",
@@ -23972,9 +23953,8 @@
       "path": ""
     },
 
-
     {
-      "id":8900913 ,
+      "id": 8900913,
       "name": "CLU Calculator",
       "url": "/clu-calculator/v1/_calculate",
       "parentModule": "",
