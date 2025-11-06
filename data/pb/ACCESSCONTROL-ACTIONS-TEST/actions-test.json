@@ -19697,6 +19697,18 @@
       "path": ""
     },
     {
+      "id": 5029,
+      "name": "Workflow Auto Escalation Eligible Applications",
+      "url": "/egov-workflow-v2/egov-wf/escalate/_searchautoescalationeligibleapp",
+      "parentModule": "",
+      "displayName": "Workflow Escalation Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 5026,
       "name": "Stakeholder Registration Payment search",
       "url": "/collection-services/payments/BPAREG/_search",
