@@ -801,6 +801,10 @@
 
     },
     {
+      "format": "PB-PTR-REG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_REGNUM]",
+      "idname": "ptr.petregistrationnumber"
+    },
+    {
       "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID]",
       "idname": "ndc.receipt.id"
     },
