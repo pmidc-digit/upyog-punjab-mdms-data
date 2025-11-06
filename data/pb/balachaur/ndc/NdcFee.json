@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.balachaur",
   "moduleName": "ndc",
   "NdcFee": [
     {
@@ -10,7 +10,7 @@
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 500
+      "flatFee": 1000
     }
   ]
 }
