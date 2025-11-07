@@ -15806,26 +15806,25 @@
       "sidebarURL": "/digit-ui/citizen/swach-home"
     },
     {
-        "id": 890051,
-        "name": "Mark Attendence",
-        "url": "digit-ui-card",
-        "displayName": "Mark Attendence",
-        "orderNumber": 3,
-        "enabled": true,
-        "parentModule": "Swach",
-        "enabled": true,
-        "serviceCode": "Swach",
-        "code": "null",
-        "path": "",
-        "navigationURL": "/digit-ui/citizen/swach/attendence",
-        "leftIcon": "",
-        "rightIcon": "",
-        "queryParams": "",
-        "sidebar": "digit-ui-links",
-        "sidebarURL": "/digit-ui/citizen/swach-home"
-        
-      },
-      {
+      "id": 890051,
+      "name": "Mark Attendence",
+      "url": "digit-ui-card",
+      "displayName": "Mark Attendence",
+      "orderNumber": 3,
+      "enabled": true,
+      "parentModule": "Swach",
+      "enabled": true,
+      "serviceCode": "Swach",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/swach/attendence",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/swach-home"
+    },
+    {
       "id": 890052,
       "name": "View Attendence",
       "url": "digit-ui-card",
@@ -15844,7 +15843,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/swach-home"
     },
-      {
+    {
       "id": 2621,
       "name": "water Pending Sla Applications",
       "url": "url",
@@ -15916,7 +15915,7 @@
       "enabled": true,
       "serviceCode": "WSREPORTS",
       "code": "null",
-      "path": ""  
+      "path": ""
     },
     {
       "id": 23451578,
@@ -16816,6 +16815,42 @@
       "rightIcon": ""
     },
     {
+      "id": 31000019,
+      "name": "NDC_NEW_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "New Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "parentModule": "NDC",
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ndc/new-application",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ndc-home"
+    },
+    {
+      "id": 31000020,
+      "name": "NDC_MY_APPLICATIONS",
+      "url": "digit-ui-card",
+      "displayName": "My Application",
+      "orderNumber": 4,
+      "enabled": true,
+      "parentModule": "NDC",
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ndc/my-application",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ndc-home"
+    },
+    {
       "id": 23385,
       "name": "NDC Reports",
       "url": "/report/rainmaker-ndc/_get",
@@ -17111,6 +17146,6 @@
       "navigationURL": "report/rainmaker-pt/USERNAME_PT_ULB_Wise",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }        
+    }
   ]
 }
