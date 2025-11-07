@@ -17411,7 +17411,7 @@
     {
       "id": 2656,
       "name": "Firenoc Citizen Home",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
       "parentModule": "FireNoc",
@@ -20202,7 +20202,7 @@
     {
       "id": 882422,
       "name": "TL_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FAQs",
       "orderNumber": 7,
       "parentModule": "TL",
@@ -20220,7 +20220,7 @@
     {
       "id": 882423,
       "name": "PT_HOW_IT_WORKS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "How It Works",
       "orderNumber": 9,
       "parentModule": "PT",
@@ -20238,7 +20238,7 @@
     {
       "id": 882424,
       "name": "PT_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "PT",
@@ -20256,7 +20256,7 @@
     {
       "id": 882425,
       "name": "Firenoc Citizen Home",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
       "parentModule": "FireNoc",
@@ -20274,7 +20274,7 @@
     {
       "id": 882426,
       "name": "Birth Certificate Home",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Birth Search",
       "orderNumber": 1,
       "parentModule": "Birth",
@@ -20292,7 +20292,7 @@
     {
       "id": 882427,
       "name": "Death Certificate Home",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Death Search",
       "orderNumber": 1,
       "parentModule": "Death",
@@ -20310,7 +20310,7 @@
     {
       "id": 882437,
       "name": "PT_MY_PAYMENTS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Payments",
       "orderNumber": 7,
       "parentModule": "PT",
@@ -20328,7 +20328,7 @@
     {
       "id": 882440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "WS",
@@ -20346,7 +20346,7 @@
     {
       "id": 882441,
       "name": "ACTION_TEST_MY_PAYMENTS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Payments",
       "orderNumber": 6,
       "parentModule": "WS",
@@ -20364,7 +20364,7 @@
     {
       "id": 882442,
       "name": "ACTION_TEST_APPLY_NEW_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Apply for New Connection",
       "orderNumber": 4,
       "parentModule": "WS",
@@ -20382,7 +20382,7 @@
     {
       "id": 882443,
       "name": "ACTION_TEXT_WS_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "WS",
@@ -20400,7 +20400,7 @@
     {
       "id": 882444,
       "name": "ACTION_TEXT_WS_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "WS",
@@ -20418,7 +20418,7 @@
     {
       "id": 882445,
       "name": "ACTION_TEXT_WS_MY_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Connections",
       "orderNumber": 3,
       "parentModule": "WS",
@@ -20436,7 +20436,7 @@
     {
       "id": 882446,
       "name": "UC_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "MCollect",
@@ -20454,7 +20454,7 @@
     {
       "id": 882447,
       "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Challans",
       "orderNumber": 2,
       "parentModule": "MCollect",
@@ -20472,7 +20472,7 @@
     {
       "id": 882448,
       "name": "CS_HOME_APPLY_FOR_DESLUDGING",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Apply for Emptying of Septic Tank/Pit",
       "orderNumber": 1,
       "parentModule": "FSM",
@@ -20490,7 +20490,7 @@
     {
       "id": 882449,
       "name": "CS_HOME_MY_APPLICATIONS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "FSM",
@@ -20508,7 +20508,7 @@
     {
       "id": 882450,
       "name": "CS_COMMON_FILE_A_COMPLAINT",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "File a Complaint",
       "orderNumber": 1,
       "parentModule": "PGR",
@@ -20526,7 +20526,7 @@
     {
       "id": 882451,
       "name": "CS_HOME_MY_COMPLAINTS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Complaints",
       "orderNumber": 2,
       "parentModule": "PGR",
@@ -20544,7 +20544,7 @@
     {
       "id": 882452,
       "name": "TL_CREATE_TRADE",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Apply for Trade License",
       "orderNumber": 1,
       "parentModule": "TL",
@@ -20562,7 +20562,7 @@
     {
       "id": 882453,
       "name": "TL_RENEWAL_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Renew Trade License",
       "orderNumber": 2,
       "parentModule": "TL",
@@ -20580,7 +20580,7 @@
     {
       "id": 882454,
       "name": "TL_MY_APPLICATIONS_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 3,
       "parentModule": "TL",
@@ -20598,7 +20598,7 @@
     {
       "id": 882461,
       "name": "BPA_CITIZEN_HOME_VIEW_LOGIN_AS_PROFESSIONAL_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Login as Professional",
       "orderNumber": 1,
       "parentModule": "OBPS",
@@ -20616,7 +20616,7 @@
     {
       "id": 882455,
       "name": "BPA_CITIZEN_HOME_VIEW_APP_BY_CITIZEN_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "View applications by Citizen",
       "orderNumber": 4,
       "parentModule": "OBPS",
@@ -20635,7 +20635,7 @@
     {
       "id": 882456,
       "name": "BPA_CITIZEN_HOME_STAKEHOLDER_LOGIN_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Register as a Stakeholder",
       "orderNumber": 2,
       "parentModule": "OBPS",
@@ -20653,7 +20653,7 @@
     {
       "id": 882457,
       "name": "BPA_CITIZEN_HOME_ARCHITECT_LOGIN_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Registered Architect Login",
       "orderNumber": 3,
       "parentModule": "OBPS",
@@ -20671,7 +20671,7 @@
     {
       "id": 882462,
       "name": "BPA_CITIZEN_HOME_ARCHITECT_USER_MANUAL_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "User Manual",
       "orderNumber": 5,
       "parentModule": "OBPS",
@@ -20689,7 +20689,7 @@
     {
       "id": 882463,
       "name": "BPA_CITIZEN_HOME_ARCHITECT_FEEDBACK_LABEL",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "User Manual",
       "orderNumber": 6,
       "parentModule": "OBPS",
@@ -20707,7 +20707,7 @@
     {
       "id": 882458,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "CommonPT",
@@ -20725,7 +20725,7 @@
     {
       "id": 882459,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Create Property",
       "orderNumber": 3,
       "parentModule": "CommonPT",
@@ -20743,7 +20743,7 @@
     {
       "id": 882460,
       "name": "ABG_SEARCH_BILL_COMMON_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search Bills",
       "orderNumber": 1,
       "parentModule": "Bills",
@@ -20761,7 +20761,7 @@
     {
       "id": 882466,
       "name": "PRIVACY_AUDIT_REPORT",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Privacy Audit Report",
       "orderNumber": 7,
       "parentModule": "WS",
@@ -20779,7 +20779,7 @@
     {
       "id": 882468,
       "name": "MCOLLECT_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FAQs",
       "orderNumber": 7,
       "parentModule": "MCollect",
@@ -20797,7 +20797,7 @@
     {
       "id": 882469,
       "name": "WS_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "WS",
@@ -20815,7 +20815,7 @@
     {
       "id": 882470,
       "name": "PT_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "PT",
@@ -20833,7 +20833,7 @@
     {
       "id": 882471,
       "name": "PT_MY_PROPERTIES",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Properties",
       "orderNumber": 4,
       "parentModule": "PT",
@@ -20851,7 +20851,7 @@
     {
       "id": 882472,
       "name": "PT_PROPERTY_MUTATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Transfer Property Ownership/Mutation",
       "orderNumber": 6,
       "parentModule": "PT",
@@ -20870,7 +20870,7 @@
     {
       "id": 882473,
       "name": "OBPS_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "OBPS",
@@ -20888,7 +20888,7 @@
     {
       "id": 882474,
       "name": "CS_TITLE_MY_BILLS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "PT",
@@ -20906,7 +20906,7 @@
     {
       "id": 882350,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "PT",
@@ -20924,7 +20924,7 @@
     {
       "id": 882351,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Register Property",
       "orderNumber": 3,
       "parentModule": "PT",
@@ -20942,7 +20942,7 @@
     {
       "id": 882611,
       "name": "PTR_CREATE_PET_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Apply for Pet Application",
       "orderNumber": 1,
       "parentModule": "PTR",
@@ -20960,7 +20960,7 @@
     {
       "id": 882612,
       "name": "PTR_MY_APPLICATION_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "PTR",
@@ -20978,7 +20978,7 @@
     {
       "id": 882656,
       "name": "Firenoc Citizen Home",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
       "parentModule": "FireNoc",
@@ -20996,7 +20996,7 @@
     {
       "id": 882820,
       "name": "CHB_SEARCH_HALL_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search Hall",
       "orderNumber": 1,
       "parentModule": "CHB",
@@ -21014,7 +21014,7 @@
     {
       "id": 882821,
       "name": "CHB_MY_APPLICATION_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "CHB",
@@ -21032,7 +21032,7 @@
     {
       "id": 882828,
       "name": "ADS_BOOK",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Book",
       "orderNumber": 1,
       "parentModule": "ADS",
@@ -21050,7 +21050,7 @@
     {
       "id": 882829,
       "name": "ADS_MY_BOOKINGS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Bookings",
       "orderNumber": 2,
       "parentModule": "ADS",
@@ -21068,7 +21068,7 @@
     {
       "id": 882847,
       "name": "EW_CREATE_REQUEST_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Create Request",
       "orderNumber": 1,
       "parentModule": "EW",
@@ -21086,7 +21086,7 @@
     {
       "id": 882848,
       "name": "EW_MY_APPLICATION_HEADER",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "EW",
@@ -21104,7 +21104,7 @@
     {
       "id": 882852,
       "name": "VS_SEARCH_VERIFY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Verify",
       "orderNumber": 1,
       "parentModule": "VERIFICATIONSEARCH",
@@ -21557,7 +21557,7 @@
     {
       "id": 890040,
       "name": "Create Observation",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Create Observation",
       "orderNumber": 2,
       "parentModule": "Swach",
@@ -21575,7 +21575,7 @@
     {
       "id": 890041,
       "name": "My Observation",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Observation",
       "orderNumber": 1,
       "enabled": true,
@@ -21594,7 +21594,7 @@
     {
       "id": 890042,
       "name": "Mark Attendence",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Mark Attendence",
       "orderNumber": 3,
       "enabled": true,
@@ -21613,7 +21613,7 @@
     {
       "id": 890043,
       "name": "View Attendence",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "View Attendence",
       "orderNumber": 3,
       "enabled": true,
@@ -22058,7 +22058,7 @@
     {
       "id": 890044,
       "name": "NDC_NEW_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "New Application",
       "orderNumber": 1,
       "enabled": true,
@@ -22108,7 +22108,7 @@
     {
       "id": 890048,
       "name": "NDC_MY_APPLICATIONS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Application",
       "orderNumber": 4,
       "enabled": true,
@@ -22523,7 +22523,7 @@
     {
       "id": 4032,
       "name": "SV_APPLY",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Apply",
       "orderNumber": 1,
       "parentModule": "SV",
@@ -22541,7 +22541,7 @@
     {
       "id": 4033,
       "name": "SV_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "SV",
@@ -22712,7 +22712,7 @@
     {
       "id": 4048,
       "name": "PGRAI_FILE_MY_GRIEVANCE",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "File My Grievance",
       "orderNumber": 1,
       "parentModule": "PGRAI",
@@ -22730,7 +22730,7 @@
     {
       "id": 4049,
       "name": "PGRAI_MY_GRIEVANCE",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Grievance",
       "orderNumber": 2,
       "parentModule": "PGRAI",
@@ -22879,7 +22879,7 @@
     {
       "id": 23382,
       "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Challans",
       "orderNumber": 1,
       "parentModule": "ChallanGeneration",
@@ -22897,7 +22897,7 @@
     {
       "id": 23383,
       "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Rent And Lease",
       "orderNumber": 1,
       "parentModule": "RentAndLease",
@@ -23074,7 +23074,7 @@
     {
       "id": 883300,
       "name": "NOC_NEW_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "New Application",
       "orderNumber": 1,
       "parentModule": "NOC",
@@ -23092,7 +23092,7 @@
     {
       "id": 883301,
       "name": "NOC_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "My Application",
       "orderNumber": 2,
       "parentModule": "NOC",
@@ -23110,7 +23110,7 @@
     {
       "id": 883302,
       "name": "NOC_SEARCH_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "mseva-ui-card",
       "displayName": "Search Application",
       "orderNumber": 3,
       "parentModule": "NOC",
