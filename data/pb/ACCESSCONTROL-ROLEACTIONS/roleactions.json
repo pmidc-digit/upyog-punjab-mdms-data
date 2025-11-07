@@ -64237,6 +64237,31 @@
 
     {
       "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 8900919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900902,
       "actioncode": "",
       "tenantId": "pb"
