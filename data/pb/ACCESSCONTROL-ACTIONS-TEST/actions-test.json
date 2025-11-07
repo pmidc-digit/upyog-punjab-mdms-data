@@ -23964,6 +23964,17 @@
       "serviceCode": "clu-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900919,
+      "name": "Layout Collection Search Reciept",
+      "url": "/collection-services/payments/layout/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
