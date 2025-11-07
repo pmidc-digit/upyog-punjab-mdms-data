@@ -2,68 +2,67 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
-  
-  {
-    "code": "SURVEY_ADMIN",
-    "name": "Survey Admin",
-    "description": "Survey Admin for Survey Module(Engagement)"
-  },
-  {
-    "code": "ULB_ADMINISTRATOR_REPORTS",
-    "name": "ULB Administrator Reports",
-    "description": "Access to all reports of all ULBs(FireNoc , Misc Collection , TL , W&S , PT)"
-  },
-  {
-    "code": "SEARCH_SURVEY",
-    "name": "Search Survey",
-    "description": "Access to Search Survey for Survey Module"
-  },
-  {
-    "code": "CATEGORY_ADMIN",
-    "name": "Category Admin Role",
-    "description": "Access to Create Search update Category for Survey Module"
-  },
-  {
-    "code": "CREATE_CATEGORY",
-    "name": "Create Category Role",
-    "description": "Access to Create Category for Survey Module"
-  },
-  {
-    "code": "UPDATE_CATEGORY",
-    "name": "Update Category Role",
-    "description": "Access to Update Category for Survey Module"
-  },
-  {
-    "code": "SEARCH_CATEGORY",
-    "name": "Search Category Role",
-    "description": "Access to Search Category for Survey Module"
-  },
-  {
-    "code": "CREATE_QUESTION",
-    "name": "Create Question Role",
-    "description": "Access to Create Question for Survey Module"
-  },
-  {
-    "code": "UPDATE_QUESTION",
-    "name": "Update Question Role",
-    "description": "Access to Update Question for Survey Module"
-  },
-  {
-    "code": "SEARCH_QUESTION",
-    "name": "Search Question Role",
-    "description": "Access to Search Question for Survey Module"
-  },
+    {
+      "code": "SURVEY_ADMIN",
+      "name": "Survey Admin",
+      "description": "Survey Admin for Survey Module(Engagement)"
+    },
+    {
+      "code": "ULB_ADMINISTRATOR_REPORTS",
+      "name": "ULB Administrator Reports",
+      "description": "Access to all reports of all ULBs(FireNoc , Misc Collection , TL , W&S , PT)"
+    },
+    {
+      "code": "SEARCH_SURVEY",
+      "name": "Search Survey",
+      "description": "Access to Search Survey for Survey Module"
+    },
+    {
+      "code": "CATEGORY_ADMIN",
+      "name": "Category Admin Role",
+      "description": "Access to Create Search update Category for Survey Module"
+    },
+    {
+      "code": "CREATE_CATEGORY",
+      "name": "Create Category Role",
+      "description": "Access to Create Category for Survey Module"
+    },
+    {
+      "code": "UPDATE_CATEGORY",
+      "name": "Update Category Role",
+      "description": "Access to Update Category for Survey Module"
+    },
+    {
+      "code": "SEARCH_CATEGORY",
+      "name": "Search Category Role",
+      "description": "Access to Search Category for Survey Module"
+    },
+    {
+      "code": "CREATE_QUESTION",
+      "name": "Create Question Role",
+      "description": "Access to Create Question for Survey Module"
+    },
+    {
+      "code": "UPDATE_QUESTION",
+      "name": "Update Question Role",
+      "description": "Access to Update Question for Survey Module"
+    },
+    {
+      "code": "SEARCH_QUESTION",
+      "name": "Search Question Role",
+      "description": "Access to Search Question for Survey Module"
+    },
     {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
     },
-{
+    {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "INTERNAL MICROSERVICE ROLE",
       "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally"
     },
-    
+
     {
       "code": "EMPLOYEE",
       "name": "Employee",
@@ -389,7 +388,7 @@
       "name": "Miscellaneous Receipt Cancellation",
       "description": "Allowed to Cancel Miscellaneous Receipts"
     },
-	  {
+    {
       "code": "SYSTEM",
       "name": "SYSTEM user for cron job",
       "description": "SYSTEM who can run the cron jobs"
@@ -404,24 +403,22 @@
       "name": "Patiala PT Emp",
       "description": "Patiala Employee to view CyberTech transactions"
     },
-    {	 
-	    
+    {
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
-      "description": "Cow Cess collection user"	        
+      "description": "Cow Cess collection user"
     },
-    {	 
-	    
+    {
       "code": "SMS_SENDER",
       "name": "sendOpenSMS API access user",
-      "description": "sendOpenSMS API access user"	        
- },
-     {
+      "description": "sendOpenSMS API access user"
+    },
+    {
       "code": "ESEWAEMP",
       "name": "Esewa Employee",
       "description": "Esewa Employee"
     },
-     {
+    {
       "code": "PBTRACK",
       "name": "Punjab Transparency",
       "description": "State Transaparency Viewer"
@@ -446,7 +443,7 @@
       "name": "Swach State Employee",
       "description": "Access to swach"
     },
-	  {
+    {
       "code": "VIEW_SWACH_CARD",
       "name": "View Swach Card",
       "description": "For Swach Card Display in Dashboard"
@@ -460,27 +457,33 @@
       "code": "NDCCEMP",
       "name": "NDC Counter Employee",
       "description": "NDC Counter Employee"
-    },{
+    },
+    {
       "code": "NDC_DOC_VERIFIER",
       "name": "NDC Document Verifier",
       "description": "No Dues Document Verifier"
-    },{
+    },
+    {
       "code": "NDC_PT_VERIFIER",
       "name": "NDC Property Verifier",
       "description": "No Dues Verifier for Property "
-    },{
+    },
+    {
       "code": "NDC_WS_SW_VERIFIER",
       "name": "NDC Water and Sewerage Verifier",
       "description": "No Dues Verifier for Water and Sewerage Service"
-    },{
+    },
+    {
       "code": "NDC_BPA_VERIFIER",
       "name": "NDC BPA Verifier",
       "description": "No Dues Verifier for BPA Service"
-    },{
+    },
+    {
       "code": "NDC_TL_VERIFIER",
       "name": "NDC Trade License Verifier",
       "description": "No Dues Verifier for Trade License"
-    },{
+    },
+    {
       "code": "NDC_APPROVER",
       "name": "NDC Approver",
       "description": "No Dues Certificate Approver"
@@ -490,7 +493,7 @@
       "name": "NDC Receipt Cancellation",
       "description": "Allowed to Cancel NDC Receipts"
     },
-	{
+    {
       "code": "PET REPORTS",
       "name": "PET REPORTS",
       "description": "Access to all Pet Service Reports"
@@ -499,6 +502,11 @@
       "code": "NDC REPORTS",
       "name": "NDC REPORTS",
       "description": "Access to all NDC Reports"
+    },
+    {
+      "code": "VIEW_NDC_CARD",
+      "name": "View NDC Card",
+      "description": "For NDC Card Display in Dashboard"
     }
   ]
 }
