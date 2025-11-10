@@ -17146,6 +17146,38 @@
       "navigationURL": "report/rainmaker-pt/USERNAME_PT_ULB_Wise",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 8900906,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Application",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "PTR",
+      "code": "null",
+      "path": "PTR.PTR Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/ptr/petservice/new-application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900905,
+      "name": "Pet Registration Inbox",
+      "url": "url",
+      "displayName": "Search Pet Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "PTR",
+      "code": "null",
+      "path": "PTR.PTR Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/ptr/petservice/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
     }
   ]
 }
