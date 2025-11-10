@@ -19,6 +19,15 @@
       "commercialRate": 330000,
       "industrialRate": 330000,
       "localityCode": "JALLC75"
+    },
+     {
+      "id": 2266,
+      "ulbName": "testing",
+      "fromFY": "2013-14",
+      "residentialRate": 10000,
+      "commercialRate": 20000,
+      "industrialRate": 12000,
+      "localityCode": "SC7"
     }
   ]
 }
