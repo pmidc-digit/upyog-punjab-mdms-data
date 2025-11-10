@@ -700,6 +700,22 @@
     {
       "format": "CHB/[CITY.CODE]/[seq_chb_receipt_id]",
       "idname": "chb-services.receipt.id"
+    },
+    {
+      "format": "PB-PTR-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
+      "idname": "ptr.registrationid"
+    },
+    {
+      "format": "PB-PTR[cy:yyyy-MM-dd]-[SEQ_EG_PTR_TOKEN_ID]",
+      "idname": "ptr.tokennumber"
+    },
+    {
+      "format": "PB-PTR-REG-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_REGNUM]",
+      "idname": "ptr.petregistrationnumber"
+    },
+    {
+      "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID]",
+      "idname": "pet-services.receipt.id"
     }
   ]
 }

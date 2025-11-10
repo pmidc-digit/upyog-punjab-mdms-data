@@ -517,6 +517,26 @@
       "code": "VIEW_CHB_CARD",
       "name": "View CHB Card",
       "description": "For CHB Card Display in Dashboard"
+    },
+    {
+      "code": "PET_REG_EMPLOYEE",
+      "name": "Pet Registration Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_DOC_VERIFIER",
+      "name": "Pet Document Verifier",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_APPROVER",
+      "name": "Pet Application Approver",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "PET_COLLECTOR",
+      "name": "Pet Payment Collector",
+      "description": "Access to PTR"
     }
   ]
 }
