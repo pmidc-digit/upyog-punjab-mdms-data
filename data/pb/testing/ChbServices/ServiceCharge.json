@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "CHB",
+  "ServiceCharge": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 500,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": true
+    }
+  ]
+}

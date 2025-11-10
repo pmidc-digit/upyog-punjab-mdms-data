@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.rajasansi",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Centre, NP Rajasansi",
+      "code": "COMMUNITY_CENTRE_NP_RAJASANSI",
+      "locationCode": "COMMUNITY_CENTRE_NP_RAJASANSI",
+      "contactDetails": "011-25695450",
+      "address": "Near Shenshah Darbar, Rajasansi",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

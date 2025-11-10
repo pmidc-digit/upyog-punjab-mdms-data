@@ -1,0 +1,78 @@
+{
+  "tenantId": "pb.nangal",
+  "moduleName": "CHB",
+  "CalculationType": [
+    {
+      "1": [
+        {
+          "sector": "Naya_Nangal_Sector_5",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "sector": "Brari_Nangal",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 25000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "3": [
+        {
+          "sector": "Indra_Nagar_Near_Khwaja_Mandir",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "4": [
+        {
+          "sector": "Rampur_Sahni_Near_MP_Kothi",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "5": [
+        {
+          "sector": "Jawahar_Market_Near_Geeta_Mandir",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 3000,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "6": [
+        {
+          "sector": "Mojowal",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 5000,
+          "taxApplicable": true
+        }
+      ]
+    }
+  ]
+}

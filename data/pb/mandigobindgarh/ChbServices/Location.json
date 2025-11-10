@@ -1,0 +1,78 @@
+{
+  "tenantId": "pb.mandigobindgarh",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Community Centre, Nasrali",
+      "code": "COMMUNITY_CENTRE_NASRALI",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Sabzi mandi",
+      "code": "COMMUNITY_CENTRE_SABZI_MANDI",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Dr. B.R Ambedkarkar bhawan",
+      "code": "DR_BR_AMBEDKARKAR_BHAWAN",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Guru Nanak Colony",
+      "code": "COMMUNITY_CENTRE_GURU_NANAK_COLONY",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Gandhi Nagar",
+      "code": "COMMUNITY_CENTRE_GANDHI_NAGAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Shanti Nagar",
+      "code": "COMMUNITY_CENTRE_SHANTI_NAGAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Prem Nagar",
+      "code": "COMMUNITY_CENTRE_PREM_NAGAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    },
+    {
+      "name": "Community Centre, Trilok Puri",
+      "code": "COMMUNITY_CENTRE_TRILOK_PURI",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6667,
+        "longitude": 76.3000
+      }
+    }
+  ]
+}

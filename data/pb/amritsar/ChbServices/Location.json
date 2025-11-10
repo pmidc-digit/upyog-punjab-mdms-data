@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Guru Nanak Auditorium",
+      "code": "GURU_NANAK_AUDITORIUM",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.6340,
+        "longitude": 74.8723
+      }
+    },
+    {
+      "name": "Guru Nanak Auditorium + Food Stall",
+      "code": "GURU_NANAK_AUDITORIUM_FOOD_STALL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.6340,
+        "longitude": 74.8723
+      }
+    }
+  ]
+}

@@ -692,6 +692,14 @@
     {
       "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID]",
       "idname": "ndc.receipt.id"
+    },
+    {
+      "format": "CHB-[CITY.CODE]-[seq_chb_booking_id]",
+      "idname": "communityhall.booking.id"
+    },
+    {
+      "format": "CHB/[CITY.CODE]/[seq_chb_receipt_id]",
+      "idname": "chb-services.receipt.id"
     }
   ]
 }

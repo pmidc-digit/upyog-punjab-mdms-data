@@ -2415,7 +2415,17 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "businessService": "chb-services",
+      "code": "chb-services",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
-
   ]
 }

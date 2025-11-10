@@ -507,6 +507,16 @@
       "code": "VIEW_NDC_CARD",
       "name": "View NDC Card",
       "description": "For NDC Card Display in Dashboard"
+    },
+    {
+      "code": "CHB_CEMP",
+      "name": "CommunityHall Employee",
+      "description": "CommunityHallBooking Employee"
+    },
+    {
+      "code": "VIEW_CHB_CARD",
+      "name": "View CHB Card",
+      "description": "For CHB Card Display in Dashboard"
     }
   ]
 }

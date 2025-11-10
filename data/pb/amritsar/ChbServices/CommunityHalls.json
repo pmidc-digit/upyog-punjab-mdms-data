@@ -1,0 +1,40 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Guru Nanak Auditorium",
+      "code": "GURU_NANAK_AUDITORIUM",
+      "locationCode": "GURU_NANAK_AUDITORIUM",
+      "contactDetails": "011-25695450",
+      "address": "Near Bus Stand, Amritsar",
+      "type": "HALL",
+      "hallDescription": "Auditorium facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "name": "Guru Nanak Auditorium + Food Stall",
+      "code": "GURU_NANAK_AUDITORIUM_FOOD_STALL",
+      "locationCode": "GURU_NANAK_AUDITORIUM_FOOD_STALL",
+      "contactDetails": "011-25695450",
+      "address": "Near Bus Stand, Amritsar",
+      "type": "HALL",
+      "hallDescription": "Auditorium facility with food stall.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}
