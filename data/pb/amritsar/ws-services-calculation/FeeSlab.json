@@ -1,9 +1,11 @@
+
+
 {
   "tenantId": "pb.amritsar",
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 1000000,
+      "formFee": 100,
       "securityCharge": 0,
       "meterTestingFee": 0,
       "connectionFee":
@@ -11,25 +13,25 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"210000",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"29891",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"210923",
+          "connectionFee":"21",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"2234321",
+          "connectionFee":"21",
           "usageType":"COMMERCIAL"
         },
         {
@@ -41,19 +43,19 @@
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"2123432",
+          "connectionFee":"21",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"2234231",
+          "connectionFee":"21",
           "usageType":"DEFAULT"
         }
         
       ],
-      "other": 23432,
-      "taxpercentage": 23432,
+      "other": 0,
+      "taxpercentage": 0,
       "isActive": true
     }
   ]
