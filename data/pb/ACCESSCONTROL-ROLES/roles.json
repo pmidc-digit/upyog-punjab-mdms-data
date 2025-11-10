@@ -537,6 +537,11 @@
       "code": "PET_COLLECTOR",
       "name": "Pet Payment Collector",
       "description": "Access to PTR"
+    },
+    {
+      "code": "VIEW_PTR_CARD",
+      "name": "View PTR Card",
+      "description": "For PTR Card Display in Dashboard"
     }
   ]
 }
