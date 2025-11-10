@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.bathinda",
+  "moduleName": "PetService",
+  "InterestAmount": [
+    {
+      "rate": 78,
+      "minAmount": null,
+      "applicableAfterDays":0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}

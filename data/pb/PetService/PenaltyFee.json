@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PetService",
+  "PenaltyFee": [
+    {
+      "startingDay": "31",
+      "flatAmount": 100,
+      "active": "true",
+      "fromFY": "2025-26",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "61",
+      "flatAmount": 200,
+      "active": "true",
+      "fromFY": "2025-26",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "91",
+      "flatAmount": 700,
+      "active": "true",
+      "fromFY": "2025-26",
+      "feeType": "PenaltyFee"
+    }
+  ]
+}

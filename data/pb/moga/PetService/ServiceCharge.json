@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.moga",
+  "moduleName": "PetService",
+  "ServiceCharge": [
+    {
+      "rate": 30,
+      "minAmount": null,
+      "flatAmount": 900,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}
