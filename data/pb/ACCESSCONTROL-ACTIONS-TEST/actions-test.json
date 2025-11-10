@@ -17157,6 +17157,20 @@
       "navigationURL": "report/rainmaker-pt/USERNAME_PT_ULB_Wise",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 2831,
+      "name": "SW_Disconnection",
+      "url": "url",
+      "displayName": "SW_Disconnection",
+      "orderNumber": 9,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/ws/sewerage/search-connection",
+      "path": "w_s.BG",
+      "leftIcon": "action:receipt"
     }
   ]
 }

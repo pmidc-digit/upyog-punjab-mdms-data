@@ -30351,6 +30351,36 @@
       "actionid": 2830,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 2831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 2831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 2831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 2831,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 2831,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
