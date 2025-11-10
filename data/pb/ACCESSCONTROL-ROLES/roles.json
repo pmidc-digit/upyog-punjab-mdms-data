@@ -458,6 +458,11 @@
       "name": "BPA Field Inspector",
       "description": "BPA Service field inspector"
     },
+	{
+	  "code": "BPA_FIELD_REPORT_INSPECTOR",
+	  "name": "BPA Field Report Inspector",
+	  "description": "BPA Service field Report inspector"
+	},
     {
       "code": "BPA_NOC_VERIFIER",
       "name": "BPA NOC Verifier",
