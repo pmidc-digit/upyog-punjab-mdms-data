@@ -448,35 +448,35 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Jaitu",
-        "localname": "Jaitu",
+        "name": "jaitu",
+        "localname": "jaitu",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.jaitu",
         "children": [
           {
-            "id": "22b40eff-fa8d-4072-9f93-954f8e056997",
+            "id": "85a9e4ef-b581-4408-b3d4-51ae46ef798e",
             "boundaryNum": 1,
-            "name": "Zone 1",
-            "localname": "Zone 1",
+            "name": "pb.jaitu",
+            "localname": "pb.jaitu",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
             "code": "Z1",
             "children": [
               {
-                "id": "1533e7b9-29ef-4099-9af4-53ba43fc304a",
+                "id": "175b70a9-5701-48d9-86ba-ccc3a36f9779",
                 "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block 1",
+                "name": "BLOCK 1",
+                "localname": "BLOCK 1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B1",
                 "children": [
                   {
-                    "id": "1ddb3b91-b8c0-417e-9c7d-738346ac2c41",
+                    "id": "9bdef3ec-abfa-4ed7-8370-e1ba07db5a9c",
                     "boundaryNum": 1,
                     "name": "railway bazar left side,Main bazar, Chowk no-1,New market,Chaina bazar - B1 - A1",
                     "localname": "railway bazar left side,Main bazar, Chowk no-1,New market,Chaina bazar - B1 - A1",
@@ -490,17 +490,17 @@
                 ]
               },
               {
-                "id": "869b7fdc-60a0-4bcb-98c5-adf79f13db36",
+                "id": "ceafde64-3475-460f-b962-3de068d50cfc",
                 "boundaryNum": 1,
-                "name": "Block 2",
-                "localname": "Block 2",
+                "name": "BLOCK 2",
+                "localname": "BLOCK 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B2",
                 "children": [
                   {
-                    "id": "340cc489-665a-4ef6-80cc-227661382a7b",
+                    "id": "5911a5be-7d49-448b-b041-6d00bff26cc1",
                     "boundaryNum": 1,
                     "name": "Bishnandi bazar,Right side Bishnandi Fatak road,Gaushala road - B2 - A1",
                     "localname": "Bishnandi bazar,Right side Bishnandi Fatak road,Gaushala road - B2 - A1",
@@ -514,17 +514,17 @@
                 ]
               },
               {
-                "id": "a1f92afd-42f0-4405-90f0-8dcabc51b6eb",
+                "id": "87a39830-3563-4429-ac1a-80c9d56107e0",
                 "boundaryNum": 1,
-                "name": "Block 3",
-                "localname": "Block 3",
+                "name": "BLOCK 3",
+                "localname": "BLOCK 3",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B3",
                 "children": [
                   {
-                    "id": "b66f4cb3-1a7e-49e3-9b54-4c5656daff32",
+                    "id": "1933b1f6-8aeb-428e-b70f-cc232ad34198",
                     "boundaryNum": 1,
                     "name": "Main bazar,chowk no-2,Right side bajakhana road. - B3 - A1",
                     "localname": "Main bazar,chowk no-2,Right side bajakhana road. - B3 - A1",
@@ -538,17 +538,17 @@
                 ]
               },
               {
-                "id": "eca79bcb-b42e-40e1-976b-0b72aea27d43",
+                "id": "44704a0a-2f9d-42f1-bade-9c6a5f01caed",
                 "boundaryNum": 1,
-                "name": "Block 4",
-                "localname": "Block 4",
+                "name": "BLOCK 4",
+                "localname": "BLOCK 4",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B4",
                 "children": [
                   {
-                    "id": "cac8acb5-6861-49fd-9822-563fbeeaa07e",
+                    "id": "c922c8a9-8ba4-4bc5-b98d-4340127663b6",
                     "boundaryNum": 1,
                     "name": "Left side Bajakhana road, chowk no-3 - B4 - A1",
                     "localname": "Left side Bajakhana road, chowk no-3 - B4 - A1",
@@ -562,17 +562,17 @@
                 ]
               },
               {
-                "id": "b7b844c2-bf81-487c-824a-aaf74909f0e7",
+                "id": "e4be2a46-952b-472a-a648-bd29e93e624c",
                 "boundaryNum": 1,
-                "name": "Block 5",
-                "localname": "Block 5",
+                "name": "BLOCK 5",
+                "localname": "BLOCK 5",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B5",
                 "children": [
                   {
-                    "id": "f4330133-5d75-4bc8-b6be-71a6c7f5b309",
+                    "id": "389c052e-5d40-437e-83a5-d5dab17aa7e1",
                     "boundaryNum": 1,
                     "name": "Peerkhana basti, Hardyal nagar, Chaina road - B5 - A2",
                     "localname": "Peerkhana basti, Hardyal nagar, Chaina road - B5 - A2",
@@ -586,17 +586,17 @@
                 ]
               },
               {
-                "id": "33f6b979-a15b-481c-9081-44d63d0cbab6",
+                "id": "c82e911d-ff95-4a63-b9e8-edc6cc24410e",
                 "boundaryNum": 1,
-                "name": "Block 6",
-                "localname": "Block 6",
+                "name": "BLOCK 6",
+                "localname": "BLOCK 6",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B6",
                 "children": [
                   {
-                    "id": "e9704456-5b65-4e20-aeec-e128394858a1",
+                    "id": "70f309fd-1682-4df7-a291-c04a2319623b",
                     "boundaryNum": 1,
                     "name": "Sukhchainpura Basti, Muktsar Road, Ambedkar Nagar. - B6 - A2",
                     "localname": "Sukhchainpura Basti, Muktsar Road, Ambedkar Nagar. - B6 - A2",
@@ -610,17 +610,17 @@
                 ]
               },
               {
-                "id": "317e371e-fd13-4471-98c9-f305efca2d16",
+                "id": "c4250afd-e844-44f5-9371-dfca1305c437",
                 "boundaryNum": 1,
-                "name": "Block 7",
-                "localname": "Block 7",
+                "name": "BLOCK 7",
+                "localname": "BLOCK 7",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B7",
                 "children": [
                   {
-                    "id": "c570396a-4bed-414d-b619-e74c920b2815",
+                    "id": "3836da24-a4d8-4203-bdc5-8fb3be3d5921",
                     "boundaryNum": 1,
                     "name": "Dana mandi, Tehsil road left side, muktsar road. - B7 - A1",
                     "localname": "Dana mandi, Tehsil road left side, muktsar road. - B7 - A1",
@@ -634,17 +634,17 @@
                 ]
               },
               {
-                "id": "ad37d3d6-c581-41a1-9d71-92492242f5de",
+                "id": "1bae08b4-945d-48a6-9383-a4391bb931e8",
                 "boundaryNum": 1,
-                "name": "Block 8",
-                "localname": "Block 8",
+                "name": "BLOCK 8",
+                "localname": "BLOCK 8",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B8",
                 "children": [
                   {
-                    "id": "f6a6ae9f-9d19-47a8-a341-b9815701c1e0",
+                    "id": "6f1fb04f-799a-4c4e-a0b1-dbee24949392",
                     "boundaryNum": 1,
                     "name": "Right side chowk no-3, bajakhana road, Bathinda road - B8 - A2",
                     "localname": "Right side chowk no-3, bajakhana road, Bathinda road - B8 - A2",
@@ -658,17 +658,17 @@
                 ]
               },
               {
-                "id": "c4d7c669-ce98-4814-a556-3ffab5b39daf",
+                "id": "70e381cc-381d-4cab-863a-4bbf9590085d",
                 "boundaryNum": 1,
-                "name": "Block 9",
-                "localname": "Block 9",
+                "name": "BLOCK 9",
+                "localname": "BLOCK 9",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B9",
                 "children": [
                   {
-                    "id": "26fd0fde-aefa-482d-9aa7-88b7d77141c4",
+                    "id": "37ae769b-2a31-4ace-8aa9-76d17b4db63f",
                     "boundaryNum": 1,
                     "name": "Himmatpura Basti, Farid Nagar,Gaushala road, Jindal Colony - B9 - A1",
                     "localname": "Himmatpura Basti, Farid Nagar,Gaushala road, Jindal Colony - B9 - A1",
@@ -682,17 +682,17 @@
                 ]
               },
               {
-                "id": "2a78aa33-2292-4197-bb28-65443d59be97",
+                "id": "1c4c85f7-abad-49de-b43b-b921eb795d0d",
                 "boundaryNum": 1,
-                "name": "Block 10",
-                "localname": "Block 10",
+                "name": "BLOCK 10",
+                "localname": "BLOCK 10",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B10",
                 "children": [
                   {
-                    "id": "8d9b8509-31ca-479b-8f11-4e5814320103",
+                    "id": "ebd23a87-b4e9-4ef5-8a7c-c1f79c27b56b",
                     "boundaryNum": 1,
                     "name": "Jaitu Pind - B10 - A1",
                     "localname": "Jaitu Pind - B10 - A1",
@@ -706,17 +706,17 @@
                 ]
               },
               {
-                "id": "f6327186-1636-4ea0-820b-25f97a3dda0f",
+                "id": "d7236574-062c-4e9a-a3b4-199f04fa7a89",
                 "boundaryNum": 1,
-                "name": "Block 11",
-                "localname": "Block 11",
+                "name": "BLOCK 11",
+                "localname": "BLOCK 11",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B11",
                 "children": [
                   {
-                    "id": "93774c1f-5823-44ea-bb58-683303b22afc",
+                    "id": "c90192e8-ca89-4b52-b66c-6e924be2319a",
                     "boundaryNum": 1,
                     "name": "Jaitu Pind - B11 - A1",
                     "localname": "Jaitu Pind - B11 - A1",
@@ -730,17 +730,17 @@
                 ]
               },
               {
-                "id": "07697fbb-00f7-42d0-b2d3-9a06da39ba86",
+                "id": "e05d39d6-0a31-4890-bbcb-9dc49917a15d",
                 "boundaryNum": 1,
-                "name": "Block 12",
-                "localname": "Block 12",
+                "name": "BLOCK 12",
+                "localname": "BLOCK 12",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B12",
                 "children": [
                   {
-                    "id": "17a1472f-117b-4fe9-9c9b-1c8f00b0ce83",
+                    "id": "d4a9d790-b84d-498e-a8c5-6d25d6b758c4",
                     "boundaryNum": 1,
                     "name": "Jaitu Pind - B12 - A1",
                     "localname": "Jaitu Pind - B12 - A1",
@@ -754,17 +754,17 @@
                 ]
               },
               {
-                "id": "b437ea23-e671-4f6e-a990-2b675c171ccf",
+                "id": "1d55a52a-6e98-4e67-8679-5f865fee4fdc",
                 "boundaryNum": 1,
-                "name": "Block 13",
-                "localname": "Block 13",
+                "name": "BLOCK 13",
+                "localname": "BLOCK 13",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
                 "code": "B13",
                 "children": [
                   {
-                    "id": "c7b63256-6ddf-43a0-854f-0d9861b65b10",
+                    "id": "92692244-883e-40b8-9555-3d6d107b28f2",
                     "boundaryNum": 1,
                     "name": "Left side Bajakhana road, Regar basti, PSPCL Office Majbi Mohalla - B13 - A1",
                     "localname": "Left side Bajakhana road, Regar basti, PSPCL Office Majbi Mohalla - B13 - A1",
@@ -773,6 +773,30 @@
                     "label": "Locality",
                     "code": "JT-13",
                     "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a825a602-d946-447c-8138-66dd5ddea219",
+                "boundaryNum": 1,
+                "name": "BLOCK 14",
+                "localname": "BLOCK 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "d1b679b0-ffd1-49d9-868b-3148f012af8e",
+                    "boundaryNum": 1,
+                    "name": "Bajakhana road - B14 - A2",
+                    "localname": "Bajakhana road - B14 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-14",
+                    "area": "AREA2",
                     "children": []
                   }
                 ]
