@@ -10529,6 +10529,24 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+      {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 3202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1914,
