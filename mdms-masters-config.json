@@ -1081,5 +1081,42 @@
       "isStateLevel": false,
       "uniqueKeys": []
     }
+  },
+  "PetService": {
+    "CalculationType": {
+      "masterName": "BreedType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ApplicationType": {
+      "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ServiceCharge": {
+      "masterName": "ServiceCharge",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "PenaltyFee": {
+      "masterName": "PenaltyFee",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "InterestAmount": {
+      "masterName": "InterestAmount",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    }
   }
 }

@@ -1,0 +1,402 @@
+{
+  "tenantId": "pb.mohali",
+  "moduleName": "PetService",
+  "BreedType": [
+    {
+      "name": "Labrador Retriever",
+      "code": "LABRADOR_RETRIEVER",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "German Shepherd",
+      "code": "GERMAN_SHEPHERD",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 50,
+      "renewapplication": 30,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Golden Retriever",
+      "code": "GOLDEN_RETRIEVER",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 900,
+      "renewapplication": 100,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Beagle",
+      "code": "BEAGLE",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Pomeranian",
+      "code": "POMERANIAN",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Shih Tzu",
+      "code": "SHIH_TZU",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Pug",
+      "code": "PUG",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "French Bulldog",
+      "code": "FRENCH_BULLDOG",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Siberian Husky",
+      "code": "SIBERIAN_HUSKY",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Alaskan Husky",
+      "code": "ALASKAN_HUSKY",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "American Bully",
+      "code": "AMERICAN_BULLY",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "German Shorthaired Pointer",
+      "code": "GERMAN_SHORT_HAIRED_POINTER",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Staffordshire Bull Terrier",
+      "code": "STAFFORDSHIRE_BULL_TERRIER",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Great Dane",
+      "code": "GREAT_DANE",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Indian Pariah Dog",
+      "code": "INDIAN_PARIAH_DOG",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Gull Terrier",
+      "code": "GULL_TERRIER",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Indian Billi (Desi)",
+      "code": "INDIAN_BILLI_DESI",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 400,
+      "renewapplication": 600,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Bengal Cat",
+      "code": "BENGAL_CAT",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 900,
+      "renewapplication": 100,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Siamese",
+      "code": "SIAMESE",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Bombay Cat",
+      "code": "BOMBAY_CAT",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Abyssinian",
+      "code": "ABYSSINIAN",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Oriental Shorthair",
+      "code": "ORIENTAL_SHORTHAIR",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Egyptian Mau",
+      "code": "EGYPTIAN_MAU",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "American Shorthair",
+      "code": "AMERICAN_SHORTHAIR",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Russian Blue",
+      "code": "RUSSIAN_BLUE",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Devon Rex",
+      "code": "DEVON_REX",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Persian",
+      "code": "PERSIAN",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Himalayan",
+      "code": "HIMALAYAN",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Maine Coon",
+      "code": "MAINE_COON",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "British Shorthair",
+      "code": "BRITISH_SHORTHAIR",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Ragdoll",
+      "code": "RAGDOLL",
+      "active": true,
+      "petType": "CAT",
+      "newapplication": 700,
+      "renewapplication": 200,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Love Birds",
+      "code": "LOVE_BIRDS",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Budgerigar (Budgies)",
+      "code": "BUDGERIGAR_BUDGIES",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Cockatiel",
+      "code": "COCKATIEL",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Zebra Finch",
+      "code": "ZEBRA_FINCH",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Conure",
+      "code": "CONURE",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Dove",
+      "code": "DOVE",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Macaw",
+      "code": "MACAW",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Parrotlet",
+      "code": "PARROTLET",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Canary",
+      "code": "CANARY",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Golden Pheasant",
+      "code": "GOLDEN_PHEASANT",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Rainbow Lorikeet",
+      "code": "RAINBOW_LORIKEET",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Palm Cockatoo",
+      "code": "PALM_COCKATOO",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Toucan",
+      "code": "TOUCAN",
+      "active": true,
+      "petType": "BIRD",
+      "newapplication": 300,
+      "renewapplication": 150,
+      "feeType": "PET_REGISTRATION_FEE"
+    }
+  ]
+}

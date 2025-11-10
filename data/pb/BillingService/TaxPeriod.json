@@ -2576,6 +2576,14 @@
       "service": "TL",
       "code": "TLRENEWAL202528",
       "financialYear": "2025-28"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "NDC",
+      "code": "NDC2526",
+      "financialYear": "2025-26"
     }
   ]
 }
