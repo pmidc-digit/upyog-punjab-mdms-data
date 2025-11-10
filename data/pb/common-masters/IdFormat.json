@@ -844,6 +844,19 @@
     {
       "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
       "idname": "clu.receipt.id"
+    },
+
+    {
+      "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_GC_CON_ID]",
+      "idname": "garbageservice.connection.id"
+    },
+    {
+      "format": "GC_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_GC_APP_ID]",
+      "idname": "garbageservice.application.id"
+    },
+    {
+      "format": "GC_AP/[CITY.CODE]/[fy:yyyy-yy]/[DC_SEQ_GC_APP_ID]",
+      "idname": "garbageservice.disconnection.id"
     }
   ]
 }
