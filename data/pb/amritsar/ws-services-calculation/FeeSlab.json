@@ -3,7 +3,7 @@
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 100,
+      "formFee": 1000000,
       "securityCharge": 0,
       "meterTestingFee": 0,
       "connectionFee":
@@ -11,25 +11,25 @@
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"21",
+          "connectionFee":"210000",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"21",
+          "connectionFee":"29891",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"21",
+          "connectionFee":"210923",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"21",
+          "connectionFee":"2234321",
           "usageType":"COMMERCIAL"
         },
         {
@@ -41,19 +41,19 @@
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"21",
+          "connectionFee":"2123432",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"21",
+          "connectionFee":"2234231",
           "usageType":"DEFAULT"
         }
         
       ],
-      "other": 0,
-      "taxpercentage": 0,
+      "other": 23432,
+      "taxpercentage": 23432,
       "isActive": true
     }
   ]
