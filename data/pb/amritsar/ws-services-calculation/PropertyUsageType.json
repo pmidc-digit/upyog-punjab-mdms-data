@@ -8,12 +8,6 @@
       "unitCost" : 20,
       "isActive": true
     },
-     {
-     "name": "Commercial",
-      "code": "NONRESIDENTIAL",
-      "unitCost" : 30,
-      "isActive": true
-    },
     {
      "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
@@ -26,18 +20,6 @@
       "unitCost" : 30,
       "isActive": true
     },
- {
-     "name": "Other Commercial subminor",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
-      "unitCost" : 30,
-      "isActive": true
-    },
-     {
-     "name": "Other Commercial subminor othercommercial",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
-      "unitCost" : 30,
-      "isActive": true
-    },
     {
       "name": "Industrial",
       "code": "NONRESIDENTIAL.INDUSTRIAL",
@@ -47,6 +29,12 @@
     {
       "name": "Mixed",
       "code": "MIXED",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Other Commercial Usage",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "unitCost" : 15,
       "isActive": true
     }

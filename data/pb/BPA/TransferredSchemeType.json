@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "TransferredSchemeType": [
+    {
+      "name": "Standard Design",
+      "code": "STANDARD_DESIGN",
+      "active": true
+    },
+    {
+      "name": "Non Standard Design",
+      "code": "NON_STANDARD_DESIGN",
+      "active": true
+    }
+  ]
+}

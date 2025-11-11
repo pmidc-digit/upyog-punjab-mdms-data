@@ -2,39 +2,15 @@
   "tenantId": "pb.patiala",
   "moduleName": "sw-services-calculation",
   "PropertyUsageType": [
-        {
+    {
       "name": "Residential",
       "code": "RESIDENTIAL",
       "unitCost" : 20,
       "isActive": true
     },
     {
-      "name": "NonResidential",
-      "code": "NONRESIDENTIAL",
-      "unitCost" : 20,
-      "isActive": true
-    },
-    {
-      "name": "Other Commercial Usage",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
-      "unitCost" : 20,
-      "isActive": true
-    },
-    {
      "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
-      "unitCost" : 30,
-      "isActive": true
-    },
-    {
-      "name": "Other Non-Residential",
-      "code": "NONRESIDENTIAL.OTHERS",
-      "unitCost" : 30,
-      "isActive": true
-    },
-    {
-     "name": "Other Commercial Usage",
-      "code": "NONRESIDENTIAL.OTHERS",
       "unitCost" : 30,
       "isActive": true
     },
@@ -47,6 +23,12 @@
     {
       "name": "Intitutional",
       "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Others",
+      "code": "NONRESIDENTIAL.OTHERS",
       "unitCost" : 15,
       "isActive": true
     },

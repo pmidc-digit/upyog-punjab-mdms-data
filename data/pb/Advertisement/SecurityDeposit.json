@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Advertisement",
+  "SecurityDeposit": [
+    {
+      "flatAmount": 5000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+    }
+  ]
+}

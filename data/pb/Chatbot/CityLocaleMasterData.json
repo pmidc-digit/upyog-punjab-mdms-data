@@ -63,19 +63,19 @@
             "tenantId": "pb.ajnala"
         },
         {
-            "cityName": "Alawalpur",
+            "cityName": "Alaawalpur",
             "locale": "in_en",
-            "tenantId": "pb.alawalpur"
+            "tenantId": "pb.alaawalpur"
         },
         {
             "cityName": "अलावलपुर",
             "locale": "in_hi",
-            "tenantId": "pb.alawalpur"
+            "tenantId": "pb.alaawalpur"
         },
         {
             "cityName": "ਅਲਾਵਲਪੁਰ",
             "locale": "in_pb",
-            "tenantId": "pb.alawalpur"
+            "tenantId": "pb.alaawalpur"
         },
         {
             "cityName": "Amargarh",
@@ -438,19 +438,19 @@
             "tenantId": "pb.bhikhi"
         },
         {
-            "cityName": "Bhikhi Wind",
+            "cityName": "BhikhiWind",
             "locale": "in_en",
-            "tenantId": "pb.bhikhi wind"
+            "tenantId": "pb.bhikhiwind"
         },
         {
-            "cityName": "भीखी हवा",
+            "cityName": "भिखीविंड",
             "locale": "in_hi",
-            "tenantId": "pb.bhikhi wind"
+            "tenantId": "pb.bhikhiwind"
         },
         {
-            "cityName": "ਭੀਖੀ ਹਵਾ",
+            "cityName": "ਭਿਖੀਵਿੰਡ",
             "locale": "in_pb",
-            "tenantId": "pb.bhikhi wind"
+            "tenantId": "pb.bhikhiwind"
         },
         {
             "cityName": "Bhogpur",
@@ -631,6 +631,21 @@
             "cityName": "ਡੇਰਾਬੱਸੀ",
             "locale": "in_pb",
             "tenantId": "pb.derabassi"
+        },
+        {
+            "cityName": "dhanola",
+            "locale": "in_en",
+            "tenantId": "pb.dhanola"
+        },
+        {
+            "cityName": "धनौला",
+            "locale": "in_hi",
+            "tenantId": "pb.dhanola"
+        },
+        {
+            "cityName": "ਧਨੋਲਾ",
+            "locale": "in_pb",
+            "tenantId": "pb.dhanola"
         },
         {
             "cityName": "Dharamkot",
@@ -1188,19 +1203,19 @@
             "tenantId": "pb.khemkaran"
         },
         {
-            "cityName": "Kiratpur",
+            "cityName": "kiratpursahib",
             "locale": "in_en",
-            "tenantId": "pb.kiratpur"
+            "tenantId": "pb.kiratpursahib"
         },
         {
-            "cityName": "कीरतपुर",
+            "cityName": "कीरतपुरसाहिब",
             "locale": "in_hi",
-            "tenantId": "pb.kiratpur"
+            "tenantId": "pb.kiratpursahib"
         },
         {
-            "cityName": "ਕੀਰਤਪੁਰ",
+            "cityName": "ਕੀਰਤਪੁਰਸਹਿਬ",
             "locale": "in_pb",
-            "tenantId": "pb.kiratpur"
+            "tenantId": "pb.kiratpursahib"
         },
         {
             "cityName": "Kot isse khan",
@@ -2478,19 +2493,19 @@
             "tenantId": "pb.zira"
         },
         {
-            "cityName": "Zirakpur",
+            "cityName": "Zirakpurś",
             "locale": "in_en",
-            "tenantId": "pb.zirakpur"
+            "tenantId": "pb.zirakpurś"
         },
         {
             "cityName": "जीरकपुर",
             "locale": "in_hi",
-            "tenantId": "pb.zirakpur"
+            "tenantId": "pb.zirakpurś"
         },
         {
             "cityName": "ਜ਼ੀਰਕਪੁ",
             "locale": "in_pb",
-            "tenantId": "pb.zirakpur"
+            "tenantId": "pb.zirakpurś"
         },
         {
             "cityName": "Testing",
@@ -2507,7 +2522,8 @@
             "locale": "in_pb",
             "tenantId": "pb.testing"
         },
-        {
+
+         {
             "cityName": "Gharuan",
             "locale": "in_en",
             "tenantId": "pb.gharuan"
@@ -2539,7 +2555,7 @@
             "tenantId": "pb.bababakalasahib"
         },
         {
-            "cityName": "Devigarh",
+            "cityName": "DeviGarh",
             "locale": "in_en",
             "tenantId": "pb.devigarh"
         },
@@ -2552,21 +2568,8 @@
             "cityName": "ਦੇਵੀਗੜ੍ਹ",
             "locale": "in_pb",
             "tenantId": "pb.devigarh"
-        },
-          {
-            "cityName": "Dhanaula",
-            "locale": "in_en",
-            "tenantId": "pb.dhanaula"
-        },
-        {
-            "cityName": "धनौला",
-            "locale": "in_hi",
-            "tenantId": "pb.dhanaula"
-        },
-        {
-            "cityName": "ਧਨੌਲਾ",
-            "locale": "in_pb",
-            "tenantId": "pb.dhanaula"
         }
+        
+
     ]
 }

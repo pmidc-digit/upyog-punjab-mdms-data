@@ -1,0 +1,78 @@
+{
+    "tenantId": "pb",
+    "moduleName": "CLU",
+    "DocumentTypeMapping": [
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "CLU.FIRE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "CLU.FIRE",
+                    "required": true
+                }
+            ]
+        },
+
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "CLU.FIRE",
+                    "required": false
+                }
+            ]
+        },
+       {
+            "applicationType": "NEW",
+            "nocType": "OBPAS_NOC",
+            "docTypes": [
+                {
+                    "documentType": "CLU.OBPAS",
+                    "required": true
+                }
+            ]
+        },
+
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "CLU.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "CLU.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "CLU.AIRPORT",
+                    "required": false
+                }
+            ]
+        }        
+    ]
+}

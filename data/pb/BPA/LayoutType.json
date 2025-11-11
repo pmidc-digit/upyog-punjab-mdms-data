@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "LayoutType": [
+    {
+      "areaType": [
+        {
+          "name": "Scheme Area",
+          "code": "SCHEME_AREA",
+          "active": true
+        },
+        {
+          "name": "Approved Colony",
+          "code": "APPROVED_COLONY",
+          "active": true
+        },
+        {
+          "name": "Non-Scheme Area",
+          "code": "NON_SCHEME",
+          "active": true
+        }
+      ],
+      "nonSchemeType": [
+        {
+          "name": "Lal Lakeer",
+          "code": "LAL_LAKEER",
+          "active": true
+        },
+        {
+          "name": "Old Built-up Area",
+          "code": "OLD_BUILT_UP_AREA",
+          "active": true
+        }
+      ],
+      "schemeType":[
+        {
+          "name": "Affordable",
+          "code": "AFFORDABLE",
+          "active": true
+        },
+        {
+          "name": "Residential",
+          "code": "RESIDENTIAL",
+          "active": true
+        },
+        {
+          "name": "Commercial",
+          "code": "COMMERCIAL",
+          "active": true
+        }
+      ]
+    }
+  ]
+}

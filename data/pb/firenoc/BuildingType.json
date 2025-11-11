@@ -145,11 +145,11 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
-          "active": false,
+          "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
         }
@@ -335,7 +335,7 @@
         },
         {
           "code": "MARRIAGEPALACE",
-          "active": true,
+          "active": false,
           "NBCGroup": "Group F Business",
           "NBCSubGroup": "F1"
         },
@@ -369,23 +369,23 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "LOWHAZARD",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 7",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "MEDIUMHAZARD",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 7",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "HIGHHAZARD",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 7",
           "NBCSubGroup": "(2)"
         }
@@ -401,113 +401,113 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
            {
           "code": "HOSPITAL_UPTO_30_BEDS",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "HOSPITAL_31_50_BEDS",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(2)"
         },
         {
           "code": "HOSPITAL_51_100_BEDS",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(3)"
         },
         {
           "code": "HOSPITAL_BEDS_101_125",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_126_150",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_151_175",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_176_200",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_201_225",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_226_250",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_251_275",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_276_300",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_301_325",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_326_350",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_351_375",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_376_400",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_401_425",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_BEDS_426_450",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         },
         {
           "code": "HOSPITAL_ABOVE_450",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(4)"
         }
@@ -522,35 +522,35 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "STAR1",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 2",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "STAR2",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 2",
           "NBCSubGroup": "(2)"
         },
         {
           "code": "STAR3",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 2",
           "NBCSubGroup": "(3)"
         },
         {
           "code": "STAR4",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 2",
           "NBCSubGroup": "(3)"
         },
         {
           "code": "STAR5",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 2",
           "NBCSubGroup": "(4)"
         }
@@ -566,11 +566,41 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": true,
+      "active": false,
       "BuildingSubType": [
         {
+          "code": "MODERATEHAZARD",
+          "active": false,
+          "NBCGroup": "Zone 6",
+          "NBCSubGroup": "(2)"
+        },
+        {
+          "code": "SMSE",
+          "active": false,
+          "NBCGroup": "Zone 6",
+          "NBCSubGroup": "(5)"
+        },
+        {
+          "code": "LOWHAZARD",
+          "active": false,
+          "NBCGroup": "Zone 6",
+          "NBCSubGroup": "(1)"
+        },
+        {
+          "code": "HIGHHAZARD",
+          "active": false,
+          "NBCGroup": "Zone 6",
+          "NBCSubGroup": "(3)"
+        },
+        {
+          "code": "COTTON",
+          "active": false,
+          "NBCGroup": "Zone 6",
+          "NBCSubGroup": "(4)"
+        },
+        {
           "code": "PETROLPUMP",
-          "active": true,
+          "active": false,
           "NBCGroup": "Zone 6",
           "NBCSubGroup": "(3)"
         }
@@ -679,23 +709,23 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "HIGH",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(3)"
         },
         {
           "code": "PRIMARY",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(1)"
         },
         {
           "code": "HIGHERSECONDARY",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 3",
           "NBCSubGroup": "(2)"
         }
@@ -724,11 +754,11 @@
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
-      "active": false,
+      "active": true,
       "BuildingSubType": [
         {
           "code": "NURSINGHOME",
-          "active": false,
+          "active": true,
           "NBCGroup": "Zone 4",
           "NBCSubGroup": "(1)"
         }

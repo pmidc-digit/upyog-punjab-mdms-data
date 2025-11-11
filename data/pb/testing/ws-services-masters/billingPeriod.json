@@ -2,7 +2,7 @@
   "tenantId": "pb.testing",
   "moduleName": "ws-services-masters",
   "billingPeriod": [
-         {
+     {
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "quarterly",
@@ -16,8 +16,8 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1735689600000,
-      "taxPeriodTo": 1743445799000,
+      "taxPeriodFrom": 1727740800000,
+      "taxPeriodTo": 1735669799000,
       "demandGenerationDateMillis": 345600000
     }
   ]

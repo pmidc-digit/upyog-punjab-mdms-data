@@ -1,0 +1,103 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "EDCRNewBuildingPlanScrutiny": [
+    {
+      "areaType": [
+        {
+          "code": "SCHEME_AREA",
+          "value": "Scheme Area",
+          "active": true
+        },
+        {
+          "code": "NON_SCHEME_AREA",
+          "value": "Non-Scheme Area",
+          "active": true
+        }
+      ],
+      "schemeArea": [
+        {
+          "code": "TP_ACHEME",
+          "value": "TP Scheme",
+          "active": true
+        },
+        {
+          "code": "DEVELOPMENT_SCHEME",
+          "value": "Development Scheme",
+          "active": true
+        },
+        {
+          "code": "PAPRA",
+          "value": "PAPRA",
+          "active": true
+        },
+        {
+          "code": "AFFORDABLE",
+          "value": "Affordable",
+          "active": true
+        },
+        {
+          "code": "REGULARIZED_UNDER_POLICY",
+          "value": "Regularized Under Policy",
+          "active": true
+        },
+        {
+          "code": "REHABILITATION_SCHEME",
+          "value": "Rehabilitation Scheme",
+          "active": true
+        },
+        {
+          "code": "APPROVED_LAYOUT",
+          "value": "Approved Layout",
+          "active": true
+        },
+        {
+          "code": "ANY_OTHER_SCHEME",
+          "value": "Any Other Scheme",
+          "active": true
+        }
+      ],
+      "cluApprove": [
+        {
+          "code": "YES",
+          "value": "YES",
+          "active": true
+        },
+        {
+          "code": "NO",
+          "value": "NO",
+          "active": true
+        }
+      ],
+      "coreArea": [
+        {
+          "code": "YES",
+          "value": "YES",
+          "active": true
+        },
+        {
+          "code": "NO",
+          "value": "NO",
+          "active": true
+        }
+      ],
+      "buildingType": [
+        {
+          "code": "RESIDENTIAL",
+          "value": "Residential",
+          "active": true
+        },
+        {
+          "code": "COMMERCIAL",
+          "value": "Commercial",
+          "active": true
+        },
+        {
+          "code": "MIXED",
+          "value": "Mixed",
+          "active": true
+        }
+      ]
+    }
+  ]
+}

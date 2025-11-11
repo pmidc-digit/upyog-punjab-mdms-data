@@ -2,60 +2,30 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
-    {
-      "code": "SURVEY_ADMIN",
-      "name": "Survey Admin",
-      "description": "Survey Admin for Survey Module(Engagement)"
-    },
-    {
-      "code": "ULB_ADMINISTRATOR_REPORTS",
-      "name": "ULB Administrator Reports",
-      "description": "Access to all reports of all ULBs(FireNoc , Misc Collection , TL , W&S , PT)"
-    },
-    {
-      "code": "SEARCH_SURVEY",
-      "name": "Search Survey",
-      "description": "Access to Search Survey for Survey Module"
-    },
-    {
-      "code": "CATEGORY_ADMIN",
-      "name": "Category Admin Role",
-      "description": "Access to Create Search update Category for Survey Module"
-    },
-    {
-      "code": "CREATE_CATEGORY",
-      "name": "Create Category Role",
-      "description": "Access to Create Category for Survey Module"
-    },
-    {
-      "code": "UPDATE_CATEGORY",
-      "name": "Update Category Role",
-      "description": "Access to Update Category for Survey Module"
-    },
-    {
-      "code": "SEARCH_CATEGORY",
-      "name": "Search Category Role",
-      "description": "Access to Search Category for Survey Module"
-    },
-    {
-      "code": "CREATE_QUESTION",
-      "name": "Create Question Role",
-      "description": "Access to Create Question for Survey Module"
-    },
-    {
-      "code": "UPDATE_QUESTION",
-      "name": "Update Question Role",
-      "description": "Access to Update Question for Survey Module"
-    },
-    {
-      "code": "SEARCH_QUESTION",
-      "name": "Search Question Role",
-      "description": "Access to Search Question for Survey Module"
+	{
+      "code": "PET REPORTS",
+      "name": "PET REPORTS",
+      "description": "Access to all Pet Service Reports"
     },
     {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
+    },
+    {
+      "code": "NDC REPORTS",
+      "name": "NDC REPORTS",
+      "description": "Access to all NDC Reports"
+    },
+    {
+      "code": "PESCO",
+      "name": "PESCO",
+      "description": "Citizen who can raise complaint"
+    },
+    {
+      "code": "PDC",
+      "name": "PDC Officer",
+      "description": "Access to PDC report"
     },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
@@ -207,6 +177,11 @@
       "code": "PUNJAB_EODB",
       "name": "EODB search user",
       "description": "EODB search user"
+    },
+    {
+      "code": "EODB",
+      "name": "EODB",
+      "description": "EODB for Invest punjab"
     },
     {
       "code": "PTULBADMIN",
@@ -414,6 +389,111 @@
       "description": "sendOpenSMS API access user"
     },
     {
+      "code": "BPA_ARCHITECT",
+      "name": "BPA Architect",
+      "description": "BPA Architect"
+    },
+    {
+      "code": "BPA_ENGINEER",
+      "name": "BPA Engineer",
+      "description": "BPA Engineer"
+    },
+    {
+      "code": "BPA_BUILDER",
+      "name": "BPA Builder",
+      "description": "BPA Builder"
+    },
+    {
+      "code": "BPA_STRUCTURALENGINEER",
+      "name": "BPA Structural Engineer",
+      "description": "BPA Structural Engineer"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "BPA Town Planner",
+      "description": "BPA Town Planner"
+    },
+    {
+      "code": "BPA_DESIGNER",
+      "name": "BPA Designer",
+      "description": "BPA Designer"
+    },
+    {
+      "code": "BPAREG_APPROVER",
+      "name": "BPAREG Approver",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "BPAREG_DOC_VERIFIER",
+      "name": "BPAREG doc verifier",
+      "description": "BPA Stakeholder workflow document verifier"
+    },
+    {
+      "code": "BPAREG_EMPLOYEE",
+      "name": "BPAREG Employee",
+      "description": "BPA Stakeholder Employee"
+    },
+    {
+      "code": "BPA_APPROVER",
+      "name": "BPA Services Approver",
+      "description": "BPA Services workflow Approver"
+    },
+	{
+      "code": "BPA_DOC_VERIFIER",
+      "name": "BPA Doc verifier",
+      "description": "BPA Services workflow document verifier"
+    },
+    {
+      "code": "BPA_VERIFIER",
+      "name": "BPA Services verifier",
+      "description": "BPA Services workflow document & field inspection verifier"
+    },
+    {
+      "code": "BPA_SUPERVISOR",
+      "name": "BPA Supervisor",
+      "description": "BPA Supervisor"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTOR",
+      "name": "BPA Field Inspector",
+      "description": "BPA Service field inspector"
+    },
+	{
+	  "code": "BPA_FIELD_REPORT_INSPECTOR",
+	  "name": "BPA Field Report Inspector",
+	  "description": "BPA Service field Report inspector"
+	},
+    {
+      "code": "BPA_NOC_VERIFIER",
+      "name": "BPA NOC Verifier",
+      "description": "BPA Service NOC verifier"
+    },
+    {
+      "code": "OBPS_REPORT_VIEWER",
+      "name": "OBPS Report Viewer",
+      "description": "OBPS User that can view OBPS reports"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "AUTO_ESCALATE",
+      "name": "Auto Escalation Employee",
+      "description": "Auto Escalation Employee"
+    },
+    {
+      "code": "SURVEY_ADMIN",
+      "name": "Survey Admin",
+      "description": "Survey Admin for Survey Module(Engagement)"
+    },
+    {
+      "code": "SEARCH_SURVEY",
+      "name": "Search Survey",
+      "description": "Access to Search Survey for Survey Module"
+    },
+    {
       "code": "ESEWAEMP",
       "name": "Esewa Employee",
       "description": "Esewa Employee"
@@ -424,14 +504,54 @@
       "description": "State Transaparency Viewer"
     },
     {
-      "code": "PDC",
-      "name": "PDC Officer",
-      "description": "Access to PDC report"
+      "code": "CATEGORY_ADMIN",
+      "name": "Category Admin Role",
+      "description": "Access to Create Search update Category for Survey Module"
     },
     {
-      "code": "PESCO",
-      "name": "PESCO",
-      "description": "Citizen who can raise complaint"
+      "code": "CREATE_CATEGORY",
+      "name": "Create Category Role",
+      "description": "Access to Create Category for Survey Module"
+    },
+    {
+      "code": "UPDATE_CATEGORY",
+      "name": "Update Category Role",
+      "description": "Access to Update Category for Survey Module"
+    },
+    {
+      "code": "SEARCH_CATEGORY",
+      "name": "Search Category Role",
+      "description": "Access to Search Category for Survey Module"
+    },
+    {
+      "code": "CREATE_QUESTION",
+      "name": "Create Question Role",
+      "description": "Access to Create Question for Survey Module"
+    },
+    {
+      "code": "UPDATE_QUESTION",
+      "name": "Update Question Role",
+      "description": "Access to Update Question for Survey Module"
+    },
+    {
+      "code": "SEARCH_QUESTION",
+      "name": "Search Question Role",
+      "description": "Access to Search Question for Survey Module"
+    },
+    {
+      "code": "NDC_ADMIN",
+      "name": "Search NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "GC_ADMIN",
+      "name": "Search GC Role",
+      "description": "Access to GC"
+    },
+    {
+      "code": "OBPS_ADMIN",
+      "name": "Search OBPS Role",
+      "description": "Access to OBPS"
     },
     {
       "code": "SWACH_ADMIN",
@@ -444,6 +564,31 @@
       "description": "Access to swach"
     },
     {
+      "code": "SV_ADMIN",
+      "name": "street vending State Employee",
+      "description": "Access to SV"
+    },
+    {
+      "code": "ADS_ADMIN",
+      "name": "Advertisement State Employee",
+      "description": "Access to ADS"
+    },
+    {
+      "code": "PTR_ADMIN",
+      "name": "Pet Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "CHB_ADMIN",
+      "name": "Community Booking Hall Employee",
+      "description": "Access to PTR"
+    },
+    {
+      "code": "Asset_ADMIN",
+      "name": "Asset Employee",
+      "description": "Access to Asset"
+    },
+    {
       "code": "VIEW_SWACH_CARD",
       "name": "View Swach Card",
       "description": "For Swach Card Display in Dashboard"
@@ -454,36 +599,230 @@
       "description": "For Engagement Card Display in Dashboard"
     },
     {
+      "code": "VIEW_PGR_CARD",
+      "name": "View PGR Card",
+      "description": "For PGR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_TL_CARD",
+      "name": "View TL Card",
+      "description": "For TL Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_NOC_CARD",
+      "name": "View NOC Card",
+      "description": "For NOC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PT_CARD",
+      "name": "View PT Card",
+      "description": "For PT Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_UC_CARD",
+      "name": "View UC Card",
+      "description": "For UC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PGR.WHATSAPP_CARD",
+      "name": "View PGR Whatsapp Card",
+      "description": "For PGR Whatsapp Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SWACH.WHATSAPP_CARD",
+      "name": "View Swach Whatsapp Card",
+      "description": "For Swach Whatsapp Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_FIRENOC_CARD",
+      "name": "View FireNOC Card",
+      "description": "For FireNOC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BPAAPPLY_CARD",
+      "name": "View BPA Apply Card",
+      "description": "For BPA Apply Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BPAREG_CARD",
+      "name": "View BPA Reg Card",
+      "description": "For BPA Reg Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_OBPS_CARD",
+      "name": "View OBPS Card",
+      "description": "For OBPS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PAYMENT_CARD",
+      "name": "View Payment Card",
+      "description": "For Payment Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_BR_CARD",
+      "name": "View BR Card",
+      "description": "For BR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_HRMS_CARD",
+      "name": "View HRMS Card",
+      "description": "For HRMS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SW_CARD",
+      "name": "View SW Card",
+      "description": "For SW Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_WS_CARD",
+      "name": "View WS Card",
+      "description": "For WS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_MCOLLECT_CARD",
+      "name": "View mCollect Card",
+      "description": "For mCollect Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_PTR_CARD",
+      "name": "View PTR Card",
+      "description": "For PTR Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_NDC_CARD",
+      "name": "View NDC Card",
+      "description": "For NDC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_GC_CARD",
+      "name": "View GC Card",
+      "description": "For GC Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_RENTANDLEASE_CARD",
+      "name": "View Rent And Lease Card",
+      "description": "For Rent and Lease Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_COMMONPT_CARD",
+      "name": "View CommonPT Card",
+      "description": "For CommonPT Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_SV_CARD",
+      "name": "View SV Card",
+      "description": "For SV Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ADS_CARD",
+      "name": "View ADS Card",
+      "description": "For ADS Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_CHB_CARD",
+      "name": "View CHB Card",
+      "description": "For CHB Card Display in Dashboard"
+    },
+    {
+      "code": "VIEW_ASSET_CARD",
+      "name": "View Asset Card",
+      "description": "For Asset Card Display in Dashboard"
+    },
+    {
+      "code": "NDCADMIN",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_ADMIN_ROLE",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "SURVEY_REPORTS",
+      "name": "Survey Reports Admin",
+      "description": "Survey Reports to view reports of citizen scorecard survey"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator Employee",
+      "description": "Employee in Asset Application who files asset Registration"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Document Verifier",
+      "description": "Asset Registration Information/Document Verifier"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_REPORT_VIEWER",
+      "name": "Asset Report Viewer",
+      "description": "Who Can View Asset Reports"
+    },
+    {
+      "code": "SVCEMP",
+      "name": "SV CEMP ",
+      "description": "Street Vending Counter Employee"
+    },
+    {
+      "code": "TVCEMPLOYEE",
+      "name": "TVC Employee",
+      "description": "Town Vending Commitee Employee"
+    },
+    {
+      "code": "INSPECTIONOFFICER",
+      "name": "Inspection Officer",
+      "description": "Inspection Officer who will visit"
+    },
+    {
+      "code": "VIEW_BPA_STAKEHOLDER_CARD",
+      "name": "VIEW BPA Stakeholder Card",
+      "description": "For Stakeholder Card Display in Dashboard"
+    },
+    {
+      "code": "Testing",
+      "name": "Testing",
+      "description": "For testing purpose"
+    },
+    {
       "code": "NDCCEMP",
       "name": "NDC Counter Employee",
       "description": "NDC Counter Employee"
-    },
-    {
+    },{
       "code": "NDC_DOC_VERIFIER",
       "name": "NDC Document Verifier",
       "description": "No Dues Document Verifier"
-    },
-    {
+    },{
       "code": "NDC_PT_VERIFIER",
       "name": "NDC Property Verifier",
       "description": "No Dues Verifier for Property "
-    },
-    {
+    },{
       "code": "NDC_WS_SW_VERIFIER",
       "name": "NDC Water and Sewerage Verifier",
       "description": "No Dues Verifier for Water and Sewerage Service"
-    },
-    {
+    },{
       "code": "NDC_BPA_VERIFIER",
       "name": "NDC BPA Verifier",
       "description": "No Dues Verifier for BPA Service"
-    },
-    {
+    },{
       "code": "NDC_TL_VERIFIER",
       "name": "NDC Trade License Verifier",
       "description": "No Dues Verifier for Trade License"
-    },
-    {
+    },{
       "code": "NDC_APPROVER",
       "name": "NDC Approver",
       "description": "No Dues Certificate Approver"
@@ -493,31 +832,11 @@
       "name": "NDC Receipt Cancellation",
       "description": "Allowed to Cancel NDC Receipts"
     },
-    {
-      "code": "PET REPORTS",
-      "name": "PET REPORTS",
-      "description": "Access to all Pet Service Reports"
-    },
-    {
-      "code": "NDC REPORTS",
-      "name": "NDC REPORTS",
-      "description": "Access to all NDC Reports"
-    },
-    {
-      "code": "VIEW_NDC_CARD",
-      "name": "View NDC Card",
-      "description": "For NDC Card Display in Dashboard"
-    },
-    {
-      "code": "CHB_CEMP",
-      "name": "CommunityHall Employee",
-      "description": "CommunityHallBooking Employee"
-    },
-    {
-      "code": "VIEW_CHB_CARD",
-      "name": "View CHB Card",
-      "description": "For CHB Card Display in Dashboard"
-    },
+	{
+	  "code": "ATP_APPROVER",
+	  "name": "BPAREG ATP Approver",
+	  "description": "BPA Stakeholder workflow ATP Approver"
+	},
     {
       "code": "PET_REG_EMPLOYEE",
       "name": "Pet Registration Employee",
@@ -539,9 +858,126 @@
       "description": "Access to PTR"
     },
     {
-      "code": "VIEW_PTR_CARD",
-      "name": "View PTR Card",
-      "description": "For PTR Card Display in Dashboard"
+      "code": "ADV_VERIFIER",
+      "name": "Advertisement Verifier",
+      "description": "Employee who verifies Advertisement applications"
+    },
+    {
+      "code": "ADV_APPROVER",
+      "name": "Advertisement Approver",
+      "description": "Employee who approves Advertisement applications"
+    },
+    {
+      "code": "ADV_EMPLOYEE",
+      "name": "Advertisement Employee",
+      "description": "Advertisement Employee"
+    },
+    {
+       "code": "CHB_CEMP",
+      "name": "CommunityHall Employee",
+      "description": "CommunityHallBooking Employee"
+    },
+    {
+      "code": "CHB_VERIFIER",
+      "name": "CommunityHall Verifier",
+      "description": "CommunityHallBooking Verifier"
+    },
+    {
+      "code": "CHB_FIELD_INSPECTOR",
+      "name": "CommunityHall Field Inspector",
+      "description": "CommunityHallBooking Field Inspector"
+    },
+	{
+	  "code": "PROFESSIONAL_DOC_VERIFIER",
+	  "name": "Professional doc verifier",
+	  "description": "BPA Stakeholder workflow document verifier"
+	},
+	{
+	  "code": "PROFESSIONAL_VERIFIER",
+	  "name": "Professional verifier",
+	  "description": "BPA Stakeholder workflow verifier"
+	},
+	{
+	  "code": "PROFESSIONAL_APPROVER",
+	  "name": "Professional Approver",
+	  "description": "BPA Stakeholder workflow Approver"
+	},
+    {
+      "code": "CHALLAN_ADMIN",
+      "name": "Challan Admin",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "JE",
+      "name": "JE",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "BI",
+      "name": "BI",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "ATP",
+      "name": "ATP",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "AME",
+      "name": "AME",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "MTP",
+      "name": "MTP",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "ME",
+      "name": "ME",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "JC",
+      "name": "JC",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "CMC",
+      "name": "CMC",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "EO",
+      "name": "EO",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "STP(Field)",
+      "name": "STP(Field)",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "ADC",
+      "name": "ADC",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "DM",
+      "name": "DM",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "ATP(HQ)",
+      "name": "ATP(HQ)",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "STP(HQ)",
+      "name": "STP(HQ)",
+      "description": "BPA Stakeholder workflow Approver"
     }
+
+
   ]
 }

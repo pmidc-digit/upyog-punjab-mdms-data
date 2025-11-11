@@ -388,7 +388,18 @@
         "maxAmount": 0,
         "flatAmount": 0
       }
+    },
+    {
+      "name": "Service Stations & Ahatas",
+      "code": "AHATAS",
+      "usageCategorySubMinor": "AHATAS",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 0,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
-    
   ]
 }

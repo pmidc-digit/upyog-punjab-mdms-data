@@ -7,10 +7,10 @@
       "active": true,
       "connectionType": "Non Metered",
       "billingCycle": "quarterly",
-      "demandEndDateMillis": 1296000000,
-      "demandExpiryDate": 1296000000,
-      "taxPeriodFrom": 1751328000000,
-      "taxPeriodTo": 1759256999000,
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 2592000000,
+      "taxPeriodFrom": 1735689600000,
+      "taxPeriodTo": 1743445799000,
       "demandGenerationDateMillis": 345600000
     }
   ]

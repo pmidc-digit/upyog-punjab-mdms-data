@@ -9,12 +9,7 @@
     },
     {
       "name": "Regularized Connection",
-      "code": "REGULARIZED",
-      "active": true
-    },
-    {
-      "name": "General",
-      "code": "GEN",
+     "code": "REGULARIZED",
       "active": true
     },
     {
@@ -23,8 +18,18 @@
       "active": true
     },
     {
+      "name": "General",
+      "code": "GEN",
+      "active": true
+    },
+    {
       "name": "Below Poverty Line",
       "code": "BPL",
+      "active": true
+    },
+    {
+      "name": "Discharge Connection",
+      "code": "DISCHARGE_CONNECTION",
       "active": true
     }
   ]

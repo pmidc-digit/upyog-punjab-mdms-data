@@ -224,12 +224,12 @@
           "attributeAccessList": [
             {
               "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
+              "firstLevelVisibility": "PLAIN",
               "secondLevelVisibility": "PLAIN"
             }
           ]
@@ -317,6 +317,163 @@
         }
       ],
       "roleBasedDecryptionPolicy": []
+    },
+	{
+		"model": "SVApplicantDetail",
+		"uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "id"
+      },
+		"attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "fatherName",
+          "jsonPath": "fatherName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobileNo",
+          "jsonPath": "mobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "emailId",
+          "jsonPath": "emailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+		"roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]	
+	},
+	{
+		"model": "SVApplicantDetailDecrypDisabled",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "fatherName",
+          "jsonPath": "fatherName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobileNo",
+          "jsonPath": "mobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "emailId",
+          "jsonPath": "emailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
     },
     {
       "model": "UserListSelf",
@@ -622,6 +779,38 @@
       "roleBasedDecryptionPolicy": []
     },
     {
+      "model": "InboxWnS",
+      "uniqueIdentifier": {
+        "name": "applicationNo",
+        "jsonPath": "applicationNo"
+      },
+      "attributes": [
+        {
+          "name": "sample",
+          "jsonPath": "sample",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "WS_CEMP",
+            "WS_DOC_VERIFIER",
+            "WS_FIELD_INSPECTOR",
+            "WS_APPROVER",
+            "WS_CLERK",
+            "SW_CEMP",
+            "SW_DOC_VERIFIER",
+            "SW_FIELD_INSPECTOR",
+            "SW_APPROVER",
+            "SW_CLERK"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },   
+    {
       "model": "WnSConnection",
       "uniqueIdentifier": {
         "name": "applicationNo",
@@ -761,6 +950,162 @@
       ]
     },
     {
+      "model": "CHBApplicantDetail",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }, 
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+    {
+      "model": "CHBApplicantDetailDecrypDisabled",
+      "uniqueIdentifier": {
+        "name": "applicantDetailId",
+        "jsonPath": "/applicantDetailId"
+      },
+      "attributes": [
+        {
+          "name": "applicantName",
+          "jsonPath": "applicantName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantMobileNo",
+          "jsonPath": "applicantMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantAlternateMobileNo",
+          "jsonPath": "applicantAlternateMobileNo",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "applicantEmailId",
+          "jsonPath": "applicantEmailId",
+          "patternId": "004",
+          "defaultVisibility": "PLAIN"
+        }, 
+        {
+          "name": "accountNumber",
+          "jsonPath": "accountNumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "ifscCode",
+          "jsonPath": "ifscCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankName",
+          "jsonPath": "bankName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "bankBranchName",
+          "jsonPath": "bankBranchName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "accountHolderName",
+          "jsonPath": "accountHolderName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": [
+        {
+          "roles": [
+            "EMPLOYEE",
+            "CITIZEN"
+          ],
+          "attributeAccessList": []
+        },
+        {
+          "roles": [
+            "REINDEXING_ROLE"
+          ],
+          "attributeAccessList": []
+        }
+      ]
+    },
+    {
       "model": "ObpsApplicationStatusReport",
       "uniqueIdentifier": {
         "name": "uuid",
@@ -841,7 +1186,7 @@
       ]
     },
     {
-      "model": "CHBApplicantDetail",
+      "model": "ADVApplicantDetail",
       "uniqueIdentifier": {
         "name": "applicantDetailId",
         "jsonPath": "applicantDetailId"
@@ -870,36 +1215,6 @@
           "jsonPath": "applicantEmailId",
           "patternId": "004",
           "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "accountNumber",
-          "jsonPath": "accountNumber",
-          "patternId": "001",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "ifscCode",
-          "jsonPath": "ifscCode",
-          "patternId": "001",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "bankName",
-          "jsonPath": "bankName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "bankBranchName",
-          "jsonPath": "bankBranchName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "accountHolderName",
-          "jsonPath": "accountHolderName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": [
@@ -919,7 +1234,7 @@
       ]
     },
     {
-      "model": "CHBApplicantDetailDecrypDisabled",
+      "model": "ADVApplicantDetailDecrypDisabled",
       "uniqueIdentifier": {
         "name": "applicantDetailId",
         "jsonPath": "/applicantDetailId"
@@ -948,37 +1263,8 @@
           "jsonPath": "applicantEmailId",
           "patternId": "004",
           "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "accountNumber",
-          "jsonPath": "accountNumber",
-          "patternId": "001",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "ifscCode",
-          "jsonPath": "ifscCode",
-          "patternId": "001",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "bankName",
-          "jsonPath": "bankName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "bankBranchName",
-          "jsonPath": "bankBranchName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "accountHolderName",
-          "jsonPath": "accountHolderName",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
         }
+
       ],
       "roleBasedDecryptionPolicy": [
         {

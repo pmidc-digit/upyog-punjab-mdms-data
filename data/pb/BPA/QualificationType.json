@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "QualificationType": [
+    {
+      "name": "B-Arch",
+      "code": "B_ARCH",
+      "active": true,
+      "role": "ARCHITECT"
+    },
+    {
+      "name": "BE/B-Tech Civil Engineer",
+      "code": "BE",
+      "active": true,
+      "role": "ENGINEER"
+    },
+    {
+      "name": "Diploma in Civil Engineering/Architect/ITI",
+      "code": "DIPLOMA",
+      "active": true,
+      "role": "SUPERVISOR"
+    },
+    {
+      "name": "Town Planner",
+      "code": "Town_and_Country_Planner",
+      "active": true,
+      "role": "TOWNPLANNER"
+    },
+    {
+      "name": "B.Arch. + Town Planner",
+      "code": "B_ARCH_AND_Town_and_Country_Planner",
+      "active": true,
+      "role": "ARCHITECT+TOWNPLANNER"
+    },
+    {
+      "name": "BE/B-Tech Civil Engineer + Town Planner",
+      "code": "BE_AND_Town_and_Country_Planner",
+      "active": true,
+      "role": "ENGINEER+TOWNPLANNER"
+    }
+  ]
+}

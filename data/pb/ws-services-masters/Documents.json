@@ -5,7 +5,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -35,7 +35,7 @@
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
@@ -70,21 +70,21 @@
       "code": "ELECTRICITY_BILL",
       "documentType": "ELECTRICITY_BILL",
       "active": true,
-      "required": true,
+      "required": false,
       "description": "ELECTRICITY_BILL_DESCRIPTION"
     },
     {
       "code": "PLUMBER_REPORT_DRAWING",
       "documentType": "PLUMBER_REPORT_DRAWING",
       "active": true,
-      "required": true,
+      "required": false,
       "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
     },
     {
       "code": "OWNERSHIP_DETAILS_REGISTRY",
       "documentType": "OWNERSHIP_DETAILS_REGISTRY",
       "active": true,
-      "required": true,
+      "required": false,
       "description": "OWNERSHIP_DETAILS_REGISTRY_DESCRIPTION"
     },
     {
@@ -98,7 +98,7 @@
       "code": "APPLICANT_PHOTO_PP",
       "documentType": "APPLICANT_PHOTO_PP",
       "active": true,
-      "required": true,
+      "required": false,
       "description": "APPLICANT_PHOTO_PP_DESCRIPTION"
     },
     {

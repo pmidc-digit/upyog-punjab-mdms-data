@@ -336,19 +336,6 @@
                     "code": "BLC 13",
                     "area": "",
                     "children": []
-                  },
-                  {
-                    "id": "aa5a39b8-fedc-4e2c-af44-11483319f5bb",
-                    "boundaryNum": 1,
-                    "name": "UNKNOWNAD-Ward13",
-                    "localname": "UNKNOWNAD-Ward13",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "UNKNOWNAD",
-                    "area": "",
-                    "children": []
-                    
                   }
                 ]
               }
@@ -405,18 +392,6 @@
                     "children": []
                   },
                   {
-                    "id": "e499a0bf-3558-4de4-aec9-c61474b0c9e5",
-                    "boundaryNum": 1,
-                    "name": "UNKNOWN",
-                    "localname": "UNKNOWN",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "UNKNOWN",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
                     "id": "d26aade2-50c5-400e-a0c6-c508a920ae99",
                     "boundaryNum": 1,
                     "name": "Gadard Patti Near River Block 1 - B1 - A2",
@@ -426,6 +401,18 @@
                     "label": "Locality",
                     "code": "BH2",
                     "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e36aade2-50c5-400e-a0c6-c508a920ae33",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN",
+                    "localname": "UNKNOWN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
                     "children": []
                   },
                   {

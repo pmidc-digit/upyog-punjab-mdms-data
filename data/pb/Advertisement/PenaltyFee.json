@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Advertisement",
+  "PenaltyFee": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 100,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "1",
+      "active": true,
+      "taxApplicable": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "tenantId": "pb",
+    "moduleName": "LAYOUT",
+    "RoadType": [
+      {
+        "name": "National Highway",
+        "code": "NATIONAL_HIGHWAY",
+        "active": true
+      },
+      {
+        "name": "State Highway",
+        "code": "STATE_HIGHWAY",
+        "active": true
+      },
+      {
+        "name": "Major District Road",
+        "code": "MAJOR_DISTRICT_ROAD",
+        "active": true
+      },
+      {
+        "name": "Bypass/Scheduled Road",
+        "code": "BYPASS_SCHEDULED_ROAD",
+        "active": true
+      },
+      {
+        "name": "Other Road",
+        "code": "OTHER_ROAD",
+        "active": true
+      }
+    ]
+  }

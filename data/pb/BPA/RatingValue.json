@@ -1,0 +1,21 @@
+{
+    "tenantId": "pb",
+    "moduleName": "BPA",
+    "RatingValue": [
+      {
+        "name": "PLATINUM",
+        "code": "PLATINUM",
+        "active": true
+      },
+      {
+        "name": "GOLD",
+        "code": "GOLD",
+        "active": true
+      },
+      {
+        "name": "BRONZE",
+        "code": "BRONZE",
+        "active": true
+      }
+    ]
+  }

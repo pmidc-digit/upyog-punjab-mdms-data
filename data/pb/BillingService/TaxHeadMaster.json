@@ -92,6 +92,15 @@
       "order": "2",
       "isRequired": false
     },
+      { "category": "TAX",
+      "service": "PT",
+      "name": "Pt  oTS penalty waveoff",
+      "code": "OTS_PENALTY_WAVEOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "PT",
@@ -100,6 +109,16 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "OTS INTEREST WAVEOFF",
+      "code": "OTS_INTEREST_WAVEOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": false
     },
     {
@@ -5756,6 +5775,7 @@
       "order": "8",
       "service": "SW.ONE_TIME_FEE"
     },
+	
     {
       "category": "FEE",
       "code": "SW_CONNECTION_FEE",
@@ -6913,36 +6933,256 @@
       "order": "0",
       "service": "SW"
     },
-	  {
-      "category": "FEE",
-      "code": "WS_OTHER_CHARGE",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
-      "name": "Water application other charge fee",
-      "order": "14",
-      "service": "WS.ONE_TIME_FEE"
-    },
     {
       "category": "FEE",
-      "code": "SW_OTHER_CHARGE",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
-      "name": "Sewerage application other charge fee",
-      "order": "14",
-      "service": "SW.ONE_TIME_FEE"
-    },
-    {
-      "category": "FEE",
-      "service": "ndc-services",
-      "name": "No Dues Certificate Fee",
-      "code": "NDC",
+      "service": "BPAREG",
+      "name": "BPA Stakeholder Registraion fees",
+      "code": "BPAREG_FEES",
       "isDebit": false,
       "isActualDemand": true,
-      "order": "0",
+      "order": "1",
       "isRequired": false
     },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_APP_FEE",
+	  "name": "Building Application Fees",
+	  "code": "BPA_BUILDING_APPLICATION_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_APP_FEE",
+	  "name": "Boundary Wall Fees",
+	  "code": "BPA_BOUNDARY_WALL_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Appllication Fees",
+      "code": "BPA_LOW_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Low Risk Permit Fees",
+      "code": "BPA_LOW_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_PERMIT_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+	    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Malwa fees",
+      "code": "BPA_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Labour cess",
+      "code": "BPA_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Water fees",
+      "code": "BPA_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Gaushala charge fees",
+      "code": "BPA_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Purchasable FAR fees",
+      "code": "BPA_PURCHASABLE_FAR_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	   {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Development fees",
+      "code": "BPA_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	     {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Other fees",
+      "code": "BPA_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Processing Fees",
+	  "code": "BPA_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA CLU Charges",
+	  "code": "BPA_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA External Development Charges",
+	  "code": "BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Urban Development Cess",
+	  "code": "BPA_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Mining Charges",
+	  "code": "BPA_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Rain Water Harvesting Charges",
+	  "code": "BPA_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Clubbing Charges",
+	  "code": "BPA_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Sub-Division Charges",
+	  "code": "BPA_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
     {
       "category": "FEE",
       "service": "chb-services",
@@ -7024,10 +7264,40 @@
       "isRequired": false
     },
     {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "Advertisement Booking Fees",
+      "code": "ADV_BOOKING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "TAX",
-      "service": "chb-services",
-      "name": "CHB Service Charge",
-      "code": "CHB_SERVICE_CHARGE",
+      "service": "adv-services",
+      "name": "ADV CGST",
+      "code": "ADV_CGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "adv-services",
+      "name": "ADV SGST",
+      "code": "ADV_SGST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "adv-services",
+      "name": "ADV Service Charge",
+      "code": "ADV_SERVICE_CHARGE",
       "isDebit": false,
       "isActualDemand": true,
       "order": 4,
@@ -7035,9 +7305,9 @@
     },
     {
       "category": "FEE",
-      "service": "chb-services",
-      "name": "CHB Penalty Fee",
-      "code": "CHB_PENALTY_FEE",
+      "service": "adv-services",
+      "name": "ADV Penalty Fee",
+      "code": "ADV_PENALTY_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": 5,
@@ -7045,9 +7315,9 @@
     },
     {
       "category": "FEE",
-      "service": "chb-services",
-      "name": "CHB Interest Amount",
-      "code": "CHB_INTEREST_AMOUNT",
+      "service": "adv-services",
+      "name": "ADV Interest Amount",
+      "code": "ADV_INTEREST_AMOUNT",
       "isDebit": false,
       "isActualDemand": true,
       "order": 6,
@@ -7055,23 +7325,54 @@
     },
     {
       "category": "FEE",
-      "service": "chb-services",
-      "name": "CHB Security Deposit",
-      "code": "CHB_SECURITY_DEPOSIT",
+      "service": "adv-services",
+      "name": "ADV Security Deposit",
+      "code": "ADV_SECURITY_DEPOSIT",
       "isDebit": false,
       "isActualDemand": true,
       "order": 7,
       "isRequired": false
     },
     {
+        "category": "FEE",
+        "service": "sv-services",
+        "name": "Street Vending registration fee",
+        "code": "SV_STREET_VENDING_REGISTRATION_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+    }
+    ,
+    {
       "category": "FEE",
-      "service": "chb-services",
-      "name": "CHB DISCOUNT",
-      "code": "CHB_DISCOUNT",
+      "service": "ndc-services",
+      "name": "No Dues Certificate Fee",
+      "code": "NDC",
       "isDebit": false,
       "isActualDemand": true,
-      "order": 8,
+      "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "code": "WS_OTHER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application other charge fee",
+      "order": "14",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_OTHER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application other charge fee",
+      "order": "14",
+      "service": "SW.ONE_TIME_FEE"
     },
     {
       "category": "FEE",
@@ -7111,6 +7412,729 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "18",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "No Object Certificate Fee",
+      "code": "NOC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Malwa fees",
+	  "code": "NOC_MALBA_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Labour cess",
+	  "code": "NOC_LABOUR_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Water fees",
+	  "code": "NOC_WATER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Gaushala charge fees",
+	  "code": "NOC_GAUSHALA_CHARGES_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC less adjustment plot",
+	  "code": "NOC_LESS_ADJUSMENT_PLOT",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	   {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Development fees",
+	  "code": "NOC_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Other fees",
+	  "code": "NOC_OTHER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Processing Fees",
+	  "code": "NOC_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC CLU Charges",
+	  "code": "NOC_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC External Development Charges",
+	  "code": "NOC_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Urban Development Cess",
+	  "code": "NOC_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Compounding fees",
+	  "code": "NOC_COMPOUNDING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Mining Charges",
+	  "code": "NOC_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Rain Water Harvesting Charges",
+	  "code": "NOC_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Clubbing Charges",
+	  "code": "NOC_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	     {
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Sub-Division Charges",
+	  "code": "NOC_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+{
+      "category": "TAX",
+      "service": "chb-services",
+      "name": "CHB Service Charge",
+      "code": "CHB_SERVICE_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 4,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services", 
+      "name": "CHB Penalty Fee",
+      "code": "CHB_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 5,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB Interest Amount", 
+      "code": "CHB_INTEREST_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 6,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB Security Deposit",
+      "code": "CHB_SECURITY_DEPOSIT", 
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 7,
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB DISCOUNT",
+      "code": "CHB_DISCOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Processing Fees",
+	  "code": "ADJ_BPA_PROCESSING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment CLU Charges",
+	  "code": "ADJ_BPA_CLU_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment External Development Charges",
+	  "code": "ADJ_BPA_EXTERNAL_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Urban Development Cess",
+	  "code": "ADJ_BPA_URBAN_DEVELOPMENT_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Malwa fees",
+	  "code": "ADJ_BPA_MALBA_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Water fees",
+	  "code": "ADJ_BPA_WATER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Mining Charges",
+	  "code": "ADJ_BPA_MINING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Gaushala charge fees",
+	  "code": "ADJ_BPA_GAUSHALA_CHARGES_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Labour cess",
+	  "code": "ADJ_BPA_LABOUR_CESS",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Rain Water Harvesting Charges",
+	  "code": "ADJ_BPA_RAIN_WATER_HARVESTING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Clubbing Charges",
+	  "code": "ADJ_BPA_CLUBBING_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Sub-Division Charges",
+	  "code": "ADJ_BPA_SUB-DIVISION_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Purchasable FAR fees",
+	  "code": "ADJ_BPA_PURCHASABLE_FAR_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Development fees",
+	  "code": "ADJ_BPA_DEVELOPMENT_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "BPA.NC_SAN_FEE",
+	  "name": "BPA Adjustment Other fees",
+	  "code": "ADJ_BPA_OTHER_CHARGES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "No Object Certificate Fee",
+      "code": "LAYOUT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Malwa fees",
+      "code": "LAYOUT_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Labour cess",
+      "code": "LAYOUT_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Water fees",
+      "code": "LAYOUT_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Gaushala charge fees",
+      "code": "LAYOUT_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT less adjustment plot",
+      "code": "LAYOUT_LESS_ADJUSMENT_PLOT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Development fees",
+      "code": "LAYOUT_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Other fees",
+      "code": "LAYOUT_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Processing Fees",
+      "code": "LAYOUT_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT CLU Charges",
+      "code": "LAYOUT_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT External Development Charges",
+      "code": "LAYOUT_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Urban Development Cess",
+      "code": "LAYOUT_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Compounding fees",
+      "code": "LAYOUT_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Mining Charges",
+      "code": "LAYOUT_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Rain Water Harvesting Charges",
+      "code": "LAYOUT_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Clubbing Charges",
+      "code": "LAYOUT_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "layout",
+      "name": "LAYOUT Sub-Division Charges",
+      "code": "LAYOUT_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "Challan_Generation",
+      "name": "Challan Fine",
+      "code": "CH.CHALLAN_FINE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+
+
+
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "No Object Certificate Fee",
+      "code": "CLU",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Malwa fees",
+      "code": "CLU_MALBA_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Labour cess",
+      "code": "CLU_LABOUR_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Water fees",
+      "code": "CLU_WATER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Gaushala charge fees",
+      "code": "CLU_GAUSHALA_CHARGES_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU less adjustment plot",
+      "code": "CLU_LESS_ADJUSMENT_PLOT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Development fees",
+      "code": "CLU_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Other fees",
+      "code": "CLU_OTHER_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Processing Fees",
+      "code": "CLU_PROCESSING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU CLU Charges",
+      "code": "CLU_CLU_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU External Development Charges",
+      "code": "CLU_EXTERNAL_DEVELOPMENT_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Urban Development Cess",
+      "code": "CLU_URBAN_DEVELOPMENT_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Compounding fees",
+      "code": "CLU_COMPOUNDING_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Mining Charges",
+      "code": "CLU_MINING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Rain Water Harvesting Charges",
+      "code": "CLU_RAIN_WATER_HARVESTING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Clubbing Charges",
+      "code": "CLU_CLUBBING_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "clu",
+      "name": "CLU Sub-Division Charges",
+      "code": "CLU_SUB-DIVISION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": false
     }
   ]

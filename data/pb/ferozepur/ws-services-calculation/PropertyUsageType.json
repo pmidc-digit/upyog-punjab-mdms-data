@@ -1,6 +1,6 @@
 {
   "tenantId": "pb.ferozepur",
-  "moduleName": "ws-services-calculation",
+  "moduleName": "sw-services-calculation",
   "PropertyUsageType": [
     {
       "name": "Residential",
@@ -21,24 +21,24 @@
       "isActive": true
     },
     {
-      "name": "Mixed",
-      "code": "MIXED",
-      "unitCost" : 15,
-      "isActive": true
-    },
-	{
-      "name": "NonResidential",
-      "code": "NONRESIDENTIAL",
-      "unitCost" : 15,
-      "isActive": true
-    },
-	{
       "name": "Institutional",
       "code": "NONRESIDENTIAL.INSTITUTIONAL",
       "unitCost" : 15,
       "isActive": true
     },
-	{
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "unitCost" : 15,
+      "isActive": true
+    },
+	  {
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+	  {
      "name": "Other Commercial Usage",
       "code": "NONRESIDENTIAL.OTHERS",
       "unitCost" : 30,

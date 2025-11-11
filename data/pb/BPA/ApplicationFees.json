@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "ApplicationFees": [
+	{
+		"name": "Building Application Fees",
+		"rate": 2.5,
+		"taxHeadCode": "BPA_BUILDING_APPLICATION_FEES"
+	},
+	{
+		"name": "Boundary Wall Fees",
+		"rate": 2.5,
+		"taxHeadCode": "BPA_BOUNDARY_WALL_FEES"
+	}
+  ]
+}

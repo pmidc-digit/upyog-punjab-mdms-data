@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.bathinda",
+  "moduleName": "Advertisement",
+  "SecurityFee": [
+    {
+      "rate": 30,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": 600,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}

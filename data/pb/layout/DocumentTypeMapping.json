@@ -1,0 +1,78 @@
+{
+    "tenantId": "pb",
+    "moduleName": "LAYOUT",
+    "DocumentTypeMapping": [
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.FIRE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.FIRE",
+                    "required": true
+                }
+            ]
+        },
+
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.FIRE",
+                    "required": false
+                }
+            ]
+        },
+       {
+            "applicationType": "NEW",
+            "nocType": "OBPAS_NOC",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.OBPAS",
+                    "required": true
+                }
+            ]
+        },
+
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "LAYOUT.AIRPORT",
+                    "required": false
+                }
+            ]
+        }        
+    ]
+}

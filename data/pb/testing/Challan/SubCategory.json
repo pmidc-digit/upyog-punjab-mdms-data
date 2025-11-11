@@ -1,0 +1,72 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "Challan",
+  "SubCategory": [
+    {
+      "id": "SC101",
+      "name": "Loud Music After 10 PM",
+      "categoryId": "C10",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC102",
+      "name": "Construction Noise (Night)",
+      "categoryId": "C10",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC111",
+      "name": "Urinating in Public",
+      "categoryId": "C11",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC201",
+      "name": "Dumping Household Waste",
+      "categoryId": "C20",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC202",
+      "name": "Dumping Construction Debris",
+      "categoryId": "C20",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC211",
+      "name": "Spitting in Public",
+      "categoryId": "C21",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC212",
+      "name": "Throwing Wrappers/Bottles",
+      "categoryId": "C21",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC301",
+      "name": "Obstructing Public Footpath",
+      "categoryId": "C30",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC302",
+      "name": "Illegal Banners/Hoardings",
+      "categoryId": "C30",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC311",
+      "name": "Illegal Extension/Modification",
+      "categoryId": "C31",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "SC401",
+      "name": "Vending in Non-Designated Zone",
+      "categoryId": "C40",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    }
+  ]
+}

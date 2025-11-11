@@ -3,7 +3,7 @@
   "moduleName": "sw-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 0,
+      "formFee": 100,
       "securityDeposit": 0,
       "connectionFee":
       [
@@ -42,12 +42,6 @@
           "toPlotSize":"999999999",
           "connectionFee":"50",
           "usageType":"COMMERCIAL"
-        },
-        {
-          "fromPlotSize":"250",
-          "toPlotSize":"999999999",
-          "connectionFee":"50",
-          "usageType":"MIXED"
         },
         {
           "fromPlotSize":"0",

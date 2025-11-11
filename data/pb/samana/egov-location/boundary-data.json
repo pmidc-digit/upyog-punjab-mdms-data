@@ -1763,18 +1763,6 @@
                     "code": "SAM_22",
                     "area": "",
                     "children": []
-                  },
-                  {
-                    "id": "aa8addee-8443-489f-8eb2-4e91b9ae8ebb",
-                    "boundaryNum": 1,
-                    "name": "UNKNOWNAD - WardNo21",
-                    "localname": "UNKNOWNAD - WardNo21",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "UNKNOWNAD",
-                    "area": "",
-                    "children": []
                   }
                 ]
               }
@@ -4662,15 +4650,15 @@
                     "area": "AREA1",
                     "children": []
                   },
-                        {
-                    "id": "869e9a13-da54-4536-9se3e-fa7cba007a61",
+                    {
+                    "id": "860e9a13-da54-4536-9e3e-fa7cba007a61",
                     "boundaryNum": 1,
-                    "name": "UNKNOWN, SAMANA - B14 - A1",
-                    "localname": "UNKNOWN, SAMANA - B14 - A1",
+                    "name": "UNKNOWN - B14 - A1",
+                    "localname": "UNKNOWN - B14 - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "UNKNOWNAD",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

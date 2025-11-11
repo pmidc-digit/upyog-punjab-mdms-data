@@ -4070,66 +4070,7 @@
                     "children": []
                   }
                 ]
-              },
-              {
-                "id": "846713f7-8136-4172-8535-8e1e0f41a989",
-                "boundaryNum": 1,
-                "name": "Block 25",
-                "localname": "Block 25",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B25",
-                "children": [
-                  {
-                    "id": "5092de1c-3da8-4f04-896e-53110d2ab404",
-                    "boundaryNum": 1,
-                    "name": "Dev Nagar - B25 - A2",
-                    "localname": "Dev Nagar - B25 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RJ84",
-                    "area": "AREA2",
-                    "children": []
-                  },
-                  {
-                    "id": "fe4d3a8a-bff6-4d9e-b1f2-cb3bfd7f3dc3",
-                    "boundaryNum": 1,
-                    "name": "Bawa Nagar - B25 - A2",
-                    "localname": "Bawa Nagar - B25 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RJ85",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "138a7e04-1a3a-42bc-a78b-dd9b42ea822a",
-                "boundaryNum": 1,
-                "name": "Block 26",
-                "localname": "Block 26",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B26",
-                "children": [
-                  {
-                    "id": "498dd40f-ca82-41e2-bd7f-f9346dc0dba3",
-                    "boundaryNum": 1,
-                    "name": "Ekta Colony - B26 - A2",
-                    "localname": "Ekta Colony - B26 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "RJ86",
-                    "area": "AREA2",
-                    "children": []
-                  },
-                  {
+              },{
                     "id": "498dd40f-ca82-41e2-bd7f-f9346dc0poi3",
                     "boundaryNum": 1,
                     "name": "Arjan Nagar - B26 - A2",
@@ -4186,6 +4127,64 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RJ322",
+                    "area": "AREA2",
+                    "children": []
+                  },
+              {
+                "id": "846713f7-8136-4172-8535-8e1e0f41a989",
+                "boundaryNum": 1,
+                "name": "Block 25",
+                "localname": "Block 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B25",
+                "children": [
+                  {
+                    "id": "5092de1c-3da8-4f04-896e-53110d2ab404",
+                    "boundaryNum": 1,
+                    "name": "Dev Nagar - B25 - A2",
+                    "localname": "Dev Nagar - B25 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ84",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fe4d3a8a-bff6-4d9e-b1f2-cb3bfd7f3dc3",
+                    "boundaryNum": 1,
+                    "name": "Bawa Nagar - B25 - A2",
+                    "localname": "Bawa Nagar - B25 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ85",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "138a7e04-1a3a-42bc-a78b-dd9b42ea822a",
+                "boundaryNum": 1,
+                "name": "Block 26",
+                "localname": "Block 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B26",
+                "children": [
+                  {
+                    "id": "498dd40f-ca82-41e2-bd7f-f9346dc0dba3",
+                    "boundaryNum": 1,
+                    "name": "Ekta Colony - B26 - A2",
+                    "localname": "Ekta Colony - B26 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ86",
                     "area": "AREA2",
                     "children": []
                   }
@@ -4912,18 +4911,6 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RLC29",
-                    "area": "",
-                    "children": []
-                  },
-                  {
-                    "id": "aa3f17de-37a0-4ee4-b297-0ff467d35cbb",
-                    "boundaryNum": 1,
-                    "name": "UNKNOWNAD - Ward29",
-                    "localname": "UNKNOWNAD - Ward29",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
                   }

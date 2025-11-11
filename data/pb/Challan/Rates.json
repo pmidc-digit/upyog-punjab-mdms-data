@@ -1,0 +1,50 @@
+{
+  "tenantId": "pb",
+  "moduleName": "Challan",
+  "Rates": [
+  {
+    "subCategoryId": "SC101",
+    "amount": 500
+  },
+  {
+    "subCategoryId": "SC102",
+    "amount": 1500
+  },
+  {
+    "subCategoryId": "SC111",
+    "amount": 200
+  },
+  {
+    "subCategoryId": "SC201",
+    "amount": 1000
+  },
+  {
+    "subCategoryId": "SC202",
+    "amount": 3000
+  },
+  {
+    "subCategoryId": "SC211",
+    "amount": 150
+  },
+  {
+    "subCategoryId": "SC212",
+    "amount": 100
+  },
+  {
+    "subCategoryId": "SC301",
+    "amount": 750
+  },
+  {
+    "subCategoryId": "SC302",
+    "amount": 300
+  },
+  {
+    "subCategoryId": "SC311",
+    "amount": 5000
+  },
+  {
+    "subCategoryId": "SC401",
+    "amount": 250
+  }
+]
+}

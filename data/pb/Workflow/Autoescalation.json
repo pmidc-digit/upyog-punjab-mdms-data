@@ -32,6 +32,30 @@
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic": "tl-auto-escalation"
-      }   
+      },
+      {
+        "businessService": "BPA_LOW",
+        "module": "bpa-service",
+		"startSlaState": "DOC_VERIFICATION_PENDING",
+        "state": "INSPECTION_PENDING",
+        "action": "SENDFORAPPROVAL",
+        "active": "true",
+        "stateSLA": 86400000,
+        "businessSLA": null,
+        "topic" : "bpa-auto-escalation",
+		"comment": "Auto Send For Verification."
+      },
+	  {
+	    "businessService": "BPA_LOW",
+	    "module": "bpa-service",
+	    "startSlaState": "DOC_VERIFICATION_PENDING",
+	    "state": "DOC_VERIFICATION_PENDING,PENDINGAPPROVAL,PULLED_BACK",
+	    "action": "VERIFY",
+	    "active": "true",
+	    "stateSLA": 172800000,
+	    "businessSLA": null,
+	    "topic" : "bpa-auto-escalation",
+		"comment": "Auto Verified."
+	  }
     ]
   }

@@ -1,0 +1,15 @@
+{
+    "tenantId": "pb",
+    "moduleName": "Workflow",
+    "BusinessServiceConfig": [
+      {
+        "code": "BPA",
+        "isStateLevel": true
+      },
+      {
+        "code": "NEWTL",
+        "isStateLevel": true
+      }
+    ]
+  }
+  

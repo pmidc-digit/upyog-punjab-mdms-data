@@ -1,0 +1,14 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "testing",
+    "PaymentGateway": [
+        {
+            "gateway": "RAZORPAY",
+            "active": true
+        },
+        {
+            "gateway": "HDFC",
+            "active": true
+        }
+    ]
+}

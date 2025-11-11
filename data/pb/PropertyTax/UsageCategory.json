@@ -493,7 +493,20 @@
       "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.MUNICIPALPROPERTY",
       "active": true,
       "fromFY": "2015-16"
+    },
+     {
+      "name": "Service Stations & Ahatas",
+      "code": "NONRESIDENTIAL.COMMERCIAL.AHATAS.AHATAS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+	
+   {
+      "name": "Service Stations & Ahatas",
+      "code": "NONRESIDENTIAL.COMMERCIAL.AHATAS",
+      "usageCategoryMinor": "COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16"
     }
-
   ]
 }
