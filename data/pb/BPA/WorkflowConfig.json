@@ -1,0 +1,111 @@
+{
+	"tenantId": "pb",
+	"moduleName": "BPA",
+	"WorkflowConfig": [
+		{
+			"ulbType": [
+				"Municipal Corporation"
+			],
+			"occupancyTypes": [
+				"A",
+				"B",
+				"C",
+				"D",
+				"E",
+				"F",
+				"G",
+				"H",
+				"I"
+			],
+			"minArea": 0,
+			"maxArea": 500,
+			"businessService": "BPA_MC"
+		},
+		{
+			"ulbType": [
+				"Nagar Panchayat",
+				"Muncipal Council"
+			],
+			"occupancyTypes": [
+				"A",
+				"B",
+				"C",
+				"D",
+				"E",
+				"F",
+				"G",
+				"H",
+				"I"
+			],
+			"minArea": 0,
+			"maxArea": 500,
+			"businessService": "BPA_NP"
+		},
+		{
+			"ulbType": [
+				"Municipal Corporation"
+			],
+			"occupancyTypes": [
+				"A",
+				"B",
+				"C",
+				"D",
+				"E",
+				"F",
+				"G",
+				"H",
+				"I"
+			],
+			"minArea": 500.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_MC_HIGH"
+		},
+		{
+			"ulbType": [
+				"Nagar Panchayat",
+				"Muncipal Council"
+			],
+			"occupancyTypes": [
+				"A",
+				"B",
+				"C",
+				"D",
+				"E",
+				"F",
+				"G",
+				"H",
+				"I"
+			],
+			"minArea": 500.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_NP_HIGH"
+		},
+		{
+			"ulbType": [
+				"Municipal Corporation"
+			],
+			"occupancyTypes": [
+				"J",
+				"K",
+				"L"
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_MC_OTH"
+		},
+		{
+			"ulbType": [
+				"Nagar Panchayat",
+				"Muncipal Council"
+			],
+			"occupancyTypes": [
+				"J",
+				"K",
+				"L"
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_NP_OTH"
+		}
+	]
+}

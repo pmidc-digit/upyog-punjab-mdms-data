@@ -47,6 +47,13 @@
 		}
 	},
 	"BPA": {
+		"WorkflowConfig": {
+			"masterName": "WorkflowConfig",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$businessService"
+			]
+		},
 		"BuildingHeight": {
 			"masterName": "BuildingHeight",
 			"isStateLevel": true,
