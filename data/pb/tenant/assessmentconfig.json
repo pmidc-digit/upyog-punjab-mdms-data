@@ -4491,12 +4491,14 @@
       "financialyear": "2025-26",
       "isRented": false
     },
-
-
-	  
-	  
 	{
       "tenant": "pb.amritsar",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kapurthala",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
