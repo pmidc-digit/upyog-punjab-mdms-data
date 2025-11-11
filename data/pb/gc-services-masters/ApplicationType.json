@@ -1,0 +1,25 @@
+{
+    "tenantId": "pb",
+    "moduleName": "gc-services-masters",
+    "ApplicationType": [
+      {
+        "id": 1,
+        "code": "NEW_GARBAGE_CONNECTION",
+        "name": "New Garbage Connection",
+        "businessService": "NewGC"
+      },
+      {
+        "id": 2,
+        "code": "MODIFY_GARBAGE_CONNECTION",
+        "name": "Modify Garbage Connection",
+        "businessService":"ModifyGCConnection"
+      },
+
+      {
+        "id": 3,
+        "code": "DISCONNECT_GARBAGE_CONNECTION",
+        "name": "Disconnect Garbage Connection",
+        "businessService":"DisconnectGCConnection"
+      }
+    ]
+  } 

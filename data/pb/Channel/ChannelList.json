@@ -1363,8 +1363,8 @@
       ]
     },
     {
-      "businessService": "WSReconnection",
-      "module": "WS.CREATE",
+      "businessService": "GCReconnection",
+      "module": "GC.CREATE",
       "action": "ACTIVATE_CONNECTION",
       "channelNames": [
         "SMS",
@@ -1373,9 +1373,260 @@
       ]
     },
     {
-      "businessService": "DisconnectWSConnection",
-      "module": "WS.CREATE",
+      "businessService": "DisconnectGCConnection",
+      "module": "GC.CREATE",
       "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "INITIATE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "ACTIVATE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "CANCEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "PAY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "APPROVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "EXECUTE_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_TO_CITIZEN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_TO_CITIZEN_FI",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_TO_CITIZEN_AP",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "INACTIVE_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "RESUBMIT_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "MODIFY_APPLICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "VERIFY_AND_FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "APPROVE_FOR_CONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "APPROVE_FOR_DISCONNECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_FOR_FIELD_INSPECTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "PENDING_FOR_CITIZEN_ACTION",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "SEND_BACK_FOR_DO",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "DEMAND",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "GC.CREATE",
+      "module": "GC",
+      "action": "BILL",
       "channelNames": [
         "SMS",
         "EMAIL",
