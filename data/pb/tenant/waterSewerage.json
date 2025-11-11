@@ -260,7 +260,7 @@
     {
       "code": "pb.khanna",
       "name": "Khanna",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.kharar",
@@ -290,7 +290,7 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.mamdot",
@@ -300,12 +300,12 @@
     {
       "code": "pb.moga",
       "name": "Moga",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.morinda",
       "name": "Morinda",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mudki",
@@ -326,6 +326,11 @@
       "code": "pb.nihalsinghwala",
       "name": "Nihalsinghwala",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.nabha",
+      "name": "Nabha",
+      "isautodemand": "true"
     },
     {
       "code": "pb.patiala",
@@ -370,7 +375,7 @@
     {
       "code": "pb.rayya",
       "name": "Rayya",
-      "isautodemand": "ture"
+      "isautodemand": "true"
     },
     {
       "code": "pb.samrala",
