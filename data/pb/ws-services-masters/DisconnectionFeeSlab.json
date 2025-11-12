@@ -3,7 +3,7 @@
     "moduleName": "ws-services-calculation",
     "DisconnectionFeeSlab": [
       {
-        "applicationFee": 0,
+        "applicationFee": 1000,
         "isActive": true
       }
     ]
