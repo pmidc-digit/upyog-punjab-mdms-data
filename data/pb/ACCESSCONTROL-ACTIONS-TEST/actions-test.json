@@ -22880,7 +22880,7 @@
       "id": 23382,
       "name": "UC_MY_CHALLANS",
       "url": "digit-ui-card",
-      "displayName": "My Challans",
+      "displayName": "Challan Generation",
       "orderNumber": 1,
       "parentModule": "ChallanGeneration",
       "enabled": true,
@@ -23982,8 +23982,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900915,
       "name": "PT_FAQ_S",
       "url": "mseva-ui-card",
@@ -24000,8 +24000,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900916,
       "name": "PT_MY_PAYMENTS",
       "url": "mseva-ui-card",
@@ -24018,8 +24018,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900917,
       "name": "PT_SEARCH_AND_PAY",
       "url": "mseva-ui-card",
@@ -24036,8 +24036,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/commonpt-home"
-  },
-  {
+    },
+    {
       "id": 8900918,
       "name": "PT_CREATE_PROPERTY",
       "url": "mseva-ui-card",
@@ -24054,8 +24054,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/commonpt-home"
-  },
-  {
+    },
+    {
       "id": 8900919,
       "name": "Layout Collection Search Reciept",
       "url": "/collection-services/payments/layout/_search",
@@ -24065,8 +24065,8 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
-  },
-  {
+    },
+    {
       "id": 8900920,
       "name": "PT_MY_PROPERTIES",
       "url": "mseva-ui-card",
@@ -24083,8 +24083,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900921,
       "name": "PT_PROPERTY_MUTATION",
       "url": "mseva-ui-card",
@@ -24101,8 +24101,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900922,
       "name": "PT_SEARCH_AND_PAY",
       "url": "mseva-ui-card",
@@ -24119,8 +24119,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900923,
       "name": "PT_CREATE_PROPERTY",
       "url": "mseva-ui-card",
@@ -24137,8 +24137,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-  {
+    },
+    {
       "id": 8900924,
       "name": "PT_MY_APPLICATION",
       "url": "mseva-ui-card",
@@ -24155,8 +24155,8 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
-  },
-   {
+    },
+    {
       "id": 8900925,
       "name": "ACTION_TEST_WNS_MY_BILLS",
       "url": "mseva-ui-card",
