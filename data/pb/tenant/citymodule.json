@@ -4982,7 +4982,21 @@
         }
       ]
     },
-
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "access": "VIEW_PAYMENT_CARD",
+      "order": 9,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
+    },
     {
       "module": "BR",
       "code": "BR",
