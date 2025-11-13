@@ -7597,6 +7597,21 @@
           "code": "pb.ferozepurpwssb"
         }
       ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "access": "VIEW_PAYMENT_CARD",
+      "order": 26,
+      "tenants": [
+        {
+          "code": "pb.testing"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
     }
   ]
 }
