@@ -3,6 +3,11 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
 	{
+      "code": "CHB REPORTS",
+      "name": "CHB REPORTS",
+      "description": "Access to all Community Hall Booking Reports"
+    },
+	{
       "code": "PET REPORTS",
       "name": "PET REPORTS",
       "description": "Access to all Pet Service Reports"
