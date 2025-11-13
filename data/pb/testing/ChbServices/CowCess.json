@@ -1,0 +1,166 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "CHB",
+    "CowCess": [
+      {
+        "1": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 0,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "2": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "3": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "4": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "5": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "6": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "7": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "8": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "9": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      },
+      {
+        "10": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 2.5,
+            "flatAmount": 1000,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      }
+    ]
+  }

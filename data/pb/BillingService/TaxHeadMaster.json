@@ -7634,6 +7634,16 @@
       "order": 8,
       "isRequired": false
     },
+    {
+      "category": "FEE",
+      "service": "chb-services",
+      "name": "CHB_COW_CESS",
+      "code": "CHB_COW_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
 	{
 	  "category": "FEE",
 	  "service": "BPA.NC_SAN_FEE",
