@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.nangal",
   "moduleName": "CHB",
     "CowCess": [
       {
@@ -23,7 +23,7 @@
           {
             "feeType": "CHB_COW_CESS",
             "rate": 0,
-            "flatAmount": 1000,
+            "flatAmount": 500,
             "minAmount": null,
             "maxAmount": null,
             "fromFY": "2025-26",
@@ -55,7 +55,7 @@
           {
             "feeType": "CHB_COW_CESS",
             "rate": 0,
-            "flatAmount": 1000,
+            "flatAmount": 500,
             "minAmount": null,
             "maxAmount": null,
             "fromFY": "2025-26",
@@ -71,7 +71,7 @@
           {
             "feeType": "CHB_COW_CESS",
             "rate": 0,
-            "flatAmount": 1000,
+            "flatAmount": 500,
             "minAmount": null,
             "maxAmount": null,
             "fromFY": "2025-26",
@@ -87,71 +87,7 @@
           {
             "feeType": "CHB_COW_CESS",
             "rate": 0,
-            "flatAmount": 1000,
-            "minAmount": null,
-            "maxAmount": null,
-            "fromFY": "2025-26",
-            "applicableAfterDays": "0",
-            "active": true,
-            "taxApplicable": false,
-            "refundable": false
-          }
-        ]
-      },
-      {
-        "7": [
-          {
-            "feeType": "CHB_COW_CESS",
-            "rate": 0,
-            "flatAmount": 1000,
-            "minAmount": null,
-            "maxAmount": null,
-            "fromFY": "2025-26",
-            "applicableAfterDays": "0",
-            "active": true,
-            "taxApplicable": false,
-            "refundable": false
-          }
-        ]
-      },
-      {
-        "8": [
-          {
-            "feeType": "CHB_COW_CESS",
-            "rate": 0,
-            "flatAmount": 1000,
-            "minAmount": null,
-            "maxAmount": null,
-            "fromFY": "2025-26",
-            "applicableAfterDays": "0",
-            "active": true,
-            "taxApplicable": false,
-            "refundable": false
-          }
-        ]
-      },
-      {
-        "9": [
-          {
-            "feeType": "CHB_COW_CESS",
-            "rate": 0,
-            "flatAmount": 1000,
-            "minAmount": null,
-            "maxAmount": null,
-            "fromFY": "2025-26",
-            "applicableAfterDays": "0",
-            "active": true,
-            "taxApplicable": false,
-            "refundable": false
-          }
-        ]
-      },
-      {
-        "10": [
-          {
-            "feeType": "CHB_COW_CESS",
-            "rate": 0,
-            "flatAmount": 1000,
+            "flatAmount": 500,
             "minAmount": null,
             "maxAmount": null,
             "fromFY": "2025-26",
