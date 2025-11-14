@@ -1184,6 +1184,18 @@
 			"uniqueKeys": []
 		}
 	},
+  "NDC": {
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Reasons": {
+      "masterName": "Reasons",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
 	"noc": {
 		"NocFee": {
 			"masterName": "NocFee",
