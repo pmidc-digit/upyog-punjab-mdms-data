@@ -542,6 +542,16 @@
       "code": "VIEW_PTR_CARD",
       "name": "View PTR Card",
       "description": "For PTR Card Display in Dashboard"
+    },
+    {
+      "code": "ADV REPORTS",
+      "name": "ADV REPORTS",
+      "description": "Access to all Advertisement And Hoarding Reports"
+    },
+	  {
+      "code": "CHB REPORTS",
+      "name": "CHB REPORTS",
+      "description": "Access to all Community Hall Booking Reports"
     }
   ]
 }
