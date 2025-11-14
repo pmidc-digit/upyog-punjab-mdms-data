@@ -24299,6 +24299,102 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/ws-home"
+    },
+    {
+      "id": 882433,
+      "name": "CHB Reports",
+      "url": "/report/rainmaker-chb/_get",
+      "displayName": "CHB Reports",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": "CHB Reports"
+    },
+    {
+      "id": 882434,
+      "name": "CHB Reports",
+      "url": "/report/rainmaker-chb/metadata/_get",
+      "displayName": "CHB Reports",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": "CHB Reports"
+    },
+    {
+      "id": 882435,
+      "name": "Timely Booking Report",
+      "url": "url",
+      "displayName": "Timely Booking Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHB REPORTS",
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "path": "CHB Reports.Timely Booking Report",
+      "navigationURL": "report/rainmaker-chb/TimelyBookingReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882436,
+      "name": "Timely Booking Report",
+      "url": "/report/rainmaker-chb/TimelyBookingReport/metadata/_get",
+      "displayName": "Timely Booking Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882487,
+      "name": "Timely Booking Report",
+      "url": "/report/rainmaker-chb/TimelyBookingReport/_get",
+      "displayName": "Timely Booking Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882438,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "CHB REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "CHB Reports.Collection Report",
+      "navigationURL": "report/rainmaker-chb/CollectionsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882439,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-chb/CollectionsReport/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882489,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-chb/CollectionsReport/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "CHBREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
