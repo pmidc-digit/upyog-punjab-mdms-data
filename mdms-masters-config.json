@@ -1196,6 +1196,13 @@
       "uniqueKeys": []
     }
   },
+  "PAYMENT": {
+    "PaymentGateway": {
+      "masterName": "PaymentGateway",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
 	"noc": {
 		"NocFee": {
 			"masterName": "NocFee",

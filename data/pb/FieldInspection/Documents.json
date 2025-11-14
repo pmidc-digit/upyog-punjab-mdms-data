@@ -1,0 +1,38 @@
+{
+  "tenantId": "pb",
+  "moduleName": "FieldInspection",
+  "Documents": [
+    {
+      "code": "SITE_IMAGE_1",
+      "documentType": "IMAGE",
+      "required": true,
+      "active": true,
+      "description": "Site Image 1",
+      "maxSizeMB": 2
+    },
+    {
+      "code": "SITE_IMAGE_2",
+      "documentType": "IMAGE",
+      "required": true,
+      "active": true,
+      "description": "Site Image 2",
+      "maxSizeMB": 2
+    },
+    {
+      "code": "SITE_IMAGE_3",
+      "documentType": "IMAGE",
+      "required": true,
+      "active": true,
+      "description": "Site Image 3",
+      "maxSizeMB": 2
+    },
+    {
+      "code": "SITE_IMAGE_4",
+      "documentType": "IMAGE",
+      "required": true,
+      "active": true,
+      "description": "Site Image 4",
+      "maxSizeMB": 2
+    }
+  ]
+}
