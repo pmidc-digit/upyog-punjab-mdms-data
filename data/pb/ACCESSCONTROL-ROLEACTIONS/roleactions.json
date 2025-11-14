@@ -30843,6 +30843,18 @@
       "actionid": 8900910,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 5560,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 5560,
+      "actioncode": "",
+      "tenantId": "pb"
+    }    
   ]
 }
