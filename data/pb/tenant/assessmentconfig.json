@@ -4499,6 +4499,12 @@
     },
 	{
       "tenant": "pb.kapurthala",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.phagwara",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false

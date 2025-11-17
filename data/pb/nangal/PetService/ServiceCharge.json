@@ -1,12 +1,11 @@
 {
-  "tenantId": "pb.testing",
+  "tenantId": "pb.nangal",
   "moduleName": "PetService",
-  "InterestAmount": [
+  "ServiceCharge": [
     {
       "rate": null,
       "minAmount": null,
-      "applicableAfterDays":0,
-      "flatAmount": 0,
+      "flatAmount": 200,
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",

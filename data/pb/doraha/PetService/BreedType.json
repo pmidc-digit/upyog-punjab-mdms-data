@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.bathinda",
+  "tenantId": "pb.doraha",
   "moduleName": "PetService",
   "BreedType": [
     {
@@ -7,8 +7,8 @@
       "code": "LABRADOR_RETRIEVER",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -16,8 +16,8 @@
       "code": "GERMAN_SHEPHERD",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -25,8 +25,8 @@
       "code": "GOLDEN_RETRIEVER",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -34,8 +34,8 @@
       "code": "BEAGLE",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -43,8 +43,8 @@
       "code": "POMERANIAN",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -52,8 +52,8 @@
       "code": "SHIH_TZU",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -61,8 +61,8 @@
       "code": "PUG",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -70,8 +70,8 @@
       "code": "FRENCH_BULLDOG",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -79,8 +79,8 @@
       "code": "SIBERIAN_HUSKY",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -88,8 +88,8 @@
       "code": "ALASKAN_HUSKY",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -97,8 +97,8 @@
       "code": "AMERICAN_BULLY",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -106,8 +106,8 @@
       "code": "GERMAN_SHORT_HAIRED_POINTER",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -115,8 +115,8 @@
       "code": "STAFFORDSHIRE_BULL_TERRIER",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -124,8 +124,8 @@
       "code": "GREAT_DANE",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -133,8 +133,8 @@
       "code": "INDIAN_PARIAH_DOG",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -142,8 +142,8 @@
       "code": "GULL_TERRIER",
       "active": true,
       "petType": "DOG",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -151,8 +151,8 @@
       "code": "INDIAN_BILLI_DESI",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -160,8 +160,8 @@
       "code": "BENGAL_CAT",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -169,8 +169,8 @@
       "code": "SIAMESE",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -178,8 +178,8 @@
       "code": "BOMBAY_CAT",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -187,8 +187,8 @@
       "code": "ABYSSINIAN",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -196,8 +196,8 @@
       "code": "ORIENTAL_SHORTHAIR",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -205,8 +205,8 @@
       "code": "EGYPTIAN_MAU",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -214,8 +214,8 @@
       "code": "AMERICAN_SHORTHAIR",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -223,8 +223,8 @@
       "code": "RUSSIAN_BLUE",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -232,8 +232,8 @@
       "code": "DEVON_REX",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -241,8 +241,8 @@
       "code": "PERSIAN",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -250,8 +250,8 @@
       "code": "HIMALAYAN",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -259,8 +259,8 @@
       "code": "MAINE_COON",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -268,8 +268,8 @@
       "code": "BRITISH_SHORTHAIR",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -277,8 +277,8 @@
       "code": "RAGDOLL",
       "active": true,
       "petType": "CAT",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -286,8 +286,8 @@
       "code": "LOVE_BIRDS",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -295,8 +295,8 @@
       "code": "BUDGERIGAR_BUDGIES",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -304,8 +304,8 @@
       "code": "COCKATIEL",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -313,8 +313,8 @@
       "code": "ZEBRA_FINCH",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -322,8 +322,8 @@
       "code": "CONURE",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -331,8 +331,8 @@
       "code": "DOVE",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -340,8 +340,8 @@
       "code": "MACAW",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -349,8 +349,8 @@
       "code": "PARROTLET",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -358,8 +358,8 @@
       "code": "CANARY",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -367,8 +367,8 @@
       "code": "GOLDEN_PHEASANT",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -376,8 +376,8 @@
       "code": "RAINBOW_LORIKEET",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -385,8 +385,8 @@
       "code": "PALM_COCKATOO",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
@@ -394,8 +394,8 @@
       "code": "TOUCAN",
       "active": true,
       "petType": "BIRD",
-      "newapplication": 200,
-      "renewapplication": 100,
+      "newapplication": 1000,
+      "renewapplication": 1000,
       "feeType": "PET_REGISTRATION_FEE"
     }
   ]

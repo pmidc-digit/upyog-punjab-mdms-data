@@ -29497,6 +29497,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 30000001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "NDCCEMP",
       "actionid": 30000002,
       "actioncode": "",
@@ -29963,7 +29969,19 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 30000004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "NDC_APPROVER",
+      "actionid": 31000010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 31000010,
       "actioncode": "",
       "tenantId": "pb"
@@ -30823,6 +30841,198 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 8900910,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 5560,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 5560,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882480,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882481,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882482,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882483,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882484,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882485,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882486,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882487,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882488,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882489,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV REPORTS",
+      "actionid": 882490,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882440,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882439,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882438,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882437,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882436,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882435,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882434,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB REPORTS",
+      "actionid": 882433,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882494,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882495,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882493,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882496,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882497,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882498,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882499,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882500,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882501,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882502,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PET REPORTS",
+      "actionid": 882503,
       "actioncode": "",
       "tenantId": "pb"
     }

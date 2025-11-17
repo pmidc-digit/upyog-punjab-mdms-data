@@ -43,21 +43,6 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.kurali",
-      "name": "Kurali",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.ropar",
-      "name": "Ropar",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.derabassi",
-      "name": "Derabassi",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.anandpursahib",
       "name": "Anandpursahib",
       "isautodemand": "false"
@@ -65,11 +50,6 @@
     {
       "code": "pb.arniwala",
       "name": "Arniwala",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.banur",
-      "name": "Banur",
       "isautodemand": "false"
     },
     {
@@ -88,6 +68,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.banur",
+      "name": "Banur",
+      "isautodemand": "false"
+    },
+    {
       "code": "pb.barnala",
       "name": "Barnala",
       "isautodemand": "false"
@@ -103,13 +88,18 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.bassipathana",
+      "name": "Bassipathana",
+      "isautodemand": "false"
+    },
+    {
       "code": "pb.bathinda",
       "name": "Bathinda",
       "isautodemand": "false"
     },
     {
-      "code": "pb.bassipathana",
-      "name": "Bassipathana",
+      "code": "pb.batala",
+      "name": "Batala",
       "isautodemand": "false"
     },
     {
@@ -120,11 +110,6 @@
     {
       "code": "pb.bhadaur",
       "name": "Bhadaur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.batala",
-      "name": "Batala",
       "isautodemand": "false"
     },
     {
@@ -178,6 +163,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.dhariwal",
+      "name": "Dhariwal",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
       "isautodemand": "false"
@@ -190,6 +180,11 @@
     {
       "code": "pb.doraha",
       "name": "Doraha",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.derabassi",
+      "name": "Derabassi",
       "isautodemand": "false"
     },
     {
@@ -260,11 +255,16 @@
     {
       "code": "pb.khanna",
       "name": "Khanna",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.kharar",
       "name": "Kharar",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.kurali",
+      "name": "Kurali",
       "isautodemand": "false"
     },
     {
@@ -318,6 +318,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.nabha",
+      "name": "Nabha",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.nangal",
       "name": "Nangal",
       "isautodemand": "false"
@@ -328,9 +333,9 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.nabha",
-      "name": "Nabha",
-      "isautodemand": "true"
+      "code": "pb.nurmahal",
+      "name": "Nurmahal",
+      "isautodemand": "false"
     },
     {
       "code": "pb.patiala",
@@ -378,13 +383,23 @@
       "isautodemand": "true"
     },
     {
-      "code": "pb.samrala",
-      "name": "Samrala",
+      "code": "pb.ropar",
+      "name": "Ropar",
       "isautodemand": "false"
     },
     {
       "code": "pb.sahnewal",
       "name": "Sahnewal",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.samrala",
+      "name": "Samrala",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.sanaur",
+      "name": "Sanaur",
       "isautodemand": "false"
     },
     {
@@ -428,23 +443,13 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.sanaur",
-      "name": "Sanaur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.zirakpur",
-      "name": "Zirakpur",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.zira",
       "name": "Zira",
       "isautodemand": "false"
     },
     {
-      "code": "pb.nurmahal",
-      "name": "Nurmahal",
+      "code": "pb.zirakpur",
+      "name": "Zirakpur",
       "isautodemand": "false"
     }
   ]
