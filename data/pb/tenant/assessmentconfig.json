@@ -4505,6 +4505,12 @@
     },
 	{
       "tenant": "pb.phagwara",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.pathankot",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
