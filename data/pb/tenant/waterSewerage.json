@@ -20,7 +20,7 @@
     {
       "code": "pb.ajnala",
       "name": "Ajnala",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.alawalpur",
@@ -140,7 +140,7 @@
     {
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhulath",
@@ -165,7 +165,7 @@
     {
       "code": "pb.dhariwal",
       "name": "Dhariwal",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.dhilwan",
@@ -265,7 +265,7 @@
     {
       "code": "pb.kurali",
       "name": "Kurali",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.lehragaga",
@@ -290,7 +290,7 @@
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.mamdot",
@@ -320,7 +320,7 @@
     {
       "code": "pb.nabha",
       "name": "Nabha",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.nangal",
@@ -350,12 +350,12 @@
     {
       "code": "pb.phagwara",
       "name": "Phagwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.phillaur",
       "name": "Phillaur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.quadian",
@@ -380,7 +380,7 @@
     {
       "code": "pb.rayya",
       "name": "Rayya",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ropar",
@@ -448,9 +448,12 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.zirakpur",
-      "name": "Zirakpur",
-      "isautodemand": "false"
+  "code": "pb.zirakpur",
+  "name": "Zirakpur",
+  "isautodemand": "false"
+    
+    
     }
   ]
 }
+
