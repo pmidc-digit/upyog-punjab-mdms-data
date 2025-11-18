@@ -624,6 +624,11 @@
       "description": "For NOC Card Display in Dashboard"
     },
     {
+      "code": "VIEW_CLU_CARD",
+      "name": "View CLU Card",
+      "description": "For CLU Card Display in Dashboard"
+    },
+    {
       "code": "VIEW_PT_CARD",
       "name": "View PT Card",
       "description": "For PT Card Display in Dashboard"
