@@ -1540,15 +1540,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Nakodar",
-        "localname": "Nakodar",
+        "name": "nakodar",
+        "localname": "nakodar",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.nakodar",
         "children": [
           {
-            "id": "bd03547d-cc8e-45fc-b703-23f5cb0bc593",
+            "id": "35c7bd65-060c-4a38-83d3-13546bfb7a51",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -1558,7 +1558,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "cd7c01cc-558e-4698-be8e-5f5d92973445",
+                "id": "3f2028f8-0617-40a1-b818-f2d3461a570d",
                 "boundaryNum": 1,
                 "name": "WARD_1",
                 "localname": "WARD_1",
@@ -1568,7 +1568,7 @@
                 "code": "W1",
                 "children": [
                   {
-                    "id": "2d8301e1-a76c-43ff-9118-d10cc12e9384",
+                    "id": "86372d45-a0ef-4045-aff7-436b59458edf",
                     "boundaryNum": 1,
                     "name": "GOLDEN AVENUE - W1 - A1",
                     "localname": "GOLDEN AVENUE - W1 - A1",
@@ -1580,7 +1580,7 @@
                     "children": []
                   },
                   {
-                    "id": "49a231ef-dd3a-4773-9786-a54df14fc8fa",
+                    "id": "b3b02049-58bd-4858-b225-a6bb4fd103ad",
                     "boundaryNum": 1,
                     "name": "ARJUN NAGAR - W1 - A1",
                     "localname": "ARJUN NAGAR - W1 - A1",
@@ -1592,7 +1592,7 @@
                     "children": []
                   },
                   {
-                    "id": "7feee932-eb2a-4752-b2da-08452b1bfca8",
+                    "id": "f7d01fd8-236a-4748-b6a1-b4974880237c",
                     "boundaryNum": 1,
                     "name": "JALANDHAR ROAD - W1 - A1",
                     "localname": "JALANDHAR ROAD - W1 - A1",
@@ -1604,7 +1604,7 @@
                     "children": []
                   },
                   {
-                    "id": "ad609cd2-eed7-4f0f-b106-8e2b445486f5",
+                    "id": "1aa83cd8-2f94-4dd9-9533-058fd295d639",
                     "boundaryNum": 1,
                     "name": "PALAM VIHAR - W1 - A1",
                     "localname": "PALAM VIHAR - W1 - A1",
@@ -1616,7 +1616,7 @@
                     "children": []
                   },
                   {
-                    "id": "99e0d738-79a3-4d48-a54d-5b4de8dfd8b6",
+                    "id": "b66dfc0f-5f15-415e-a677-aa0c42221b48",
                     "boundaryNum": 1,
                     "name": "AMARDASS COLONY - W1 - A1",
                     "localname": "AMARDASS COLONY - W1 - A1",
@@ -1628,7 +1628,7 @@
                     "children": []
                   },
                   {
-                    "id": "3787e7eb-7c8e-4866-9e37-55bf47fc9309",
+                    "id": "a884e090-2ff8-46bd-9fca-0b1d88b13801",
                     "boundaryNum": 1,
                     "name": "GARDEN COLONY - W1 - A1",
                     "localname": "GARDEN COLONY - W1 - A1",
@@ -1640,7 +1640,7 @@
                     "children": []
                   },
                   {
-                    "id": "fcce133f-ab31-408f-a9bc-b9dbc2a33c8e",
+                    "id": "98803f85-b341-429d-b88d-cdca2574365b",
                     "boundaryNum": 1,
                     "name": "BUS STAND - W1 - A1",
                     "localname": "BUS STAND - W1 - A1",
@@ -1652,7 +1652,7 @@
                     "children": []
                   },
                   {
-                    "id": "0bac2f6f-783f-4c98-879e-9a0f429572bd",
+                    "id": "530fabf1-b7ea-4a38-857a-9ce9680e76b4",
                     "boundaryNum": 1,
                     "name": "BHALLA ENCLAVE - W1 - A1",
                     "localname": "BHALLA ENCLAVE - W1 - A1",
@@ -1664,7 +1664,7 @@
                     "children": []
                   },
                   {
-                    "id": "1b40b8a4-f141-4394-81cd-cf739c7f2389",
+                    "id": "efcddd76-6918-4035-a59e-dda87376ea81",
                     "boundaryNum": 1,
                     "name": "MOHALLA MUNARA - W1 - A1",
                     "localname": "MOHALLA MUNARA - W1 - A1",
@@ -1678,7 +1678,7 @@
                 ]
               },
               {
-                "id": "9ea7931e-aba2-4872-8e65-0a9bd3919475",
+                "id": "fe906d51-7b6c-45a7-8091-84b10985779f",
                 "boundaryNum": 1,
                 "name": "WARD_2",
                 "localname": "WARD_2",
@@ -1688,7 +1688,7 @@
                 "code": "W2",
                 "children": [
                   {
-                    "id": "467292aa-836b-4b9c-adb0-885a24ba8d26",
+                    "id": "dcda16e9-652e-4c86-9858-4b98ea413268",
                     "boundaryNum": 1,
                     "name": "MALRI ROAD - W2 - A1",
                     "localname": "MALRI ROAD - W2 - A1",
@@ -1700,7 +1700,7 @@
                     "children": []
                   },
                   {
-                    "id": "abfc1f7e-cea7-4abf-96ee-ffb6b6457b8e",
+                    "id": "0e6dcb93-deb7-4c96-a412-0b09366e41e5",
                     "boundaryNum": 1,
                     "name": "KAMALPURA - W2 - A2",
                     "localname": "KAMALPURA - W2 - A2",
@@ -1712,7 +1712,7 @@
                     "children": []
                   },
                   {
-                    "id": "7a2042f8-6d96-4abb-aadf-5684a4755835",
+                    "id": "35ebaab0-4ceb-4e29-8526-ee8f0bab620c",
                     "boundaryNum": 1,
                     "name": "INDRA COLONY - W2 - A2",
                     "localname": "INDRA COLONY - W2 - A2",
@@ -1724,7 +1724,7 @@
                     "children": []
                   },
                   {
-                    "id": "2ae2552f-194a-4223-ab60-44694d41c582",
+                    "id": "692af974-1705-4b1b-a707-467842ba5a9d",
                     "boundaryNum": 1,
                     "name": "OLD CIVIL COURT ROAD - W2 - A1",
                     "localname": "OLD CIVIL COURT ROAD - W2 - A1",
@@ -1736,7 +1736,7 @@
                     "children": []
                   },
                   {
-                    "id": "b2057bc6-9ce4-444a-85f3-4dc829f79bee",
+                    "id": "55a8d339-4703-4432-870e-adb09d519319",
                     "boundaryNum": 1,
                     "name": "HOSPITAL ROAD - W2 - A1",
                     "localname": "HOSPITAL ROAD - W2 - A1",
@@ -1748,7 +1748,7 @@
                     "children": []
                   },
                   {
-                    "id": "ff3fdad2-1918-4089-ad23-15f74f077842",
+                    "id": "83644afb-8177-4207-a871-c7218f8dd19f",
                     "boundaryNum": 1,
                     "name": "BABA MURAD SHAH ROAD - W2 - A1",
                     "localname": "BABA MURAD SHAH ROAD - W2 - A1",
@@ -1760,7 +1760,7 @@
                     "children": []
                   },
                   {
-                    "id": "fff9971b-c3ac-4493-b78b-60860a95ed19",
+                    "id": "5c455c20-ac77-4842-a762-71490a6254d7",
                     "boundaryNum": 1,
                     "name": "MOHALLA GUGA SAI - W2 - A1",
                     "localname": "MOHALLA GUGA SAI - W2 - A1",
@@ -1774,7 +1774,7 @@
                 ]
               },
               {
-                "id": "ac013d55-b5ba-4a13-b3fe-89b226de1eef",
+                "id": "f0ed66ed-602f-4931-9432-f25f2fe1dd65",
                 "boundaryNum": 1,
                 "name": "WARD_3",
                 "localname": "WARD_3",
@@ -1784,7 +1784,7 @@
                 "code": "W3",
                 "children": [
                   {
-                    "id": "5fd2c8c0-ff22-40c5-80be-4ae929b596f2",
+                    "id": "69f163cc-f919-4ee6-98f0-0488e8479cb6",
                     "boundaryNum": 1,
                     "name": "GURU TEG BAHADUR NAGAR - W3 - A1",
                     "localname": "GURU TEG BAHADUR NAGAR - W3 - A1",
@@ -1796,7 +1796,7 @@
                     "children": []
                   },
                   {
-                    "id": "06fa1cce-6921-40c5-a308-938c34cb63f2",
+                    "id": "5ee59aa4-41e5-49e2-9039-624b69aa003b",
                     "boundaryNum": 1,
                     "name": "MOHALLA GARIAN - W3 - A1",
                     "localname": "MOHALLA GARIAN - W3 - A1",
@@ -1808,7 +1808,7 @@
                     "children": []
                   },
                   {
-                    "id": "ed7784a0-b0c8-4c02-868b-11177e6130bd",
+                    "id": "df2d5562-e0ed-4117-b865-c97b3da7c988",
                     "boundaryNum": 1,
                     "name": "JALANDHAR ROAD - W3 - A1",
                     "localname": "JALANDHAR ROAD - W3 - A1",
@@ -1820,7 +1820,7 @@
                     "children": []
                   },
                   {
-                    "id": "459da8fc-7f6d-4ece-be07-949f9dffb34d",
+                    "id": "a3c9af2a-018d-4426-a51a-7baf08e602e7",
                     "boundaryNum": 1,
                     "name": "MALRI ROAD - W3 - A1",
                     "localname": "MALRI ROAD - W3 - A1",
@@ -1834,7 +1834,7 @@
                 ]
               },
               {
-                "id": "47e7a786-7e26-43bc-ab7b-0339be26974c",
+                "id": "0438f202-506f-4151-9311-7ccb88cd307e",
                 "boundaryNum": 1,
                 "name": "WARD_4",
                 "localname": "WARD_4",
@@ -1844,7 +1844,7 @@
                 "code": "W4",
                 "children": [
                   {
-                    "id": "9a676fd4-0e55-42da-a7cd-1262048ac040",
+                    "id": "bf6539ad-95ad-479f-8fba-4482097be7f3",
                     "boundaryNum": 1,
                     "name": "MOHALLA SANOKHGARH - W4 - A2",
                     "localname": "MOHALLA SANOKHGARH - W4 - A2",
@@ -1856,7 +1856,7 @@
                     "children": []
                   },
                   {
-                    "id": "62d8dccb-5e84-4c23-a0a5-7e48345b4925",
+                    "id": "19d803bb-c4c4-4b20-a6f9-847ec4ffd33a",
                     "boundaryNum": 1,
                     "name": "MOHALLA KALER NAGAR - W4 - A2",
                     "localname": "MOHALLA KALER NAGAR - W4 - A2",
@@ -1868,7 +1868,7 @@
                     "children": []
                   },
                   {
-                    "id": "acbf8903-739c-46aa-8d61-d238b9932db5",
+                    "id": "421cf925-2a67-4994-bb3c-ad973e3c4a03",
                     "boundaryNum": 1,
                     "name": "MOHALLA BHADAURPURA - W4 - A1",
                     "localname": "MOHALLA BHADAURPURA - W4 - A1",
@@ -1880,7 +1880,7 @@
                     "children": []
                   },
                   {
-                    "id": "e16db17f-bc0f-4de0-b014-568951531938",
+                    "id": "579f12c6-457c-4956-8c82-4a72b51dba52",
                     "boundaryNum": 1,
                     "name": "NURMAHAL ROAD - W4 - A1",
                     "localname": "NURMAHAL ROAD - W4 - A1",
@@ -1892,7 +1892,7 @@
                     "children": []
                   },
                   {
-                    "id": "4ea0f7fe-98d0-46c1-a386-9c4ef5d53ff0",
+                    "id": "56b932bb-9e23-4643-8a97-c43c936fb660",
                     "boundaryNum": 1,
                     "name": "SHANKAR ROAD - W4 - A1",
                     "localname": "SHANKAR ROAD - W4 - A1",
@@ -1904,7 +1904,7 @@
                     "children": []
                   },
                   {
-                    "id": "8b8e99d2-8414-4914-a791-835e9312117f",
+                    "id": "c3d83e4b-8e59-404c-af57-1f596c8f447a",
                     "boundaryNum": 1,
                     "name": "PREET NAGAR - W4 - A1",
                     "localname": "PREET NAGAR - W4 - A1",
@@ -1916,7 +1916,7 @@
                     "children": []
                   },
                   {
-                    "id": "6b96e56a-653d-4976-ba83-1c421b4f1bba",
+                    "id": "486ac6d4-7b82-49ea-9d89-1bf3d0ac5914",
                     "boundaryNum": 1,
                     "name": "SAT KARTAR NAGAR - W4 - A1",
                     "localname": "SAT KARTAR NAGAR - W4 - A1",
@@ -1930,7 +1930,7 @@
                 ]
               },
               {
-                "id": "22051d8e-52ed-40ec-bbb0-f2f8e4af2c6d",
+                "id": "d5ac2d4f-8793-48e7-a35a-234ea3cadf1a",
                 "boundaryNum": 1,
                 "name": "WARD_5",
                 "localname": "WARD_5",
@@ -1940,7 +1940,7 @@
                 "code": "W5",
                 "children": [
                   {
-                    "id": "0ea2b388-8e7e-49ba-ba82-7f7e884b6a38",
+                    "id": "ea3b9ce7-7042-4b86-88a3-7fa48f07c70e",
                     "boundaryNum": 1,
                     "name": "MOHALLA RATTIAN - W5 - A1",
                     "localname": "MOHALLA RATTIAN - W5 - A1",
@@ -1952,7 +1952,7 @@
                     "children": []
                   },
                   {
-                    "id": "a8b75248-05e0-4016-a477-75a5c3f50903",
+                    "id": "6132485f-2688-4808-b6b0-f5608daae082",
                     "boundaryNum": 1,
                     "name": "MOHALLA KRISHAN NAGAR - W5 - A1",
                     "localname": "MOHALLA KRISHAN NAGAR - W5 - A1",
@@ -1964,7 +1964,7 @@
                     "children": []
                   },
                   {
-                    "id": "4bce5a65-f6aa-4c0b-9ed6-d2a4fc2281b3",
+                    "id": "f8786595-5448-476d-9047-d7255f644889",
                     "boundaryNum": 1,
                     "name": "MOHALLA REDHWAN - W5 - A2",
                     "localname": "MOHALLA REDHWAN - W5 - A2",
@@ -1976,7 +1976,7 @@
                     "children": []
                   },
                   {
-                    "id": "3df4752b-e036-4df5-ad02-ba73647b4c8e",
+                    "id": "9703fc6c-b4d8-4020-a141-b8e89b437d4a",
                     "boundaryNum": 1,
                     "name": "MOHALLA RANJIT NAGAR - W5 - A2",
                     "localname": "MOHALLA RANJIT NAGAR - W5 - A2",
@@ -1988,7 +1988,7 @@
                     "children": []
                   },
                   {
-                    "id": "699353e8-016d-44bf-9019-78ebe714dde0",
+                    "id": "abfac052-0754-416b-828d-073828d92590",
                     "boundaryNum": 1,
                     "name": "MOHALLA JALOTTAN - W5 - A1",
                     "localname": "MOHALLA JALOTTAN - W5 - A1",
@@ -2000,7 +2000,7 @@
                     "children": []
                   },
                   {
-                    "id": "8544fd6c-4383-4dce-83a6-48ab00c38b5c",
+                    "id": "1e838ed0-101c-4e6a-9f7d-9430aeedd3cd",
                     "boundaryNum": 1,
                     "name": "MOHALLA KAPANIA - W5 - A1",
                     "localname": "MOHALLA KAPANIA - W5 - A1",
@@ -2012,7 +2012,7 @@
                     "children": []
                   },
                   {
-                    "id": "018145b1-343b-402b-ba2e-fa21e4b32faf",
+                    "id": "809d19b7-44b2-4b14-9119-3fbb8785b273",
                     "boundaryNum": 1,
                     "name": "AMBEDKAR CHOWK - W5 - A1",
                     "localname": "AMBEDKAR CHOWK - W5 - A1",
@@ -2024,7 +2024,7 @@
                     "children": []
                   },
                   {
-                    "id": "b91529ad-d0eb-428d-ac22-9f3bd0b27c71",
+                    "id": "48336dc1-1ae2-4b9b-8f5e-8d0a56003893",
                     "boundaryNum": 1,
                     "name": "POST OFFICE ROAD - W5 - A1",
                     "localname": "POST OFFICE ROAD - W5 - A1",
@@ -2036,7 +2036,7 @@
                     "children": []
                   },
                   {
-                    "id": "3b3f1e18-1f79-4b38-8147-1dc88e4030f4",
+                    "id": "a273710b-f24c-4d33-8cea-0c7c83b16593",
                     "boundaryNum": 1,
                     "name": "STAFF WALI GALI - W5 - A1",
                     "localname": "STAFF WALI GALI - W5 - A1",
@@ -2048,7 +2048,7 @@
                     "children": []
                   },
                   {
-                    "id": "1028bcb6-9f4c-4be2-8ad6-c94fa0642618",
+                    "id": "d5754d17-9f52-44e6-a8c2-b980188da7b7",
                     "boundaryNum": 1,
                     "name": "ASHOK VIHAR - W5 - A1",
                     "localname": "ASHOK VIHAR - W5 - A1",
@@ -2062,7 +2062,7 @@
                 ]
               },
               {
-                "id": "992c4bb1-ef0c-43d3-b328-10d7bab33846",
+                "id": "318605e8-64c5-40d1-8e99-e4de64fd5160",
                 "boundaryNum": 1,
                 "name": "WARD_6",
                 "localname": "WARD_6",
@@ -2072,7 +2072,7 @@
                 "code": "W6",
                 "children": [
                   {
-                    "id": "a6e4b89a-b4ac-489e-9aeb-7bb946d0ea5c",
+                    "id": "ce5a8d74-d464-401a-90ad-a6fb82820d4d",
                     "boundaryNum": 1,
                     "name": "MOHALLA RISHI NAGAR - W6 - A2",
                     "localname": "MOHALLA RISHI NAGAR - W6 - A2",
@@ -2084,7 +2084,7 @@
                     "children": []
                   },
                   {
-                    "id": "3110f7f5-859e-478e-a565-093013bb63ca",
+                    "id": "c13acb0a-f688-4b84-9b89-819ffe50237c",
                     "boundaryNum": 1,
                     "name": "MOHALLA LUV KUSH NAGAR - W6 - A2",
                     "localname": "MOHALLA LUV KUSH NAGAR - W6 - A2",
@@ -2096,7 +2096,7 @@
                     "children": []
                   },
                   {
-                    "id": "c66ec984-7b27-4780-8b8e-6ee897a01b4a",
+                    "id": "f531d712-21dd-41e4-affd-a8ade4c4e195",
                     "boundaryNum": 1,
                     "name": "POST OFFICE ROAD - W6 - A1",
                     "localname": "POST OFFICE ROAD - W6 - A1",
@@ -2108,7 +2108,7 @@
                     "children": []
                   },
                   {
-                    "id": "b265b1ff-00f8-4a53-b129-e915849d43e1",
+                    "id": "fc5d9fb5-2ea5-4c41-b6f3-ae0cdd6c54d9",
                     "boundaryNum": 1,
                     "name": "MOHALLA GOUNS - W6 - A2",
                     "localname": "MOHALLA GOUNS - W6 - A2",
@@ -2120,7 +2120,7 @@
                     "children": []
                   },
                   {
-                    "id": "fb075961-dbb5-4cdb-84d1-80e6b20e0583",
+                    "id": "ec36579a-b255-48f4-bca1-a0c3ae9a07e6",
                     "boundaryNum": 1,
                     "name": "MEHATPUR ADDA - W6 - A1",
                     "localname": "MEHATPUR ADDA - W6 - A1",
@@ -2132,7 +2132,7 @@
                     "children": []
                   },
                   {
-                    "id": "69a62758-2458-4b7a-8916-1f5b09941164",
+                    "id": "9dfd1230-8d65-43b5-a4a5-8f2dc2397e84",
                     "boundaryNum": 1,
                     "name": "PANNI WALI CHAKKI - W6 - A1",
                     "localname": "PANNI WALI CHAKKI - W6 - A1",
@@ -2144,7 +2144,7 @@
                     "children": []
                   },
                   {
-                    "id": "e3a5d1fa-a0c8-4f37-8077-a0505c23ff25",
+                    "id": "504d8dc4-5dce-401d-8fdc-e7db4e9b553a",
                     "boundaryNum": 1,
                     "name": "SUNDER NAGAR - W6 - A1",
                     "localname": "SUNDER NAGAR - W6 - A1",
@@ -2158,7 +2158,7 @@
                 ]
               },
               {
-                "id": "234ae7af-0164-499d-bdb9-2f95a3e10c8b",
+                "id": "6bb47a4c-8876-4496-9142-be19a93c5b0f",
                 "boundaryNum": 1,
                 "name": "WARD_7",
                 "localname": "WARD_7",
@@ -2168,7 +2168,7 @@
                 "code": "W7",
                 "children": [
                   {
-                    "id": "a3e67ae6-dfad-4290-af21-3b67f5769ea1",
+                    "id": "48c3e765-9c60-4ab4-8cd9-524425808d47",
                     "boundaryNum": 1,
                     "name": "MOHALLA REHMANPURA - W7 - A2",
                     "localname": "MOHALLA REHMANPURA - W7 - A2",
@@ -2180,7 +2180,7 @@
                     "children": []
                   },
                   {
-                    "id": "dd2fa966-cab4-48b7-9243-9eeaafa454a9",
+                    "id": "86845e1e-bc1a-447c-be5a-172b012ef25c",
                     "boundaryNum": 1,
                     "name": "MOHALLA BAZIGAR BASTI - W7 - A2",
                     "localname": "MOHALLA BAZIGAR BASTI - W7 - A2",
@@ -2192,7 +2192,7 @@
                     "children": []
                   },
                   {
-                    "id": "b2148a01-8d24-4c15-bb8b-7a15433ab63e",
+                    "id": "59414c63-e22c-424b-8952-29434065e70b",
                     "boundaryNum": 1,
                     "name": "MOHALLA SARAI - W7 - A2",
                     "localname": "MOHALLA SARAI - W7 - A2",
@@ -2204,7 +2204,7 @@
                     "children": []
                   },
                   {
-                    "id": "c4a4051b-09e0-4f3d-945e-3e96b66ca5ac",
+                    "id": "e828145c-e6cc-4937-aa8a-09b6dc1a4769",
                     "boundaryNum": 1,
                     "name": "RAILWAY ROAD - W7 - A1",
                     "localname": "RAILWAY ROAD - W7 - A1",
@@ -2218,7 +2218,7 @@
                 ]
               },
               {
-                "id": "2b4aac6e-df40-4281-9dd8-f66f4cf77f68",
+                "id": "c116020a-9bd2-4778-8ddd-cdd7de862db6",
                 "boundaryNum": 1,
                 "name": "WARD_8",
                 "localname": "WARD_8",
@@ -2228,7 +2228,7 @@
                 "code": "W8",
                 "children": [
                   {
-                    "id": "4dd04b5d-fb24-495d-89b2-f275ee4b975b",
+                    "id": "ffae9b5b-366e-48bd-a444-fe4fd21733da",
                     "boundaryNum": 1,
                     "name": "MOHALLA SARAI - W8 - A2",
                     "localname": "MOHALLA SARAI - W8 - A2",
@@ -2240,7 +2240,7 @@
                     "children": []
                   },
                   {
-                    "id": "945ee034-9fa7-4d43-8799-c0d97adb3ec9",
+                    "id": "403ef428-f4e9-40a0-bcb6-a81268ec4408",
                     "boundaryNum": 1,
                     "name": "MOHALLA SUNDER NAGAR - W8 - A1",
                     "localname": "MOHALLA SUNDER NAGAR - W8 - A1",
@@ -2252,7 +2252,7 @@
                     "children": []
                   },
                   {
-                    "id": "f43f3cc9-e289-4d62-8fd8-247e6426623f",
+                    "id": "4d844e08-0ad8-4d5b-a01f-3d22ba026670",
                     "boundaryNum": 1,
                     "name": "MOHALLA REDHWAN - W8 - A2",
                     "localname": "MOHALLA REDHWAN - W8 - A2",
@@ -2264,7 +2264,7 @@
                     "children": []
                   },
                   {
-                    "id": "b2ad2d15-21d5-449c-ae91-3c47d0f4426f",
+                    "id": "1c320217-eb94-4dd8-8e7a-8a265e77552f",
                     "boundaryNum": 1,
                     "name": "SHANKAR GARDEN COLONY - W8 - A1",
                     "localname": "SHANKAR GARDEN COLONY - W8 - A1",
@@ -2276,7 +2276,7 @@
                     "children": []
                   },
                   {
-                    "id": "b44408fe-5bb7-449b-8c88-e01bba9c755f",
+                    "id": "f7dc40ab-c5f8-4ee3-a2f7-444791beaa54",
                     "boundaryNum": 1,
                     "name": "NEW AZAD NAGAR - W8 - A1",
                     "localname": "NEW AZAD NAGAR - W8 - A1",
@@ -2288,7 +2288,7 @@
                     "children": []
                   },
                   {
-                    "id": "998419c9-5806-4b20-b702-9172614c45ed",
+                    "id": "87969705-576d-457a-87d9-4a58f5d85362",
                     "boundaryNum": 1,
                     "name": "KHADDAR BHANDAR - W8 - A1",
                     "localname": "KHADDAR BHANDAR - W8 - A1",
@@ -2300,7 +2300,7 @@
                     "children": []
                   },
                   {
-                    "id": "f84898de-3eb7-4c64-b43d-19e72934899f",
+                    "id": "378e5372-507f-4733-a06b-0da9ce9c2598",
                     "boundaryNum": 1,
                     "name": "SABZI MANDI - W8 - A1",
                     "localname": "SABZI MANDI - W8 - A1",
@@ -2312,7 +2312,7 @@
                     "children": []
                   },
                   {
-                    "id": "396070a6-45ba-458e-ad4f-becf380e3630",
+                    "id": "e1b6e74c-4005-4db9-b307-555360cbaa43",
                     "boundaryNum": 1,
                     "name": "STAFF WALI GALI - W8 - A1",
                     "localname": "STAFF WALI GALI - W8 - A1",
@@ -2324,7 +2324,7 @@
                     "children": []
                   },
                   {
-                    "id": "50edf10c-2016-4035-a58b-30238438fda7",
+                    "id": "388e6fe5-7be5-40d4-b8a2-e7b65f89b1c3",
                     "boundaryNum": 1,
                     "name": "AZAD NAGAR - W8 - A1",
                     "localname": "AZAD NAGAR - W8 - A1",
@@ -2338,7 +2338,7 @@
                 ]
               },
               {
-                "id": "e3987754-a39a-48ac-b568-234c28791ded",
+                "id": "5e928c52-8b3c-448f-ad0e-a2f7b70e4dc2",
                 "boundaryNum": 1,
                 "name": "WARD_9",
                 "localname": "WARD_9",
@@ -2348,7 +2348,7 @@
                 "code": "W9",
                 "children": [
                   {
-                    "id": "9aff72ca-0a6a-4545-b237-594da717d074",
+                    "id": "1064b7fc-acfc-4bed-adff-16e25b179a95",
                     "boundaryNum": 1,
                     "name": "PUREWAL COLONY - W9 - A1",
                     "localname": "PUREWAL COLONY - W9 - A1",
@@ -2360,7 +2360,7 @@
                     "children": []
                   },
                   {
-                    "id": "26563e10-e23f-46d2-b0ec-08ea133293e6",
+                    "id": "efa96196-3de2-4a7e-8ca4-2a1d5bbf2b69",
                     "boundaryNum": 1,
                     "name": "SUNDER NAGAR - W9 - A1",
                     "localname": "SUNDER NAGAR - W9 - A1",
@@ -2372,7 +2372,7 @@
                     "children": []
                   },
                   {
-                    "id": "ed782fe0-a765-4b8c-9804-82061c597b0e",
+                    "id": "353e20d9-bb96-4647-80bc-f7f9afbb9666",
                     "boundaryNum": 1,
                     "name": "RAILWAY ROAD - W9 - A1",
                     "localname": "RAILWAY ROAD - W9 - A1",
@@ -2384,7 +2384,7 @@
                     "children": []
                   },
                   {
-                    "id": "9b1c595c-b8f7-4ea0-b666-0a5e9f42e227",
+                    "id": "40443df3-6b08-46f3-96aa-a536cfaaaeb3",
                     "boundaryNum": 1,
                     "name": "REHMANPURA - W9 - A2",
                     "localname": "REHMANPURA - W9 - A2",
@@ -2396,7 +2396,7 @@
                     "children": []
                   },
                   {
-                    "id": "6bbcc48c-249b-446a-ab45-2f776763c852",
+                    "id": "3e657fe6-f447-461d-82a2-34e08e16a11d",
                     "boundaryNum": 1,
                     "name": "DANA MANDI - W9 - A1",
                     "localname": "DANA MANDI - W9 - A1",
@@ -2410,7 +2410,7 @@
                 ]
               },
               {
-                "id": "15115760-3785-43e2-8af0-e6c54dd5fcb6",
+                "id": "6a1a5e58-1622-4b2b-83cd-e208a0583639",
                 "boundaryNum": 1,
                 "name": "WARD_10",
                 "localname": "WARD_10",
@@ -2420,7 +2420,7 @@
                 "code": "W10",
                 "children": [
                   {
-                    "id": "008bb858-19fc-40d6-81e6-5365e4ac43ac",
+                    "id": "bdbaefc5-8804-48ad-91ce-8971a4b0c978",
                     "boundaryNum": 1,
                     "name": "RAVIDASSPURA - W10 - A2",
                     "localname": "RAVIDASSPURA - W10 - A2",
@@ -2432,7 +2432,7 @@
                     "children": []
                   },
                   {
-                    "id": "617d35af-b15c-470e-9f7e-e86f01ff4639",
+                    "id": "1820f9ea-f837-47bd-8679-bd537ad7f740",
                     "boundaryNum": 1,
                     "name": "UDHAM SINGH NAGAR - W10 - A2",
                     "localname": "UDHAM SINGH NAGAR - W10 - A2",
@@ -2444,7 +2444,7 @@
                     "children": []
                   },
                   {
-                    "id": "f5448056-5270-4108-9c5d-6a01e6eec49d",
+                    "id": "b1224b0c-e6e3-4bf6-b099-9cb02ae25849",
                     "boundaryNum": 1,
                     "name": "LAIYEWAL - W10 - A2",
                     "localname": "LAIYEWAL - W10 - A2",
@@ -2456,7 +2456,7 @@
                     "children": []
                   },
                   {
-                    "id": "65ae4f64-edb9-4c72-9521-581ce8489739",
+                    "id": "8bac3290-2f65-4600-83bf-4a8b21875504",
                     "boundaryNum": 1,
                     "name": "MEHATPUR ROAD - W10 - A1",
                     "localname": "MEHATPUR ROAD - W10 - A1",
@@ -2468,7 +2468,7 @@
                     "children": []
                   },
                   {
-                    "id": "6cf171a3-4f6c-465b-84e4-90cc332870a1",
+                    "id": "1469d7d4-715a-4eea-9987-1a927c21d1e3",
                     "boundaryNum": 1,
                     "name": "MOHALLA GOUNS - W10 - A2",
                     "localname": "MOHALLA GOUNS - W10 - A2",
@@ -2482,7 +2482,7 @@
                 ]
               },
               {
-                "id": "34468f95-c23f-422f-b5ac-77b9dfa53abe",
+                "id": "be090d9d-62b6-4baa-bd59-e7f9cf362a85",
                 "boundaryNum": 1,
                 "name": "WARD_11",
                 "localname": "WARD_11",
@@ -2492,7 +2492,7 @@
                 "code": "W11",
                 "children": [
                   {
-                    "id": "89458b98-709c-422a-9b7e-c944970eb72f",
+                    "id": "d08b556e-b687-4f6f-a200-da3855f13ad9",
                     "boundaryNum": 1,
                     "name": "LAIYEWAL - W11 - A2",
                     "localname": "LAIYEWAL - W11 - A2",
@@ -2504,7 +2504,7 @@
                     "children": []
                   },
                   {
-                    "id": "6e7ab528-1fcf-4a2c-b9e4-22b2ac95373c",
+                    "id": "94d570ea-3227-4154-bfa8-717b00b6f07f",
                     "boundaryNum": 1,
                     "name": "BHAGAT SINGH NAGAR - W11 - A2",
                     "localname": "BHAGAT SINGH NAGAR - W11 - A2",
@@ -2516,7 +2516,7 @@
                     "children": []
                   },
                   {
-                    "id": "622ed702-b2ae-40a6-94c5-8d81c11f8c45",
+                    "id": "7d1ff89a-86d8-44f3-93f2-0a950baca6b1",
                     "boundaryNum": 1,
                     "name": "MOHALLA SUFI - W11 - A2",
                     "localname": "MOHALLA SUFI - W11 - A2",
@@ -2528,7 +2528,7 @@
                     "children": []
                   },
                   {
-                    "id": "349bccb5-69d9-4ea3-aa5b-e04dd03aae72",
+                    "id": "459e50f0-b4b7-4dc1-9abd-903989bff35d",
                     "boundaryNum": 1,
                     "name": "MOHALLA KHAIHRIAN - W11 - A1",
                     "localname": "MOHALLA KHAIHRIAN - W11 - A1",
@@ -2540,7 +2540,7 @@
                     "children": []
                   },
                   {
-                    "id": "6104f551-570e-4ae3-af55-c8dafc24cac4",
+                    "id": "070925c1-e68a-4840-8e94-9933120083f6",
                     "boundaryNum": 1,
                     "name": "DANA MANDI - W11 - A1",
                     "localname": "DANA MANDI - W11 - A1",
@@ -2554,7 +2554,7 @@
                 ]
               },
               {
-                "id": "718ec497-2c19-4190-96c6-354d193505ca",
+                "id": "9e3532bb-2f9a-4101-b23f-b5f1b8df6924",
                 "boundaryNum": 1,
                 "name": "WARD_12",
                 "localname": "WARD_12",
@@ -2564,7 +2564,7 @@
                 "code": "W12",
                 "children": [
                   {
-                    "id": "6de2cd3b-d75e-4aa8-b693-640b4c486997",
+                    "id": "bcba1bf6-fc6e-4605-ab2e-23442efd1067",
                     "boundaryNum": 1,
                     "name": "RAVIDASSPURA - W12 - A2",
                     "localname": "RAVIDASSPURA - W12 - A2",
@@ -2576,7 +2576,7 @@
                     "children": []
                   },
                   {
-                    "id": "66dfade1-74ad-4f3f-8124-3602d7f7a989",
+                    "id": "17173a6d-4870-4cb9-a05a-ec09b10897d4",
                     "boundaryNum": 1,
                     "name": "NAVI ABADI - W12 - A2",
                     "localname": "NAVI ABADI - W12 - A2",
@@ -2588,7 +2588,7 @@
                     "children": []
                   },
                   {
-                    "id": "0392adc5-4dc9-4d53-a176-3af99ae97f00",
+                    "id": "413dcac4-391b-403e-8fcd-4b0366e3302f",
                     "boundaryNum": 1,
                     "name": "MEHATPUR ROAD - W12 - A1",
                     "localname": "MEHATPUR ROAD - W12 - A1",
@@ -2600,7 +2600,7 @@
                     "children": []
                   },
                   {
-                    "id": "1ce30863-f0c9-4afd-8677-218693158e29",
+                    "id": "05b2d47d-7313-4a0c-95ed-61b5a37dfbb7",
                     "boundaryNum": 1,
                     "name": "SOHLAN ROAD - W12 - A1",
                     "localname": "SOHLAN ROAD - W12 - A1",
@@ -2614,7 +2614,7 @@
                 ]
               },
               {
-                "id": "16d76cae-e508-4db9-8319-d5e563321dbe",
+                "id": "9dc5511f-d0a5-40e6-b4d6-cf9a1835a33f",
                 "boundaryNum": 1,
                 "name": "WARD_13",
                 "localname": "WARD_13",
@@ -2624,7 +2624,7 @@
                 "code": "W13",
                 "children": [
                   {
-                    "id": "33a5dd31-834a-455d-8699-99a688be22fc",
+                    "id": "5384be39-821e-4caf-a97c-bd1b071b57be",
                     "boundaryNum": 1,
                     "name": "MOHALLA JALOTTIAN - W13 - A1",
                     "localname": "MOHALLA JALOTTIAN - W13 - A1",
@@ -2636,7 +2636,7 @@
                     "children": []
                   },
                   {
-                    "id": "c4d2b834-8c24-4810-b46e-5febbe0af044",
+                    "id": "d5050fb3-8ea3-4bea-9f52-0273cd162c93",
                     "boundaryNum": 1,
                     "name": "MEHATPUR ADDA - W13 - A1",
                     "localname": "MEHATPUR ADDA - W13 - A1",
@@ -2648,7 +2648,7 @@
                     "children": []
                   },
                   {
-                    "id": "3ba4c707-7b9c-4a3b-85ce-3bfaa8b6f079",
+                    "id": "7142952c-c841-4499-859d-1697757ac094",
                     "boundaryNum": 1,
                     "name": "MOHALLA GOUNS - W13 - A2",
                     "localname": "MOHALLA GOUNS - W13 - A2",
@@ -2660,7 +2660,7 @@
                     "children": []
                   },
                   {
-                    "id": "54162f30-5ddc-4d84-8853-408291c86887",
+                    "id": "cd18cde3-8edb-4426-963b-200e0b6163ec",
                     "boundaryNum": 1,
                     "name": "MOHALLA GUGA SAI - W13 - A1",
                     "localname": "MOHALLA GUGA SAI - W13 - A1",
@@ -2672,7 +2672,7 @@
                     "children": []
                   },
                   {
-                    "id": "6fc0c365-637a-4a16-b89b-9c5c6ad9fae2",
+                    "id": "91604f9b-b1f3-41a1-b53c-561594224088",
                     "boundaryNum": 1,
                     "name": "MOHALLA KAPANIA - W13 - A1",
                     "localname": "MOHALLA KAPANIA - W13 - A1",
@@ -2686,7 +2686,7 @@
                 ]
               },
               {
-                "id": "4d64573d-913b-4fba-8c96-4aef85e24ac0",
+                "id": "2343e0ec-ac5b-41ff-bd77-fe71a71bb91f",
                 "boundaryNum": 1,
                 "name": "WARD_14",
                 "localname": "WARD_14",
@@ -2696,7 +2696,7 @@
                 "code": "W14",
                 "children": [
                   {
-                    "id": "4776be7e-4784-464d-b68e-0e4e61b83a48",
+                    "id": "469ab99a-12ca-446a-8036-8f4721cbd120",
                     "boundaryNum": 1,
                     "name": "TEHSIL BAZAR - W14 - A1",
                     "localname": "TEHSIL BAZAR - W14 - A1",
@@ -2708,7 +2708,7 @@
                     "children": []
                   },
                   {
-                    "id": "21cc9511-4484-4e0a-946c-4b487e907417",
+                    "id": "789b129f-b8df-4bfd-9d33-65f22d6ef94b",
                     "boundaryNum": 1,
                     "name": "CHOTTA CHOWK - W14 - A1",
                     "localname": "CHOTTA CHOWK - W14 - A1",
@@ -2720,7 +2720,7 @@
                     "children": []
                   },
                   {
-                    "id": "f679503c-878b-4bcb-a520-df896a18cf2d",
+                    "id": "97df098b-9611-4492-8a3e-fee5410160d8",
                     "boundaryNum": 1,
                     "name": "MOHALLA BHALLIAN - W14 - A1",
                     "localname": "MOHALLA BHALLIAN - W14 - A1",
@@ -2732,7 +2732,7 @@
                     "children": []
                   },
                   {
-                    "id": "e73f87c1-76d1-499b-bc19-27b69c467085",
+                    "id": "3b2fbeaf-c071-4190-b4d5-403bc4773c35",
                     "boundaryNum": 1,
                     "name": "MOHALLA RAUNTAN - W14 - A1",
                     "localname": "MOHALLA RAUNTAN - W14 - A1",
@@ -2744,7 +2744,7 @@
                     "children": []
                   },
                   {
-                    "id": "3e12a5a5-5f57-45e1-a5f2-4a976a4ee615",
+                    "id": "4b1e0588-475b-4f63-bfe3-8fcc80a027ef",
                     "boundaryNum": 1,
                     "name": "MOHALLA KHARADIAN - W14 - A1",
                     "localname": "MOHALLA KHARADIAN - W14 - A1",
@@ -2756,7 +2756,7 @@
                     "children": []
                   },
                   {
-                    "id": "da96241e-e7c7-409c-9f68-32a38a5e1c90",
+                    "id": "3f870244-ff7a-4032-a943-1cf2a95a4f7f",
                     "boundaryNum": 1,
                     "name": "OLD CIVIL COURT ROAD - W14 - A1",
                     "localname": "OLD CIVIL COURT ROAD - W14 - A1",
@@ -2768,7 +2768,7 @@
                     "children": []
                   },
                   {
-                    "id": "cecbf1c4-844c-4ad9-aa51-eebd5e4bd5f4",
+                    "id": "d73ac632-bd85-43fc-9b2a-0f0a95facd8a",
                     "boundaryNum": 1,
                     "name": "BABA MURAD SHAH ROAD - W14 - A1",
                     "localname": "BABA MURAD SHAH ROAD - W14 - A1",
@@ -2782,7 +2782,7 @@
                 ]
               },
               {
-                "id": "1e4e8722-ae2a-46be-98ba-551d421f0945",
+                "id": "713c34cf-65b1-40c1-9527-3173aa98d6ad",
                 "boundaryNum": 1,
                 "name": "WARD_15",
                 "localname": "WARD_15",
@@ -2792,7 +2792,7 @@
                 "code": "W15",
                 "children": [
                   {
-                    "id": "c86f74ba-23ff-4473-81dd-a6a3547accca",
+                    "id": "b0331a5a-e9ac-456a-a982-ab8900009cf9",
                     "boundaryNum": 1,
                     "name": "MOHALLA GURU NANAK PURA - W15 - A1",
                     "localname": "MOHALLA GURU NANAK PURA - W15 - A1",
@@ -2804,7 +2804,7 @@
                     "children": []
                   },
                   {
-                    "id": "33caa664-b7e2-4798-82a0-0acb6770f636",
+                    "id": "a28b131f-0903-4df1-9e1f-9d9ec42bc3b4",
                     "boundaryNum": 1,
                     "name": "KAPURTHALA ROAD - W15 - A1",
                     "localname": "KAPURTHALA ROAD - W15 - A1",
@@ -2816,7 +2816,7 @@
                     "children": []
                   },
                   {
-                    "id": "a12d8427-8155-48d5-9f30-c848b702cfb9",
+                    "id": "36066886-5dbf-4cdf-a99c-d7a86299fa6c",
                     "boundaryNum": 1,
                     "name": "DAKHNI GATE - W15 - A1",
                     "localname": "DAKHNI GATE - W15 - A1",
@@ -2828,7 +2828,7 @@
                     "children": []
                   },
                   {
-                    "id": "0d83910c-f58d-4ff3-bd4d-bc3ad1cf228b",
+                    "id": "0c070e9d-c202-478e-a75f-93bd37ce9379",
                     "boundaryNum": 1,
                     "name": "MURAD SHAH ROAD - W15 - A1",
                     "localname": "MURAD SHAH ROAD - W15 - A1",
@@ -2840,7 +2840,7 @@
                     "children": []
                   },
                   {
-                    "id": "2b9e089c-e0a6-4f33-9ef4-ed75bbd47681",
+                    "id": "ab036594-7f7c-4daa-b37f-7144a0ed6796",
                     "boundaryNum": 1,
                     "name": "JAIN COLONY - W15 - A1",
                     "localname": "JAIN COLONY - W15 - A1",
@@ -2852,7 +2852,7 @@
                     "children": []
                   },
                   {
-                    "id": "8b32f955-cac5-4f5d-bd29-949445e6564f",
+                    "id": "cbea4faf-5837-4742-8d6b-8db0c6b65b47",
                     "boundaryNum": 1,
                     "name": "MOHALLA JAINIAN - W15 - A1",
                     "localname": "MOHALLA JAINIAN - W15 - A1",
@@ -2866,7 +2866,7 @@
                 ]
               },
               {
-                "id": "12cf9919-0782-4652-bd86-2493b96efb21",
+                "id": "cfcc7a49-c57d-4c52-a5a5-3049844e909c",
                 "boundaryNum": 1,
                 "name": "WARD_16",
                 "localname": "WARD_16",
@@ -2876,7 +2876,7 @@
                 "code": "W16",
                 "children": [
                   {
-                    "id": "83b943a7-50c3-4f8d-bdca-d29c468c0e55",
+                    "id": "3cd25a1d-a188-46f2-87ce-340df7e4f35b",
                     "boundaryNum": 1,
                     "name": "MOHALLA DHIRAN - W16 - A1",
                     "localname": "MOHALLA DHIRAN - W16 - A1",
@@ -2888,7 +2888,7 @@
                     "children": []
                   },
                   {
-                    "id": "d6bf4459-526e-4878-b58a-d1379fb36f91",
+                    "id": "263f56ab-91c7-4b76-b8b3-8e50b6437cc6",
                     "boundaryNum": 1,
                     "name": "TEHSIL BAZAR - W16 - A1",
                     "localname": "TEHSIL BAZAR - W16 - A1",
@@ -2900,7 +2900,7 @@
                     "children": []
                   },
                   {
-                    "id": "a10a9f67-58a1-4732-8f62-418ff18c816b",
+                    "id": "ccbebb5c-b963-4713-b2ef-2a6311ec3113",
                     "boundaryNum": 1,
                     "name": "MOHALLA KALIAN - W16 - A1",
                     "localname": "MOHALLA KALIAN - W16 - A1",
@@ -2912,7 +2912,7 @@
                     "children": []
                   },
                   {
-                    "id": "c521074f-0163-49bc-bf4a-242e85b27636",
+                    "id": "aea1b26c-a6a3-4474-8b66-ea5b8728558e",
                     "boundaryNum": 1,
                     "name": "BABA MALIK BAZAR - W16 - A1",
                     "localname": "BABA MALIK BAZAR - W16 - A1",
@@ -2924,7 +2924,7 @@
                     "children": []
                   },
                   {
-                    "id": "31122217-b788-4cdc-b052-f143983e4be2",
+                    "id": "ac8a028e-db53-48ca-888f-01e09676ddf6",
                     "boundaryNum": 1,
                     "name": "MOHALLA GOUNS - W16 - A2",
                     "localname": "MOHALLA GOUNS - W16 - A2",
@@ -2936,7 +2936,7 @@
                     "children": []
                   },
                   {
-                    "id": "6030a7f4-3330-45c6-b258-ced35c41cb38",
+                    "id": "7f117d45-c981-4bbb-b3ac-b4d656ed0c46",
                     "boundaryNum": 1,
                     "name": "MOHALLA BOGHRAN - W16 - A2",
                     "localname": "MOHALLA BOGHRAN - W16 - A2",
@@ -2950,7 +2950,7 @@
                 ]
               },
               {
-                "id": "ef2c3092-cac1-4320-b4ac-3507c788bd75",
+                "id": "a72cb20d-837c-4679-820d-d08d0f258338",
                 "boundaryNum": 1,
                 "name": "WARD_17",
                 "localname": "WARD_17",
@@ -2960,7 +2960,7 @@
                 "code": "W17",
                 "children": [
                   {
-                    "id": "7df155d8-656f-48f7-8bec-13a53721e46a",
+                    "id": "bda05e26-80c1-45b5-a02a-7b07a4b80e2f",
                     "boundaryNum": 1,
                     "name": "MOHALLA GURU NANAK PURA - W17 - A1",
                     "localname": "MOHALLA GURU NANAK PURA - W17 - A1",
@@ -2972,7 +2972,7 @@
                     "children": []
                   },
                   {
-                    "id": "8de717aa-e0c2-4b6b-93c4-fd067456bfe1",
+                    "id": "ae75bf16-d661-4bb0-bc4d-f90c60546e57",
                     "boundaryNum": 1,
                     "name": "KAPURTHALA ROAD - W17 - A1",
                     "localname": "KAPURTHALA ROAD - W17 - A1",
@@ -2984,7 +2984,7 @@
                     "children": []
                   },
                   {
-                    "id": "0a35cfd5-cacc-442b-bb00-5821ba874345",
+                    "id": "f8901680-5a19-4fb0-88b0-5d2862935315",
                     "boundaryNum": 1,
                     "name": "MALSIAN ROAD - W17 - A1",
                     "localname": "MALSIAN ROAD - W17 - A1",
@@ -2996,7 +2996,7 @@
                     "children": []
                   },
                   {
-                    "id": "678d2417-0618-482a-a043-11cec7cb3b46",
+                    "id": "6a27f368-9951-4a3b-9288-a2ead86f5f66",
                     "boundaryNum": 1,
                     "name": "BACK SIDE PHUMAN COLD STORE - W17 - A1",
                     "localname": "BACK SIDE PHUMAN COLD STORE - W17 - A1",
@@ -3008,7 +3008,7 @@
                     "children": []
                   },
                   {
-                    "id": "31903593-0981-4641-90af-85ae1bd8fac8",
+                    "id": "ebe0fb4c-bed2-404b-815a-fdea562f185a",
                     "boundaryNum": 1,
                     "name": "MOHALLA SHERPURA - W17 - A2",
                     "localname": "MOHALLA SHERPURA - W17 - A2",
@@ -3020,7 +3020,7 @@
                     "children": []
                   },
                   {
-                    "id": "1072ea9f-3ee2-42f3-b585-08c42c1fec51",
+                    "id": "b7ebdaae-b36f-4019-830b-797285c07322",
                     "boundaryNum": 1,
                     "name": "MOHALLA KAMALPURA - W17 - A2",
                     "localname": "MOHALLA KAMALPURA - W17 - A2",
@@ -3032,7 +3032,7 @@
                     "children": []
                   },
                   {
-                    "id": "14571bc5-d87c-4210-ac70-3076cae5908e",
+                    "id": "facaac12-9f0a-4e39-ac11-201be1bbfbc8",
                     "boundaryNum": 1,
                     "name": "MOHALLA BAGIARPURA - W17 - A2",
                     "localname": "MOHALLA BAGIARPURA - W17 - A2",
@@ -3044,7 +3044,7 @@
                     "children": []
                   },
                   {
-                    "id": "5b58275e-9147-4bcd-8528-1d0e1855c492",
+                    "id": "0fc1b195-74fb-4481-8032-f5c47d93fce3",
                     "boundaryNum": 1,
                     "name": "MOHALLA BOGHRAN - W17 - A2",
                     "localname": "MOHALLA BOGHRAN - W17 - A2",
@@ -3052,6 +3052,30 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "NLC108",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "92ed0c53-73ed-4e5d-9e93-d28e527bf9c3",
+                    "boundaryNum": 1,
+                    "name": "Krishna Colony - W17 - A2",
+                    "localname": "Krishna Colony - W17 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC109",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "38d10dc6-48f3-4370-9a5d-bc54e95c6239",
+                    "boundaryNum": 1,
+                    "name": "Kalra Colony - W17 - A2",
+                    "localname": "Kalra Colony - W17 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC110",
                     "area": "AREA2",
                     "children": []
                   }
