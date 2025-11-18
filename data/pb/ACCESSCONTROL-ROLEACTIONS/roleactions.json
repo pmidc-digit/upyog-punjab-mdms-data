@@ -65393,6 +65393,24 @@
       "actionid": 8900932,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_VERIFIER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PROFESSIONAL_APPROVER",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
