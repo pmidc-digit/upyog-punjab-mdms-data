@@ -10,15 +10,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Khanauri",
-        "localname": "Khanauri",
+        "name": "khanauri",
+        "localname": "khanauri",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.khanauri",
         "children": [
           {
-            "id": "f8a48caf-c05c-4fe6-b620-fe37e4b6c4b0",
+            "id": "8c9d0aec-ce6d-4d70-ae7c-cb5ab8be9a37",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -28,7 +28,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "c5cd2930-eaf3-4860-9614-dbc32a4135bf",
+                "id": "6b844e93-84b3-46c3-a890-cf310759c13f",
                 "boundaryNum": 1,
                 "name": "Block 1",
                 "localname": "Block 1",
@@ -38,7 +38,7 @@
                 "code": "B1",
                 "children": [
                   {
-                    "id": "cd3f455a-211e-465c-adcb-70e7d3ab7eed",
+                    "id": "87e0083b-d9d1-4dea-a01f-80d56f2606e8",
                     "boundaryNum": 1,
                     "name": "Gaushala Road Mandvi Road to Patran Road - B1 - A1",
                     "localname": "Gaushala Road Mandvi Road to Patran Road - B1 - A1",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "e37ee587-d925-4058-bd17-1cab1ef444e7",
+                "id": "e1468a7e-b765-462b-a284-a35566d96a00",
                 "boundaryNum": 1,
                 "name": "Block 2",
                 "localname": "Block 2",
@@ -62,7 +62,7 @@
                 "code": "B2",
                 "children": [
                   {
-                    "id": "fa404433-4713-45d1-a659-ce6e70040564",
+                    "id": "760ed674-2dd1-4a74-8c72-faedaa938965",
                     "boundaryNum": 1,
                     "name": "Main Road and FCI Block 2 - B2 - A1",
                     "localname": "Main Road and FCI Block 2 - B2 - A1",
@@ -76,7 +76,7 @@
                 ]
               },
               {
-                "id": "723f7536-522a-4d84-9ce4-8f4bd3ea556e",
+                "id": "efab5493-663b-4375-bbf7-9f1b5a0d44f0",
                 "boundaryNum": 1,
                 "name": "Block 4",
                 "localname": "Block 4",
@@ -86,7 +86,7 @@
                 "code": "B4",
                 "children": [
                   {
-                    "id": "dff894a6-a2bd-452f-b264-2dd43c2211c1",
+                    "id": "5f9c17b3-cd0c-4948-9851-eb4b67b07aa4",
                     "boundaryNum": 1,
                     "name": "Narwana Road - B4 - A1",
                     "localname": "Narwana Road - B4 - A1",
@@ -98,7 +98,7 @@
                     "children": []
                   },
                   {
-                    "id": "1c1e2f14-cf6f-4802-8f06-4d938af99a25",
+                    "id": "fdf65287-1316-4f8a-868e-4e77d3dd676d",
                     "boundaryNum": 1,
                     "name": "Kaithal Road - B4 - A1",
                     "localname": "Kaithal Road - B4 - A1",
@@ -110,7 +110,7 @@
                     "children": []
                   },
                   {
-                    "id": "020878d1-9650-4057-a40b-bafdec9e0f35",
+                    "id": "ba64e5c7-d018-4851-bd60-fbd80b11278e",
                     "boundaryNum": 1,
                     "name": "Barar Colony - B4 - A1",
                     "localname": "Barar Colony - B4 - A1",
@@ -124,7 +124,7 @@
                 ]
               },
               {
-                "id": "b4298e4e-5d1c-47e7-91cf-aa833199be22",
+                "id": "caf88334-91c5-4e71-9793-001ba5cffe2c",
                 "boundaryNum": 1,
                 "name": "Block 5",
                 "localname": "Block 5",
@@ -134,7 +134,7 @@
                 "code": "B5",
                 "children": [
                   {
-                    "id": "128eb226-db9e-426c-b609-56708009f47c",
+                    "id": "c94a4262-c9e8-4078-8bdc-393d4f6c78ba",
                     "boundaryNum": 1,
                     "name": "MASTER COLONY AND SHIV COLONY - B5 - A1",
                     "localname": "MASTER COLONY AND SHIV COLONY - B5 - A1",
@@ -146,7 +146,7 @@
                     "children": []
                   },
                   {
-                    "id": "0b11c269-7303-4a2c-9fe5-8eced2be78bf",
+                    "id": "1b1d4e93-bccb-42a0-a955-a04477970da2",
                     "boundaryNum": 1,
                     "name": "THEKEDAR WALI GALI SIDE - B5 - A1",
                     "localname": "THEKEDAR WALI GALI SIDE - B5 - A1",
@@ -158,7 +158,7 @@
                     "children": []
                   },
                   {
-                    "id": "27225d93-68dc-4205-a107-5e0cab1b585a",
+                    "id": "ef4d6a63-6454-4dca-b18a-a2e44be4a62a",
                     "boundaryNum": 1,
                     "name": "MAIN ROAD - B5 - A1",
                     "localname": "MAIN ROAD - B5 - A1",
@@ -172,7 +172,7 @@
                 ]
               },
               {
-                "id": "98887e1f-077d-4c55-9e7e-9839d071c13d",
+                "id": "d96a3e1f-b573-4a5a-aa86-e5cc769e6cc4",
                 "boundaryNum": 1,
                 "name": "Block 6",
                 "localname": "Block 6",
@@ -182,7 +182,7 @@
                 "code": "B6",
                 "children": [
                   {
-                    "id": "88095f0a-3b33-4ad6-963a-cf79d1c3c969",
+                    "id": "978d04fa-b037-4aee-b3e6-f89221c95056",
                     "boundaryNum": 1,
                     "name": "KHANAURI VILLAGE - B6 - A2",
                     "localname": "KHANAURI VILLAGE - B6 - A2",
@@ -198,7 +198,7 @@
             ]
           },
           {
-            "id": "ab34377d-3dfc-4672-ba35-5aee068275d2",
+            "id": "9ebf88d5-4e98-4535-abbb-fe7db63595aa",
             "boundaryNum": 1,
             "name": "Zone 2",
             "localname": "Zone 2",
@@ -208,7 +208,7 @@
             "code": "Z2",
             "children": [
               {
-                "id": "055369f6-f296-447d-afb8-4f78709dc38a",
+                "id": "23a17275-b160-49bc-a5a2-be6fddf7852f",
                 "boundaryNum": 1,
                 "name": "Block 3",
                 "localname": "Block 3",
@@ -218,7 +218,7 @@
                 "code": "B3",
                 "children": [
                   {
-                    "id": "a7cd54de-5f2c-449e-b383-8fc45eb8dd7b",
+                    "id": "640910cc-9950-4940-b81f-6040e85f6892",
                     "boundaryNum": 1,
                     "name": "Main Road and FCI - B3 - A1",
                     "localname": "Main Road and FCI - B3 - A1",
@@ -230,7 +230,7 @@
                     "children": []
                   },
                   {
-                    "id": "c0d31776-9f4f-46fe-a43d-9216d2cadc69",
+                    "id": "6c2a9c82-d9bb-48ea-8a2f-31cbda4ac943",
                     "boundaryNum": 1,
                     "name": "Sukhdev Colony - B3 - A2",
                     "localname": "Sukhdev Colony - B3 - A2",
@@ -242,7 +242,7 @@
                     "children": []
                   },
                   {
-                    "id": "ba7a708b-a1a9-458a-8ab3-128974ecd345",
+                    "id": "f6f14621-e19d-4afb-bd30-8af37a94af3d",
                     "boundaryNum": 1,
                     "name": "Markit Commeti Back Side - B3 - A2",
                     "localname": "Markit Commeti Back Side - B3 - A2",
@@ -254,7 +254,7 @@
                     "children": []
                   },
                   {
-                    "id": "094d10e1-d128-4815-b3f6-6c67f4c37b25",
+                    "id": "37d1a099-ca93-4893-88f3-19558453677e",
                     "boundaryNum": 1,
                     "name": "Dasmesh Colony - B3 - A2",
                     "localname": "Dasmesh Colony - B3 - A2",
@@ -266,7 +266,7 @@
                     "children": []
                   },
                   {
-                    "id": "fa7bd22d-5cbd-43d2-bcef-67bffebe273c",
+                    "id": "47cf6e30-c206-4d18-95ac-b3ea5f72c737",
                     "boundaryNum": 1,
                     "name": "Lal Godown - B3 - A2",
                     "localname": "Lal Godown - B3 - A2",
@@ -274,6 +274,90 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "KHN-14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "414db155-d2f9-4462-97b2-e94f7266fc4d",
+                    "boundaryNum": 1,
+                    "name": "Byepass Road - B3 - A2",
+                    "localname": "Byepass Road - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "06e3f0cd-292d-4689-8d90-92a4cf81e036",
+                    "boundaryNum": 1,
+                    "name": "Near Nehar - B3 - A2",
+                    "localname": "Near Nehar - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5684cbd1-c154-4e6e-b27b-227fbf7c705d",
+                    "boundaryNum": 1,
+                    "name": "Mandvi Road - B3 - A2",
+                    "localname": "Mandvi Road - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c686752b-91b0-4c94-918f-52a5c3fb92b2",
+                    "boundaryNum": 1,
+                    "name": "Near Satnam Petrol Pump - B3 - A2",
+                    "localname": "Near Satnam Petrol Pump - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "074090c8-ed54-49ff-a8ea-b35056ec4fba",
+                    "boundaryNum": 1,
+                    "name": "Pind Road - B3 - A2",
+                    "localname": "Pind Road - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9156844c-5c90-4eb9-840e-c194976d7545",
+                    "boundaryNum": 1,
+                    "name": "Truck Market - B3 - A2",
+                    "localname": "Truck Market - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a6dca86c-e898-4107-a16e-eeee0b8c2068",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Office Area - B3 - A2",
+                    "localname": "Nagar Panchayat Office Area - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN21",
                     "area": "AREA2",
                     "children": []
                   }
