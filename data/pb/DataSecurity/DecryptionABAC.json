@@ -2,7 +2,7 @@
   "tenantId": "pb",
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
-     {
+    {
       "key": "ADVREPORTS",
       "roleAttributeAccessList": [
         {
