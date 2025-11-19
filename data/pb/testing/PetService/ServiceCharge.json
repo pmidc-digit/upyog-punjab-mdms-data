@@ -3,9 +3,9 @@
   "moduleName": "PetService",
   "ServiceCharge": [
     {
-      "rate": 30,
+      "rate": 0,
       "minAmount": null,
-      "flatAmount": 900,
+      "flatAmount": 0,
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",
