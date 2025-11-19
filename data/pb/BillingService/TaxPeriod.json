@@ -2675,7 +2675,6 @@
       "financialYear": "2025-26"
     },
     {
-<<<<<<< HEAD
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
@@ -2690,8 +2689,8 @@
 	  "service": "BPAREG",
 	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
 	  "financialYear": "2025-26"
-	}
-=======
+	},
+  {
       "fromDate": 1743465600000,
       "toDate": 1775001599000,
       "periodCycle": "ANNUAL",
@@ -2708,6 +2707,5 @@
       "periodCycle": "ANNUAL",
       "isActive": true
     }
->>>>>>> parent of ac19f0068 (Update 2005 to 2012 WS & SW)
   ]
 }
