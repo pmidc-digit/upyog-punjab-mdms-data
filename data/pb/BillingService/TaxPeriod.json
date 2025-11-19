@@ -1210,6 +1210,22 @@
       "code": "WS10YRS2019",
       "financialYear": "2019-29"
     },
+	{
+      "fromDate": 954590401000,
+      "toDate": 1238480999000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "SW10YRS2000",
+      "financialYear": "2000-09"
+},
+{
+      "fromDate": 954590401000,
+      "toDate": 1238480999000,
+      "periodCycle": "TENYEARS",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW10YRS2000",
+      "financialYear": "2000-09"
+},
 	  {
       "fromDate": 1238544001000,
       "toDate": 1554056999000,
@@ -1369,39 +1385,294 @@
       "financialYear": "2014-29"  
 	    
     },
-    {
-      "fromDate": 1364774400000,
-      "toDate": 1372616999000,
-      "periodCycle": "QUATERLY",
-      "service": "WS",
-      "code": "WS-2013-14-Q1",
-      "financialYear": "2013-14"
-    },
-   {
-      "fromDate": 1372636800000,
-      "toDate": 1380565799000,
-      "periodCycle": "QUATERLY",
-      "service": "WS",
-      "code": "WS-2013-14-Q2",
-      "financialYear": "2013-14"
-    },
-   {
-      "fromDate": 1380585600000,
-      "toDate": 1388514599000,
-      "periodCycle": "QUATERLY",
-      "service": "WS",
-      "code": "WS-2013-14-Q3",
-      "financialYear": "2013-14"
-    },
-   {
-      "fromDate": 1388534400000,
-      "toDate": 1396290599000,
-      "periodCycle": "QUATERLY",
-      "service": "WS",
-      "code": "WS-2013-14-Q4",
-      "financialYear": "2013-14"
-    },
-
+	{
+    "fromDate": 1112313601000,
+    "toDate": 1120156199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2005-06-Q1",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1120176001000,
+    "toDate": 1128104999000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2005-06-Q2",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1128124801000,
+    "toDate": 1136053799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2005-06-Q3",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1136073601000,
+    "toDate": 1143829799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2005-06-Q4",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1143849601000,
+    "toDate": 1151692199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2006-07-Q1",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1151712001000,
+    "toDate": 1159640999000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2006-07-Q2",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1159660801000,
+    "toDate": 1167589799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2006-07-Q3",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1167609601000,
+    "toDate": 1175365799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2006-07-Q4",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1175385601000,
+    "toDate": 1183228199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2007-08-Q1",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1183248001000,
+    "toDate": 1191176999000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2007-08-Q2",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1191196801000,
+    "toDate": 1199125799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2007-08-Q3",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1199145601000,
+    "toDate": 1206988199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2007-08-Q4",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1207008001000,
+    "toDate": 1214850599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2008-09-Q1",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1214870401000,
+    "toDate": 1222799399000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2008-09-Q2",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1222819201000,
+    "toDate": 1230748199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2008-09-Q3",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1230768001000,
+    "toDate": 1238524199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2008-09-Q4",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1238544001000,
+    "toDate": 1246386599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2009-10-Q1",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1246406401000,
+    "toDate": 1254335399000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2009-10-Q2",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1254355201000,
+    "toDate": 1262284199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2009-10-Q3",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1262304001000,
+    "toDate": 1270060199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2009-10-Q4",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1270080001000,
+    "toDate": 1277922599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2010-11-Q1",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1277942401000,
+    "toDate": 1285871399000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2010-11-Q2",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1285891201000,
+    "toDate": 1293820199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2010-11-Q3",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1293840001000,
+    "toDate": 1301596199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2010-11-Q4",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1301616001000,
+    "toDate": 1309458599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2011-12-Q1",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1309478401000,
+    "toDate": 1317407399000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2011-12-Q2",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1317427201000,
+    "toDate": 1325356199000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2011-12-Q3",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1325376001000,
+    "toDate": 1333218599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2011-12-Q4",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1333238401000,
+    "toDate": 1341080999000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2012-13-Q1",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1341100801000,
+    "toDate": 1349029799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2012-13-Q2",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1349049601000,
+    "toDate": 1356978599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2012-13-Q3",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1356998401000,
+    "toDate": 1364754599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2012-13-Q4",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1364774401000,
+    "toDate": 1372616999000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2013-14-Q1",
+    "financialYear": "2013-14"
+  },
+  {
+    "fromDate": 1372636801000,
+    "toDate": 1380565799000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2013-14-Q2",
+    "financialYear": "2013-14"
+  },
+  {
+    "fromDate": 1380585601000,
+    "toDate": 1388514599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2013-14-Q3",
+    "financialYear": "2013-14"
+  },
+  {
+    "fromDate": 1388534401000,
+    "toDate": 1396290599000,
+    "periodCycle": "QUATERLY",
+    "service": "WS",
+    "code": "WS-2013-14-Q4",
+    "financialYear": "2013-14"
+  },
    {
       "fromDate": 1396310400000,
       "toDate": 1404152999000,
@@ -1859,8 +2130,264 @@
       "service": "SW",
       "code": "SW-2025-26-Q4",
       "financialYear": "2025-26"
-    },	
-    {
+    },
+ {
+    "fromDate": 1112313601000,
+    "toDate": 1120156199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2005-06-Q1",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1120176001000,
+    "toDate": 1128104999000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2005-06-Q2",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1128124801000,
+    "toDate": 1136053799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2005-06-Q3",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1136073601000,
+    "toDate": 1143829799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2005-06-Q4",
+    "financialYear": "2005-06"
+  },
+  {
+    "fromDate": 1143849601000,
+    "toDate": 1151692199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2006-07-Q1",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1151712001000,
+    "toDate": 1159640999000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2006-07-Q2",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1159660801000,
+    "toDate": 1167589799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2006-07-Q3",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1167609601000,
+    "toDate": 1175365799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2006-07-Q4",
+    "financialYear": "2006-07"
+  },
+  {
+    "fromDate": 1175385601000,
+    "toDate": 1183228199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2007-08-Q1",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1183248001000,
+    "toDate": 1191176999000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2007-08-Q2",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1191196801000,
+    "toDate": 1199125799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2007-08-Q3",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1199145601000,
+    "toDate": 1206988199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2007-08-Q4",
+    "financialYear": "2007-08"
+  },
+  {
+    "fromDate": 1207008001000,
+    "toDate": 1214850599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2008-09-Q1",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1214870401000,
+    "toDate": 1222799399000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2008-09-Q2",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1222819201000,
+    "toDate": 1230748199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2008-09-Q3",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1230768001000,
+    "toDate": 1238524199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2008-09-Q4",
+    "financialYear": "2008-09"
+  },
+  {
+    "fromDate": 1238544001000,
+    "toDate": 1246386599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2009-10-Q1",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1246406401000,
+    "toDate": 1254335399000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2009-10-Q2",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1254355201000,
+    "toDate": 1262284199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2009-10-Q3",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1262304001000,
+    "toDate": 1270060199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2009-10-Q4",
+    "financialYear": "2009-10"
+  },
+  {
+    "fromDate": 1270080001000,
+    "toDate": 1277922599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2010-11-Q1",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1277942401000,
+    "toDate": 1285871399000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2010-11-Q2",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1285891201000,
+    "toDate": 1293820199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2010-11-Q3",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1293840001000,
+    "toDate": 1301596199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2010-11-Q4",
+    "financialYear": "2010-11"
+  },
+  {
+    "fromDate": 1301616001000,
+    "toDate": 1309458599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2011-12-Q1",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1309478401000,
+    "toDate": 1317407399000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2011-12-Q2",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1317427201000,
+    "toDate": 1325356199000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2011-12-Q3",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1325376001000,
+    "toDate": 1333218599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2011-12-Q4",
+    "financialYear": "2011-12"
+  },
+  {
+    "fromDate": 1333238401000,
+    "toDate": 1341080999000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2012-13-Q1",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1341100801000,
+    "toDate": 1349029799000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2012-13-Q2",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1349049601000,
+    "toDate": 1356978599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2012-13-Q3",
+    "financialYear": "2012-13"
+  },
+  {
+    "fromDate": 1356998401000,
+    "toDate": 1364754599000,
+    "periodCycle": "QUATERLY",
+    "service": "SW",
+    "code": "SW-2012-13-Q4",
+    "financialYear": "2012-13"
+  },
+  {
       "fromDate": 1364774400000,
       "toDate": 1372616999000,
       "periodCycle": "QUATERLY",
@@ -2479,13 +3006,13 @@
       "financialYear": "2024-25" 
    },
    {	  
-        "fromDate": 1743445800000,
-        "toDate": 1774981799000,
-        "periodCycle": "ANNUAL",
-        "service": "PT",
-        "code": "PTAN2025",
-        "financialYear": "2025-26" 
-     },
+       "fromDate": 1743445800000,
+       "toDate": 1774981799000,
+       "periodCycle": "ANNUAL",
+       "service": "PT",
+       "code": "PTAN2025",
+       "financialYear": "2025-26" 
+    },
     {
       "fromDate": 1396310399000,
       "toDate": 1869695999000,
@@ -2577,70 +3104,6 @@
       "code": "TLRENEWAL202528",
       "financialYear": "2025-28"
     },
-	{
-	  "fromDate": 1743445800000,
-	  "toDate": 1774981799000,
-	  "periodCycle": "ANNUAL",
-	  "service": "BPAREG",
-	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
-	  "financialYear": "2025-26"
-	},
-	{
-	  "fromDate": 1743445800000,
-	  "toDate": 1774981799000,
-	  "periodCycle": "ANNUAL",
-	  "service": "BPA.NC_APP_FEE",
-	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
-	  "financialYear": "2025-26"
-	},
-	{
-	  "fromDate": 1743445800000,
-	  "toDate": 1774981799000,
-	  "periodCycle": "ANNUAL",
-	  "service": "BPA.NC_SAN_FEE",
-	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
-	  "financialYear": "2025-26"
-	},
-	{
-		"fromDate": 1743445800000,
-		"toDate": 1774981799000,
-		"periodCycle": "ANNUAL",
-		"service": "BPA.NC_OC_APP_FEE",
-		"code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
-		"financialYear": "2025-26"
-	},
-	{
-		"fromDate": 1743445800000,
-		"toDate": 1774981799000,
-		"periodCycle": "ANNUAL",
-		"service": "BPA.NC_OC_SAN_FEE",
-		"code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
-		"financialYear": "2025-26"
-	},
-	{
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
-      "service": "chb-services",
-      "code": "CHB10YRS2024",
-      "financialYear": "2024-34"
-    },
-    {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
-      "service": "adv-services",
-      "code": "ADV10YRS2024",
-      "financialYear": "2024-34"
-    },
-    {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "ANNUAL",
-      "service": "sv-services",
-      "code": "SV_REGISTRATION_FEE",
-      "financialYear": "2024-25"
-    },
     {
       "fromDate": 1743465600000,
       "toDate": 1775001599000,
@@ -2649,47 +3112,21 @@
       "code": "NDC2526",
       "financialYear": "2025-26"
     },
-	{
-	  "fromDate": 1743445800000,
-	  "toDate": 1774981799000,
-	  "periodCycle": "ANNUAL",
-	  "service": "pet-services",
-	  "code": "PTR2526",
-	  "financialYear": "2025-26"
-	},
     {
-      "fromDate": 1743465600000,
-      "toDate": 1775001599000,
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
       "periodCycle": "ANNUAL",
-      "service": "obpas_noc",
-      "code": "NOC",
-      "financialYear": "2025-26"
-    },
-
-    {
-      "fromDate": 1743465600000,
-      "toDate": 1775001599000,
-      "periodCycle": "ANNUAL",
-      "service": "layout",
-      "code": "LAYOUT",
+      "service": "pet-services",
+      "code": "PTR2526",
       "financialYear": "2025-26"
     },
     {
-      "fromDate": 1743465600000,
-      "toDate": 1775001599000,
-      "periodCycle": "ANNUAL",
-      "service": "clu",
-      "code": "CLU",
-      "financialYear": "2025-26"
-    },
-    {
-      "service": "Challan_Generation",
-      "code": "FY2025-26",
-      "fromDate": 1743465600000,
-      "toDate": 1775001599000,
-      "financialYear": "2025-26",
-      "periodCycle": "ANNUAL",
-      "isActive": true
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "chb-services",
+      "code": "CHB10YRS2024",
+      "financialYear": "2024-34"
     }
   ]
 }
