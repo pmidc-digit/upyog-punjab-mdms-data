@@ -30,7 +30,7 @@
         {
           "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
           "info": "",
-          "required": false
+          "required": true
         }, 
         {
           "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
