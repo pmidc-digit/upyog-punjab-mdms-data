@@ -10,15 +10,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Majitha",
-        "localname": "Majitha",
+        "name": "majitha",
+        "localname": "majitha",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.majitha",
         "children": [
           {
-            "id": "83efdb4f-15b2-411a-966c-7bf34c9b9424",
+            "id": "fe089a37-a078-475a-9fd3-2fe5c05688a1",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -28,7 +28,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "37cc9e71-bf4c-4254-9475-49440db14a19",
+                "id": "c404eae6-cc68-46a8-82fc-da4642b8bff5",
                 "boundaryNum": 1,
                 "name": "Block 1",
                 "localname": "Block 1",
@@ -38,7 +38,7 @@
                 "code": "B1",
                 "children": [
                   {
-                    "id": "e4352bb1-cd40-4881-ad81-b4b440d67da0",
+                    "id": "cf47a49a-0e4c-4a0e-9a9a-926c47e60d41",
                     "boundaryNum": 1,
                     "name": "Abadi rori - B1 - A1",
                     "localname": "Abadi rori - B1 - A1",
@@ -52,7 +52,7 @@
                 ]
               },
               {
-                "id": "039eab53-93cc-4cfb-88d2-17a80ff4003e",
+                "id": "91d80ce3-8500-4ac4-950a-22c9116c2675",
                 "boundaryNum": 1,
                 "name": "Block 2",
                 "localname": "Block 2",
@@ -62,7 +62,7 @@
                 "code": "B2",
                 "children": [
                   {
-                    "id": "b48e12a8-1f2c-4632-b5bb-a4637ec49d35",
+                    "id": "57f40867-2676-44ce-902d-d2df5a35dfef",
                     "boundaryNum": 1,
                     "name": "Sabji mandi - B2 - A1",
                     "localname": "Sabji mandi - B2 - A1",
@@ -76,7 +76,7 @@
                 ]
               },
               {
-                "id": "f191c3d1-ce64-4ee5-9977-7fb00c558003",
+                "id": "dd1ef6ab-c883-4f8d-835c-a2d832df3324",
                 "boundaryNum": 1,
                 "name": "Block 3",
                 "localname": "Block 3",
@@ -86,7 +86,7 @@
                 "code": "B3",
                 "children": [
                   {
-                    "id": "4e393dca-3c2f-4571-a777-b33247f43bb2",
+                    "id": "08bb29a9-3c90-4acf-981c-9caeb514490b",
                     "boundaryNum": 1,
                     "name": "Balmik mohalla - B3 - A1",
                     "localname": "Balmik mohalla - B3 - A1",
@@ -100,7 +100,7 @@
                 ]
               },
               {
-                "id": "73acee9c-358c-4d31-96d0-17389a9498b3",
+                "id": "722c1474-9261-42f1-8f58-6f8dfef932f8",
                 "boundaryNum": 1,
                 "name": "Block 4",
                 "localname": "Block 4",
@@ -110,7 +110,7 @@
                 "code": "B4",
                 "children": [
                   {
-                    "id": "7a565f6f-3db7-4edf-b734-b2abb3cb1a90",
+                    "id": "d13bb5fa-f8e5-421a-a4d2-185a3cd5adb2",
                     "boundaryNum": 1,
                     "name": "khasa patti - B4 - A2",
                     "localname": "khasa patti - B4 - A2",
@@ -124,7 +124,7 @@
                 ]
               },
               {
-                "id": "d12583be-a3cd-40d6-b6a5-f37921774b0b",
+                "id": "a6095d95-2312-402b-92c4-6bc3e5c4566a",
                 "boundaryNum": 1,
                 "name": "Block 5",
                 "localname": "Block 5",
@@ -134,7 +134,7 @@
                 "code": "B5",
                 "children": [
                   {
-                    "id": "fd94521d-17bf-49c5-8958-297b03e48f6f",
+                    "id": "9ba2829e-576a-4fa8-9143-74086a01987d",
                     "boundaryNum": 1,
                     "name": "kathunangal road, - B5 - A2",
                     "localname": "kathunangal road, - B5 - A2",
@@ -148,7 +148,7 @@
                 ]
               },
               {
-                "id": "8048bf3b-1e06-4987-8028-c1939c26a492",
+                "id": "75e61b60-5144-431e-876f-0e0cb2397f53",
                 "boundaryNum": 1,
                 "name": "Block 6",
                 "localname": "Block 6",
@@ -158,7 +158,7 @@
                 "code": "B6",
                 "children": [
                   {
-                    "id": "5c3a3425-682b-410a-a335-75f6f9af4b7d",
+                    "id": "e5574688-0708-48c0-bb16-32dc5af4b3e3",
                     "boundaryNum": 1,
                     "name": "sohian road - B6 - A2",
                     "localname": "sohian road - B6 - A2",
@@ -172,7 +172,7 @@
                 ]
               },
               {
-                "id": "9d331cb8-395b-4821-8603-afa452eeece4",
+                "id": "d6a0603f-cf3b-4975-a254-d6a0272bd961",
                 "boundaryNum": 1,
                 "name": "Block 7",
                 "localname": "Block 7",
@@ -182,7 +182,7 @@
                 "code": "B7",
                 "children": [
                   {
-                    "id": "f4f6d060-f17d-4649-91d3-d7a5c8dfb90c",
+                    "id": "fc8966ce-cad5-4663-b1b9-08c37bea9571",
                     "boundaryNum": 1,
                     "name": "ramdasia bazar - B7 - A2",
                     "localname": "ramdasia bazar - B7 - A2",
@@ -196,7 +196,7 @@
                 ]
               },
               {
-                "id": "25c44604-bba3-4a3a-8d7a-0dfe6b81b73a",
+                "id": "3b821cd8-f67a-43ea-801d-e629db6ff78b",
                 "boundaryNum": 1,
                 "name": "Block 8",
                 "localname": "Block 8",
@@ -206,7 +206,7 @@
                 "code": "B8",
                 "children": [
                   {
-                    "id": "3a9aa810-a5e1-4e9d-a96c-f7be47df5853",
+                    "id": "df374daf-cdb6-46e7-9b22-b59353e5b43d",
                     "boundaryNum": 1,
                     "name": "main bazar - B8 - A3",
                     "localname": "main bazar - B8 - A3",
@@ -220,7 +220,7 @@
                 ]
               },
               {
-                "id": "11b37fd9-6566-498d-9d7a-6a9c65710417",
+                "id": "867869af-73b4-4ee2-8310-ccd43d2a1d09",
                 "boundaryNum": 1,
                 "name": "Block 9",
                 "localname": "Block 9",
@@ -230,7 +230,7 @@
                 "code": "B9",
                 "children": [
                   {
-                    "id": "8344a3f8-adcb-42f9-a676-33fd7036bbd8",
+                    "id": "d38be7e0-d405-4f88-99d2-23932a9ea4a5",
                     "boundaryNum": 1,
                     "name": "chota bazar - B9 - A3",
                     "localname": "chota bazar - B9 - A3",
@@ -244,7 +244,7 @@
                 ]
               },
               {
-                "id": "66eb7c5c-6280-4a6a-bc8f-af4e63b14850",
+                "id": "dded2ec8-2309-49b4-bad2-eed45dab6905",
                 "boundaryNum": 1,
                 "name": "Block 10",
                 "localname": "Block 10",
@@ -254,7 +254,7 @@
                 "code": "B10",
                 "children": [
                   {
-                    "id": "863cd7ae-12c6-43da-8c16-6a39c22fecbd",
+                    "id": "187017e7-86a4-46fd-8eed-fd9aff6a9c0c",
                     "boundaryNum": 1,
                     "name": "Devi dwara side - B10 - A3",
                     "localname": "Devi dwara side - B10 - A3",
@@ -268,7 +268,7 @@
                 ]
               },
               {
-                "id": "9a691c9e-c35d-4a0b-976e-200f6ca2487f",
+                "id": "222e0f34-f505-42a9-aeb8-ccc553c81759",
                 "boundaryNum": 1,
                 "name": "Block 11",
                 "localname": "Block 11",
@@ -278,7 +278,7 @@
                 "code": "B11",
                 "children": [
                   {
-                    "id": "21bb6b69-c140-48ae-b9c8-ddbc9d7cf435",
+                    "id": "d23b0fd1-cc9a-4fc6-a666-2041fb280941",
                     "boundaryNum": 1,
                     "name": "Baba kahan singh gurudwara - B11 - A3",
                     "localname": "Baba kahan singh gurudwara - B11 - A3",
@@ -292,7 +292,7 @@
                 ]
               },
               {
-                "id": "2be2fb31-609e-4867-afab-f114a7aad219",
+                "id": "a67a18b7-5103-4c49-bbd2-a5884df0ba5d",
                 "boundaryNum": 1,
                 "name": "Block 12",
                 "localname": "Block 12",
@@ -302,7 +302,7 @@
                 "code": "B12",
                 "children": [
                   {
-                    "id": "0281c013-8bbf-494c-8c1d-ba8bd4683f31",
+                    "id": "32766dd7-59c9-4e4b-8d5d-40b3e7d7c79b",
                     "boundaryNum": 1,
                     "name": "Kabir mohalla - B12 - A3",
                     "localname": "Kabir mohalla - B12 - A3",
@@ -316,7 +316,7 @@
                 ]
               },
               {
-                "id": "71bac06d-b45d-4271-9add-33fa5063b8e7",
+                "id": "f931b444-e6b3-4710-a988-e4f9c2a0fca8",
                 "boundaryNum": 1,
                 "name": "Block 13",
                 "localname": "Block 13",
@@ -326,7 +326,7 @@
                 "code": "B13",
                 "children": [
                   {
-                    "id": "31eb0457-9053-4034-878c-81471bbb9a71",
+                    "id": "f8ccb2e9-4333-4509-af37-6256861fed1e",
                     "boundaryNum": 1,
                     "name": "Opposite Bijli ghar - B13 - A3",
                     "localname": "Opposite Bijli ghar - B13 - A3",
@@ -334,6 +334,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "MM_13",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "39e29b27-7b0b-4ab6-98db-397054da65ae",
+                    "boundaryNum": 1,
+                    "name": "sewa kender - B13 - A3",
+                    "localname": "sewa kender - B13 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MM_14",
                     "area": "AREA3",
                     "children": []
                   }
