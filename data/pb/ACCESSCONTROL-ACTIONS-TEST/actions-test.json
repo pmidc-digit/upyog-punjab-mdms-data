@@ -17010,7 +17010,7 @@
     },
     {
       "id": 2821,
-      "name": "PT_DEFAULTER_REPORT_V2",
+      "name": "Defaulter Report - Latest FY year Payed",
       "url": "url",
       "displayName": "Defaulters Report",
       "orderNumber": 2,
@@ -17031,7 +17031,7 @@
       "orderNumber": 3,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Defaulters Report.DEFAULTER_REPORT_WITH_LOCALITY",
       "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY",
