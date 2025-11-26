@@ -1357,7 +1357,7 @@
     },
     "Documents": {
       "masterName": "Documents",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
