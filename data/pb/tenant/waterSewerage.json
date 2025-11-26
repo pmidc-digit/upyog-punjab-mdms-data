@@ -448,12 +448,14 @@
       "isautodemand": "false"
     },
     {
-  "code": "pb.zirakpur",
-  "name": "Zirakpur",
-  "isautodemand": "false"
-    
-    
+      "code": "pb.zirakpur",
+      "name": "Zirakpur",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.moonak",
+      "name": "Moonak",
+      "isautodemand": "true"
     }
   ]
 }
-
