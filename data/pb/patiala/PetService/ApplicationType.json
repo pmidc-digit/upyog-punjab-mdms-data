@@ -1,0 +1,14 @@
+{
+  "tenantId": "pb.patiala",
+  "moduleName": "PetService",
+  "ApplicationType": [
+    {
+      "code": "NEWAPPLICATION",
+      "active": true
+    },
+    {
+      "code": "RENEWAPPLICATION",
+      "active": true
+    }
+  ]
+}

@@ -4,14 +4,14 @@
   "PenaltyFee": [
     {
       "startingDay": "1",
-      "flatAmount": 0,
+      "flatAmount": 3000,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
     },
     {
       "startingDay": "31",
-      "flatAmount": 0,
+      "flatAmount": 3000,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"

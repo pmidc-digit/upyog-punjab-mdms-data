@@ -1,17 +1,24 @@
 {
-  "tenantId": "pb.doraha",
+  "tenantId": "pb.patiala",
   "moduleName": "PetService",
   "PenaltyFee": [
     {
       "startingDay": "1",
-      "flatAmount": 3000,
+      "flatAmount": 500,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
     },
     {
       "startingDay": "31",
-      "flatAmount": 3000,
+      "flatAmount": 1000,
+      "active": "true",
+      "fromFY": "2025-26",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "61",
+      "flatAmount": 1500,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"

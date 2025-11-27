@@ -1,11 +1,12 @@
 {
-  "tenantId": "pb.mandigobindgarh",
+  "tenantId": "pb.patiala",
   "moduleName": "PetService",
-  "ServiceCharge": [
+  "InterestAmount": [
     {
       "rate": 0,
       "minAmount": null,
-      "flatAmount": 200,
+      "applicableAfterDays":0,
+      "flatAmount": 0,
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",
