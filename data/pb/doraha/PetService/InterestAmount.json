@@ -1,10 +1,11 @@
 {
-  "tenantId": "pb.mohali",
+  "tenantId": "pb.doraha",
   "moduleName": "PetService",
-  "ServiceCharge": [
+  "InterestAmount": [
     {
       "rate": 0,
       "minAmount": null,
+      "applicableAfterDays":0,
       "flatAmount": 0,
       "maxAmount": null,
       "fromFY": "2025-26",

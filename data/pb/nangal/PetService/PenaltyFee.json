@@ -1,24 +1,24 @@
 {
-  "tenantId": "pb.mohali",
+  "tenantId": "pb.nangal",
   "moduleName": "PetService",
   "PenaltyFee": [
     {
       "startingDay": "1",
-      "flatAmount": 100,
+      "flatAmount": 1000,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
     },
     {
       "startingDay": "31",
-      "flatAmount": 200,
+      "flatAmount": 1000,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
     },
     {
       "startingDay": "61",
-      "flatAmount": 500,
+      "flatAmount": 1000,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"

@@ -1,11 +1,11 @@
 {
-  "tenantId": "pb.mohali",
+  "tenantId": "pb.nangal",
   "moduleName": "PetService",
   "ServiceCharge": [
     {
       "rate": 0,
       "minAmount": null,
-      "flatAmount": 0,
+      "flatAmount": 200,
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",

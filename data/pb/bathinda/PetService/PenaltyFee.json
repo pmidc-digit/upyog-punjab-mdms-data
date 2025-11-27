@@ -3,22 +3,22 @@
   "moduleName": "PetService",
   "PenaltyFee": [
     {
+      "startingDay": "1",
+      "flatAmount": 100,
+      "active": "true",
+      "fromFY": "2025-26",
+      "feeType": "PenaltyFee"
+    },
+    {
       "startingDay": "31",
-      "flatAmount": 0,
+      "flatAmount": 200,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
     },
     {
       "startingDay": "61",
-      "flatAmount": 0,
-      "active": "true",
-      "fromFY": "2025-26",
-      "feeType": "PenaltyFee"
-    },
-    {
-      "startingDay": "91",
-      "flatAmount": 0,
+      "flatAmount": 500,
       "active": "true",
       "fromFY": "2025-26",
       "feeType": "PenaltyFee"
