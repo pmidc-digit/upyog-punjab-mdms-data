@@ -808,15 +808,17 @@
       "isStateLevel": false,
       "uniqueKeys": []
     },
-    "Documents": {
-      "masterName": "Documents",
-      "isStateLevel": true,
-      "uniqueKeys": []
-    },
-    "Reasons": {
-      "masterName": "Reasons",
-      "isStateLevel": true,
-      "uniqueKeys": []
+    "NDC": {
+      "Documents": {
+        "masterName": "Documents",
+        "isStateLevel": true,
+        "uniqueKeys": []
+      },
+      "Reasons": {
+        "masterName": "Reasons",
+        "isStateLevel": true,
+        "uniqueKeys": []
+      }
     },
     "CHB": {
       "CommunityHalls": {
