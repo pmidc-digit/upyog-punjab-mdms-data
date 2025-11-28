@@ -60,6 +60,13 @@
             "label": "ACTION_TEST_CHALLANGENERATION",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/challangeneration-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
+            "name": "Community Hall Booking",
+            "label": "ACTION_TEST_CHB",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/chb-home"
           }
         ]
       },
