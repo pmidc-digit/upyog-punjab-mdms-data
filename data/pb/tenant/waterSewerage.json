@@ -158,6 +158,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.cheema",
+      "name": "Cheema",
+      "isautodemand": "true"
+    },
+    {
       "code": "pb.dasuya",
       "name": "Dasuya",
       "isautodemand": "false"
@@ -245,7 +250,7 @@
     {
       "code": "pb.kartarpur",
       "name": "Kartarpur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.khamano",
@@ -260,7 +265,7 @@
     {
       "code": "pb.kharar",
       "name": "Kharar",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.kurali",
@@ -281,6 +286,11 @@
       "code": "pb.malerkotla",
       "name": "Malerkotla",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.malout",
+      "name": "Malout",
+      "isautodemand": "true"
     },
     {
       "code": "pb.mahilpur",
@@ -455,7 +465,7 @@
     {
       "code": "pb.moonak",
       "name": "Moonak",
-      "isautodemand": "true"
+      "isautodemand": "false"
     }
   ]
 }
