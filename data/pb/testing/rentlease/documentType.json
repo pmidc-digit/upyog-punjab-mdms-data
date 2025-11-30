@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "docuementName",
+  "docName": [
+    {
+     "id":"1",
+     "name":"Govt Document"
+    },
+    {
+     "id":"2",
+     "name":"Auction Copy"
+    },
+    {
+     "id":"3",
+     "name":"Identity Proof"
+    },
+    {
+     "id":"4",
+     "name":"Address proof"
+    },
+    {
+     "id":"5",
+     "name":"Self Declaration"
+    }
+  ]
+}

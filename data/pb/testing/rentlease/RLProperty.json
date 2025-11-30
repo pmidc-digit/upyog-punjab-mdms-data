@@ -1,0 +1,169 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+     "propertyId":"RL271020250001",
+     "propertyName":"Abc",
+     "usageCategory":"rent",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"Daily",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250002",
+     "propertyName":"Abc",
+     "usageCategory":"release",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Commercial",
+     "locationType":"Non-Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"Monthly",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250003",
+     "propertyName":"Abc",
+     "usageCategory":"lease",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"onetime",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250004",
+     "propertyName":"Abc",
+     "usageCategory":"Rent",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"2",
+     "locationType":"1",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,   
+     "penaltyType":"Daily",
+     "latePayment":"2%"  
+    },
+    {
+     "propertyId":"RL271020250005",
+     "propertyName":"Abc",
+     "usageCategory":"release",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"onetime",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250006",
+     "propertyName":"Abc",
+     "usageCategory":"rent",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"Daily",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250007",
+     "propertyName":"Abc",
+     "usageCategory":"rent",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"Daily",
+     "latePayment":"2%"
+    },
+    {
+     "propertyId":"RL271020250008",
+     "propertyName":"Abc",
+     "usageCategory":"rent",
+     "propertySizeOrArea":"12345",
+     "address":"5th Floor, Unit No. A 505, Elante Offices, Plot No.178-178A",
+     "geoLocation":{
+          "latitude":"1234567.233",
+          "longitude":"1234568.555"
+      },
+     "propertyImage":"https://c8.alamy.com/comp/KFF7X8/kpmg-logo-KFF7X8.jpg",
+     "propertyType":"Residential",
+     "locationType":"Prime",
+     "baseRent":"2333",
+     "securityDeposit":"1234",
+     "tax_applicable":true,
+     "refund_applicable_on_discontinuation": true,
+     "penaltyType":"Daily",
+     "latePayment":"2%"
+    }
+
+
+
+  ]
+}

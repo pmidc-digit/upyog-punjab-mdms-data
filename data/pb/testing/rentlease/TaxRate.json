@@ -1,0 +1,32 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "rentAndLease",
+    "TaxRates": [
+          {
+            "id": "1",  
+            "taxType": "CGST",
+            "type":"%",            
+            "amount": 9
+          },
+          {
+            "id": "2",  
+            "taxType": "SGST",
+            "type":"%",
+            "amount": 9
+          },
+          {
+            "id": "3",  
+            "taxType": "CowCase",
+            "type":"value",
+            "amount": 1000
+          },
+          {
+            "id": "4",  
+            "taxType": "Penalty",
+            "type":"%",
+            "amount": 2
+          }
+
+
+    ]
+  }
