@@ -716,6 +716,10 @@
     {
       "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID]",
       "idname": "pet-services.receipt.id"
+    },
+    {
+     "format":"PB-MH-[fy:yyyy-yy]-[SEQ_EG_RL_APPLICATION]",
+     "idname":"rl.applicationnumber"
     }
   ]
 }

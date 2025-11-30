@@ -2,6 +2,12 @@
     "tenantId": "pb",
     "moduleName": "Workflow",
     "BusinessServiceMasterConfig": [
+       {
+
+        "businessService": "RENT-N-LEASE",
+        "active": "true",
+        "isStatelevel": "true"
+      },
       {
         "businessService": "NewTL",
         "active": "true",
