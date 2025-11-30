@@ -20,7 +20,8 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"Daily",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
     },
     {
      "propertyId":"RL271020250002",
@@ -40,7 +41,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"Monthly",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     },
     {
      "propertyId":"RL271020250003",
@@ -60,7 +63,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"onetime",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     },
     {
      "propertyId":"RL271020250004",
@@ -80,7 +85,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,   
      "penaltyType":"Daily",
-     "latePayment":"2%"  
+     "latePayment":"2%",
+     "cowCessApplicable":true
+  
     },
     {
      "propertyId":"RL271020250005",
@@ -100,7 +107,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"onetime",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     },
     {
      "propertyId":"RL271020250006",
@@ -120,7 +129,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"Daily",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     },
     {
      "propertyId":"RL271020250007",
@@ -140,7 +151,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"Daily",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     },
     {
      "propertyId":"RL271020250008",
@@ -160,7 +173,9 @@
      "tax_applicable":true,
      "refund_applicable_on_discontinuation": true,
      "penaltyType":"Daily",
-     "latePayment":"2%"
+     "latePayment":"2%",
+     "cowCessApplicable":true
+
     }
 
 
