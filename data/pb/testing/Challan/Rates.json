@@ -2,49 +2,89 @@
   "tenantId": "pb.testing",
   "moduleName": "Challan",
   "Rates": [
-  {
-    "subCategoryId": "SC101",
-    "amount": 500
-  },
-  {
-    "subCategoryId": "SC102",
-    "amount": 1500
-  },
-  {
-    "subCategoryId": "SC111",
-    "amount": 200
-  },
-  {
-    "subCategoryId": "SC201",
-    "amount": 1000
-  },
-  {
-    "subCategoryId": "SC202",
-    "amount": 3000
-  },
-  {
-    "subCategoryId": "SC211",
-    "amount": 150
-  },
-  {
-    "subCategoryId": "SC212",
-    "amount": 100
-  },
-  {
-    "subCategoryId": "SC301",
-    "amount": 750
-  },
-  {
-    "subCategoryId": "SC302",
-    "amount": 300
-  },
-  {
-    "subCategoryId": "SC311",
-    "amount": 5000
-  },
-  {
-    "subCategoryId": "SC401",
-    "amount": 250
-  }
-]
+    {
+      "offenceTypeId": "OT1",
+      "amount": 250
+    },
+    {
+      "offenceTypeId": "OT2",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT3",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT4",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT5",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT6",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT7",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT8",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT9",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT10",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT11",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT12",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT13",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT14",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT15",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT16",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT17",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT18",
+      "amount": 3000
+    },
+    {
+      "offenceTypeId": "OT19",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT20",
+      "amount": 10000
+    },
+    {
+      "offenceTypeId": "OT21",
+      "amount": 20000
+    }
+  ]
 }
