@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb.rajasansi",
+  "moduleName": "CHB",
+    "CowCess": [
+      {
+        "1": [
+          {
+            "feeType": "CHB_COW_CESS",
+            "rate": 0,
+            "flatAmount": 0,
+            "minAmount": null,
+            "maxAmount": null,
+            "fromFY": "2025-26",
+            "applicableAfterDays": "0",
+            "active": true,
+            "taxApplicable": false,
+            "refundable": false
+          }
+        ]
+      }
+    ]
+  }
