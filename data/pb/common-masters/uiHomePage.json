@@ -34,6 +34,13 @@
             "navigationUrl": "/digit-ui/citizen/ws-home"
           },
           {
+            "code": "CITIZEN_SERVICE_ENGAGEMENT",
+            "name": "Engagement",
+            "label": "ACTION_TEST_ENGAGEMENT",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
+          },
+          {
             "code": "CITIZEN_SERVICE_PTR",
             "name": "Pet Services",
             "label": "ACTION_TEST_PET_SERVICES",
@@ -53,13 +60,6 @@
             "label": "ACTION_TEST_NDC",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/ndc-home"
-          },
-          {
-            "code": "CITIZEN_SERVICE_CHALLANGENERATION",
-            "name": "Challan Generation",
-            "label": "ACTION_TEST_CHALLANGENERATION",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/challangeneration-home"
           },
           {
             "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
