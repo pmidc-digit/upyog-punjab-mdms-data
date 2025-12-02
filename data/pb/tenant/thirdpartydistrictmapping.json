@@ -1,0 +1,46 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "thirdpartydistrictmapping": [
+    {
+      "districts": [
+        { "msevaname": "Barnala", "thirdpartyname": "BARNALA" },
+        { "msevaname": "Ferozepur", "thirdpartyname": "FEROZEPUR" },
+        { "msevaname": "Gurdaspur", "thirdpartyname": "GURDASPUR" },
+        { "msevaname": "Amritsar", "thirdpartyname": "AMRITSAR" },
+        { "msevaname": "Mohali", "thirdpartyname": "SAS NAGAR" },
+        { "msevaname": "Nawanshar", "thirdpartyname": "S.B.S. NAGAR" },
+        { "msevaname": "Muktsar", "thirdpartyname": "MUKTSAR" },
+        { "msevaname": "Bathinda", "thirdpartyname": "BATHINDA" },
+        { "msevaname": "Hoshiarpur", "thirdpartyname": "HOSHIARPUR" },
+        { "msevaname": "Ropar", "thirdpartyname": "ROOPNAGAR" },
+        { "msevaname": "Pathankot", "thirdpartyname": "PATHANKOT" },
+        { "msevaname": "Fatehgarh Sahib", "thirdpartyname": "FATEHGARH SAHIB" },
+        { "msevaname": "Ludhiana", "thirdpartyname": "LUDHIANA" },
+        { "msevaname": "Fazilka", "thirdpartyname": "FAZILKA" },
+        { "msevaname": "Patiala", "thirdpartyname": "PATIALA" },
+        { "msevaname": "Kapurthala", "thirdpartyname": "KAPURTHALA" },
+        { "msevaname": "Sangrur", "thirdpartyname": "SANGRUR" },
+        { "msevaname": "Mansa", "thirdpartyname": "MANSA" },
+        { "msevaname": "Jalandhar", "thirdpartyname": "JALANDHAR" },
+        { "msevaname": "Punjab", "thirdpartyname": null },
+        { "msevaname": "Faridkot", "thirdpartyname": "FARIDKOT" },
+        { "msevaname": "Kapurthala", "thirdpartyname": "KAPURTHALA" },
+        { "msevaname": "Ferozepurpwssb", "thirdpartyname": "FEROZEPUR" },
+        { "msevaname": "Tarn Taran", "thirdpartyname": "TARN TARAN" },
+        { "msevaname": "Moga", "thirdpartyname": "MOGA" },
+        { "msevaname": "Roopnagar", "thirdpartyname": "ROOPNAGAR" }
+      ],
+      "roles": [
+        "WS_CLERK",
+        "NOC_CEMP",
+        "TL_CEMP",
+        "SW_CLERK",
+        "CEMP",
+        "WS_CEMP",
+        "PTCEMP",
+        "ESEWAEMP"
+      ]
+    }
+  ]
+}

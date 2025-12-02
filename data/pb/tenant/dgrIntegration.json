@@ -1,0 +1,163 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "dgrIntegration": [
+{
+  "categories": [
+    {
+      "Category_ID": "264",
+      "subcategories": [
+        { "id": "989", "label": "Street or Park Light Not Working" },
+        { "id": "990", "label": "No Street Light" }
+      ]
+    },
+    {
+      "Category_ID": "265",
+      "subcategories": [
+        { "id": "993", "label": "Garbage Needs To be Cleared" },
+        { "id": "994", "label": "Burning Of Garbage" },
+        { "id": "995", "label": "Damaged Garbage Bin" },
+        { "id": "996", "label": "Non Sweeping Of Road" },
+        { "id": "997", "label": "Congress Grass Cutting" }
+      ]
+    },
+    {
+      "Category_ID": "266",
+      "subcategories": [
+        { "id": "998", "label": "Overflowing Or Blocked Drain" },
+        { "id": "999", "label": "Cleaning Of Drains" },
+        { "id": "1000", "label": "Water Entered House Rainy Season" }
+      ]
+    },
+    {
+      "Category_ID": "274",
+      "subcategories": [
+        { "id": "1037", "label": "Damaged Road" },
+        { "id": "1039", "label": "Construction Material Lying On the Road" },
+        { "id": "1040", "label": "Manhole Cover Missing Or Damaged Or Improper Level" },
+        { "id": "1041", "label": "Broken or Cleaning of Roads" },
+        { "id": "1043", "label": "Road Jalli Broken" },
+        { "id": "1045", "label": "Damaged Or Blocked Foot path" },
+        { "id": "1047", "label": "Repair Of Culverts CauseWays" },
+        { "id": "1049", "label": "Request For Construction Of New Roads Footpaths Pavements" },
+        { "id": "1050", "label": "Illegal Rehries On Road" },
+        { "id": "3382", "label": "Maintenance Of Roads With Patch Work" },
+        { "id": "3383", "label": "Marking Of Roads" }
+      ]
+    },
+    {
+      "Category_ID": "276",
+      "subcategories": [
+        { "id": "1053", "label": "Overcharge in paid parkings" },
+        { "id": "1054", "label": "Illegal Constructions" },
+        { "id": "1056", "label": "Illegal Shops or Commercial buildings" },
+        { "id": "1060", "label": "Unauthorized Land Use in Premises" },
+        { "id": "1061", "label": "Illegal Parking" },
+        { "id": "1063", "label": "Encroachment On Any Kind On Government Land" }
+      ]
+    },
+    {
+      "Category_ID": "280",
+      "subcategories": [
+        { "id": "1074", "label": "Request Spraying Or Fogging Operation" }
+      ]
+    },
+    {
+      "Category_ID": "281",
+      "subcategories": [
+        { "id": "1079", "label": "Lifting Of Stray Animals" },
+        { "id": "1080", "label": "Dead Animals" }
+      ]
+    },
+    {
+      "Category_ID": "282",
+      "subcategories": [
+        { "id": "1085", "label": "Improper maintenance of public toilet" }
+      ]
+    },
+    {
+      "Category_ID": "285",
+      "subcategories": [
+        { "id": "1097", "label": "Cutting Or Trimming Of Tree Required" }
+      ]
+    },
+    {
+      "Category_ID": "286",
+      "subcategories": [
+        { "id": "1100", "label": "Open Defecation" }
+      ]
+    },
+    {
+      "Category_ID": "288",
+      "subcategories": [
+        { "id": "1104", "label": "Park Requires Maintenance" }
+      ]
+    },
+    {
+      "Category_ID": "289",
+      "subcategories": [
+        { "id": "1108", "label": "Birth And Death Certificates" }
+      ]
+    },
+    {
+      "Category_ID": "297",
+      "subcategories": [
+        { "id": "1112", "label": "Water and Sewerage Issues" },
+        { "id": "1115", "label": "Property Tax Issues" },
+        { "id": "1116", "label": "Trade License Issues" },
+        { "id": "1117", "label": "FireNoc Issues" }
+      ]
+    },
+    {
+      "Category_ID": "292",
+      "subcategories": [
+        { "id": "1140", "label": "Funds Related" }
+      ]
+    },
+    {
+      "Category_ID": "296",
+      "subcategories": [
+        { "id": "1148", "label": "Against Employee" }
+      ]
+    },
+    {
+      "Category_ID": "298",
+      "subcategories": [
+        { "id": "1149", "label": "Others Complaints for local government" }
+      ]
+    },
+    {
+      "Category_ID": "1079",
+      "subcategories": [
+        { "id": "3020", "label": "CM Window" }
+      ]
+    },
+    {
+      "Category_ID": "1257",
+      "subcategories": [
+        { "id": "3198", "label": "Weekly DC Camps" }
+      ]
+    },
+    {
+      "Category_ID": "1604",
+      "subcategories": [
+        { "id": "3384", "label": "illegal Discharge Of Sewage" },
+        { "id": "3385", "label": "Block Or Overflowing Sewage" },
+        { "id": "3386", "label": "Shortage Of Water or No water supply" },
+        { "id": "3387", "label": "Dirty Water Supply" },
+        { "id": "3388", "label": "Broken Water Pipe Or Leakage" },
+        { "id": "3389", "label": "Water Pressure is Very Less" },
+        { "id": "3390", "label": "No Water Supply" },
+        { "id": "3391", "label": "Sewage Main Hole Cover Missing Or Broken or not kept properly" },
+        { "id": "3392", "label": "Cleaning Of Sewage Remove SLURRYGaar" }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+  ]
+}
