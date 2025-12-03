@@ -34,6 +34,13 @@
             "navigationUrl": "/digit-ui/citizen/pgr-home"
           },
           {
+            "code": "CITIZEN_SERVICE_ENGAGEMENT",
+            "name": "Engagement",
+            "label": "ACTION_TEST_ENGAGEMENT",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/engagement/surveys/active-open-surveys"
+          },
+          {
             "code": "CITIZEN_SERVICE_PT",
             "name": "Property Tax",
             "label": "MODULE_PT",
