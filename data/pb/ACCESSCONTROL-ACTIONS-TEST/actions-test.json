@@ -24676,6 +24676,43 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900960,
+      "name": "Defaulter Report",
+      "url": "url",
+      "displayName": "Defaulter Report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "PET REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "PET Reports.Defaulter Report",
+      "navigationURL": "report/rainmaker-ptr/DefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900961,
+      "name": "Defaulter Report",
+      "url": "/report/rainmaker-ptr/DefaulterReport/metadata/_get",
+      "displayName": "Defaulter Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900962,
+      "name": "Defaulter Report",
+      "url": "/report/rainmaker-ptr/DefaulterReport/_get",
+      "displayName": "Defaulter Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
