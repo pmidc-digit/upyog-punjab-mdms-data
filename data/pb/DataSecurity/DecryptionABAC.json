@@ -10,13 +10,37 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_email_id"
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/applicant_mobile_no"
               },
               "accessType": "PLAIN"
             },
@@ -50,7 +74,31 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/assignee_employee"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/assigned_employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
               },
               "accessType": "PLAIN"
             }
@@ -72,13 +120,37 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_email_id"
+                "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
                 "jsonPath": "*/applicant_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             }
@@ -113,6 +185,30 @@
             {
               "attribute": {
                 "jsonPath": "*/employee_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/assignee_employee"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
               },
               "accessType": "PLAIN"
             }
