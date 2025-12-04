@@ -24713,6 +24713,18 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 111780,
+      "name": "Employee Create",
+      "url": "/egov-hrms/obpass/employees/_create",
+      "parentModule": "egov-hrms",
+      "displayName": "Opas Employee Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
