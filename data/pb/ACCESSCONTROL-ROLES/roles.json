@@ -733,6 +733,12 @@
       "name": "BPA Services verifier",
       "description": "BPA Services workflow document & field inspection verifier",
       "groupId": "025"
+    },
+    {
+      "code": "VIEW_OBPS_CARD",
+      "name": "View OBPS Card",
+      "description": "For OBPS Card Display in Dashboard",
+      "groupId": "025"
     }
   ]
 }
