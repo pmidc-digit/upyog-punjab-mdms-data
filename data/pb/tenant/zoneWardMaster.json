@@ -1,0 +1,7423 @@
+{
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "zoneWardMaster": [
+    {
+      "tenantId": "pb.abohar",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.adampur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ahmedgarh",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ZoneA",
+          "name": "ZoneA"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ajnala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.alawalpur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.amargarh",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.amloh",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.amritsar",
+      "zones": [
+        {
+          "code": "Central1",
+          "name": "Central1"
+        },
+        {
+          "code": "Central2",
+          "name": "Central2"
+        },
+        {
+          "code": "Central3",
+          "name": "Central3"
+        },
+        {
+          "code": "Central4",
+          "name": "Central4"
+        },
+        {
+          "code": "East1",
+          "name": "East1"
+        },
+        {
+          "code": "East2",
+          "name": "East2"
+        },
+        {
+          "code": "East3",
+          "name": "East3"
+        },
+        {
+          "code": "East4",
+          "name": "East4"
+        },
+        {
+          "code": "HQ",
+          "name": "HQ"
+        },
+        {
+          "code": "North1",
+          "name": "North1"
+        },
+        {
+          "code": "North2",
+          "name": "North2"
+        },
+        {
+          "code": "North3",
+          "name": "North3"
+        },
+        {
+          "code": "North4",
+          "name": "North4"
+        },
+        {
+          "code": "South1",
+          "name": "South1"
+        },
+        {
+          "code": "South2",
+          "name": "South2"
+        },
+        {
+          "code": "South3",
+          "name": "South3"
+        },
+        {
+          "code": "South4",
+          "name": "South4"
+        },
+        {
+          "code": "West1",
+          "name": "West1"
+        },
+        {
+          "code": "West2",
+          "name": "West2"
+        },
+        {
+          "code": "West3",
+          "name": "West3"
+        },
+        {
+          "code": "West4",
+          "name": "West4"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.anandpursahib",
+      "zones": [
+        {
+          "code": "Anandpur Sahib",
+          "name": "Anandpur Sahib"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.arniwala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bababakalasahib",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.badhnikalan",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.baghapurana",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.balachaur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.balianwali",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.banga",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.banur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bareta",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bariwala",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.barnala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone28",
+          "name": "Zone28"
+        },
+        {
+          "code": "Zone29",
+          "name": "Zone29"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone30",
+          "name": "Zone30"
+        },
+        {
+          "code": "Zone31",
+          "name": "Zone31"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bassipathana",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.batala",
+      "zones": [
+        {
+          "code": "Block1",
+          "name": "Block1"
+        },
+        {
+          "code": "Block2",
+          "name": "Block2"
+        },
+        {
+          "code": "Block3",
+          "name": "Block3"
+        },
+        {
+          "code": "Block4",
+          "name": "Block4"
+        },
+        {
+          "code": "Block5",
+          "name": "Block5"
+        },
+        {
+          "code": "Block6",
+          "name": "Block6"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bathinda",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.begowal",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhadaur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhadson",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhagtabhai",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhairoopa",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhawanigarh",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhikhi",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhikhiwind",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhogpur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhuchomandi",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bhulath",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.bilga",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.boha",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.budhlada",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.chamkaursahib",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.chaunke",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.cheema",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dasuya",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.derababananak",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.derabassi",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.devigarh",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dhanaula",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dharamkot",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dhariwal",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dhilwan",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dhuri",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dinanagar",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.dirba",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.doraha",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.faridkot",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.fatehgarhchurian",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.fatehgarhpanjtoor",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.fazilka",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ferozepur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.gardhiwala",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.garhshankar",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ghagga",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ghanaur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.gharuan",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.gidderbaha",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.gobindgarh_(mandi_gobindgarh)",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone A- North",
+          "name": "Zone A- North"
+        },
+        {
+          "code": "Zone B- South",
+          "name": "Zone B- South"
+        },
+        {
+          "code": "Zone B- South-2",
+          "name": "Zone B- South-2"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.goniana",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.goraya",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.gurdaspur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.guruharsahai",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.handiaya",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.hariana",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.hoshiarpur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward26",
+          "name": "ward26"
+        },
+        {
+          "code": "ward27",
+          "name": "ward27"
+        },
+        {
+          "code": "ward28",
+          "name": "ward28"
+        },
+        {
+          "code": "ward29",
+          "name": "ward29"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward30",
+          "name": "ward30"
+        },
+        {
+          "code": "ward31",
+          "name": "ward31"
+        },
+        {
+          "code": "ward32",
+          "name": "ward32"
+        },
+        {
+          "code": "ward33",
+          "name": "ward33"
+        },
+        {
+          "code": "ward34",
+          "name": "ward34"
+        },
+        {
+          "code": "ward35",
+          "name": "ward35"
+        },
+        {
+          "code": "ward36",
+          "name": "ward36"
+        },
+        {
+          "code": "ward37",
+          "name": "ward37"
+        },
+        {
+          "code": "ward38",
+          "name": "ward38"
+        },
+        {
+          "code": "ward39",
+          "name": "ward39"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward40",
+          "name": "ward40"
+        },
+        {
+          "code": "ward41",
+          "name": "ward41"
+        },
+        {
+          "code": "ward42",
+          "name": "ward42"
+        },
+        {
+          "code": "ward43",
+          "name": "ward43"
+        },
+        {
+          "code": "ward44",
+          "name": "ward44"
+        },
+        {
+          "code": "ward45",
+          "name": "ward45"
+        },
+        {
+          "code": "ward46",
+          "name": "ward46"
+        },
+        {
+          "code": "ward47",
+          "name": "ward47"
+        },
+        {
+          "code": "ward48",
+          "name": "ward48"
+        },
+        {
+          "code": "ward49",
+          "name": "ward49"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward50",
+          "name": "ward50"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.jagraon",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.jaitu",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.jalalabad",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.jalandhar",
+      "zones": [
+        {
+          "code": "Block1",
+          "name": "Block1"
+        },
+        {
+          "code": "Block10",
+          "name": "Block10"
+        },
+        {
+          "code": "Block11",
+          "name": "Block11"
+        },
+        {
+          "code": "Block12",
+          "name": "Block12"
+        },
+        {
+          "code": "Block12A",
+          "name": "Block12A"
+        },
+        {
+          "code": "Block13",
+          "name": "Block13"
+        },
+        {
+          "code": "Block14",
+          "name": "Block14"
+        },
+        {
+          "code": "Block15",
+          "name": "Block15"
+        },
+        {
+          "code": "Block16",
+          "name": "Block16"
+        },
+        {
+          "code": "Block17",
+          "name": "Block17"
+        },
+        {
+          "code": "Block18",
+          "name": "Block18"
+        },
+        {
+          "code": "Block19",
+          "name": "Block19"
+        },
+        {
+          "code": "Block2",
+          "name": "Block2"
+        },
+        {
+          "code": "Block20",
+          "name": "Block20"
+        },
+        {
+          "code": "Block3",
+          "name": "Block3"
+        },
+        {
+          "code": "Block4",
+          "name": "Block4"
+        },
+        {
+          "code": "Block5",
+          "name": "Block5"
+        },
+        {
+          "code": "Block6",
+          "name": "Block6"
+        },
+        {
+          "code": "Block6A",
+          "name": "Block6A"
+        },
+        {
+          "code": "Block7",
+          "name": "Block7"
+        },
+        {
+          "code": "Block7A",
+          "name": "Block7A"
+        },
+        {
+          "code": "Block8",
+          "name": "Block8"
+        },
+        {
+          "code": "Block9",
+          "name": "Block9"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.jandialaguru",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.joga",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kapurthala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kartarpur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.khamano",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.khanna",
+      "zones": [
+        {
+          "code": "Guru Amardass Market",
+          "name": "Guru Amardass Market"
+        },
+        {
+          "code": "Guru Teg Bahadur Nagar",
+          "name": "Guru Teg Bahadur Nagar"
+        },
+        {
+          "code": "Khanna",
+          "name": "Khanna"
+        },
+        {
+          "code": "Narottam Nagar Extension Scheme",
+          "name": "Narottam Nagar Extension Scheme"
+        },
+        {
+          "code": "Narottam Nagar Scheme",
+          "name": "Narottam Nagar Scheme"
+        },
+        {
+          "code": "Railway Road",
+          "name": "Railway Road"
+        },
+        {
+          "code": "Shivaji Complex",
+          "name": "Shivaji Complex"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+
+    {
+      "tenantId": "pb.kharar",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ZoneA",
+          "name": "ZoneA"
+        },
+        {
+          "code": "ZoneA1",
+          "name": "ZoneA1"
+        },
+        {
+          "code": "ZoneA2",
+          "name": "ZoneA2"
+        },
+        {
+          "code": "ZoneB",
+          "name": "ZoneB"
+        },
+        {
+          "code": "ZoneB1",
+          "name": "ZoneB1"
+        },
+        {
+          "code": "ZoneB2",
+          "name": "ZoneB2"
+        },
+        {
+          "code": "ZoneC",
+          "name": "ZoneC"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.khemkaran",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kiratpur",
+      "zones": [
+        {
+          "code": "NP Kiratpur Sahib",
+          "name": "NP Kiratpur Sahib"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kotfatta",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kotissekhan",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kotshamir",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kotkapura",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone28",
+          "name": "Zone28"
+        },
+        {
+          "code": "Zone29",
+          "name": "Zone29"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.kurali",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone A",
+          "name": "Zone A"
+        },
+        {
+          "code": "Zone B",
+          "name": "Zone B"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.lalru",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.lehramohabbat",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.lehragaga",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.lohiankhas",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.longowal",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ludhiana",
+      "zones": [
+        {
+          "code": "Bharat Nagar Extention",
+          "name": "Bharat Nagar Extention"
+        },
+        {
+          "code": "Maharishi Balmik Nagar",
+          "name": "Maharishi Balmik Nagar"
+        },
+        {
+          "code": "Rajguru Nagar",
+          "name": "Rajguru Nagar"
+        },
+        {
+          "code": "Shaheed Bhagat Singh Nagar",
+          "name": "Shaheed Bhagat Singh Nagar"
+        },
+        {
+          "code": "Shaheed Bhagat Singh Nagar (Kabir Society)",
+          "name": "Shaheed Bhagat Singh Nagar (Kabir Society)"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone A - Block 10",
+          "name": "Zone A - Block 10"
+        },
+        {
+          "code": "Zone A - Block 11",
+          "name": "Zone A - Block 11"
+        },
+        {
+          "code": "Zone A - Block 12",
+          "name": "Zone A - Block 12"
+        },
+        {
+          "code": "Zone A - Block 13",
+          "name": "Zone A - Block 13"
+        },
+        {
+          "code": "Zone A - Block 2",
+          "name": "Zone A - Block 2"
+        },
+        {
+          "code": "Zone A - Block 25",
+          "name": "Zone A - Block 25"
+        },
+        {
+          "code": "Zone A - Block 3",
+          "name": "Zone A - Block 3"
+        },
+        {
+          "code": "Zone A - Block 32(1)",
+          "name": "Zone A - Block 32(1)"
+        },
+        {
+          "code": "Zone A - Block 32(2)",
+          "name": "Zone A - Block 32(2)"
+        },
+        {
+          "code": "Zone A - Block 33",
+          "name": "Zone A - Block 33"
+        },
+        {
+          "code": "Zone A - Block 4",
+          "name": "Zone A - Block 4"
+        },
+        {
+          "code": "Zone A - Block 5",
+          "name": "Zone A - Block 5"
+        },
+        {
+          "code": "Zone A - Block 6",
+          "name": "Zone A - Block 6"
+        },
+        {
+          "code": "Zone A - Block 7",
+          "name": "Zone A - Block 7"
+        },
+        {
+          "code": "Zone A - Block 8",
+          "name": "Zone A - Block 8"
+        },
+        {
+          "code": "Zone A - Block 9",
+          "name": "Zone A - Block 9"
+        },
+        {
+          "code": "Zone B - Block 14",
+          "name": "Zone B - Block 14"
+        },
+        {
+          "code": "Zone B - Block 23",
+          "name": "Zone B - Block 23"
+        },
+        {
+          "code": "Zone B - Block 24",
+          "name": "Zone B - Block 24"
+        },
+        {
+          "code": "Zone B - Block 30",
+          "name": "Zone B - Block 30"
+        },
+        {
+          "code": "Zone B - Block 31(1)",
+          "name": "Zone B - Block 31(1)"
+        },
+        {
+          "code": "Zone B - Block 31(2)",
+          "name": "Zone B - Block 31(2)"
+        },
+        {
+          "code": "Zone C - Block 15",
+          "name": "Zone C - Block 15"
+        },
+        {
+          "code": "Zone C - Block 16",
+          "name": "Zone C - Block 16"
+        },
+        {
+          "code": "Zone C - Block 21",
+          "name": "Zone C - Block 21"
+        },
+        {
+          "code": "Zone C - Block 22",
+          "name": "Zone C - Block 22"
+        },
+        {
+          "code": "Zone C - Block 29",
+          "name": "Zone C - Block 29"
+        },
+        {
+          "code": "Zone C - Block 29(1)",
+          "name": "Zone C - Block 29(1)"
+        },
+        {
+          "code": "Zone C - Block 29(2)",
+          "name": "Zone C - Block 29(2)"
+        },
+        {
+          "code": "Zone C - Block 37",
+          "name": "Zone C - Block 37"
+        },
+        {
+          "code": "Zone D - Block 1",
+          "name": "Zone D - Block 1"
+        },
+        {
+          "code": "Zone D - Block 17",
+          "name": "Zone D - Block 17"
+        },
+        {
+          "code": "Zone D - Block 18",
+          "name": "Zone D - Block 18"
+        },
+        {
+          "code": "Zone D - Block 19",
+          "name": "Zone D - Block 19"
+        },
+        {
+          "code": "Zone D - Block 20",
+          "name": "Zone D - Block 20"
+        },
+        {
+          "code": "Zone D - Block 26",
+          "name": "Zone D - Block 26"
+        },
+        {
+          "code": "Zone D - Block 27",
+          "name": "Zone D - Block 27"
+        },
+        {
+          "code": "Zone D - Block 28",
+          "name": "Zone D - Block 28"
+        },
+        {
+          "code": "Zone D - Block 34",
+          "name": "Zone D - Block 34"
+        },
+        {
+          "code": "Zone D - Block 35",
+          "name": "Zone D - Block 35"
+        },
+        {
+          "code": "Zone D - Block 36",
+          "name": "Zone D - Block 36"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.machhiwara",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mahilpur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.majitha",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.makhu",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.malerkotla",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward26",
+          "name": "ward26"
+        },
+        {
+          "code": "ward27",
+          "name": "ward27"
+        },
+        {
+          "code": "ward28",
+          "name": "ward28"
+        },
+        {
+          "code": "ward29",
+          "name": "ward29"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward30",
+          "name": "ward30"
+        },
+        {
+          "code": "ward31",
+          "name": "ward31"
+        },
+        {
+          "code": "ward32",
+          "name": "ward32"
+        },
+        {
+          "code": "ward33",
+          "name": "ward33"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mallanwala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.maloud",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.malout",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.maluka",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mamdot",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mandikalan",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mansa",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.maur",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mehatpur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mehraj",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone28",
+          "name": "Zone28"
+        },
+        {
+          "code": "Zone29",
+          "name": "Zone29"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone30",
+          "name": "Zone30"
+        },
+        {
+          "code": "Zone31",
+          "name": "Zone31"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.moga",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ZoneA",
+          "name": "ZoneA"
+        },
+        {
+          "code": "ZoneB",
+          "name": "ZoneB"
+        },
+        {
+          "code": "ZoneC",
+          "name": "ZoneC"
+        },
+        {
+          "code": "ZoneD",
+          "name": "ZoneD"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.moonak",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.morinda",
+      "zones": [
+        {
+          "code": "MORINDA",
+          "name": "MORINDA"
+        },
+        {
+          "code": "Ward1",
+          "name": "Ward1"
+        },
+        {
+          "code": "Ward10",
+          "name": "Ward10"
+        },
+        {
+          "code": "Ward11",
+          "name": "Ward11"
+        },
+        {
+          "code": "Ward12",
+          "name": "Ward12"
+        },
+        {
+          "code": "Ward13",
+          "name": "Ward13"
+        },
+        {
+          "code": "Ward14",
+          "name": "Ward14"
+        },
+        {
+          "code": "Ward15",
+          "name": "Ward15"
+        },
+        {
+          "code": "Ward2",
+          "name": "Ward2"
+        },
+        {
+          "code": "Ward3",
+          "name": "Ward3"
+        },
+        {
+          "code": "Ward4",
+          "name": "Ward4"
+        },
+        {
+          "code": "Ward5",
+          "name": "Ward5"
+        },
+        {
+          "code": "Ward6",
+          "name": "Ward6"
+        },
+        {
+          "code": "Ward7",
+          "name": "Ward7"
+        },
+        {
+          "code": "Ward8",
+          "name": "Ward8"
+        },
+        {
+          "code": "Ward9",
+          "name": "Ward9"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mudki",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mukerian",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mullanpur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nabha",
+      "zones": [
+        {
+          "code": "ZONE A",
+          "name": "ZONE A"
+        },
+        {
+          "code": "ZONE B",
+          "name": "ZONE B"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nadala",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nakodar",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nangal",
+      "zones": [
+        {
+          "code": "Nangal Area",
+          "name": "Nangal Area"
+        },
+        {
+          "code": "Naya Nangal Area",
+          "name": "Naya Nangal Area"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.narotjaimalsingh",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nathana",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nawanshahr",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nawnashar",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nayagoan",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nihalsinghwala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.nurmahal",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.pathankot",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.patiala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.patran",
+      "zones": [
+        {
+          "code": "Patran1",
+          "name": "Patran1"
+        },
+        {
+          "code": "Patran10",
+          "name": "Patran10"
+        },
+        {
+          "code": "Patran11",
+          "name": "Patran11"
+        },
+        {
+          "code": "Patran12",
+          "name": "Patran12"
+        },
+        {
+          "code": "Patran13",
+          "name": "Patran13"
+        },
+        {
+          "code": "Patran14",
+          "name": "Patran14"
+        },
+        {
+          "code": "Patran15",
+          "name": "Patran15"
+        },
+        {
+          "code": "Patran2",
+          "name": "Patran2"
+        },
+        {
+          "code": "Patran3",
+          "name": "Patran3"
+        },
+        {
+          "code": "Patran4",
+          "name": "Patran4"
+        },
+        {
+          "code": "Patran5",
+          "name": "Patran5"
+        },
+        {
+          "code": "Patran6",
+          "name": "Patran6"
+        },
+        {
+          "code": "Patran7",
+          "name": "Patran7"
+        },
+        {
+          "code": "Patran8",
+          "name": "Patran8"
+        },
+        {
+          "code": "Patran9",
+          "name": "Patran9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.patti",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.payal",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.phagwara",
+      "zones": [
+        {
+          "code": "Area1",
+          "name": "Area1"
+        },
+        {
+          "code": "Area2",
+          "name": "Area2"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "ZoneL",
+          "name": "ZoneL"
+        },
+        {
+          "code": "ZoneR",
+          "name": "ZoneR"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.phillaur",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.qadian",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rahon",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.raikot",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rajasansi",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rajpura",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone A",
+          "name": "Zone A"
+        },
+        {
+          "code": "Zone B",
+          "name": "Zone B"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward26",
+          "name": "ward26"
+        },
+        {
+          "code": "ward27",
+          "name": "ward27"
+        },
+        {
+          "code": "ward28",
+          "name": "ward28"
+        },
+        {
+          "code": "ward29",
+          "name": "ward29"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward30",
+          "name": "ward30"
+        },
+        {
+          "code": "ward31",
+          "name": "ward31"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.raman",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ramdass",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rampura",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rampuraphul",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.rayya",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.ropar",
+      "zones": [
+        {
+          "code": "Beant Singh Aman Nagar Scheme",
+          "name": "Beant Singh Aman Nagar Scheme"
+        },
+        {
+          "code": "Bela Road Part-I Dashmesh Nagar",
+          "name": "Bela Road Part-I Dashmesh Nagar"
+        },
+        {
+          "code": "Giani Zail Singh Nagar Scheme",
+          "name": "Giani Zail Singh Nagar Scheme"
+        },
+        {
+          "code": "Shaheed-e-Azam Bhagat Singh Nagar",
+          "name": "Shaheed-e-Azam Bhagat Singh Nagar"
+        },
+        {
+          "code": "Transport Nagar",
+          "name": "Transport Nagar"
+        },
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.mohali",
+      "zones": [
+        {
+          "code": "Mohali",
+          "name": "Mohali"
+        },
+        {
+          "code": "Phase7",
+          "name": "Phase7"
+        },
+        {
+          "code": "Phase8",
+          "name": "Phase8"
+        },
+        {
+          "code": "Phase8B",
+          "name": "Phase8B"
+        },
+        {
+          "code": "Phase9",
+          "name": "Phase9"
+        },
+        {
+          "code": "Sector57",
+          "name": "Sector57"
+        },
+        {
+          "code": "Sector58",
+          "name": "Sector58"
+        },
+        {
+          "code": "Sector66",
+          "name": "Sector66"
+        },
+        {
+          "code": "Sector67",
+          "name": "Sector67"
+        },
+        {
+          "code": "Sector72",
+          "name": "Sector72"
+        },
+        {
+          "code": "Sector73",
+          "name": "Sector73"
+        },
+        {
+          "code": "Sector74",
+          "name": "Sector74"
+        },
+        {
+          "code": "Sector75",
+          "name": "Sector75"
+        },
+        {
+          "code": "Sector90",
+          "name": "Sector90"
+        },
+        {
+          "code": "Sector91",
+          "name": "Sector91"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "ZoneK",
+          "name": "ZoneK"
+        },
+        {
+          "code": "ZoneM",
+          "name": "ZoneM"
+        },
+        {
+          "code": "ZoneMo",
+          "name": "ZoneMo"
+        },
+        {
+          "code": "ZoneS",
+          "name": "ZoneS"
+        },
+        {
+          "code": "ZoneSM",
+          "name": "ZoneSM"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sahnewal",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.samana",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.samrala",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sanaur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sangatmandi",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sangrur",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward26",
+          "name": "ward26"
+        },
+        {
+          "code": "ward27",
+          "name": "ward27"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sardulgarh",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.shahkot",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.shamchurasi",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sirhind",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.srihargobindpur",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone16",
+          "name": "Zone16"
+        },
+        {
+          "code": "Zone17",
+          "name": "Zone17"
+        },
+        {
+          "code": "Zone18",
+          "name": "Zone18"
+        },
+        {
+          "code": "Zone19",
+          "name": "Zone19"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone20",
+          "name": "Zone20"
+        },
+        {
+          "code": "Zone21",
+          "name": "Zone21"
+        },
+        {
+          "code": "Zone22",
+          "name": "Zone22"
+        },
+        {
+          "code": "Zone23",
+          "name": "Zone23"
+        },
+        {
+          "code": "Zone24",
+          "name": "Zone24"
+        },
+        {
+          "code": "Zone25",
+          "name": "Zone25"
+        },
+        {
+          "code": "Zone26",
+          "name": "Zone26"
+        },
+        {
+          "code": "Zone27",
+          "name": "Zone27"
+        },
+        {
+          "code": "Zone28",
+          "name": "Zone28"
+        },
+        {
+          "code": "Zone29",
+          "name": "Zone29"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone30",
+          "name": "Zone30"
+        },
+        {
+          "code": "Zone31",
+          "name": "Zone31"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.muktsar",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward16",
+          "name": "ward16"
+        },
+        {
+          "code": "ward17",
+          "name": "ward17"
+        },
+        {
+          "code": "ward18",
+          "name": "ward18"
+        },
+        {
+          "code": "ward19",
+          "name": "ward19"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward20",
+          "name": "ward20"
+        },
+        {
+          "code": "ward21",
+          "name": "ward21"
+        },
+        {
+          "code": "ward22",
+          "name": "ward22"
+        },
+        {
+          "code": "ward23",
+          "name": "ward23"
+        },
+        {
+          "code": "ward24",
+          "name": "ward24"
+        },
+        {
+          "code": "ward25",
+          "name": "ward25"
+        },
+        {
+          "code": "ward26",
+          "name": "ward26"
+        },
+        {
+          "code": "ward27",
+          "name": "ward27"
+        },
+        {
+          "code": "ward28",
+          "name": "ward28"
+        },
+        {
+          "code": "ward29",
+          "name": "ward29"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward30",
+          "name": "ward30"
+        },
+        {
+          "code": "ward31",
+          "name": "ward31"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sultanpurlodhi",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.sunam",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.talwandisabo",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.talwandibhai",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.talwara",
+      "zones": [
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.tapa",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone12",
+          "name": "Zone12"
+        },
+        {
+          "code": "Zone13",
+          "name": "Zone13"
+        },
+        {
+          "code": "Zone14",
+          "name": "Zone14"
+        },
+        {
+          "code": "Zone15",
+          "name": "Zone15"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.tarntaran",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.urmartanda",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        },
+        {
+          "code": "ward1",
+          "name": "ward1"
+        },
+        {
+          "code": "ward10",
+          "name": "ward10"
+        },
+        {
+          "code": "ward11",
+          "name": "ward11"
+        },
+        {
+          "code": "ward12",
+          "name": "ward12"
+        },
+        {
+          "code": "ward13",
+          "name": "ward13"
+        },
+        {
+          "code": "ward14",
+          "name": "ward14"
+        },
+        {
+          "code": "ward15",
+          "name": "ward15"
+        },
+        {
+          "code": "ward2",
+          "name": "ward2"
+        },
+        {
+          "code": "ward3",
+          "name": "ward3"
+        },
+        {
+          "code": "ward4",
+          "name": "ward4"
+        },
+        {
+          "code": "ward5",
+          "name": "ward5"
+        },
+        {
+          "code": "ward6",
+          "name": "ward6"
+        },
+        {
+          "code": "ward7",
+          "name": "ward7"
+        },
+        {
+          "code": "ward8",
+          "name": "ward8"
+        },
+        {
+          "code": "ward9",
+          "name": "ward9"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.zira",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone"
+        }
+      ]
+    },
+    {
+      "tenantId": "pb.zirakpur",
+      "zones": [
+        {
+          "code": "From Zirakpur to old amb. road on its left side",
+          "name": "From Zirakpur to old amb. road on its left side"
+        },
+        {
+          "code": "From Zirakpur to old amb. road on its right side",
+          "name": "From Zirakpur to old amb. road on its right side"
+        },
+        {
+          "code": "ZoneA",
+          "name": "ZoneA"
+        },
+        {
+          "code": "ZoneB",
+          "name": "ZoneB"
+        },
+        {
+          "code": "ZoneC",
+          "name": "ZoneC"
+        },
+        {
+          "code": "ZoneD",
+          "name": "ZoneD"
+        },
+        {
+          "code": "ZoneE",
+          "name": "ZoneE"
+        },
+        {
+          "code": "left side area of chd-amb. Highway",
+          "name": "left side area of chd-amb. Highway"
+        },
+        {
+          "code": "right side area of chd-amb. Highway",
+          "name": "right side area of chd-amb. Highway"
+        }
+      ]
+    }
+  ]
+}

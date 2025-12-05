@@ -1,0 +1,3768 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "zoneMaster": [
+        {
+            "tanentId": "pb.banur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.cheema",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.jalalabad",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.baghapurana",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.fatehgarhchurian",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ghagga",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nawanshahr",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.abohar",
+            "zones": [
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nihalsinghwala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.fatehgarhpanjtoor",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.pathankot",
+            "zones": [
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.tapa",
+            "zones": [
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.raman",
+            "zones": [
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.quadian",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.rajpura",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone B",
+                    "name": "Zone B"
+                },
+                {
+                    "code": "Zone A",
+                    "name": "Zone A"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.rayya",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.payal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.zirakpur",
+            "zones": [
+                {
+                    "code": "ZoneB",
+                    "name": "ZoneB"
+                },
+                {
+                    "code": "ZoneD",
+                    "name": "ZoneD"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "ZoneA",
+                    "name": "ZoneA"
+                },
+                {
+                    "code": "ZoneE",
+                    "name": "ZoneE"
+                },
+                {
+                    "code": "ZoneC",
+                    "name": "ZoneC"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.lehragaga",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.badhnikalan",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sangatmandi",
+            "zones": [
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.moga",
+            "zones": [
+                {
+                    "code": "ZoneD",
+                    "name": "ZoneD"
+                },
+                {
+                    "code": "ZoneB",
+                    "name": "ZoneB"
+                },
+                {
+                    "code": "ZoneA",
+                    "name": "ZoneA"
+                },
+                {
+                    "code": "ZoneC",
+                    "name": "ZoneC"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.malerkotla",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.boha",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.samrala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bariwala",
+            "zones": [
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.narotjaimalsingh",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.gurdaspur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.amritsar",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhuchomandi",
+            "zones": [
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.machhiwara",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ropar",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhadaur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mehraj",
+            "zones": [
+                {
+                    "code": "Zone28",
+                    "name": "Zone28"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone31",
+                    "name": "Zone31"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone30",
+                    "name": "Zone30"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone29",
+                    "name": "Zone29"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nabha",
+            "zones": [
+                {
+                    "code": "ZONE A",
+                    "name": "ZONE A"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "ZONE B",
+                    "name": "ZONE B"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nangal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.majitha",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mandikalan",
+            "zones": [
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.urmartanda",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhikhiwind",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.derababananak",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.devigarh",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.maloud",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kapurthala",
+            "zones": [
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mansa",
+            "zones": [
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.khanna",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.srihargobindpur",
+            "zones": [
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone29",
+                    "name": "Zone29"
+                },
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone28",
+                    "name": "Zone28"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone31",
+                    "name": "Zone31"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone30",
+                    "name": "Zone30"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kartarpur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.jalandhar",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nayagaon",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ferozepur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.fazilka",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.morinda",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kotshamir",
+            "zones": [
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.maur",
+            "zones": [
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dhariwal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sardulgarh",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.rampura",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.barnala",
+            "zones": [
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone30",
+                    "name": "Zone30"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone31",
+                    "name": "Zone31"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone28",
+                    "name": "Zone28"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone29",
+                    "name": "Zone29"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.khamano",
+            "zones": [
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.talwandisabo",
+            "zones": [
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.moonak",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dirba",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhikhi",
+            "zones": [
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mudki",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mullanpur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bassipathana",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sunam",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.hoshiarpur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bareta",
+            "zones": [
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sangrur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.samana",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kotkapura",
+            "zones": [
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone29",
+                    "name": "Zone29"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone28",
+                    "name": "Zone28"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ludhiana",
+            "zones": [
+                {
+                    "code": "Zone C - Block 22",
+                    "name": "Zone C - Block 22"
+                },
+                {
+                    "code": "Zone D - Block 27",
+                    "name": "Zone D - Block 27"
+                },
+                {
+                    "code": "Zone C - Block 29",
+                    "name": "Zone C - Block 29"
+                },
+                {
+                    "code": "Zone B - Block 24",
+                    "name": "Zone B - Block 24"
+                },
+                {
+                    "code": "Zone D - Block 34",
+                    "name": "Zone D - Block 34"
+                },
+                {
+                    "code": "Zone C - Block 15",
+                    "name": "Zone C - Block 15"
+                },
+                {
+                    "code": "Zone A - Block 5",
+                    "name": "Zone A - Block 5"
+                },
+                {
+                    "code": "Zone D - Block 20",
+                    "name": "Zone D - Block 20"
+                },
+                {
+                    "code": "Zone B - Block 14",
+                    "name": "Zone B - Block 14"
+                },
+                {
+                    "code": "Zone B - Block 31(1)",
+                    "name": "Zone B - Block 31(1)"
+                },
+                {
+                    "code": "Zone C - Block 29(1)",
+                    "name": "Zone C - Block 29(1)"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone C - Block 37",
+                    "name": "Zone C - Block 37"
+                },
+                {
+                    "code": "Zone A - Block 10",
+                    "name": "Zone A - Block 10"
+                },
+                {
+                    "code": "Zone D - Block 35",
+                    "name": "Zone D - Block 35"
+                },
+                {
+                    "code": "Zone A - Block 4",
+                    "name": "Zone A - Block 4"
+                },
+                {
+                    "code": "Zone D - Block 17",
+                    "name": "Zone D - Block 17"
+                },
+                {
+                    "code": "Zone A - Block 3",
+                    "name": "Zone A - Block 3"
+                },
+                {
+                    "code": "Zone A - Block 2",
+                    "name": "Zone A - Block 2"
+                },
+                {
+                    "code": "Zone A - Block 13",
+                    "name": "Zone A - Block 13"
+                },
+                {
+                    "code": "Zone D - Block 1",
+                    "name": "Zone D - Block 1"
+                },
+                {
+                    "code": "Zone B - Block 31(2)",
+                    "name": "Zone B - Block 31(2)"
+                },
+                {
+                    "code": "Zone B - Block 23",
+                    "name": "Zone B - Block 23"
+                },
+                {
+                    "code": "Zone A - Block 25",
+                    "name": "Zone A - Block 25"
+                },
+                {
+                    "code": "Zone C - Block 16",
+                    "name": "Zone C - Block 16"
+                },
+                {
+                    "code": "Zone C - Block 21",
+                    "name": "Zone C - Block 21"
+                },
+                {
+                    "code": "Zone D - Block 26",
+                    "name": "Zone D - Block 26"
+                },
+                {
+                    "code": "Zone B - Block 30",
+                    "name": "Zone B - Block 30"
+                },
+                {
+                    "code": "Zone A - Block 11",
+                    "name": "Zone A - Block 11"
+                },
+                {
+                    "code": "Zone A - Block 6",
+                    "name": "Zone A - Block 6"
+                },
+                {
+                    "code": "Zone D - Block 28",
+                    "name": "Zone D - Block 28"
+                },
+                {
+                    "code": "Zone A - Block 8",
+                    "name": "Zone A - Block 8"
+                },
+                {
+                    "code": "Zone A - Block 33",
+                    "name": "Zone A - Block 33"
+                },
+                {
+                    "code": "Zone C - Block 29(2)",
+                    "name": "Zone C - Block 29(2)"
+                },
+                {
+                    "code": "Zone A - Block 7",
+                    "name": "Zone A - Block 7"
+                },
+                {
+                    "code": "Zone A - Block 9",
+                    "name": "Zone A - Block 9"
+                },
+                {
+                    "code": "Zone D - Block 36",
+                    "name": "Zone D - Block 36"
+                },
+                {
+                    "code": "Zone D - Block 19",
+                    "name": "Zone D - Block 19"
+                },
+                {
+                    "code": "Zone D - Block 18",
+                    "name": "Zone D - Block 18"
+                },
+                {
+                    "code": "Zone A - Block 32(1)",
+                    "name": "Zone A - Block 32(1)"
+                },
+                {
+                    "code": "Zone A - Block 12",
+                    "name": "Zone A - Block 12"
+                },
+                {
+                    "code": "Zone A - Block 32(2)",
+                    "name": "Zone A - Block 32(2)"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.patiala",
+            "zones": [
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhawanigarh",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mamdot",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sahnewal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.lalru",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dhuri",
+            "zones": [
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.patti",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kotissekhan",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ramdass",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.talwandibhai",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.chaunke",
+            "zones": [
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhadson",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.goniana",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.faridkot",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.balianwali",
+            "zones": [
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.tarntaran",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dinanagar",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.amargarh",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.maluka",
+            "zones": [
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.shamchurasi",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.budhlada",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.amloh",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.rampuraphul",
+            "zones": [
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mohali",
+            "zones": [
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "ZoneS",
+                    "name": "ZoneS"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "ZoneK",
+                    "name": "ZoneK"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "ZoneSM",
+                    "name": "ZoneSM"
+                },
+                {
+                    "code": "ZoneMo",
+                    "name": "ZoneMo"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "ZoneM",
+                    "name": "ZoneM"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ajnala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.banga",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.doraha",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mandigobindgarh",
+            "zones": [
+                {
+                    "code": "Zone B- South-2",
+                    "name": "Zone B- South-2"
+                },
+                {
+                    "code": "Zone B- South",
+                    "name": "Zone B- South"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone A- North",
+                    "name": "Zone A- North"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.lehramohabbat",
+            "zones": [
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sirhind",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.guruharsahai",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ghanaur",
+            "zones": [
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.jagraon",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.mallanwala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.batala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.sanaur",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.nathana",
+            "zones": [
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bathinda",
+            "zones": [
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kotfatta",
+            "zones": [
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.derabassi",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.handiaya",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kurali",
+            "zones": [
+                {
+                    "code": "Zone A",
+                    "name": "Zone A"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "Zone B",
+                    "name": "Zone B"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dharamkot",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.ahmedgarh",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "ZoneA",
+                    "name": "ZoneA"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.rajasansi",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.joga",
+            "zones": [
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.dhanaula",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.begowal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.arniwala",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.longowal",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.gharuan",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.makhu",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.khemkaran",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.chamkaursahib",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bhairoopa",
+            "zones": [
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.phagwara",
+            "zones": [
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                },
+                {
+                    "code": "ZoneL",
+                    "name": "ZoneL"
+                },
+                {
+                    "code": "ZoneR",
+                    "name": "ZoneR"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.malout",
+            "zones": [
+                {
+                    "code": "Zone26",
+                    "name": "Zone26"
+                },
+                {
+                    "code": "Zone20",
+                    "name": "Zone20"
+                },
+                {
+                    "code": "Zone8",
+                    "name": "Zone8"
+                },
+                {
+                    "code": "Zone23",
+                    "name": "Zone23"
+                },
+                {
+                    "code": "Zone5",
+                    "name": "Zone5"
+                },
+                {
+                    "code": "Zone13",
+                    "name": "Zone13"
+                },
+                {
+                    "code": "Zone3",
+                    "name": "Zone3"
+                },
+                {
+                    "code": "Zone17",
+                    "name": "Zone17"
+                },
+                {
+                    "code": "Zone1",
+                    "name": "Zone1"
+                },
+                {
+                    "code": "Zone14",
+                    "name": "Zone14"
+                },
+                {
+                    "code": "Zone16",
+                    "name": "Zone16"
+                },
+                {
+                    "code": "Zone21",
+                    "name": "Zone21"
+                },
+                {
+                    "code": "Zone22",
+                    "name": "Zone22"
+                },
+                {
+                    "code": "Zone15",
+                    "name": "Zone15"
+                },
+                {
+                    "code": "Zone9",
+                    "name": "Zone9"
+                },
+                {
+                    "code": "Zone18",
+                    "name": "Zone18"
+                },
+                {
+                    "code": "Zone2",
+                    "name": "Zone2"
+                },
+                {
+                    "code": "Zone12",
+                    "name": "Zone12"
+                },
+                {
+                    "code": "Zone24",
+                    "name": "Zone24"
+                },
+                {
+                    "code": "Zone4",
+                    "name": "Zone4"
+                },
+                {
+                    "code": "Zone11",
+                    "name": "Zone11"
+                },
+                {
+                    "code": "Zone6",
+                    "name": "Zone6"
+                },
+                {
+                    "code": "Zone7",
+                    "name": "Zone7"
+                },
+                {
+                    "code": "Zone25",
+                    "name": "Zone25"
+                },
+                {
+                    "code": "Zone27",
+                    "name": "Zone27"
+                },
+                {
+                    "code": "Zone19",
+                    "name": "Zone19"
+                },
+                {
+                    "code": "Zone10",
+                    "name": "Zone10"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.bababakalasahib",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.gidderbaha",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        },
+        {
+            "tanentId": "pb.kharar",
+            "zones": [
+                {
+                    "code": "ZoneA",
+                    "name": "ZoneA"
+                },
+                {
+                    "code": "ZoneB",
+                    "name": "ZoneB"
+                },
+                {
+                    "code": "ZoneC",
+                    "name": "ZoneC"
+                },
+                {
+                    "code": "ZoneA1",
+                    "name": "ZoneA1"
+                },
+                {
+                    "code": "ZoneA2",
+                    "name": "ZoneA2"
+                },
+                {
+                    "code": "ZoneB2",
+                    "name": "ZoneB2"
+                },
+                {
+                    "code": "ZoneB1",
+                    "name": "ZoneB1"
+                },
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
+        }
+    ]
+}
