@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "ColonyType": [
+    {
+      "name": "TP Scheme",
+      "code": "TP_SCHEME",
+      "active": true
+    },
+    {
+      "name": "Development Scheme",
+      "code": "DEVELOPMENT_SCHEME",
+      "active": true
+    },
+    {
+      "name": "Approved Layout",
+      "code": "APPROVED_LAYOUT",
+      "active": true
+    },
+    {
+      "name": "Rehabilitation Scheme",
+      "code": "REHABILITATION_SCHEME",
+      "active": true
+    },
+    {
+      "name": "Colony Under PAPRA",
+      "code": "COLONY_UNDER_PAPRA",
+      "active": true
+    },
+    {
+      "name": "Affordable Housing Scheme",
+      "code": "AFFORDABLE_HOUSING_SCHEME",
+      "active": true
+    },
+    {
+      "name": "Regularized Colony",
+      "code": "REGULARIZED_COLONY",
+      "active": true
+    }
+  ]
+}

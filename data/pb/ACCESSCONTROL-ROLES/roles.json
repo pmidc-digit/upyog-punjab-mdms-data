@@ -552,6 +552,67 @@
       "code": "CHB REPORTS",
       "name": "CHB REPORTS",
       "description": "Access to all Community Hall Booking Reports"
+    },
+    {
+      "code": "PROFESSIONAL_DOC_VERIFIER",
+      "name": "Professional doc verifier",
+      "description": "BPA Stakeholder workflow document verifier"
+    },
+    {
+      "code": "PROFESSIONAL_VERIFIER",
+      "name": "Professional verifier",
+      "description": "BPA Stakeholder workflow verifier"
+    },
+    {
+      "code": "PROFESSIONAL_APPROVER",
+      "name": "Professional Approver",
+      "description": "BPA Stakeholder workflow Approver"
+    },
+    {
+      "code": "BPA_ARCHITECT",
+      "name": "BPA Architect",
+      "description": "BPA Architect"
+    },
+    {
+      "code": "BPA_ENGINEER",
+      "name": "BPA Engineer",
+      "description": "BPA Engineer"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "BPA Town Planner",
+      "description": "BPA Town Planner"
+    },
+    {
+      "code": "BPA_SUPERVISOR",
+      "name": "BPA Supervisor",
+      "description": "BPA Supervisor"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTOR",
+      "name": "BPA Field Inspector",
+      "description": "BPA Service field inspector"
+    },
+    {
+      "code": "BPA_FIELD_REPORT_INSPECTOR",
+      "name": "BPA Field Report Inspector",
+      "description": "BPA Service field Report inspector"
+    },
+    {
+      "code": "BPA_APPROVER",
+      "name": "BPA Services Approver",
+      "description": "BPA Services workflow Approver"
+    },
+    {
+      "code": "BPA_DOC_VERIFIER",
+      "name": "BPA Doc verifier",
+      "description": "BPA Services workflow document verifier"
+    },
+    {
+      "code": "BPA_VERIFIER",
+      "name": "BPA Services verifier",
+      "description": "BPA Services workflow document & field inspection verifier"
+
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+    "tenantId": "pb",
+    "moduleName": "BPA",
+    "BuildingStatus": [
+      {
+        "name": "AUTHORIZED",
+        "code": "AUTHORIZED",
+        "active": true
+      },
+      {
+        "name": "REGULARIZED",
+        "code": "REGULARIZED",
+        "active": true
+      }
+    ]
+  }
