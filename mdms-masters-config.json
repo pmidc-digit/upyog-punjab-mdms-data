@@ -110,6 +110,11 @@
 			"uniqueKeys": [
 				"$.code"
 			]
+		},
+		"roleGroups": {
+			"masterName": "roleGroups",
+			"isStateLevel": true,
+			"uniqueKeys": []
 		}
 	},
 	"ACCESSCONTROL-ROLEACTIONS": {

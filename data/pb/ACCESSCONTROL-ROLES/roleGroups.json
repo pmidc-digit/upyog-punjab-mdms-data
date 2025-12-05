@@ -1,0 +1,161 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roleGroups": [
+    {
+      "groupId": "001",
+      "groupName": "Advertisement Service",
+      "description": "Roles related to Advertisement and Hoarding Services"
+    },
+    {
+      "groupId": "002",
+      "groupName": "Community Hall Booking",
+      "description": "Roles related to Community Hall Booking Services"
+    },
+    {
+      "groupId": "003",
+      "groupName": "Pet Service",
+      "description": "Roles related to Pet Registration Services"
+    },
+    {
+      "groupId": "004",
+      "groupName": "NOC Service",
+      "description": "Roles related to No Objection Certificate Services"
+    },
+    {
+      "groupId": "005",
+      "groupName": "FIRENOC Service",
+      "description": "Roles related to Fire NOC Services"
+    },
+    {
+      "groupId": "006",
+      "groupName": "Rent and Lease Service",
+      "description": "Roles related to Rent and Lease Services"
+    },
+    {
+      "groupId": "007",
+      "groupName": "Assets Management",
+      "description": "Roles related to Asset Management Services"
+    },
+    {
+      "groupId": "008",
+      "groupName": "Citizen Scorecard",
+      "description": "Roles related to Citizen Scorecard and Survey Services"
+    },
+    {
+      "groupId": "009",
+      "groupName": "NDC",
+      "description": "Roles related to No Dues Certificate Services"
+    },
+    {
+      "groupId": "010",
+      "groupName": "BPA Registration",
+      "description": "Roles related to Professional Registration Services"
+    },
+    {
+      "groupId": "011",
+      "groupName": "Challan Generation Service",
+      "description": "Roles related to Challan Generation Services"
+    },
+    {
+      "groupId": "012",
+      "groupName": "Layout Service",
+      "description": "Roles related to Layout Services"
+    },
+    {
+      "groupId": "013",
+      "groupName": "CLU Service",
+      "description": "Roles related to CLU Services"
+    },
+    {
+      "groupId": "014",
+      "groupName": "Garbage Collection",
+      "description": "Roles related to Garbage Collection Services"
+    },
+    {
+      "groupId": "015",
+      "groupName": "SW Service",
+      "description": "Roles related to Sewerage Connection Services"
+    },
+    {
+      "groupId": "016",
+      "groupName": "SWACH BHARAT",
+      "description": "Roles related to Swachh Services"
+    },
+    {
+      "groupId": "017",
+      "groupName": "Water and Sewerage",
+      "description": "Roles related to Water and Sewerage Services"
+    },
+    {
+      "groupId": "018",
+      "groupName": "Property Tax Service",
+      "description": "Roles related to Property Tax Services"
+    },
+    {
+      "groupId": "019",
+      "groupName": "Trade License Service",
+      "description": "Roles related to Trade License Services"
+    },
+    {
+      "groupId": "020",
+      "groupName": "Finance Service",
+      "description": "Roles related to Finance Services"
+    },
+    {
+      "groupId": "021",
+      "groupName": "PGR Service",
+      "description": "Roles related to Public Grievance Redressal Services"
+    },
+    {
+      "groupId": "022",
+      "groupName": "Localization Service",
+      "description": "Roles related to Localization and Language Services"
+    },
+    {
+      "groupId": "023",
+      "groupName": "HRMS",
+      "description": "Roles related to HRMS"
+    },
+    {
+      "groupId": "024",
+      "groupName": "DSS",
+      "description": "Roles related to DSS"
+    },
+    {
+      "groupId": "025",
+      "groupName": "OBPAS",
+      "description": "Roles related to Building Plan Approval Services"
+    },
+    {
+      "groupId": "026",
+      "groupName": "ST Vending Service",
+      "description": "Roles related to Street Vending Services"
+    },
+    {
+      "groupId": "027",
+      "groupName": "Universal Collection",
+      "description": "Roles related to Universal Collection Services"
+    },
+    {
+      "groupId": "028",
+      "groupName": "Punjab Admin",
+      "description": "Roles related to Punjab Admin"
+    },
+    {
+      "groupId": "029",
+      "groupName": "System",
+      "description": "Roles related to System"
+    },
+    {
+      "groupId": "030",
+      "groupName": "Others",
+      "description": "Roles related to Other purposes"
+    },
+    {
+      "groupId": "031",
+      "groupName": "Third-Party",
+      "description": "Roles related to Third-Party"
+    }
+  ]
+}
