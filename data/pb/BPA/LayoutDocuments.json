@@ -1,0 +1,141 @@
+
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "LayoutDocuments": [
+    {
+      "code": "OWNER.OWNERPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERPHOTO.OWNERPHOTO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERVALIDID",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERVALIDID.OWNERVALIDID_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.AUTHORIZATIONLETTER",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHONE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.SITEPHOTOGRAPHTWO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERSHIPPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.OWNERSHIPPROOF.OWNERSHIPPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.DETAILEDLOCATIONPLAN",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.BUILDINGDRAWING",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.BUILDINGDRAWING.BUILDINGDRAWING_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.GOOGLEMARKEDSITE",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMFIREDEPARTMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOCFROMFIREDEPARTMENT.NOCFROMFIREDEPARTMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMNHAIORPWD",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOCFROMNHAIORPWD.NOCFROMNHAIORPWD_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMPPCB",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOCFROMPPCB.NOCFROMPPCB_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.AIRPORTAUTHORITY",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.AIRPORTAUTHORITY.AIRPORTAUTHORITY_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMFORESTDEPARTMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOCFROMFORESTDEPARTMENT.NOCFROMFORESTDEPARTMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.IRRIGATIONORDRAINAGEDEPARTMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.IRRIGATIONORDRAINAGEDEPARTMENT.IRRIGATIONORDRAINAGEDEPARTMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.GASAUTHORITYOFINDIA",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.GASAUTHORITYOFINDIA.GASAUTHORITYOFINDIA_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERNOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERNOC.ANYOTHERNOC_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.NOCFROMFINANCIALINSTITUTION",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.NOCFROMFINANCIALINSTITUTION.NOCFROMFINANCIALINSTITUTION_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
+    }
+   
+  ]
+}
