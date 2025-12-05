@@ -5,614 +5,734 @@
     {
       "code": "SURVEY_ADMIN",
       "name": "Survey Admin",
-      "description": "Survey Admin for Survey Module(Engagement)"
+      "description": "Survey Admin for Survey Module(Engagement)",
+      "groupId": "008"
     },
     {
       "code": "ULB_ADMINISTRATOR_REPORTS",
       "name": "ULB Administrator Reports",
-      "description": "Access to all reports of all ULBs(FireNoc , Misc Collection , TL , W&S , PT)"
+      "description": "Access to all reports of all ULBs(FireNoc , Misc Collection , TL , W&S , PT)",
+      "groupId": "028"
     },
     {
       "code": "SEARCH_SURVEY",
       "name": "Search Survey",
-      "description": "Access to Search Survey for Survey Module"
+      "description": "Access to Search Survey for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "CATEGORY_ADMIN",
       "name": "Category Admin Role",
-      "description": "Access to Create Search update Category for Survey Module"
+      "description": "Access to Create Search update Category for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "CREATE_CATEGORY",
       "name": "Create Category Role",
-      "description": "Access to Create Category for Survey Module"
+      "description": "Access to Create Category for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "UPDATE_CATEGORY",
       "name": "Update Category Role",
-      "description": "Access to Update Category for Survey Module"
+      "description": "Access to Update Category for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "SEARCH_CATEGORY",
       "name": "Search Category Role",
-      "description": "Access to Search Category for Survey Module"
+      "description": "Access to Search Category for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "CREATE_QUESTION",
       "name": "Create Question Role",
-      "description": "Access to Create Question for Survey Module"
+      "description": "Access to Create Question for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "UPDATE_QUESTION",
       "name": "Update Question Role",
-      "description": "Access to Update Question for Survey Module"
+      "description": "Access to Update Question for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "SEARCH_QUESTION",
       "name": "Search Question Role",
-      "description": "Access to Search Question for Survey Module"
+      "description": "Access to Search Question for Survey Module",
+      "groupId": "008"
     },
     {
       "code": "CITIZEN",
       "name": "Citizen",
-      "description": "Citizen who can raise complaint"
+      "description": "Citizen who can raise complaint",
+      "groupId": "030"
     },
     {
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "INTERNAL MICROSERVICE ROLE",
-      "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally"
+      "description": "INTERNAL_MICROSERVICE_ROLE who can call Services internally",
+      "groupId": "029"
     },
-
     {
       "code": "EMPLOYEE",
       "name": "Employee",
-      "description": "Default role for all employees"
+      "description": "Default role for all employees",
+      "groupId": "030"
     },
     {
       "code": "SUPERUSER",
       "name": "Super User",
-      "description": "System Administrator. Can change all master data and has access to all the system screens."
+      "description": "System Administrator. Can change all master data and has access to all the system screens.",
+      "groupId": "028"
     },
     {
       "code": "GRO",
       "name": "Grievance Routing Officer",
-      "description": "Grievance Routing Officer"
+      "description": "Grievance Routing Officer",
+      "groupId": "021"
     },
     {
       "code": "TL_CEMP",
       "name": "TL Counter Employee",
-      "description": "Who has a access to Trade License Services"
+      "description": "Who has a access to Trade License Services",
+      "groupId": "019"
     },
     {
       "code": "TL_CEMP_FORLEGACY",
       "name": "TL Counter Employee For Legacy records",
-      "description": "Who has a access to Trade License Services for addition of legacy records"
+      "description": "Who has a access to Trade License Services for addition of legacy records",
+      "groupId": "019"
     },
     {
       "code": "TL_APPROVER",
       "name": "TL Approver",
-      "description": "Who has a access to Trade License Workflow"
+      "description": "Who has a access to Trade License Workflow",
+      "groupId": "019"
     },
     {
       "code": "DGRO",
       "name": "Department Grievance Routing Officer",
-      "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
+      "description": "GRO for a sepcific dept who assings the grievances to last mile employees",
+      "groupId": "031"
     },
     {
       "code": "CSR",
       "name": "Customer Support Representative",
-      "description": "Employee who files and follows up complaints on behalf of the citizen"
+      "description": "Employee who files and follows up complaints on behalf of the citizen",
+      "groupId": "028"
     },
     {
       "code": "PGR-ADMIN",
       "name": "PGR Administrator",
-      "description": "Admin role that has super access over the system"
+      "description": "Admin role that has super access over the system",
+      "groupId": "021"
     },
     {
       "code": "CEMP",
       "name": "Counter Employee",
-      "description": "Employee at the counter who performs assessment on behalf of citizen"
+      "description": "Employee at the counter who performs assessment on behalf of citizen",
+      "groupId": "018"
     },
     {
       "code": "FEMP",
       "name": "Field Employee",
-      "description": "Employee on the field"
+      "description": "Employee on the field",
+      "groupId": "018"
     },
     {
       "code": "STADMIN",
       "name": "State Administrator",
-      "description": "Admin role that as access over a state"
+      "description": "Admin role that as access over a state",
+      "groupId": "028"
     },
     {
       "code": "EGF_BILL_CREATOR",
       "name": "EGF Bill Creator",
-      "description": "Employee who creates Bills in finance "
+      "description": "Employee who creates Bills in finance ",
+      "groupId": "020"
     },
     {
       "code": "EGF_BILL_APPROVER",
       "name": "EGF Bill Approver",
-      "description": "Employee who takes part in  Bills  approval in finance "
+      "description": "Employee who takes part in  Bills  approval in finance ",
+      "groupId": "020"
     },
     {
       "code": "EGF_VOUCHER_CREATOR",
       "name": "Finance Voucher Creator",
-      "description": "One who can create a voucher"
+      "description": "One who can create a voucher",
+      "groupId": "020"
     },
     {
       "code": "EGF_VOUCHER_APPROVER",
       "name": "Finance Voucher Approver",
-      "description": "One who can approve a voucher"
+      "description": "One who can approve a voucher",
+      "groupId": "020"
     },
     {
       "code": "EGF_PAYMENT_CREATOR",
       "name": "Finance Payment Creator",
-      "description": "One who can create a payment"
+      "description": "One who can create a payment",
+      "groupId": "020"
     },
     {
       "code": "EGF_PAYMENT_APPROVER",
       "name": "Finance Payment Approver",
-      "description": "One who can approve a payment"
+      "description": "One who can approve a payment",
+      "groupId": "020"
     },
     {
       "code": "EGF_MASTER_ADMIN",
       "name": "Finance Master Admin",
-      "description": "One who is the administrator for all master data in Finance"
+      "description": "One who is the administrator for all master data in Finance",
+      "groupId": "020"
     },
     {
       "code": "EGF_REPORT_VIEW",
       "name": "Finance Report View",
-      "description": "One who has acess to all financial reports"
+      "description": "One who has acess to all financial reports",
+      "groupId": "020"
     },
     {
       "code": "COLL_RECEIPT_CREATOR",
       "name": "Collections Receipt Creator",
-      "description": "One who can create and approve a receipt and receipt voucher"
+      "description": "One who can create and approve a receipt and receipt voucher",
+      "groupId": "020"
     },
     {
       "code": "COLL_REMIT_TO_BANK",
       "name": "Collections Remitter",
-      "description": "One who can remit the instruments to bank"
+      "description": "One who can remit the instruments to bank",
+      "groupId": "020"
     },
     {
       "code": "SYS_INTEGRATOR_FINANCE",
       "name": "System Integrator Finance",
-      "description": "Role for allowing system integration of Finance app with rainmaker"
+      "description": "Role for allowing system integration of Finance app with rainmaker",
+      "groupId": "020"
     },
     {
       "code": "SYS_INTEGRATOR_WATER_SEW",
       "name": "System Integrator W&S",
-      "description": "Role for allowing system integration of Water and Sewerage app with rainmaker"
+      "description": "Role for allowing system integration of Water and Sewerage app with rainmaker",
+      "groupId": "017"
     },
     {
       "code": "EMPLOYEE_FINANCE",
       "name": "Employee Finance",
-      "description": "All Employees who use Finance application"
+      "description": "All Employees who use Finance application",
+      "groupId": "020"
     },
     {
       "code": "EGF_ADMINISTRATOR",
       "name": "Finance Adminsitrator",
-      "description": "All Employees who are Finance application administrator"
+      "description": "All Employees who are Finance application administrator",
+      "groupId": "020"
     },
     {
       "code": "TL_FIELD_INSPECTOR",
       "name": "Trade License field inspector",
-      "description": "Trade License field inspector"
+      "description": "Trade License field inspector",
+      "groupId": "019"
     },
     {
       "code": "TL_DOC_VERIFIER",
       "name": "Trade License Document verifier",
-      "description": "Trade License Document verifier"
+      "description": "Trade License Document verifier",
+      "groupId": "019"
     },
     {
       "code": "PUNJAB_EODB",
       "name": "EODB search user",
-      "description": "EODB search user"
+      "description": "EODB search user",
+      "groupId": "031"
     },
     {
       "code": "PTULBADMIN",
       "name": "PT ULB Adminsitrator",
-      "description": "Property tax ULB level administrator"
+      "description": "Property tax ULB level administrator",
+      "groupId": "018"
     },
     {
       "code": "PTSTADMIN",
       "name": "PT State Administrator",
-      "description": "Property tax State level administrator"
+      "description": "Property tax State level administrator",
+      "groupId": "018"
     },
     {
       "code": "PTCEMP",
       "name": "PT Counter Employee",
-      "description": "PT Counter Employee"
+      "description": "PT Counter Employee",
+      "groupId": "018"
     },
     {
       "code": "ULBADMIN",
       "name": "ULB Administrator",
-      "description": "Admin role that as access over an ulb"
+      "description": "Admin role that as access over an ulb",
+      "groupId": "028"
     },
     {
       "code": "PTFEMP",
       "name": "PT Field Employee",
-      "description": "PT Field Employee"
+      "description": "PT Field Employee",
+      "groupId": "018"
     },
     {
       "code": "LOCALIZATION_UPLOADER",
       "name": "Localization uploader",
-      "description": "Employee with update localizaiton access"
+      "description": "Employee with update localizaiton access",
+      "groupId": "022"
     },
     {
       "code": "HRMS_ADMIN",
       "name": "HRMS ADMIN",
-      "description": "HRMS Administrator which can create new employees"
+      "description": "HRMS Administrator which can create new employees",
+      "groupId": "023"
     },
     {
       "code": "GIS_USER",
       "name": "GIS USER",
-      "description": "Role For GIS Search"
+      "description": "Role For GIS Search",
+      "groupId": "031"
     },
     {
       "code": "UC_EMP",
       "name": "Universal Collection Employee",
-      "description": "Universal Miscellaneous Collection Employee"
+      "description": "Universal Miscellaneous Collection Employee",
+      "groupId": "027"
     },
     {
       "code": "TL_PUBLIC_SEARCH",
       "name": "TL Public Search",
-      "description": "TL for public search"
+      "description": "TL for public search",
+      "groupId": "019"
     },
     {
       "code": "DSS_CITY_ADMIN",
       "name": "Admin of a ULB",
-      "description": "Admin of ULB to get access to the ULB level"
+      "description": "Admin of ULB to get access to the ULB level",
+      "groupId": "024"
     },
     {
       "code": "SEVA_KENDRA_EMP",
       "name": "Sewa Kendra Employee",
-      "description": "Sewa Kendra Employee"
+      "description": "Sewa Kendra Employee",
+      "groupId": "031"
     },
     {
       "code": "DSS_STATE_ADMIN",
       "name": "Admin of a state",
-      "description": "Admin of state to get access to the state level"
+      "description": "Admin of state to get access to the state level",
+      "groupId": "024"
     },
     {
       "code": "NOC_CEMP",
       "name": "NoC counter employee",
-      "description": "Fire NOC Counter Employee"
+      "description": "Fire NOC Counter Employee",
+      "groupId": "004"
     },
     {
       "code": "NOC_DOC_VERIFIER",
       "name": "NoC Doc Verifier",
-      "description": "Fire NOC document verifier"
+      "description": "Fire NOC document verifier",
+      "groupId": "004"
     },
     {
       "code": "NOC_FIELD_INSPECTOR",
       "name": "NoC Field Inpector",
-      "description": "Fire NOC  Field Inpector"
+      "description": "Fire NOC  Field Inpector",
+      "groupId": "004"
     },
     {
       "code": "NOC_APPROVER",
       "name": "NoC counter Approver",
-      "description": "Fire NOC Approver"
+      "description": "Fire NOC Approver",
+      "groupId": "004"
     },
     {
       "code": "WS_CEMP",
       "name": "WS Counter Employee",
-      "description": "WS counter employee can take action as citizen"
+      "description": "WS counter employee can take action as citizen",
+      "groupId": "017"
     },
     {
       "code": "WS_DOC_VERIFIER",
       "name": "WS Document Verifier",
-      "description": "WS Document Verifier"
+      "description": "WS Document Verifier",
+      "groupId": "017"
     },
     {
       "code": "WS_FIELD_INSPECTOR",
       "name": "WS Field Inspector",
-      "description": "WS Inspector can take action like verify and forword, send back to do"
+      "description": "WS Inspector can take action like verify and forword, send back to do",
+      "groupId": "017"
     },
     {
       "code": "WS_APPROVER",
       "name": "WS Approver",
-      "description": "WS Approver can approve the connection application"
+      "description": "WS Approver can approve the connection application",
+      "groupId": "017"
     },
     {
       "code": "WS_CLERK",
       "name": "WS Clerk",
-      "description": "WS Clerk can activate the connection application"
+      "description": "WS Clerk can activate the connection application",
+      "groupId": "017"
     },
     {
       "code": "SW_CEMP",
       "name": "SW Counter Employee",
-      "description": "SW counter employee can take action as citizen"
+      "description": "SW counter employee can take action as citizen",
+      "groupId": "015"
     },
     {
       "code": "SW_DOC_VERIFIER",
       "name": "SW Document Verifier",
-      "description": "SW Document Verifier"
+      "description": "SW Document Verifier",
+      "groupId": "015"
     },
     {
       "code": "SW_FIELD_INSPECTOR",
       "name": "SW Field Inspector",
-      "description": "SW Inspector can take action like verify and forword, send back to do"
+      "description": "SW Inspector can take action like verify and forword, send back to do",
+      "groupId": "015"
     },
     {
       "code": "SW_APPROVER",
       "name": "SW Approver",
-      "description": "SW Approver can approve the connection application"
+      "description": "SW Approver can approve the connection application",
+      "groupId": "015"
     },
     {
       "code": "SW_CLERK",
       "name": "SW Clerk",
-      "description": "SW Clerk can activate the connection application"
+      "description": "SW Clerk can activate the connection application",
+      "groupId": "015"
     },
     {
       "code": "PT_DOC_VERIFIER",
       "name": "PT Doc Verifier",
-      "description": "Property Document Verifier"
+      "description": "Property Document Verifier",
+      "groupId": "018"
     },
     {
       "code": "PT_FIELD_INSPECTOR",
       "name": "PT Field Inspector",
-      "description": "Property Field Inspector"
+      "description": "Property Field Inspector",
+      "groupId": "018"
     },
     {
       "code": "PT_APPROVER",
       "name": "PT Counter Approver",
-      "description": "PT Approver"
+      "description": "PT Approver",
+      "groupId": "018"
     },
     {
       "code": "MSG_BROADCASTER",
       "name": "Message Broadcaster",
-      "description": "Broadcaster can broad cast messages in their respective ULB for mass updates"
+      "description": "Broadcaster can broad cast messages in their respective ULB for mass updates",
+      "groupId": "030"
     },
     {
       "code": "TL_REC_CANCEL",
       "name": "TL Receipt Cancellation",
-      "description": "Allowed to Cancel TL Receipts"
+      "description": "Allowed to Cancel TL Receipts",
+      "groupId": "019"
     },
     {
       "code": "PT_REC_CANCEL",
       "name": "PT Receipt Cancellation",
-      "description": "Allowed to Cancel PT Receipts"
+      "description": "Allowed to Cancel PT Receipts",
+      "groupId": "018"
     },
     {
       "code": "FIRENOC_REC_CANCEL",
       "name": "Fire NOC Receipt Cancellation",
-      "description": "Allowed to Cancel Fire NOC Receipts"
+      "description": "Allowed to Cancel Fire NOC Receipts",
+      "groupId": "005"
     },
     {
       "code": "WS_REC_CANCEL",
       "name": "WS Receipt Cancellation",
-      "description": "Allowed to Cancel WS Receipts"
+      "description": "Allowed to Cancel WS Receipts",
+      "groupId": "017"
     },
     {
       "code": "MISC_REC_CANCEL",
       "name": "Miscellaneous Receipt Cancellation",
-      "description": "Allowed to Cancel Miscellaneous Receipts"
+      "description": "Allowed to Cancel Miscellaneous Receipts",
+      "groupId": "027"
     },
     {
       "code": "SYSTEM",
       "name": "SYSTEM user for cron job",
-      "description": "SYSTEM who can run the cron jobs"
+      "description": "SYSTEM who can run the cron jobs",
+      "groupId": "029"
     },
     {
       "code": "ANONYMOUS",
       "name": "Anonymous User",
-      "description": "Anonymous User to be used in case of no auth"
+      "description": "Anonymous User to be used in case of no auth",
+      "groupId": "029"
     },
     {
       "code": "PATIALA_PT_EMP",
       "name": "Patiala PT Emp",
-      "description": "Patiala Employee to view CyberTech transactions"
+      "description": "Patiala Employee to view CyberTech transactions",
+      "groupId": "018"
     },
     {
       "code": "UC_COWCESS_USER",
       "name": "Universal Collection Cow Cess",
-      "description": "Cow Cess collection user"
+      "description": "Cow Cess collection user",
+      "groupId": "027"
     },
     {
       "code": "SMS_SENDER",
       "name": "sendOpenSMS API access user",
-      "description": "sendOpenSMS API access user"
+      "description": "sendOpenSMS API access user",
+      "groupId": "030"
     },
     {
       "code": "ESEWAEMP",
       "name": "Esewa Employee",
-      "description": "Esewa Employee"
+      "description": "Esewa Employee",
+      "groupId": "031"
     },
     {
       "code": "PBTRACK",
       "name": "Punjab Transparency",
-      "description": "State Transaparency Viewer"
+      "description": "State Transaparency Viewer",
+      "groupId": "031"
     },
     {
       "code": "PDC",
       "name": "PDC Officer",
-      "description": "Access to PDC report"
+      "description": "Access to PDC report",
+      "groupId": "028"
     },
     {
       "code": "PESCO",
       "name": "PESCO",
-      "description": "Citizen who can raise complaint"
+      "description": "Citizen who can raise complaint",
+      "groupId": "016"
     },
     {
       "code": "SWACH_ADMIN",
       "name": "Swach Officer",
-      "description": "Access to Swach"
+      "description": "Access to Swach",
+      "groupId": "016"
     },
     {
       "code": "SWACH_STATE_EMP",
       "name": "Swach State Employee",
-      "description": "Access to swach"
+      "description": "Access to swach",
+      "groupId": "016"
     },
     {
       "code": "VIEW_SWACH_CARD",
       "name": "View Swach Card",
-      "description": "For Swach Card Display in Dashboard"
+      "description": "For Swach Card Display in Dashboard",
+      "groupId": "016"
     },
     {
       "code": "VIEW_ENGAGEMENT_CARD",
       "name": "View Engagement Card",
-      "description": "For Engagement Card Display in Dashboard"
+      "description": "For Engagement Card Display in Dashboard",
+      "groupId": "008"
     },
     {
       "code": "NDCCEMP",
       "name": "NDC Counter Employee",
-      "description": "NDC Counter Employee"
+      "description": "NDC Counter Employee",
+      "groupId": "009"
     },
     {
       "code": "NDC_DOC_VERIFIER",
       "name": "NDC Document Verifier",
-      "description": "No Dues Document Verifier"
+      "description": "No Dues Document Verifier",
+      "groupId": "009"
     },
     {
       "code": "NDC_PT_VERIFIER",
       "name": "NDC Property Verifier",
-      "description": "No Dues Verifier for Property "
+      "description": "No Dues Verifier for Property ",
+      "groupId": "009"
     },
     {
       "code": "NDC_WS_SW_VERIFIER",
       "name": "NDC Water and Sewerage Verifier",
-      "description": "No Dues Verifier for Water and Sewerage Service"
+      "description": "No Dues Verifier for Water and Sewerage Service",
+      "groupId": "009"
     },
     {
       "code": "NDC_BPA_VERIFIER",
       "name": "NDC BPA Verifier",
-      "description": "No Dues Verifier for BPA Service"
+      "description": "No Dues Verifier for BPA Service",
+      "groupId": "009"
     },
     {
       "code": "NDC_TL_VERIFIER",
       "name": "NDC Trade License Verifier",
-      "description": "No Dues Verifier for Trade License"
+      "description": "No Dues Verifier for Trade License",
+      "groupId": "009"
     },
     {
       "code": "NDC_APPROVER",
       "name": "NDC Approver",
-      "description": "No Dues Certificate Approver"
+      "description": "No Dues Certificate Approver",
+      "groupId": "009"
     },
     {
       "code": "NDC_REC_CANCEL",
       "name": "NDC Receipt Cancellation",
-      "description": "Allowed to Cancel NDC Receipts"
+      "description": "Allowed to Cancel NDC Receipts",
+      "groupId": "009"
     },
     {
       "code": "PET REPORTS",
       "name": "PET REPORTS",
-      "description": "Access to all Pet Service Reports"
+      "description": "Access to all Pet Service Reports",
+      "groupId": "003"
     },
     {
       "code": "NDC REPORTS",
       "name": "NDC REPORTS",
-      "description": "Access to all NDC Reports"
+      "description": "Access to all NDC Reports",
+      "groupId": "009"
     },
     {
       "code": "VIEW_NDC_CARD",
       "name": "View NDC Card",
-      "description": "For NDC Card Display in Dashboard"
+      "description": "For NDC Card Display in Dashboard",
+      "groupId": "009"
     },
     {
       "code": "CHB_CEMP",
       "name": "CommunityHall Employee",
-      "description": "CommunityHallBooking Employee"
+      "description": "CommunityHallBooking Employee",
+      "groupId": "002"
     },
     {
       "code": "VIEW_CHB_CARD",
       "name": "View CHB Card",
-      "description": "For CHB Card Display in Dashboard"
+      "description": "For CHB Card Display in Dashboard",
+      "groupId": "002"
     },
     {
       "code": "PET_REG_EMPLOYEE",
       "name": "Pet Registration Employee",
-      "description": "Access to PTR"
+      "description": "Access to PTR",
+      "groupId": "003"
     },
     {
       "code": "PET_DOC_VERIFIER",
       "name": "Pet Document Verifier",
-      "description": "Access to PTR"
+      "description": "Access to PTR",
+      "groupId": "003"
     },
     {
       "code": "PET_APPROVER",
       "name": "Pet Application Approver",
-      "description": "Access to PTR"
+      "description": "Access to PTR",
+      "groupId": "003"
     },
     {
       "code": "PET_COLLECTOR",
       "name": "Pet Payment Collector",
-      "description": "Access to PTR"
+      "description": "Access to PTR",
+      "groupId": "003"
     },
     {
       "code": "VIEW_PTR_CARD",
       "name": "View PTR Card",
-      "description": "For PTR Card Display in Dashboard"
+      "description": "For PTR Card Display in Dashboard",
+      "groupId": "003"
     },
     {
       "code": "ADV REPORTS",
       "name": "ADV REPORTS",
-      "description": "Access to all Advertisement And Hoarding Reports"
+      "description": "Access to all Advertisement And Hoarding Reports",
+      "groupId": "001"
     },
-	  {
+    {
       "code": "CHB REPORTS",
       "name": "CHB REPORTS",
-      "description": "Access to all Community Hall Booking Reports"
+      "description": "Access to all Community Hall Booking Reports",
+      "groupId": "002"
     },
     {
       "code": "PROFESSIONAL_DOC_VERIFIER",
       "name": "Professional doc verifier",
-      "description": "BPA Stakeholder workflow document verifier"
+      "description": "BPA Stakeholder workflow document verifier",
+      "groupId": "010"
     },
     {
       "code": "PROFESSIONAL_VERIFIER",
       "name": "Professional verifier",
-      "description": "BPA Stakeholder workflow verifier"
+      "description": "BPA Stakeholder workflow verifier",
+      "groupId": "010"
     },
     {
       "code": "PROFESSIONAL_APPROVER",
       "name": "Professional Approver",
-      "description": "BPA Stakeholder workflow Approver"
+      "description": "BPA Stakeholder workflow Approver",
+      "groupId": "010"
     },
     {
       "code": "BPA_ARCHITECT",
       "name": "BPA Architect",
-      "description": "BPA Architect"
+      "description": "BPA Architect",
+      "groupId": "025"
     },
     {
       "code": "BPA_ENGINEER",
       "name": "BPA Engineer",
-      "description": "BPA Engineer"
+      "description": "BPA Engineer",
+      "groupId": "025"
     },
     {
       "code": "BPA_TOWNPLANNER",
       "name": "BPA Town Planner",
-      "description": "BPA Town Planner"
+      "description": "BPA Town Planner",
+      "groupId": "025"
     },
     {
       "code": "BPA_SUPERVISOR",
       "name": "BPA Supervisor",
-      "description": "BPA Supervisor"
+      "description": "BPA Supervisor",
+      "groupId": "025"
     },
     {
       "code": "BPA_FIELD_INSPECTOR",
       "name": "BPA Field Inspector",
-      "description": "BPA Service field inspector"
+      "description": "BPA Service field inspector",
+      "groupId": "025"
     },
     {
       "code": "BPA_FIELD_REPORT_INSPECTOR",
       "name": "BPA Field Report Inspector",
-      "description": "BPA Service field Report inspector"
+      "description": "BPA Service field Report inspector",
+      "groupId": "025"
     },
     {
       "code": "BPA_APPROVER",
       "name": "BPA Services Approver",
-      "description": "BPA Services workflow Approver"
+      "description": "BPA Services workflow Approver",
+      "groupId": "025"
     },
     {
       "code": "BPA_DOC_VERIFIER",
       "name": "BPA Doc verifier",
-      "description": "BPA Services workflow document verifier"
+      "description": "BPA Services workflow document verifier",
+      "groupId": "025"
     },
     {
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
-      "description": "BPA Services workflow document & field inspection verifier"
-
+      "description": "BPA Services workflow document & field inspection verifier",
+      "groupId": "025"
     }
   ]
 }
