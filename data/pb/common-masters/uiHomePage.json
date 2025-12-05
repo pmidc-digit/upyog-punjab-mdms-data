@@ -61,6 +61,13 @@
             "label": "ACTION_TEST_CHB",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/chb-home"
+          },
+          {
+            "code": "OBPAS",
+            "name": "Building Plan Approval",
+            "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/obps-home"
           }
         ]
       },
