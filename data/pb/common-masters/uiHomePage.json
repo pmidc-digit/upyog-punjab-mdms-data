@@ -26,13 +26,7 @@
           "navigationUrl": "/digit-ui/citizen/all-services"
         },
         "props": [
-          {
-            "code": "CITIZEN_SERVICE_WS",
-            "name": "Water & Sewerage",
-            "label": "ACTION_TEST_WATER_AND_SEWERAGE",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/ws-home"
-          },
+        
           {
             "code": "CITIZEN_SERVICE_ENGAGEMENT",
             "name": "Engagement",
