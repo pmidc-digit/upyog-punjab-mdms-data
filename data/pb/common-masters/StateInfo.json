@@ -70,7 +70,15 @@
         {
           "label": "rainmaker-dss",
           "value": "rainmaker-dss"
-        }
+        },
+		{
+		  "label": "rainmaker-bpareg",
+		  "value": "rainmaker-bpareg"
+		},
+		{
+		  "label": "rainmaker-bpa",
+		  "value": "rainmaker-bpa"
+		}
       ]
     }
   ]
