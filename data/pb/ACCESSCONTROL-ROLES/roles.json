@@ -739,6 +739,12 @@
       "name": "View OBPS Card",
       "description": "For OBPS Card Display in Dashboard",
       "groupId": "025"
-    }
+    },
+	{
+	  "code": "VIEW_BPA_STAKEHOLDER_CARD",
+	  "name": "VIEW BPA Stakeholder Card",
+	  "description": "For Stakeholder Card Display in Dashboard",
+	  "groupId": "025"
+	}
   ]
 }
