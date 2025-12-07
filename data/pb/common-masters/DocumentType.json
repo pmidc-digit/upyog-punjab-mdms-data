@@ -86,7 +86,15 @@
           ],
           "code": "GOVTNOTIFICATION",
           "maxFileSize": 3000
-      }
+      },
+    {
+        "code": "LAST_PROPERTY_TAX",
+        "active": true
+    },
+    {
+        "code": "SITEPHOTOGRAPH_ONE",
+        "active": true
+    }
   ],
   "moduleName": "common-masters",
   "tenantId": "pb"
