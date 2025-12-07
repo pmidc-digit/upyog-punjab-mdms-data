@@ -923,7 +923,7 @@
     },
     "ChargesType": {
       "masterName": "ChargesType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code",
         "$name"
