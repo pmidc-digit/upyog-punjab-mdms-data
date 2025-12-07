@@ -3763,6 +3763,15 @@
                     "name": "Zone"
                 }
             ]
+        },
+        {
+            "tanentId": "pb.testing",
+            "zones": [
+                {
+                    "code": "Zone",
+                    "name": "Zone"
+                }
+            ]
         }
     ]
 }
