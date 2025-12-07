@@ -1,0 +1,48 @@
+{
+  "tenantId": "pb",
+  "moduleName": "EDCR-ROLES",
+  "roles": [	
+    {
+      "code": "BPA_ARCHITECT",
+      "name": "Architect",
+	  "maxAllowedPlotArea":2147483647,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Architect"
+    },
+    {
+      "code": "BPA_ENGINEER",
+      "name": "Engineer",
+	  "maxAllowedPlotArea":500,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Engineer"
+    },
+    {
+      "code": "BPA_BUILDER",
+      "name": "Builder",
+	  "maxAllowedPlotArea":250,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Builder"
+    },
+    {
+      "code": "BPA_STRUCTURALENGINEER",
+      "name": "Structural Engineer",
+	  "maxAllowedPlotArea":"NA",
+	  "isScrutinizeAllow":false,
+      "description": "BPA Structural Engineer"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "Town Planner",
+	  "maxAllowedPlotArea":500,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Town Planner"
+    },
+    {
+      "code": "BPA_DESIGNER",
+      "name": "Designer",
+	  "maxAllowedPlotArea":250,
+	  "isScrutinizeAllow":true,
+      "description": "BPA Designer"
+    }
+  ]
+}
