@@ -31599,6 +31599,216 @@
 	  "actionid": 5034,
 	  "actioncode": "",
 	  "tenantId": "pb"
-	}
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 5008,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 5008,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_ARCHITECT",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_APPROVER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_DOC_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_FIELD_INSPECTOR",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_NOC_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPAREG_DOC_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "AIRPORT_AUTHORITY_APPROVER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_DOC_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "FIRE_NOC_APPROVER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_VERIFIER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_APPROVER",
+    "actionid": 5009,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPAREG_DOC_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_DOC_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_ARCHITECT",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_APPROVER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_DOC_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_FIELD_INSPECTOR",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_NOC_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_DOC_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_VERIFIER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PROFESSIONAL_APPROVER",
+    "actionid": 5010,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 5024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_APPROVER",
+    "actionid": 5024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_DOC_VERIFIER",
+    "actionid": 5024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "BPA_VERIFIER",
+    "actionid": 5024,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "QA_AUTOMATION",
+    "actionid": 5024,
+    "actioncode": "",
+    "tenantId": "pb"
+  }
   ]
 }
