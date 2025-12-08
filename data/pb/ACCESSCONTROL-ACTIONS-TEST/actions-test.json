@@ -24725,6 +24725,30 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 111781,
+      "name": "Employee Update",
+      "url": "/egov-hrms/obpass/employees/_delete",
+      "parentModule": "egov-hrms",
+      "displayName": "Delete Obpas Employee Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 111782,
+      "name": "Employee Search",
+      "url": "/egov-hrms/obpass/employees/_search",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
