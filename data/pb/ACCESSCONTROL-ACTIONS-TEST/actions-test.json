@@ -18295,6 +18295,30 @@
     "serviceCode": "tl-services",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 5020,
+    "name": "BPA Application Payment search",
+    "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
+    "displayName": "BPA Application Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 5021,
+    "name": "BPA San Payment search",
+    "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
+    "displayName": "BPA San Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }
