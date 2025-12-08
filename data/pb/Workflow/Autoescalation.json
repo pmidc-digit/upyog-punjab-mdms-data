@@ -40,7 +40,7 @@
 	    "state": "DOC_VERIFICATION_PENDING,FIELDINSPECTION_INPROGRESS,INSPECTION_REPORT_PENDING",
 	    "action": "SENDFORVERIFICATION",
 	    "active": "false",
-	    "stateSLA": 777600000,
+	    "stateSLA": 86400000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
 	    "comment": "Auto Send For Verification."
@@ -52,7 +52,7 @@
 	    "state": "PENDINGINITIALVERIFICATION,PENDINGVERIFICATION,PULLED_BACK",
 	    "action": "VERIFY",
 	    "active": "false",
-	    "stateSLA": 864000000,
+	    "stateSLA": 172800000,
 	    "businessSLA": null,
 	    "topic": "bpa-auto-escalation",
 	    "comment": "Auto Verified."
