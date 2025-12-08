@@ -20679,7 +20679,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2Fproperty-upload%2FOctober%2F24%2F1761305572404ypbMTwCZlu.pdf",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FPT%2FDecember%2F8%2F1765181037424iqQsQOYSOm.pdf",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
@@ -24749,6 +24749,24 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 882464,
+      "name": "BPA_CITIZEN_HOME_SAMPLE_FILE_LABEL",
+      "url": "digit-ui-card",
+      "displayName": "Sample Files",
+      "orderNumber": 9,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/edcr/rest/dcr/downloadfile?tenantId=lalru&fileStoreId=c125a0db-bc98-4144-ad9b-710493203077",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
     }
   ]
 }
