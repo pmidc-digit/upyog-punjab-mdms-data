@@ -158,7 +158,15 @@
     {
         "code": "ANY_OTHER_SUPPORTING_DOCUMENT",
         "active": true
-    }
+    },
+	{
+	  "code": "CITIZEN.UNDERTAKING",
+	  "active" : true
+	},
+	{
+	  "code": "ARCHITECT.UNDERTAKING",
+	  "active" : true
+	}
   ],
   "moduleName": "common-masters",
   "tenantId": "pb"
