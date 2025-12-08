@@ -33,29 +33,41 @@
         "businessSLA": null,
         "topic": "tl-auto-escalation"
       },
-      {
-        "businessService": "BPA_LOW_OFF",
-        "module": "bpa-service_OFF",
-		"startSlaState": "DOC_VERIFICATION_PENDING",
-        "state": "INSPECTION_PENDING",
-        "action": "SENDFORAPPROVAL",
-        "active": "true",
-        "stateSLA": 86400000,
-        "businessSLA": null,
-        "topic" : "bpa-auto-escalation",
-		"comment": "Auto Send For Verification."
-      },
 	  {
-	    "businessService": "BPA_LOW_OFF",
-	    "module": "bpa-service_OFF",
-	    "startSlaState": "DOC_VERIFICATION_PENDING",
-	    "state": "DOC_VERIFICATION_PENDING,PENDINGAPPROVAL,PULLED_BACK",
-	    "action": "VERIFY",
-	    "active": "true",
-	    "stateSLA": 172800000,
+	    "businessService": "BPA_LOW",
+	    "module": "bpa-service",
+	    "startSlaState": "PENDINGINITIALVERIFICATION",
+	    "state": "DOC_VERIFICATION_PENDING,FIELDINSPECTION_INPROGRESS,INSPECTION_REPORT_PENDING",
+	    "action": "SENDFORVERIFICATION",
+	    "active": "false",
+	    "stateSLA": 777600000,
 	    "businessSLA": null,
-	    "topic" : "bpa-auto-escalation",
-		"comment": "Auto Verified."
+	    "topic": "bpa-auto-escalation",
+	    "comment": "Auto Send For Verification."
+	  },
+	  {
+	    "businessService": "BPA_LOW",
+	    "module": "bpa-service",
+	    "startSlaState": "PENDINGINITIALVERIFICATION",
+	    "state": "PENDINGINITIALVERIFICATION,PENDINGVERIFICATION,PULLED_BACK",
+	    "action": "VERIFY",
+	    "active": "false",
+	    "stateSLA": 864000000,
+	    "businessSLA": null,
+	    "topic": "bpa-auto-escalation",
+	    "comment": "Auto Verified."
+	  },
+	  {
+	    "businessService": "BPAREG",
+	    "module": "BPAREG",
+	    "startSlaState": "INITIATED",
+	    "state": "APPROVED",
+	    "action": "EXPIRY",
+	    "active": "true",
+	    "stateSLA": 0,
+	    "businessSLA": null,
+	    "topic": "update-tl-tradelicense",
+	    "comment": "Auto Expried."
 	  }
     ]
   }
