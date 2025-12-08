@@ -38404,6 +38404,24 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+      {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "CSR",
       "actionid": 1775,
