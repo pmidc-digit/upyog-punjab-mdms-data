@@ -32,6 +32,42 @@
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic": "tl-auto-escalation"
-      }   
+      },
+	  {
+	    "businessService": "BPA_LOW",
+	    "module": "bpa-service",
+	    "startSlaState": "PENDINGINITIALVERIFICATION",
+	    "state": "DOC_VERIFICATION_PENDING,FIELDINSPECTION_INPROGRESS,INSPECTION_REPORT_PENDING",
+	    "action": "SENDFORVERIFICATION",
+	    "active": "false",
+	    "stateSLA": 777600000,
+	    "businessSLA": null,
+	    "topic": "bpa-auto-escalation",
+	    "comment": "Auto Send For Verification."
+	  },
+	  {
+	    "businessService": "BPA_LOW",
+	    "module": "bpa-service",
+	    "startSlaState": "PENDINGINITIALVERIFICATION",
+	    "state": "PENDINGINITIALVERIFICATION,PENDINGVERIFICATION,PULLED_BACK",
+	    "action": "VERIFY",
+	    "active": "false",
+	    "stateSLA": 864000000,
+	    "businessSLA": null,
+	    "topic": "bpa-auto-escalation",
+	    "comment": "Auto Verified."
+	  },
+	  {
+	    "businessService": "BPAREG",
+	    "module": "BPAREG",
+	    "startSlaState": "INITIATED",
+	    "state": "APPROVED",
+	    "action": "EXPIRY",
+	    "active": "false",
+	    "stateSLA": 0,
+	    "businessSLA": null,
+	    "topic": "update-tl-tradelicense",
+	    "comment": "Auto Expried."
+	  }
     ]
   }

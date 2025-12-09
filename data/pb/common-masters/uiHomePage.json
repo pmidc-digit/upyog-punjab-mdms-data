@@ -26,13 +26,7 @@
           "navigationUrl": "/digit-ui/citizen/all-services"
         },
         "props": [
-          {
-            "code": "CITIZEN_SERVICE_WS",
-            "name": "Water & Sewerage",
-            "label": "ACTION_TEST_WATER_AND_SEWERAGE",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/ws-home"
-          },
+        
           {
             "code": "CITIZEN_SERVICE_ENGAGEMENT",
             "name": "Engagement",
@@ -67,6 +61,13 @@
             "label": "ACTION_TEST_CHB",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/chb-home"
+          },
+          {
+            "code": "OBPAS",
+            "name": "Building Plan Approval",
+            "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/obps-home"
           }
         ]
       },
