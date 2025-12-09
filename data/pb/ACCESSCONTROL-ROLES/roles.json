@@ -1233,6 +1233,10 @@
 	  "code": "OBPAS_BPA_DM",
 	  "name": "BPA DM",
 	  "description": "BPA DM workflow Approver"
-	}
+	},
+    {
+      "code": "CLERK",
+      "name": "Clerk",
+      "description": "Clerk"    }
   ]
 }
