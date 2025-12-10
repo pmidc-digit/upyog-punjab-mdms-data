@@ -745,6 +745,12 @@
 	  "name": "VIEW BPA Stakeholder Card",
 	  "description": "For Stakeholder Card Display in Dashboard",
 	  "groupId": "025"
-	}
+	},
+    {
+      "code": "CLERK",
+      "name": "Clerk",
+      "description": "Clerk",
+      "groupId": "025"
+    }
   ]
 }
