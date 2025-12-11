@@ -1237,6 +1237,56 @@
     {
       "code": "CLERK",
       "name": "Clerk",
-      "description": "Clerk"    }
+      "description": "Clerk"    },
+
+
+    {
+      "code": "VIEW_GARBAGE_COLLECTION_CARD",
+      "name": "Garbage Collection",
+      "description": "Garbage Collection",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_CEMP",
+      "name": "GC_CEMP",
+      "description": "Garbage connection Counter employee",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_DOC_VERIFIER",
+      "name": "GC_DOC_VERIFIER",
+      "description": "Garbage connection doc verifier employee",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_FIELD_INSPECTOR",
+      "name": "GC_FIELD_INSPECTOR",
+      "description": "Garbage connection fiels inspector verifier employee",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_APPROVER",
+      "name": "GC_APPROVER",
+      "description": "Garbage connection approver employee",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_CLERK",
+      "name": "GC_CLERK",
+      "description": "Garbage connection clerk employee",
+      "groupId": "014"
+    },
+    {
+      "code": "VIEW_GC_CARD",
+      "name": "View GC Card",
+      "description": "For GC Card Display in Dashboard",
+      "groupId": "014"
+    },
+    {
+      "code": "GC_ADMIN",
+      "name": "Search GC Role",
+      "description": "Access to GC",
+      "groupId": "014"
+    }
   ]
 }

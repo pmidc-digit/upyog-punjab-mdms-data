@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "gc-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

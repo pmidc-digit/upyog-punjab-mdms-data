@@ -24767,6 +24767,62 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
+      "id": 8900959,
+      "name": "create Garbage connection",
+      "url": "/gc-services/gc/_create",
+      "displayName": "create Garbage connection",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "gc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900944,
+      "name": "update Garbage connection",
+      "url": "/gc-services/gc/_update",
+      "displayName": "update Garbage connection",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "gc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8700956,
+      "name": "search Garbage connection",
+      "url": "/gc-services/gc/_search",
+      "displayName": "search Garbage connection",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "gc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900942,
+      "name": "garbage Collection Search Reciept",
+      "url": "/collection-services/payments/GC.ONE_TIME_FEE/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900876,
+      "name": "GC Calculator",
+      "url": "/gc-calculator/garbageCalculator/_estimate",
+      "parentModule": "",
+      "displayName": "GC Estimation",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "gc-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }

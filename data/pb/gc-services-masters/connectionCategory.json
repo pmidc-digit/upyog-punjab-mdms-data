@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb",
+  "moduleName": "gc-services-masters",
+  "connectionCategory": [
+    {
+      "name": "Temporary",
+      "code": "Temporary",
+      "active": true
+    },
+    {
+      "name": "Permanent",
+      "code": "Permanent",
+      "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO"],
+      "verificationDocument": [],
+      "active": true
+    }
+  ]
+}

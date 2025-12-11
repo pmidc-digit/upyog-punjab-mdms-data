@@ -1406,5 +1406,146 @@
 				"$.subCategoryId"
 			]
 		}
+	},
+	"gc-services-masters": {
+		"connectionCategory": {
+			"masterName": "connectionCategory",
+			"isStateLevel": false,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"connectionType": {
+			"masterName": "connectionType",
+			"isStateLevel": false,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+
+		"billingPeriod": {
+			"masterName": "billingPeriod",
+			"isStateLevel": false,
+			"uniqueKeys": [
+				"$.billingCycle"
+			]
+		},
+
+		"billingType": {
+			"masterName": "billingType",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"Documents": {
+			"masterName": "Documents",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"GarbageCollectionFrequency": {
+			"masterName": "GarbageCollectionFrequency",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"TypeOfWaste": {
+			"masterName": "TypeOfWaste",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"ModifyConnectionDocuments": {
+			"masterName": "ModifyConnectionDocuments",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
+	},
+
+	"gc-services-calculation": {
+
+		"Interest": {
+			"masterName": "Interest",
+			"isStateLevel": false,
+			"uniqueKeys": [
+				"$.fromFY"
+			]
+		},
+		"Rebate": {
+			"masterName": "Rebate",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.fromFY"
+			]
+		},
+		"Penalty": {
+			"masterName": "Penalty",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.fromFY"
+			]
+		},
+		"GCBillingSlab": {
+			"masterName": "GCBillingSlab",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"GC_CHARGE": {
+			"masterName": "GC_CHARGE",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		},
+		"GC_TIME_PENALTY": {
+			"masterName": "GC_TIME_PENALTY",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"GC_GARBAGE_CESS": {
+			"masterName": "GC_GARBAGE_CESS",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		},
+		"MeterStatus": {
+			"masterName": "MeterStatus",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		},
+		"GC_Round_Off": {
+			"masterName": "GC_Round_Off",
+			"isStateLevel": true,
+			"uniqueKeys": []
+		},
+		"PlotSizeSlab": {
+			"masterName": "PlotSizeSlab",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"PropertyUsageType": {
+			"masterName": "PropertyUsageType",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"FeeSlab": {
+			"masterName": "FeeSlab",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"RoadType": {
+			"masterName": "RoadType",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		},
+		"CalculationAttribute": {
+			"masterName": "CalculationAttribute",
+			"isStateLevel": false,
+			"uniqueKeys": []
+		}
 	}
 }
