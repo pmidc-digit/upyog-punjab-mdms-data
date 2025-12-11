@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb",
+  "moduleName": "gc-services-masters",
+  "GarbageCollectionFrequency": [
+    {
+      "code": "MONTHLY",
+      "name": "Monthly",
+      "active": true,
+      "order": 1
+    },
+    {
+      "code": "QUARTERLY",
+      "name": "Quarterly",
+      "active": true,
+      "order": 2
+    }
+  ]
+}

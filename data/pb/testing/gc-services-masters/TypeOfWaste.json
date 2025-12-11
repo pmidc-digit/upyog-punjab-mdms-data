@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "gc-services-masters",
+  "TypeOfWaste": [
+    {
+      "code": "GENERAL",
+      "name": "General",
+      "active": true,
+      "order": 1
+    },
+    {
+      "code": "RECYCLABLE",
+      "name": "Recyclable",
+      "active": true,
+      "order": 2
+    },
+    {
+      "code": "ORGANIC",
+      "name": "Organic",
+      "active": true,
+      "order": 3
+    }
+  ]
+}

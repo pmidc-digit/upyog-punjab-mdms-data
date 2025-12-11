@@ -1,0 +1,10 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "gc-services-calculation",
+    "DisconnectionFeeSlab": [
+      {
+        "applicationFee": 0,
+        "isActive": true
+      }
+    ]
+  }

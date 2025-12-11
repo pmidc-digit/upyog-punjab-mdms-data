@@ -665,6 +665,48 @@
         "isClosed": false,
         "transferClosingBalance": false,
         "module": "ADV"
+      },
+      {
+        "id": "47",
+        "tenantId": "pb",
+        "finYearRange": "2020-21",
+        "name": "2020-21",
+        "code": "2020-21",
+        "startingDate": 1585699200000,
+        "endingDate": 1617215399000,
+        "active": true,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "GC"
+      },
+      {
+        "id": "48",
+        "tenantId": "pb",
+        "finYearRange": "2021-22",
+        "name": "2021-22",
+        "code": "2021-22",
+        "startingDate": 1617215400000,
+        "endingDate": 1648728000000,
+        "active": true,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "GC"
+      },
+      {
+        "id": "49",
+        "tenantId": "pb",
+        "finYearRange": "2025-26",
+        "name": "2025-26",
+        "code": "2025-26",
+        "startingDate": 1617215400000,
+        "endingDate": 1648728000000,
+        "active": true,
+        "isActiveForPosting": true,
+        "isClosed": false,
+        "transferClosingBalance": false,
+        "module": "GC"
       }
     ]
   }

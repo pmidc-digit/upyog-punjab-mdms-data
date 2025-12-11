@@ -1149,6 +1149,18 @@
       "subscheme":"",
       "validFrom":1234567890,
       "validTo":2345678901
+    },
+    {
+      "code":"GC.ONE_TIME_FEE",
+      "voucherCreationEnabled":true,
+      "fund":"01",
+      "function":"909100",
+      "department":"DEPT_25",
+      "functionary":"",
+      "scheme":"",
+      "subscheme":"",
+      "validFrom":1234567890,
+      "validTo":2345678901
     }
   ]
 }

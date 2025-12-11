@@ -8146,6 +8146,362 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+
+    {
+      "category": "FEE",
+      "code": "GC_OTHER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application other charge fee",
+      "order": "14",
+      "service": "GC.ONE_TIME_FEE"
+    },
+
+    {
+      "category": "CHARGES",
+      "code": "GC_CHARGE",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Garbage Charges",
+      "order": "0",
+      "service": "GC"
+    },
+    {
+      "category": "REBATE",
+      "code": "GC_TIME_REBATE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Rebate",
+      "order": "0",
+      "service": "GC"
+    },
+    {
+      "category": "FINES",
+      "code": "GC_TIME_INTEREST",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage Interest",
+      "order": "1",
+      "service": "GC"
+    },
+
+    {
+      "category": "PENALTY",
+      "code": "GC_TIME_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Penalty",
+      "order": "3",
+      "service": "GC"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_Round_Off",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Round Off",
+      "order": "4",
+      "service": "GC"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_TIME_ADHOC_REBATE",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage adhoc rebate",
+      "order": "5",
+      "service": "GC"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_TIME_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage adhoc penalty",
+      "order": "6",
+      "service": "GC"
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "code": "GC_ADVANCE_CARRYFORWARD",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Gc advance carry forward",
+      "order": "0",
+      "service": "GC"
+    },
+    {
+      "category": "PENALTY",
+      "code": "GC_BREAKDOWN_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "BreakdownPenalty",
+      "order": "3",
+      "service": "GC"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_METER_RENT",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Meter Rent",
+      "order": "4",
+      "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_TAX_ADJUSTMENT",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage Tax Adjustment",
+      "order": "1",
+      "service": "GC"
+    },
+    {
+      "category": "CHARGES",
+      "code": "GC_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "IsBillamend": true,
+      "name": "Door to door garbage collection charges",
+      "order": "4",
+      "service": "GC"
+    },
+    {
+      "category": "CHARGES",
+      "code": "GC_APPLICATION_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage Application Tax",
+      "order": "4",
+      "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_CONNECTION_TYPE_CONVERSION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "GC connection type conversion fee",
+      "order": "6",
+      "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage title transfer fee",
+      "order": "6",
+      "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage additional title transfer fee",
+      "order": "6",
+      "service": "GC"
+    },
+    {
+      "category": "CHARGES",
+      "code": "GC_SUPERVISION_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage supervision tax",
+      "order": "4",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_FORM_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application form fee",
+      "order": "0",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_SCRUTINY_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application scrutiny fee",
+      "order": "1",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_ONE_TIME_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application one time fee",
+      "order": "2",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_ROAD_CUTTING_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application road cutting charge",
+      "order": "3",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "GC_METER_TESTING_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application meter testing fee",
+      "order": "4",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_SECURITY_DEPOSIT",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application security charge",
+      "order": "5",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_OTHER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application other fee",
+      "order": "6",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_USER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application user charges",
+      "order": "13",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_TAX_AND_CESS",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application tax and cess",
+      "order": "7",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage Fee Round Off",
+      "order": "8",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage adhoc penality",
+      "order": "9",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "REBATE",
+      "code": "GC_ADHOC_REBATE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage adhoc rebate",
+      "order": "10",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_CONNECTION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application connection fee",
+      "order": "11",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "GC_COMPOSITION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage application Composition fee",
+      "order": "12",
+      "service": "GC.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "GC_DISCHARGE_CHARGES",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Garbage Discharges",
+      "order": "0",
+      "service": "GC"
+    },
+    {
+      "category": "TAX",
+      "code": "GC_GARBAGE_CESS",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Garbage Cess",
+      "order": "2",
+      "service": "GC"
     }
   ]
 }
