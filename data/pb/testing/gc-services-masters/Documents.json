@@ -8,20 +8,6 @@
       "required": true,
       "active": true,
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
-    },
-    {
-      "code": "BILLS.GENERATED",
-      "documentType": "Bills_Generated",
-      "active": true,
-      "required": false,
-      "description": "Bills_Generated_DESCRIPTION"
-    },
-    {
-      "code": "PAYMENT.STATUS.REPORT",
-      "documentType": "Payment_Status_Report",
-      "active": true,
-      "required": false,
-      "description": "Payment_Status_Report_DESCRIPTION"
     }
   ]
 }
