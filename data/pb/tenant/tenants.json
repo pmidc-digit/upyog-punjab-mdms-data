@@ -4,6 +4,8 @@
   "tenants": [
     {
       "code": "pb.abohar",
+      "ulbCode": "ABOHA",
+      "districtCode": "FKA",
       "name": "Abohar",
       "description": "Abohar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.abohar/logo.png",
@@ -42,6 +44,8 @@
     },
     {
       "code": "pb.adampur",
+      "ulbCode": "ADAMP",
+      "districtCode": "JUC",
       "name": "Adampur",
       "description": "Adampur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.adampur/logo.png",
@@ -80,6 +84,8 @@
     },
     {
       "code": "pb.ahmedgarh",
+      "ulbCode": "AHMED",
+      "districtCode": "MALK",
       "name": "Ahmedgarh",
       "description": "Ahmedgarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ahmedgarh/logo.png",
@@ -118,6 +124,8 @@
     },
     {
       "code": "pb.ajnala",
+      "ulbCode": "AJNAL",
+      "districtCode": "ASR",
       "name": "Ajnala",
       "description": "Ajnala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ajnala/logo.png",
@@ -156,6 +164,8 @@
     },
     {
       "code": "pb.alawalpur",
+      "ulbCode": "ALAWA",
+      "districtCode": "JUC",
       "name": "Alawalpur",
       "description": "Alawalpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.alawalpur/logo.png",
@@ -194,6 +204,8 @@
     },
     {
       "code": "pb.amargarh",
+      "ulbCode": "AMARG",
+      "districtCode": "MALK",
       "name": "Amargarh",
       "description": "Amargarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.amargarh/logo.png",
@@ -232,6 +244,8 @@
     },
     {
       "code": "pb.amloh",
+      "ulbCode": "AMLOH",
+      "districtCode": "FAT",
       "name": "Amloh",
       "description": "Amloh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.amloh/logo.png",
@@ -270,6 +284,8 @@
     },
     {
       "code": "pb.amritsar",
+      "ulbCode": "AMRIT",
+      "districtCode": "ASR",
       "name": "Amritsar",
       "description": "Amritsar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.amritsar/logo.png",
@@ -308,6 +324,8 @@
     },
     {
       "code": "pb.anandpursahib",
+      "ulbCode": "ANAND",
+      "districtCode": "RPAR",
       "name": "Anandpursahib",
       "description": "Anandpursahib",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.anandpursahib/logo.png",
@@ -345,6 +363,8 @@
     },
     {
       "code": "pb.arniwala",
+      "ulbCode": "ARNIW",
+      "districtCode": "FKA",
       "name": "Arniwala",
       "description": "Arniwala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.arniwala/logo.png",
@@ -383,6 +403,8 @@
     },
     {
       "code": "pb.badhnikalan",
+      "ulbCode": "BADHN",
+      "districtCode": "MOGA",
       "name": "Badhnikalan",
       "description": "Badhnikalan",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.badhnikalan/logo.png",
@@ -421,6 +443,8 @@
     },
     {
       "code": "pb.baghapurana",
+      "ulbCode": "BAGHA",
+      "districtCode": "MOGA",
       "name": "Baghapurana",
       "description": "Baghapurana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.baghapurana/logo.png",
@@ -459,6 +483,8 @@
     },
     {
       "code": "pb.balachaur",
+      "ulbCode": "BALAC",
+      "districtCode": "SBS",
       "name": "Balachaur",
       "description": "Balachaur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.balachaur/logo.png",
@@ -497,6 +523,8 @@
     },
     {
       "code": "pb.balianwali",
+      "ulbCode": "BALIA",
+      "districtCode": "BTI",
       "name": "Balianwali",
       "description": "Balianwali",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.balianwali/logo.png",
@@ -535,6 +563,8 @@
     },
     {
       "code": "pb.banga",
+      "ulbCode": "BANGA",
+      "districtCode": "SBS",
       "name": "Banga",
       "description": "Banga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.banga/logo.png",
@@ -573,6 +603,8 @@
     },
     {
       "code": "pb.banur",
+      "ulbCode": "BANUR",
+      "districtCode": "SAS",
       "name": "Banur",
       "description": "Banur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.banur/logo.png",
@@ -611,6 +643,8 @@
     },
     {
       "code": "pb.bareta",
+      "ulbCode": "BARET",
+      "districtCode": "MSZ",
       "name": "Bareta",
       "description": "Bareta",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bareta/logo.png",
@@ -649,6 +683,8 @@
     },
     {
       "code": "pb.bariwala",
+      "ulbCode": "BARIW",
+      "districtCode": "MKS",
       "name": "Bariwala",
       "description": "Bariwala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bariwala/logo.png",
@@ -687,6 +723,8 @@
     },
     {
       "code": "pb.barnala",
+      "ulbCode": "BARNA",
+      "districtCode": "BNN",
       "name": "Barnala",
       "description": "Barnala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.barnala/logo.png",
@@ -725,6 +763,8 @@
     },
     {
       "code": "pb.bassipathana",
+      "ulbCode": "BASSI",
+      "districtCode": "FAT",
       "name": "Bassipathana",
       "description": "Bassipathana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bassipathana/logo.png",
@@ -763,6 +803,8 @@
     },
     {
       "code": "pb.batala",
+      "ulbCode": "BATAL",
+      "districtCode": "GUR",
       "name": "Batala",
       "description": "Batala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.batala/logo.png",
@@ -801,6 +843,8 @@
     },
     {
       "code": "pb.bathinda",
+      "ulbCode": "BATHI",
+      "districtCode": "BTI",
       "name": "Bathinda",
       "description": "Bathinda",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bathinda/logo.png",
@@ -839,6 +883,8 @@
     },
     {
       "code": "pb.begowal",
+      "ulbCode": "BEGOW",
+      "districtCode": "KXH",
       "name": "Begowal",
       "description": "Begowal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.begowal/logo.png",
@@ -877,6 +923,8 @@
     },
     {
       "code": "pb.bhadaur",
+      "ulbCode": "BHADA",
+      "districtCode": "BNN",
       "name": "Bhadaur",
       "description": "Bhadaur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhadaur/logo.png",
@@ -915,6 +963,8 @@
     },
     {
       "code": "pb.bhadson",
+      "ulbCode": "BHADS",
+      "districtCode": "PTA",
       "name": "Bhadson",
       "description": "Bhadson",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhadson/logo.png",
@@ -953,6 +1003,8 @@
     },
     {
       "code": "pb.bhagtabhai",
+      "ulbCode": "BHAGT",
+      "districtCode": "BTI",
       "name": "Bhagtabhai",
       "description": "Bhagtabhai",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhagtabhai/logo.png",
@@ -991,6 +1043,8 @@
     },
     {
       "code": "pb.bhairoopa",
+      "ulbCode": "BHAIR",
+      "districtCode": "BTI",
       "name": "Bhairoopa",
       "description": "Bhairoopa",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhairoopa/logo.png",
@@ -1029,6 +1083,8 @@
     },
     {
       "code": "pb.bhawanigarh",
+      "ulbCode": "BHAWA",
+      "districtCode": "SAG",
       "name": "Bhawanigarh",
       "description": "Bhawanigarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhawanigarh/logo.png",
@@ -1067,6 +1123,8 @@
     },
     {
       "code": "pb.bhikhi",
+      "ulbCode": "BHIKH",
+      "districtCode": "MSZ",
       "name": "Bhikhi",
       "description": "Bhikhi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhikhi/logo.png",
@@ -1105,6 +1163,8 @@
     },
     {
       "code": "pb.bhikhiwind",
+      "ulbCode": "BHIKHW",
+      "districtCode": "TTO",
       "name": "Bhikhiwind",
       "description": "Bhikhiwind",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhikhiwind/logo.png",
@@ -1143,6 +1203,8 @@
     },
     {
       "code": "pb.bhogpur",
+      "ulbCode": "BHOGP",
+      "districtCode": "JUC",
       "name": "Bhogpur",
       "description": "Bhogpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhogpur/logo.png",
@@ -1181,6 +1243,8 @@
     },
     {
       "code": "pb.bhuchomandi",
+      "ulbCode": "BHUCH",
+      "districtCode": "BTI",
       "name": "Bhuchomandi",
       "description": "Bhuchomandi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhuchomandi/logo.png",
@@ -1219,6 +1283,8 @@
     },
     {
       "code": "pb.bhulath",
+      "ulbCode": "BHULA",
+      "districtCode": "KXH",
       "name": "Bhulath",
       "description": "Bhulath",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bhulath/logo.png",
@@ -1257,6 +1323,8 @@
     },
     {
       "code": "pb.bilga",
+      "ulbCode": "BILGA",
+      "districtCode": "JUC",
       "name": "Bilga",
       "description": "Bilga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bilga/logo.png",
@@ -1295,6 +1363,8 @@
     },
     {
       "code": "pb.boha",
+      "ulbCode": "BOHA",
+      "districtCode": "MSZ",
       "name": "Boha",
       "description": "Boha",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.boha/logo.png",
@@ -1333,6 +1403,8 @@
     },
     {
       "code": "pb.budhlada",
+      "ulbCode": "BUDHA",
+      "districtCode": "MSZ",
       "name": "Budhlada",
       "description": "Budhlada",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.budhlada/logo.png",
@@ -1371,6 +1443,8 @@
     },
     {
       "code": "pb.chamkaursahib",
+      "ulbCode": "CHAMK",
+      "districtCode": "RPAR",
       "name": "Chamkaursahib",
       "description": "Chamkaursahib",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.chamkaursahib/logo.png",
@@ -1409,6 +1483,8 @@
     },
     {
       "code": "pb.chaunke",
+      "ulbCode": "CHAUKE",
+      "districtCode": "BTI",
       "name": "Chaunke",
       "description": "Chaunke",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.chaunke/logo.png",
@@ -1447,6 +1523,8 @@
     },
     {
       "code": "pb.cheema",
+      "ulbCode": "CHEEM",
+      "districtCode": "SAG",
       "name": "Cheema",
       "description": "Cheema",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.cheema/logo.png",
@@ -1485,6 +1563,8 @@
     },
     {
       "code": "pb.dasuya",
+      "ulbCode": "DASUA",
+      "districtCode": "HSX",
       "name": "Dasuya",
       "description": "Dasuya",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dasuya/logo.png",
@@ -1523,6 +1603,8 @@
     },
     {
       "code": "pb.derababananak",
+      "ulbCode": "DERBN",
+      "districtCode": "GUR",
       "name": "Derababananak",
       "description": "Derababananak",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.derababananak/logo.png",
@@ -1561,6 +1643,8 @@
     },
     {
       "code": "pb.derabassi",
+      "ulbCode": "DERBS",
+      "districtCode": "SAS",
       "name": "Derabassi",
       "description": "Derabassi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.derabassi/logo.png",
@@ -1599,6 +1683,8 @@
     },
     {
       "code": "pb.dhanaula",
+      "ulbCode": "DHANA",
+      "districtCode": "BNN",
       "name": "Dhanaula",
       "description": "Dhanaula",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dhanaula/logo.png",
@@ -1637,6 +1723,8 @@
     },
     {
       "code": "pb.dharamkot",
+      "ulbCode": "DHARA",
+      "districtCode": "MOGA",
       "name": "Dharamkot",
       "description": "Dharamkot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dharamkot/logo.png",
@@ -1675,6 +1763,8 @@
     },
     {
       "code": "pb.dhariwal",
+      "ulbCode": "DHARI",
+      "districtCode": "GUR",
       "name": "Dhariwal",
       "description": "Dhariwal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dhariwal/logo.png",
@@ -1713,6 +1803,8 @@
     },
     {
       "code": "pb.dhilwan",
+      "ulbCode": "DHILW",
+      "districtCode": "KXH",
       "name": "Dhilwan",
       "description": "Dhilwan",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dhilwan/logo.png",
@@ -1751,6 +1843,8 @@
     },
     {
       "code": "pb.dhuri",
+      "ulbCode": "DHURI",
+      "districtCode": "SAG",
       "name": "Dhuri",
       "description": "Dhuri",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dhuri/logo.png",
@@ -1789,6 +1883,8 @@
     },
     {
       "code": "pb.dinanagar",
+      "ulbCode": "DINAN",
+      "districtCode": "GUR",
       "name": "Dinanagar",
       "description": "Dinanagar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dinanagar/logo.png",
@@ -1827,6 +1923,8 @@
     },
     {
       "code": "pb.dirba",
+      "ulbCode": "DIRBA",
+      "districtCode": "SAG",
       "name": "Dirba",
       "description": "Dirba",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dirba/logo.png",
@@ -1865,6 +1963,8 @@
     },
     {
       "code": "pb.doraha",
+      "ulbCode": "DORAH",
+      "districtCode": "LDH",
       "name": "Doraha",
       "description": "Doraha",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.doraha/logo.png",
@@ -1903,6 +2003,8 @@
     },
     {
       "code": "pb.faridkot",
+      "ulbCode": "FARID",
+      "districtCode": "FDK",
       "name": "Faridkot",
       "description": "Faridkot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.faridkot/logo.png",
@@ -1941,6 +2043,8 @@
     },
     {
       "code": "pb.fatehgarhchurian",
+      "ulbCode": "FATEH",
+      "districtCode": "GUR",
       "name": "Fatehgarhchurian",
       "description": "Fatehgarhchurian",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.fatehgarhchurian/logo.png",
@@ -1979,6 +2083,8 @@
     },
     {
       "code": "pb.fatehgarhpanjtoor",
+      "ulbCode": "FATEP",
+      "districtCode": "MOGA",
       "name": "Fatehgarhpanjtoor",
       "description": "Fatehgarhpanjtoor",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.fatehgarhpanjtoor/logo.png",
@@ -2017,6 +2123,8 @@
     },
     {
       "code": "pb.fazilka",
+      "ulbCode": "FAZIL",
+      "districtCode": "FKA",
       "name": "Fazilka",
       "description": "Fazilka",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.fazilka/logo.png",
@@ -2055,6 +2163,8 @@
     },
     {
       "code": "pb.ferozepur",
+      "ulbCode": "FIROZ",
+      "districtCode": "FZP",
       "name": "Ferozepur",
       "description": "Ferozepur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ferozepur/logo.png",
@@ -2093,6 +2203,8 @@
     },
     {
       "code": "pb.garhdiwala",
+      "ulbCode": "GARDH",
+      "districtCode": "HSX",
       "name": "Garhdiwala",
       "description": "Garhdiwala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.garhdiwala/logo.png",
@@ -2131,6 +2243,8 @@
     },
     {
       "code": "pb.garhshankar",
+      "ulbCode": "GARHS",
+      "districtCode": "HSX",
       "name": "Garhshankar",
       "description": "Garhshankar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.garhshankar/logo.png",
@@ -2169,6 +2283,8 @@
     },
     {
       "code": "pb.ghagga",
+      "ulbCode": "GHAGG",
+      "districtCode": "PTA",
       "name": "Ghagga",
       "description": "Ghagga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ghagga/logo.png",
@@ -2207,6 +2323,8 @@
     },
     {
       "code": "pb.ghanaur",
+      "ulbCode": "GHANA",
+      "districtCode": "PTA",
       "name": "Ghanaur",
       "description": "Ghanaur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ghanaur/logo.png",
@@ -2245,6 +2363,8 @@
     },
     {
       "code": "pb.gidderbaha",
+      "ulbCode": "GIDDE",
+      "districtCode": "MKS",
       "name": "Gidderbaha",
       "description": "Gidderbaha",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.gidderbaha/logo.png",
@@ -2283,6 +2403,8 @@
     },
     {
       "code": "pb.goniana",
+      "ulbCode": "GONIA",
+      "districtCode": "BTI",
       "name": "Goniana",
       "description": "Goniana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.goniana/logo.png",
@@ -2321,6 +2443,8 @@
     },
     {
       "code": "pb.goraya",
+      "ulbCode": "GORAY",
+      "districtCode": "JUC",
       "name": "Goraya",
       "description": "Goraya",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.goraya/logo.png",
@@ -2359,6 +2483,8 @@
     },
     {
       "code": "pb.gurdaspur",
+      "ulbCode": "GURDA",
+      "districtCode": "GUR",
       "name": "Gurdaspur",
       "description": "Gurdaspur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.gurdaspur/logo.png",
@@ -2397,6 +2523,8 @@
     },
     {
       "code": "pb.guruharsahai",
+      "ulbCode": "GURUH",
+      "districtCode": "FZP",
       "name": "Guruharsahai",
       "description": "Guruharsahai",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.guruharsahai/logo.png",
@@ -2435,6 +2563,8 @@
     },
     {
       "code": "pb.handiaya",
+      "ulbCode": "HANDI",
+      "districtCode": "BNN",
       "name": "Handiaya",
       "description": "Handiaya",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.handiaya/logo.png",
@@ -2473,6 +2603,8 @@
     },
     {
       "code": "pb.hariana",
+      "ulbCode": "HARIA",
+      "districtCode": "HSX",
       "name": "Hariana",
       "description": "Hariana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.hariana/logo.png",
@@ -2511,6 +2643,8 @@
     },
     {
       "code": "pb.hoshiarpur",
+      "ulbCode": "HOSHI",
+      "districtCode": "HSX",
       "name": "Hoshiarpur",
       "description": "Hoshiarpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.hoshiarpur/logo.png",
@@ -2549,6 +2683,8 @@
     },
     {
       "code": "pb.jagraon",
+      "ulbCode": "JAGRA",
+      "districtCode": "LDH",
       "name": "Jagraon",
       "description": "Jagraon",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.jagraon/logo.png",
@@ -2587,6 +2723,8 @@
     },
     {
       "code": "pb.jaitu",
+      "ulbCode": "JAITU",
+      "districtCode": "FDK",
       "name": "Jaitu",
       "description": "Jaitu",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.jaitu/logo.png",
@@ -2625,6 +2763,8 @@
     },
     {
       "code": "pb.jalalabad",
+      "ulbCode": "JALAL",
+      "districtCode": "FKA",
       "name": "Jalalabad",
       "description": "Jalalabad",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.jalalabad/logo.png",
@@ -2663,6 +2803,8 @@
     },
     {
       "code": "pb.jalandhar",
+      "ulbCode": "JALAN",
+      "districtCode": "JUC",
       "name": "Jalandhar",
       "description": "Jalandhar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.jalandhar/logo.png",
@@ -2701,6 +2843,8 @@
     },
     {
       "code": "pb.jandialaguru",
+      "ulbCode": "JANDI",
+      "districtCode": "ASR",
       "name": "Jandialaguru",
       "description": "Jandialaguru",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.jandialaguru/logo.png",
@@ -2739,6 +2883,8 @@
     },
     {
       "code": "pb.joga",
+      "ulbCode": "JOGA",
+      "districtCode": "MSZ",
       "name": "Joga",
       "description": "Joga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.joga/logo.png",
@@ -2777,6 +2923,8 @@
     },
     {
       "code": "pb.kapurthala",
+      "ulbCode": "KAPUR",
+      "districtCode": "KXH",
       "name": "Kapurthala",
       "description": "Kapurthala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kapurthala/logo.png",
@@ -2815,6 +2963,8 @@
     },
     {
       "code": "pb.kartarpur",
+      "ulbCode": "KARTA",
+      "districtCode": "JUC",
       "name": "Kartarpur",
       "description": "Kartarpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kartarpur/logo.png",
@@ -2853,6 +3003,8 @@
     },
     {
       "code": "pb.khamano",
+      "ulbCode": "KHAMA",
+      "districtCode": "FAT",
       "name": "Khamano",
       "description": "Khamano",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.khamano/logo.png",
@@ -2891,6 +3043,8 @@
     },
     {
       "code": "pb.khanauri",
+      "ulbCode": "KHANA",
+      "districtCode": "SAG",
       "name": "Khanauri",
       "description": "Khanauri",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.khanauri/logo.png",
@@ -2929,6 +3083,8 @@
     },
     {
       "code": "pb.khanna",
+      "ulbCode": "KHANN",
+      "districtCode": "LDH",
       "name": "Khanna",
       "description": "Khanna",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.khanna/logo.png",
@@ -2967,6 +3123,8 @@
     },
     {
       "code": "pb.kharar",
+      "ulbCode": "KHARA",
+      "districtCode": "SAS",
       "name": "Kharar",
       "description": "Kharar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kharar/logo.png",
@@ -3005,6 +3163,8 @@
     },
     {
       "code": "pb.khemkaran",
+      "ulbCode": "KHEMK",
+      "districtCode": "TTO",
       "name": "Khemkaran",
       "description": "Khemkaran",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.khemkaran/logo.png",
@@ -3043,6 +3203,8 @@
     },
     {
       "code": "pb.kiratpur",
+      "ulbCode": "KIRAT",
+      "districtCode": "RPAR",
       "name": "Kiratpur Sahib",
       "description": "Kiratpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kiratpur/logo.png",
@@ -3081,6 +3243,8 @@
     },
     {
       "code": "pb.kotfatta",
+      "ulbCode": "KOTFA",
+      "districtCode": "BTI",
       "name": "Kotfatta",
       "description": "Kotfatta",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kotfatta/logo.png",
@@ -3119,6 +3283,8 @@
     },
     {
       "code": "pb.kothaguru",
+      "ulbCode": "KOTHA",
+      "districtCode": "BTI",
       "name": "Kothaguru",
       "description": "Kothaguru",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kothaguru/logo.png",
@@ -3156,6 +3322,8 @@
     },
     {
       "code": "pb.kotissekhan",
+      "ulbCode": "KOTIS",
+      "districtCode": "MOGA",
       "name": "Kotissekhan",
       "description": "Kotissekhan",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kotissekhan/logo.png",
@@ -3194,6 +3362,8 @@
     },
     {
       "code": "pb.kotkapura",
+      "ulbCode": "KOTKA",
+      "districtCode": "FDK",
       "name": "Kotkapura",
       "description": "Kotkapura",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kotkapura/logo.png",
@@ -3232,6 +3402,8 @@
     },
     {
       "code": "pb.kotshamir",
+      "ulbCode": "KOTSH",
+      "districtCode": "BTI",
       "name": "Kotshamir",
       "description": "Kotshamir",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kotshamir/logo.png",
@@ -3270,6 +3442,8 @@
     },
     {
       "code": "pb.kurali",
+      "ulbCode": "KURAL",
+      "districtCode": "SAS",
       "name": "Kurali",
       "description": "Kurali",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.kurali/logo.png",
@@ -3308,6 +3482,8 @@
     },
     {
       "code": "pb.lalru",
+      "ulbCode": "LALRU",
+      "districtCode": "SAS",
       "name": "Lalru",
       "description": "Lalru",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.lalru/logo.png",
@@ -3346,6 +3522,8 @@
     },
     {
       "code": "pb.lehragaga",
+      "ulbCode": "LEHRA",
+      "districtCode": "SAG",
       "name": "Lehragaga",
       "description": "Lehragaga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.lehragaga/logo.png",
@@ -3384,6 +3562,8 @@
     },
     {
       "code": "pb.lehramohabbat",
+      "ulbCode": "LEHMO",
+      "districtCode": "BTI",
       "name": "Lehramohabbat",
       "description": "Lehramohabbat",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.lehramohabbat/logo.png",
@@ -3422,6 +3602,8 @@
     },
     {
       "code": "pb.lohiankhas",
+      "ulbCode": "LOHIA",
+      "districtCode": "JUC",
       "name": "Lohiankhas",
       "description": "Lohiankhas",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.lohiankhas/logo.png",
@@ -3460,6 +3642,8 @@
     },
     {
       "code": "pb.longowal",
+      "ulbCode": "LONGO",
+      "districtCode": "SAG",
       "name": "Longowal",
       "description": "Longowal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.longowal/logo.png",
@@ -3498,6 +3682,8 @@
     },
     {
       "code": "pb.ludhiana",
+      "ulbCode": "LUDHI",
+      "districtCode": "LDH",
       "name": "Ludhiana",
       "description": "Ludhiana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ludhiana/logo.png",
@@ -3536,6 +3722,8 @@
     },
     {
       "code": "pb.machhiwara",
+      "ulbCode": "MACHH",
+      "districtCode": "LDH",
       "name": "Machhiwara",
       "description": "Machhiwara",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.machhiwara/logo.png",
@@ -3574,6 +3762,8 @@
     },
     {
       "code": "pb.mahilpur",
+      "ulbCode": "MAHIL",
+      "districtCode": "HSX",
       "name": "Mahilpur",
       "description": "Mahilpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mahilpur/logo.png",
@@ -3612,6 +3802,8 @@
     },
     {
       "code": "pb.majitha",
+      "ulbCode": "MAJIT",
+      "districtCode": "ASR",
       "name": "Majitha",
       "description": "Majitha",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.majitha/logo.png",
@@ -3650,6 +3842,8 @@
     },
     {
       "code": "pb.makhu",
+      "ulbCode": "MAKHU",
+      "districtCode": "FZP",
       "name": "Makhu",
       "description": "Makhu",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.makhu/logo.png",
@@ -3688,6 +3882,8 @@
     },
     {
       "code": "pb.malerkotla",
+      "ulbCode": "MALER",
+      "districtCode": "MALK",
       "name": "Malerkotla",
       "description": "Malerkotla",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.malerkotla/logo.png",
@@ -3726,6 +3922,8 @@
     },
     {
       "code": "pb.mallanwala",
+      "ulbCode": "MALLA",
+      "districtCode": "FZP",
       "name": "Mallanwala",
       "description": "Mallanwala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mallanwala/logo.png",
@@ -3764,6 +3962,8 @@
     },
     {
       "code": "pb.maloud",
+      "ulbCode": "MALOD",
+      "districtCode": "LDH",
       "name": "Maloud",
       "description": "Maloud",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.maloud/logo.png",
@@ -3802,6 +4002,8 @@
     },
     {
       "code": "pb.malout",
+      "ulbCode": "MALOT",
+      "districtCode": "MKS",
       "name": "Malout",
       "description": "Malout",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.malout/logo.png",
@@ -3840,6 +4042,8 @@
     },
     {
       "code": "pb.maluka",
+      "ulbCode": "MALAU",
+      "districtCode": "BTI",
       "name": "Maluka",
       "description": "Maluka",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.maluka/logo.png",
@@ -3878,6 +4082,8 @@
     },
     {
       "code": "pb.mamdot",
+      "ulbCode": "MAMDO",
+      "districtCode": "FZP",
       "name": "Mamdot",
       "description": "Mamdot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mamdot/logo.png",
@@ -3916,6 +4122,8 @@
     },
     {
       "code": "pb.mandigobindgarh",
+      "ulbCode": "GOBIN",
+      "districtCode": "FAT",
       "name": "Mandigobindgarh",
       "description": "Mandigobindgarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mandigobindgarh/logo.png",
@@ -3954,6 +4162,8 @@
     },
     {
       "code": "pb.mandikalan",
+      "ulbCode": "MANDI",
+      "districtCode": "BTI",
       "name": "Mandikalan",
       "description": "Mandikalan",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mandikalan/logo.png",
@@ -3992,6 +4202,8 @@
     },
     {
       "code": "pb.mansa",
+      "ulbCode": "MANSA",
+      "districtCode": "MSZ",
       "name": "Mansa",
       "description": "Mansa",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mansa/logo.png",
@@ -4030,6 +4242,8 @@
     },
     {
       "code": "pb.maur",
+      "ulbCode": "MAUR",
+      "districtCode": "BTI",
       "name": "Maur",
       "description": "Maur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.maur/logo.png",
@@ -4068,6 +4282,8 @@
     },
     {
       "code": "pb.mehatpur",
+      "ulbCode": "MEHAT",
+      "districtCode": "JUC",
       "name": "Mehatpur",
       "description": "Mehatpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mehatpur/logo.png",
@@ -4106,6 +4322,8 @@
     },
     {
       "code": "pb.mehraj",
+      "ulbCode": "MEHRA",
+      "districtCode": "BTI",
       "name": "Mehraj",
       "description": "Mehraj",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mehraj/logo.png",
@@ -4144,6 +4362,8 @@
     },
     {
       "code": "pb.moga",
+      "ulbCode": "MOGA",
+      "districtCode": "MOGA",
       "name": "Moga",
       "description": "Moga",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.moga/logo.png",
@@ -4182,6 +4402,8 @@
     },
     {
       "code": "pb.mohali",
+      "ulbCode": "SASNA",
+      "districtCode": "SAS",
       "name": "Mohali",
       "description": "Mohali",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mohali/logo.png",
@@ -4220,6 +4442,8 @@
     },
     {
       "code": "pb.moonak",
+      "ulbCode": "MOONA",
+      "districtCode": "SAG",
       "name": "Moonak",
       "description": "Moonak",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.moonak/logo.png",
@@ -4258,6 +4482,8 @@
     },
     {
       "code": "pb.morinda",
+      "ulbCode": "MORIN",
+      "districtCode": "RPAR",
       "name": "Morinda",
       "description": "Morinda",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.morinda/logo.png",
@@ -4296,6 +4522,8 @@
     },
     {
       "code": "pb.mudki",
+      "ulbCode": "MUDKI",
+      "districtCode": "FZP",
       "name": "Mudki",
       "description": "Mudki",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mudki/logo.png",
@@ -4334,6 +4562,8 @@
     },
     {
       "code": "pb.mukerian",
+      "ulbCode": "MUKER",
+      "districtCode": "HSX",
       "name": "Mukerian",
       "description": "Mukerian",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mukerian/logo.png",
@@ -4372,6 +4602,8 @@
     },
     {
       "code": "pb.muktsar",
+      "ulbCode": "SRIMS",
+      "districtCode": "MKS",
       "name": "Muktsar",
       "description": "Muktsar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.muktsar/logo.png",
@@ -4410,6 +4642,8 @@
     },
     {
       "code": "pb.mullanpur",
+      "ulbCode": "MULLA",
+      "districtCode": "LDH",
       "name": "Mullanpur",
       "description": "Mullanpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.mullanpur/logo.png",
@@ -4448,6 +4682,8 @@
     },
     {
       "code": "pb.nabha",
+      "ulbCode": "NABHA",
+      "districtCode": "PTA",
       "name": "Nabha",
       "description": "Nabha",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nabha/logo.png",
@@ -4486,6 +4722,8 @@
     },
     {
       "code": "pb.nadala",
+      "ulbCode": "NADAL",
+      "districtCode": "KXH",
       "name": "Nadala",
       "description": "Nadala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nadala/logo.png",
@@ -4524,6 +4762,8 @@
     },
     {
       "code": "pb.nakodar",
+      "ulbCode": "NAKOD",
+      "districtCode": "JUC",
       "name": "Nakodar",
       "description": "Nakodar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nakodar/logo.png",
@@ -4562,6 +4802,8 @@
     },
     {
       "code": "pb.nangal",
+      "ulbCode": "NANGA",
+      "districtCode": "RPAR",
       "name": "Nangal",
       "description": "Nangal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nangal/logo.png",
@@ -4600,6 +4842,8 @@
     },
     {
       "code": "pb.narotjaimalsingh",
+      "ulbCode": "NAROT",
+      "districtCode": "PTK",
       "name": "Narotjaimailsingh",
       "description": "Narotjaimalsingh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.narotjaimalsingh/logo.png",
@@ -4638,6 +4882,8 @@
     },
     {
       "code": "pb.nathana",
+      "ulbCode": "NATHA",
+      "districtCode": "BTI",
       "name": "Nathana",
       "description": "Nathana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nathana/logo.png",
@@ -4676,6 +4922,8 @@
     },
     {
       "code": "pb.nawanshahr",
+      "ulbCode": "NAWAN",
+      "districtCode": "SBS",
       "name": "Nawanshahr",
       "description": "Nawanshahr",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nawanshahr/logo.png",
@@ -4714,6 +4962,8 @@
     },
     {
       "code": "pb.nayagaon",
+      "ulbCode": "NAYAG",
+      "districtCode": "SAS",
       "name": "Nayagaon",
       "description": "Nayagaon",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nayagaon/logo.png",
@@ -4752,6 +5002,8 @@
     },
     {
       "code": "pb.nihalsinghwala",
+      "ulbCode": "NIHAL",
+      "districtCode": "MOGA",
       "name": "Nihalsinghwala",
       "description": "Nihalsinghwala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nihalsinghwala/logo.png",
@@ -4790,6 +5042,8 @@
     },
     {
       "code": "pb.nurmahal",
+      "ulbCode": "NURMA",
+      "districtCode": "JUC",
       "name": "Nurmahal",
       "description": "Nurmahal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.nurmahal/logo.png",
@@ -4828,6 +5082,8 @@
     },
     {
       "code": "pb.pathankot",
+      "ulbCode": "PATHA",
+      "districtCode": "PTK",
       "name": "Pathankot",
       "description": "Pathankot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.pathankot/logo.png",
@@ -4866,6 +5122,8 @@
     },
     {
       "code": "pb.patiala",
+      "ulbCode": "PATIA",
+      "districtCode": "PTA",
       "name": "Patiala",
       "description": "Patiala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.patiala/logo.png",
@@ -4904,6 +5162,8 @@
     },
     {
       "code": "pb.patran",
+      "ulbCode": "PATRA",
+      "districtCode": "PTA",
       "name": "Patran",
       "description": "Patran",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.patran/logo.png",
@@ -4942,6 +5202,8 @@
     },
     {
       "code": "pb.patti",
+      "ulbCode": "PATTI",
+      "districtCode": "TTO",
       "name": "Patti",
       "description": "Patti",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.patti/logo.png",
@@ -4980,6 +5242,8 @@
     },
     {
       "code": "pb.payal",
+      "ulbCode": "PAYAL",
+      "districtCode": "LDH",
       "name": "Payal",
       "description": "Payal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.payal/logo.png",
@@ -5018,6 +5282,8 @@
     },
     {
       "code": "pb.phagwara",
+      "ulbCode": "PHAGW",
+      "districtCode": "KXH",
       "name": "Phagwara",
       "description": "Phagwara",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.phagwara/logo.png",
@@ -5056,6 +5322,8 @@
     },
     {
       "code": "pb.phillaur",
+      "ulbCode": "PHILLA",
+      "districtCode": "JUC",
       "name": "Phillaur",
       "description": "Phillaur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.phillaur/logo.png",
@@ -5094,6 +5362,8 @@
     },
     {
       "code": "pb.punjab",
+      "ulbCode": "PUNJAB",
+      "districtCode": "PB",
       "name": "Punjab",
       "description": "Punjab",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.punjab/logo.png",
@@ -5129,6 +5399,8 @@
     },
     {
       "code": "pb.quadian",
+      "ulbCode": "QADIA",
+      "districtCode": "GUR",
       "name": "Quadian",
       "description": "Quadian",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.quadian/logo.png",
@@ -5167,6 +5439,8 @@
     },
     {
       "code": "pb.rahon",
+      "ulbCode": "RAHON",
+      "districtCode": "SBS",
       "name": "Rahon",
       "description": "Rahon",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rahon/logo.png",
@@ -5205,6 +5479,8 @@
     },
     {
       "code": "pb.raikot",
+      "ulbCode": "RAIKO",
+      "districtCode": "LDH",
       "name": "Raikot",
       "description": "Raikot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.raikot/logo.png",
@@ -5243,6 +5519,8 @@
     },
     {
       "code": "pb.rajasansi",
+      "ulbCode": "RAJAS",
+      "districtCode": "ASR",
       "name": "Rajasansi",
       "description": "Rajasansi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rajasansi/logo.png",
@@ -5281,6 +5559,8 @@
     },
     {
       "code": "pb.rajpura",
+      "ulbCode": "RAJPU",
+      "districtCode": "PTA",
       "name": "Rajpura",
       "description": "Rajpura",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rajpura/logo.png",
@@ -5319,6 +5599,8 @@
     },
     {
       "code": "pb.raman",
+      "ulbCode": "RAMAN",
+      "districtCode": "BTI",
       "name": "Raman",
       "description": "Raman",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.raman/logo.png",
@@ -5357,6 +5639,8 @@
     },
     {
       "code": "pb.ramdass",
+      "ulbCode": "RAMDA",
+      "districtCode": "ASR",
       "name": "Ramdass",
       "description": "Ramdass",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ramdass/logo.png",
@@ -5395,6 +5679,8 @@
     },
     {
       "code": "pb.rampura",
+      "ulbCode": "RAMPU",
+      "districtCode": "BTI",
       "name": "Rampura",
       "description": "Rampura",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rampura/logo.png",
@@ -5433,6 +5719,8 @@
     },
     {
       "code": "pb.rampuraphul",
+      "ulbCode": "RAMPP",
+      "districtCode": "BTI",
       "name": "Rampuraphul",
       "description": "Rampuraphul",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rampuraphul/logo.png",
@@ -5471,6 +5759,8 @@
     },
     {
       "code": "pb.rayya",
+      "ulbCode": "RAYYA",
+      "districtCode": "ASR",
       "name": "Rayya",
       "description": "Rayya",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.rayya/logo.png",
@@ -5509,6 +5799,8 @@
     },
     {
       "code": "pb.ropar",
+      "ulbCode": "RUPNA",
+      "districtCode": "RPAR",
       "name": "Ropar",
       "description": "Ropar",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ropar/logo.png",
@@ -5547,6 +5839,8 @@
     },
     {
       "code": "pb.sahnewal",
+      "ulbCode": "SAHNE",
+      "districtCode": "LDH",
       "name": "Sahnewal",
       "description": "Sahnewal",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sahnewal/logo.png",
@@ -5585,6 +5879,8 @@
     },
     {
       "code": "pb.samana",
+      "ulbCode": "SAMAN",
+      "districtCode": "PTA",
       "name": "Samana",
       "description": "Samana",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.samana/logo.png",
@@ -5623,6 +5919,8 @@
     },
     {
       "code": "pb.samrala",
+      "ulbCode": "SAMRA",
+      "districtCode": "LDH",
       "name": "Samrala",
       "description": "Samrala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.samrala/logo.png",
@@ -5661,6 +5959,8 @@
     },
     {
       "code": "pb.sanaur",
+      "ulbCode": "SANAU",
+      "districtCode": "PTA",
       "name": "Sanaur",
       "description": "Sanaur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sanaur/logo.png",
@@ -5699,6 +5999,8 @@
     },
     {
       "code": "pb.sangatmandi",
+      "ulbCode": "SANGA",
+      "districtCode": "BTI",
       "name": "Sangatmandi",
       "description": "Sangatmandi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sangatmandi/logo.png",
@@ -5737,6 +6039,8 @@
     },
     {
       "code": "pb.sangrur",
+      "ulbCode": "SANGR",
+      "districtCode": "SAG",
       "name": "Sangrur",
       "description": "Sangrur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sangrur/logo.png",
@@ -5775,6 +6079,8 @@
     },
     {
       "code": "pb.sardulgarh",
+      "ulbCode": "SARDU",
+      "districtCode": "MSZ",
       "name": "Sardulgarh",
       "description": "Sardulgarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sardulgarh/logo.png",
@@ -5813,6 +6119,8 @@
     },
     {
       "code": "pb.shahkot",
+      "ulbCode": "SHAHK",
+      "districtCode": "JUC",
       "name": "Shahkot",
       "description": "Shahkot",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.shahkot/logo.png",
@@ -5851,6 +6159,8 @@
     },
     {
       "code": "pb.shamchurasi",
+      "ulbCode": "SHAMC",
+      "districtCode": "HSX",
       "name": "Shamchurasi",
       "description": "Shamchurasi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.shamchurasi/logo.png",
@@ -5889,6 +6199,8 @@
     },
     {
       "code": "pb.sirhind",
+      "ulbCode": "SIRFS",
+      "districtCode": "FAT",
       "name": "Sirhind",
       "description": "Sirhind",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sirhind/logo.png",
@@ -5927,6 +6239,8 @@
     },
     {
       "code": "pb.srihargobindpur",
+      "ulbCode": "SRIHA",
+      "districtCode": "GUR",
       "name": "Srihargobindpur",
       "description": "Srihargobindpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.srihargobindpur/logo.png",
@@ -5965,6 +6279,8 @@
     },
     {
       "code": "pb.sujanpur",
+      "ulbCode": "SRIHA",
+      "districtCode": "PTK",
       "name": "Sujanpur",
       "description": "Sujanpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sujanpur/logo.png",
@@ -6003,6 +6319,8 @@
     },
     {
       "code": "pb.sultanpurlodhi",
+      "ulbCode": "SUJAN",
+      "districtCode": "KXH",
       "name": "Sultanpurlodhi",
       "description": "Sultanpurlodhi",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sultanpurlodhi/logo.png",
@@ -6041,6 +6359,8 @@
     },
     {
       "code": "pb.sunam",
+      "ulbCode": "SULTA",
+      "districtCode": "SAG",
       "name": "Sunam",
       "description": "Sunam",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.sunam/logo.png",
@@ -6079,6 +6399,8 @@
     },
     {
       "code": "pb.talwandibhai",
+      "ulbCode": "TALWB",
+      "districtCode": "FZP",
       "name": "Talwandibhai",
       "description": "Talwandibhai",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.talwandibhai/logo.png",
@@ -6117,6 +6439,8 @@
     },
     {
       "code": "pb.talwandisabo",
+      "ulbCode": "TALWS",
+      "districtCode": "BTI",
       "name": "Talwandisabo",
       "description": "Talwandisabo",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.talwandisabo/logo.png",
@@ -6154,6 +6478,8 @@
     },
     {
       "code": "pb.talwara",
+      "ulbCode": "TALWA",
+      "districtCode": "HSX",
       "name": "Talwara",
       "description": "Talwara",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.talwara/logo.png",
@@ -6192,6 +6518,8 @@
     },
     {
       "code": "pb.tapa",
+      "ulbCode": "TAPA",
+      "districtCode": "BNN",
       "name": "Tapa",
       "description": "Tapa",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.tapa/logo.png",
@@ -6230,6 +6558,8 @@
     },
     {
       "code": "pb.tarntaran",
+      "ulbCode": "TARNT",
+      "districtCode": "TTO",
       "name": "Tarntaran",
       "description": "Tarntaran",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.tarntaran/logo.png",
@@ -6268,6 +6598,8 @@
     },
     {
       "code": "pb.testing",
+      "ulbCode": "TEST",
+      "districtCode": "TEST",
       "name": "Testing",
       "description": "Testing",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.testing/logo.png",
@@ -6304,6 +6636,8 @@
     },
     {
       "code": "pb.urmartanda",
+      "ulbCode": "URMAR",
+      "districtCode": "HSX",
       "name": "Urmartanda",
       "description": "Urmartanda",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.urmartanda/logo.png",
@@ -6342,6 +6676,8 @@
     },
     {
       "code": "pb.zira",
+      "ulbCode": "ZIRA",
+      "districtCode": "FZP",
       "name": "Zira",
       "description": "Zira",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.zira/logo.png",
@@ -6380,6 +6716,8 @@
     },
     {
       "code": "pb.zirakpur",
+      "ulbCode": "ZIRAK",
+      "districtCode": "SAS",
       "name": "Zirakpur",
       "description": "Zirakpur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.zirakpur/logo.png",
@@ -6418,6 +6756,8 @@
     },
     {
       "code": "pb.bababakalasahib",
+      "ulbCode": "BABAS",
+      "districtCode": "ASR",
       "name": "Bababakalasahib",
       "description": "Bababakalasahib",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.bababakalasahib/logo.png",
@@ -6456,6 +6796,8 @@
     },
     {
       "code": "pb.gharuan",
+      "ulbCode": "GHARU",
+      "districtCode": "SAS",
       "name": "Gharuan",
       "description": "Gharuan",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.gharuan/logo.png",
@@ -6494,6 +6836,8 @@
     },
     {
       "code": "pb.devigarh",
+      "ulbCode": "DEVI",
+      "districtCode": "PTA",
       "name": "Devigarh",
       "description": "Devigarh",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.devigarh/logo.png",
@@ -6531,6 +6875,8 @@
     },
     {
       "code": "pb.itpatiala",
+      "ulbCode": "PatiaRGN",
+      "districtCode": "PTA",
       "name": "Itpatiala",
       "description": "Itpatiala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.itpatiala/logo.png",
@@ -6569,6 +6915,8 @@
     },
     {
       "code": "pb.dirbapwssb",
+      "ulbCode": "",
+      "districtCode": "",
       "name": "Dirbapwssb",
       "description": "Dirba",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.dirbapwssb/logo.png",
@@ -6607,6 +6955,8 @@
     },
     {
       "code": "pb.ferozepurpwssb",
+      "ulbCode": "FirozRGN",
+      "districtCode": "FZP",
       "name": "Ferozepurpwssb",
       "description": "Ferozepur",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.ferozepurpwssb/logo.png",
@@ -6645,6 +6995,8 @@
     },
     {
       "code": "pb.itbarnala",
+      "ulbCode": "BARNA",
+      "districtCode": "BNN",
       "name": "Itbarnala",
       "description": "Itbarnala",
       "logoId": "https://pb-egov-assets.s3.ap-south-1.amazonaws.com/pb.itpatiala/logo.png",

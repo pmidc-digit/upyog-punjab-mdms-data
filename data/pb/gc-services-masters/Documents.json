@@ -1,0 +1,13 @@
+{
+  "tenantId": "pb",
+  "moduleName": "gc-services-masters",
+  "Documents": [
+    {
+      "code": "OWNER.ADDRESSPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
+    }
+  ]
+}

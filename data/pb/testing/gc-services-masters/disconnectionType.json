@@ -1,0 +1,11 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "gc-services-masters",
+    "disconnectionType": [
+      {
+        "name": "Permanent",
+        "code": "Permanent",
+        "active": true
+      }
+    ]
+  }
