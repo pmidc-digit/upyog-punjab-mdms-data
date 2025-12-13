@@ -15,6 +15,54 @@
       "code": "null",
       "path": "Boundary Module.Get location by LocationName"
     },
+     {
+      "id": 111806,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/saski-property-search/saskitotalpercentagecount/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 111807,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/saski-property-search/saskipropertycount/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 111808,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/saski-property-search/saskipropertysearch/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 111809,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/saski-property-search/saskipropertyvasikacount/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 7,
       "name": "Search Boundary by BoundryTypeName and HierarchyTypeName",

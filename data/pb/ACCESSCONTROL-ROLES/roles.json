@@ -1287,6 +1287,13 @@
       "name": "Search GC Role",
       "description": "Access to GC",
       "groupId": "014"
+    },
+    
+     {
+      "code": "SASKI",
+      "name": "SASKI EMPLOYEE",
+      "description": "SASKI employee",
+      "groupId": "014"
     }
   ]
 }
