@@ -5829,6 +5829,20 @@
       "leftIcon": "social:people"
     },
     {
+      "id": 1774,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Create Employee",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "navigationURL": "hrms/create1",
+      "path": "",
+      "leftIcon": "social:people"
+    },
+    {
       "id": 1775,
       "name": "rainmaker-common-complaints",
       "url": "card",
@@ -24892,6 +24906,20 @@
       "navigationURL": "/digit-ui/employee/garbagecollection/create-application",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
+    },
+    {
+      "id": 206666,
+      "name": "Revenue Inegration",
+      "url": "url",
+      "displayName": "Revenue Inegration",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "abg/billSearchproperty",
+      "path": "Revenue Inegration",
+      "leftIcon": "action:receipt"
     }
   ]
 }

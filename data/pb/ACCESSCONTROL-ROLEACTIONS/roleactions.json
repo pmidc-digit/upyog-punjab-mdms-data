@@ -38410,6 +38410,24 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+      {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "CSR",
       "actionid": 1775,
@@ -65955,6 +65973,12 @@
     {
       "rolecode": "GC_CEMP",
       "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SASKI",
+      "actionid": 206666,
       "actioncode": "",
       "tenantId": "pb"
     }
