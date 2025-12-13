@@ -18366,6 +18366,20 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
-  }
+  },
+  {
+      "id": 5022,
+      "name": "Revenue Inegration",
+      "url": "url",
+      "displayName": "Revenue Inegration",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "abg/billSearchproperty",
+      "path": "Revenue Inegration",
+      "leftIcon": "action:receipt"
+    }
   ]
 }
