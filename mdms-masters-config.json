@@ -860,7 +860,7 @@
     },
     "Documents": {
       "masterName": "Documents",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code"]
     },
     "TaxRates": {
@@ -900,16 +900,12 @@
     "WorkflowConfig": {
       "masterName": "WorkflowConfig",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$businessService"
-      ]
+      "uniqueKeys": ["$businessService"]
     },
     "BuildingHeight": {
       "masterName": "BuildingHeight",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$name"
-      ]
+      "uniqueKeys": ["$name"]
     },
     "CalculationType": {
       "masterName": "CalculationType",
@@ -924,10 +920,7 @@
     "ChargesType": {
       "masterName": "ChargesType",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code",
-        "$name"
-      ]
+      "uniqueKeys": ["$.code", "$name"]
     },
     "ApplicationFees": {
       "masterName": "ApplicationFees",
