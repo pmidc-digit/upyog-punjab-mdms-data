@@ -931,7 +931,7 @@
     },
     "ApplicationFees": {
       "masterName": "ApplicationFees",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   }
