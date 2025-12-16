@@ -15,7 +15,7 @@
       "code": "null",
       "path": "Boundary Module.Get location by LocationName"
     },
-     {
+    {
       "id": 111806,
       "name": "Used Localities search",
       "url": "/egov-searcher/saski-property-search/saskitotalpercentagecount/_get",
@@ -39,7 +39,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 111808,
       "name": "Used Localities search",
       "url": "/egov-searcher/saski-property-search/saskipropertysearch/_get",
@@ -24952,6 +24952,38 @@
       "code": "null",
       "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
       "navigationURL": "/digit-ui/employee/garbagecollection/create-application",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 89008928,
+      "name": "GarbageCollection Generate Bill",
+      "url": "url",
+      "displayName": "Garbage Collection Generate Bill",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "GarbageCollection",
+      "code": "null",
+      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/garbagecollection/generate-bill",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 89008929,
+      "name": "GarbageCollection Bill Genie",
+      "url": "url",
+      "displayName": "Garbage Collection Bill Genie",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "GarbageCollection",
+      "code": "null",
+      "path": "GarbageCollection.GarbageCollection Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/garbagecollection/bill-genie",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
     },
