@@ -821,6 +821,13 @@
       "uniqueKeys": []
     }
   },
+  "PAYMENT": {
+    "PaymentGateway": {
+      "masterName": "PaymentGateway",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
 
   "CHB": {
     "CommunityHalls": {
