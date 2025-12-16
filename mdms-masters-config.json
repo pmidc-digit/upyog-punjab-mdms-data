@@ -926,12 +926,12 @@
     },
     "ChargesType": {
       "masterName": "ChargesType",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": ["$.code", "$name"]
     },
     "ApplicationFees": {
       "masterName": "ApplicationFees",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": []
     }
   }
