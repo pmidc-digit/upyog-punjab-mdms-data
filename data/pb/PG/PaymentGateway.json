@@ -1,0 +1,10 @@
+{
+    "tenantId": "pb",
+    "moduleName": "PAYMENT",
+    "PaymentGateway": [
+        {
+            "gateway": "RAZORPAY",
+            "active": true
+        }
+    ]
+}
