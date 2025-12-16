@@ -714,7 +714,7 @@
         "idname": "egov.idgen.bpa.bdlicensenumber"
     },
     {
-      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+      "format": "PB-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_BP_APN]",
       "idname": "bpa.aplnumber"
     },
     {
