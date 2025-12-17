@@ -26,10 +26,6 @@
           "active": true
         },
         {
-          "code": "APPLICANT.IDENTITYPROOF.PAN",
-          "active": true
-        },
-        {
           "code": "APPLICANT.IDENTITYPROOF.PASSPORT",
           "active": true
         },
@@ -43,52 +39,6 @@
         }
       ],
       "description": "APPLICANT.IDENTITYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "APPLICANT.ADDRESSPROOF",
-      "documentType": "APPLICANT.ADDRESSPROOF",
-      "required": true,
-      "active": true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "enabledActions": {
-          "update": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "APPLICANT.ADDRESSPROOF.ELECTRICITYBILL",
-          "active": true
-        },
-        {
-          "code": "APPLICANT.ADDRESSPROOF.AADHAAR",
-          "active": true
-        },
-        {
-          "code": "APPLICANT.ADDRESSPROOF.TELEPHONEBILL",
-          "active": true
-        },
-        {
-          "code": "APPLICANT.ADDRESSPROOF.WATERBILL",
-          "active": true
-        },
-        {
-          "code": "APPLICANT.ADDRESSPROOF.RATIONCARD",
-          "active": true
-        },
-        {
-          "code": "APPLICANT.ADDRESSPROOF.DRIVINGLICENSE",
-          "active": true
-        }
-      ],
-      "description": "APPLICANT.ADDRESSPROOF_DESCRIPTION"
     },
     {
       "code": "APPLICANT.DISCOUNTPROOF",
