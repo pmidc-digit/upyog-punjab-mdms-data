@@ -200,7 +200,7 @@
     {
       "code": "pb.ferozepur",
       "name": "Ferozepur",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ghagga",
@@ -380,7 +380,7 @@
     {
       "code": "pb.raikot",
       "name": "Raikot",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ramdass",
@@ -395,7 +395,7 @@
     {
       "code": "pb.rayya",
       "name": "Rayya",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ropar",
@@ -480,7 +480,7 @@
     {
       "code": "pb.jaitu",
       "name": "Jaitu",
-      "isautodemand": "true"
+      "isautodemand": "false"
     }
   ]
 }
