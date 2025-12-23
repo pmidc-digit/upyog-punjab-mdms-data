@@ -5468,7 +5468,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 864,
@@ -15093,7 +15092,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1766,
@@ -16174,7 +16172,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1989,
@@ -27407,7 +27404,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2528,
@@ -27552,7 +27548,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "TL_CEMP",
       "actionid": 1895,
@@ -27583,14 +27578,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2536,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2540,
@@ -27795,7 +27788,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2550,
@@ -27820,7 +27812,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2551,
@@ -28421,7 +28412,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "GRO",
       "actionid": 2595,
@@ -28770,7 +28760,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MDMS_ADMIN",
       "actionid": 698,
@@ -28855,7 +28844,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2616,
@@ -30050,7 +30038,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 5001,
@@ -30399,7 +30386,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 5012,
@@ -31294,7 +31280,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "TL_APPROVER",
       "actionid": 168,
@@ -31433,7 +31418,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "AssetReportViewer",
       "actionid": 207,
@@ -31506,7 +31490,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "Asset Administrator",
       "actionid": 276,
@@ -31531,7 +31514,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "Asset Administrator",
       "actionid": 277,
@@ -31556,7 +31538,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "Asset Administrator",
       "actionid": 278,
@@ -31581,7 +31562,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE ADMIN",
       "actionid": 285,
@@ -31594,7 +31574,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "Asset Administrator",
       "actionid": 296,
@@ -31619,7 +31598,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 353,
@@ -31656,7 +31634,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 355,
@@ -31879,7 +31856,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 604,
@@ -33182,7 +33158,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 700,
@@ -35289,7 +35264,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 1536,
@@ -40463,6 +40437,42 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PGR-ADMIN",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900094,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900095,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1920,
       "actioncode": "",
@@ -41074,7 +41084,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 721,
@@ -43757,7 +43766,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NOC_FIELD_INSPECTOR",
       "actionid": 1902,
@@ -46914,7 +46922,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 2131,
@@ -46945,7 +46952,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 2137,
@@ -49580,7 +49586,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 2311,
@@ -50475,7 +50480,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "UC_EMP",
       "actionid": 2311,
@@ -51382,7 +51386,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 2137,
@@ -52151,7 +52154,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 2311,
@@ -54000,7 +54002,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PATIALA_PT_EMP",
       "actionid": 2485,
@@ -55891,7 +55892,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2559,
@@ -56204,7 +56204,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2567,
@@ -56235,7 +56234,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2568,
@@ -56266,7 +56264,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2569,
@@ -56297,7 +56294,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "WS_CEMP",
       "actionid": 2570,
@@ -56388,7 +56384,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2570,
@@ -56419,7 +56414,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2571,
@@ -56450,7 +56444,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2572,
@@ -56481,7 +56474,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2573,
@@ -56512,7 +56504,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SW_CEMP",
       "actionid": 2574,
@@ -56933,7 +56924,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "GRO",
       "actionid": 6001,
@@ -57024,7 +57014,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "DGRO",
       "actionid": 6001,
@@ -57073,7 +57062,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 6001,
@@ -57122,7 +57110,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "PGR_LME",
       "actionid": 6001,
@@ -57171,7 +57158,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 6001,
@@ -57322,7 +57308,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "SURVEY_ADMIN",
       "actionid": 7001,
@@ -57875,35 +57860,30 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1753,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1754,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "ESEWAEMP",
       "actionid": 1757,
@@ -58822,7 +58802,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "UPDATE_CATEGORY",
       "actionid": 890002,
@@ -59021,7 +59000,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 5490034,
@@ -59310,7 +59288,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PTFEMP",
       "actionid": 7891575,
@@ -59707,7 +59684,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDCADMIN",
       "actionid": 30000003,
@@ -59726,7 +59702,6 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDCADMIN",
       "actionid": 30000004,
@@ -63117,14 +63092,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NDC_WS_SW_VERIFIER",
       "actionid": 1782,
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDC_WS_SW_VERIFIER",
       "actionid": 1895,
@@ -63263,14 +63236,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "NDC_TL_VERIFIER",
       "actionid": 1782,
       "actioncode": "",
       "tenantid": "pb"
     },
-
     {
       "rolecode": "NDC_TL_VERIFIER",
       "actionid": 1895,
@@ -63847,7 +63818,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CHB_VERIFIER",
       "actionid": 5556,
@@ -63896,7 +63866,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CHB_FIELD_INSPECTOR",
       "actionid": 5556,
@@ -64551,7 +64520,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900919,
@@ -64576,7 +64544,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900902,
@@ -64601,7 +64568,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900903,
@@ -64626,14 +64592,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900904,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900912,
@@ -64652,14 +64616,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900912,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "JE",
       "actionid": 8900903,
@@ -64996,7 +64958,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "JE",
       "actionid": 8900904,
@@ -65105,7 +65066,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900802,
@@ -65124,7 +65084,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900802,
@@ -65149,7 +65108,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900803,
@@ -65174,14 +65132,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900804,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900913,
@@ -65200,7 +65156,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "BPA_SUPERVISOR",
       "actionid": 8900913,
@@ -65291,7 +65246,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "JE",
       "actionid": 8900804,

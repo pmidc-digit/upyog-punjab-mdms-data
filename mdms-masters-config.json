@@ -1053,6 +1053,11 @@
       "masterName": "Rates",
       "isStateLevel": true,
       "uniqueKeys": ["$.subCategoryId"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "gc-services-masters": {
