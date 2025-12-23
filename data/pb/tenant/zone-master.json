@@ -7418,6 +7418,55 @@
           "name": "right side area of chd-amb. Highway"
         }
       ]
+    },
+    {
+      "tanentId": "pb.testing",
+      "zones": [
+        {
+          "code": "Zone1",
+          "name": "Zone1"
+        },
+        {
+          "code": "Zone10",
+          "name": "Zone10"
+        },
+        {
+          "code": "Zone11",
+          "name": "Zone11"
+        },
+        {
+          "code": "Zone2",
+          "name": "Zone2"
+        },
+        {
+          "code": "Zone3",
+          "name": "Zone3"
+        },
+        {
+          "code": "Zone4",
+          "name": "Zone4"
+        },
+        {
+          "code": "Zone5",
+          "name": "Zone5"
+        },
+        {
+          "code": "Zone6",
+          "name": "Zone6"
+        },
+        {
+          "code": "Zone7",
+          "name": "Zone7"
+        },
+        {
+          "code": "Zone8",
+          "name": "Zone8"
+        },
+        {
+          "code": "Zone9",
+          "name": "Zone9"
+        }
+      ]
     }
   ]
 }
