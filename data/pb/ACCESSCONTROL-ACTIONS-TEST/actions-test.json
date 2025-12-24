@@ -25452,6 +25452,94 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900096,
+      "name": "CreateAllotment",
+      "url": "/rl-services/allotment/_create",
+      "displayName": "Create Allotment",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900097,
+      "name": "UpdateAllotment",
+      "url": "/rl-services/allotment/_update",
+      "displayName": "Update Allotment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900098,
+      "name": "searchListAllotment",
+      "url": "/rl-services/allotment/v1/_search",
+      "displayName": "search List Allotment",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900099,
+      "name": "RLCalculatorCalculate",
+      "url": "/rl-calculator/v1/_calculate",
+      "displayName": "Calculate demand",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900100,
+      "name": "PropertyReport",
+      "url": "/rl-services/property/_report",
+      "displayName": "Property Report",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900101,
+      "name": "SearchCollection",
+      "url": "/collection-services/payments/rl-services/_search",
+      "displayName": "Search Collection",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900102,
+      "name": "RLCalculatorEstimate",
+      "url": "/rl-calculator/v1/_estimate",
+      "displayName": "Estimate Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900103,
+      "name": "RLCalculatorUpdateDemand",
+      "url": "/rl-calculator/v1/_updatedemand",
+      "displayName": "Updatedemand Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
     }
   ]
 }
