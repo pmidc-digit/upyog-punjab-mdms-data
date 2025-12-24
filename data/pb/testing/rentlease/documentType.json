@@ -1,0 +1,89 @@
+
+{
+    "tenantId": "pb.testing",
+    "moduleName": "rentAndLease",
+    "Documents": [
+      {
+        "code": "APPLICANT.IDENTITYPROOF.AADHAAR",
+        "documentType": "APPLICANT.AADHAAR",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.IDENTITYPROOF_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.IDENTITYPROOF.PAN",
+        "documentType": "APPLICANT.PAN",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.IDENTITYPROOF_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.AUCTION.COPY",
+        "documentType": "APPLICANT.AUCTION.COPY",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.AUCTION.COPY_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.WITNESSDETAILS.COPY",
+        "documentType": "APPLICANT.WITNESSDETAILS.COPY",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.WITNESSDETAILS.COPY_DESCRIPTION"
+      }
+
+    
+    ]
+  }

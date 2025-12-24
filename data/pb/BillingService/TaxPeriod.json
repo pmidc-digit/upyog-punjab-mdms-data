@@ -3753,6 +3753,38 @@
       "service": "GC",
       "code": "GC-2025-26-Q4",
       "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "ANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "BIANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
     }
  ]
 }

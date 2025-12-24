@@ -861,6 +861,18 @@
     {
       "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_GC_RECEIPT_ID]",
       "idname": "gc.one_time_fee.receipt.id"
+    },
+    {
+      "format": "PB-RL-[fy:yyyy-yy]-[SEQ_EG_RL_APPLICATION_NUMBER]",
+      "idname": "rl.applicationnumber"
+    },
+    {
+      "format": "PB-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RIGISTRATION_NUMBER]",
+      "idname": "rl.regapplicationnumber"
+    },
+    {
+      "format": "PB-REC-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RECEIPT_NUMBER]",
+      "idname": "rl-services.receipt.id"
     }
   ]
 }

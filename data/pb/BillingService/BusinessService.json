@@ -3,6 +3,19 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
+      "businessService": "rl-services",
+      "code": "rl-services",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "cancelReceipt": true,
+      "isActive": true
+    },
+    {
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [

@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "rate": 12.5,
+      "minAmount": 100,
+      "applicableAfterDays": 15,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    }
+  ]
+}
