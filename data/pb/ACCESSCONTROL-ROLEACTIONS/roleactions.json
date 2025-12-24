@@ -66547,6 +66547,18 @@
       "actionid": 3005,
       "actioncode": "RNL",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900909,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_CEMP",
+      "actionid": 8900910,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
