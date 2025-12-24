@@ -420,7 +420,7 @@
         "code": "pb.talwandisabo",
         "children": [
           {
-            "id": "c365cd8d-ade9-484a-a793-80bbcbdf1265",
+            "id": "92220efa-2ea5-4b01-9877-9181a0ccb2bf",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -430,7 +430,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "53458178-35e2-4e6a-8a10-44b61131cb5e",
+                "id": "cf4d417c-6d88-4143-b817-b2c7e11c56bb",
                 "boundaryNum": 1,
                 "name": "Block 1A",
                 "localname": "Block 1A",
@@ -440,10 +440,10 @@
                 "code": "B 1A",
                 "children": [
                   {
-                    "id": "897ee54f-308a-4829-b20e-cd5fda8572c0",
+                    "id": "2f93d4c1-6ef2-4aed-8645-9a0d95e4810a",
                     "boundaryNum": 1,
-                    "name": "Dasmesh School to Khanda Chowk - B 1A - A1",
-                    "localname": "Dasmesh School to Khanda Chowk - B 1A - A1",
+                    "name": "Dasmesh School to Khanda Chowk - Block 1A - A1",
+                    "localname": "Dasmesh School to Khanda Chowk - Block 1A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -454,7 +454,7 @@
                 ]
               },
               {
-                "id": "0fd9378d-bf84-4e78-9529-c4449519a982",
+                "id": "f99e5048-5b99-4942-9fb7-75c5fd83b6a1",
                 "boundaryNum": 1,
                 "name": "Block 2A",
                 "localname": "Block 2A",
@@ -464,10 +464,10 @@
                 "code": "B 2A",
                 "children": [
                   {
-                    "id": "4fc84372-f15e-453f-baed-93991b5838d0",
+                    "id": "4d215a32-4fe0-4834-ad68-c153c9dd33f0",
                     "boundaryNum": 1,
-                    "name": "Rori Road - B 2A - A1",
-                    "localname": "Rori Road - B 2A - A1",
+                    "name": "Rori Road - Block 2A - A1",
+                    "localname": "Rori Road - Block 2A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -478,7 +478,7 @@
                 ]
               },
               {
-                "id": "a0057e53-ba5b-44a0-bfed-512005b6b0cd",
+                "id": "ed3a50ea-6d9d-4da8-a609-61aca11643e3",
                 "boundaryNum": 1,
                 "name": "Block 3A",
                 "localname": "Block 3A",
@@ -488,10 +488,10 @@
                 "code": "B 3A",
                 "children": [
                   {
-                    "id": "9cc0b32a-391f-4ba0-a659-b97ae0acf4b5",
+                    "id": "a1fc6ada-bf7a-4ea8-831d-6ea43d60a33b",
                     "boundaryNum": 1,
-                    "name": "Court Complex - B 3A - A1",
-                    "localname": "Court Complex - B 3A - A1",
+                    "name": "Court Complex - Block 3A - A1",
+                    "localname": "Court Complex - Block 3A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -502,7 +502,7 @@
                 ]
               },
               {
-                "id": "7431bd0d-5c2e-4409-97d9-9891713e0bf1",
+                "id": "5dd41db9-1d83-4ed2-9b81-efeed08a192e",
                 "boundaryNum": 1,
                 "name": "Block 4A",
                 "localname": "Block 4A",
@@ -512,10 +512,10 @@
                 "code": "B 4A",
                 "children": [
                   {
-                    "id": "cd646b75-80e8-4d52-a543-48eb2c2d586d",
+                    "id": "aefba222-25cf-4f8d-864d-7758447da7fe",
                     "boundaryNum": 1,
-                    "name": "FCI Office Road - B 4A - A1",
-                    "localname": "FCI Office Road - B 4A - A1",
+                    "name": "FCI Office Road - Block 4A - A1",
+                    "localname": "FCI Office Road - Block 4A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -526,7 +526,7 @@
                 ]
               },
               {
-                "id": "8d85b731-79f3-4ad9-bd82-920313d2b018",
+                "id": "2c323184-955a-44de-83a0-780acc8ae1df",
                 "boundaryNum": 1,
                 "name": "Block 5A",
                 "localname": "Block 5A",
@@ -536,10 +536,10 @@
                 "code": "B 5A",
                 "children": [
                   {
-                    "id": "d31d1023-d5f1-4cdb-9566-f73b0e78debf",
+                    "id": "57128c7d-c39f-4ddd-afd5-2b6989155ac0",
                     "boundaryNum": 1,
-                    "name": "Maur Road - B 5A - A1",
-                    "localname": "Maur Road - B 5A - A1",
+                    "name": "Maur Road - Block 5A - A1",
+                    "localname": "Maur Road - Block 5A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -550,7 +550,7 @@
                 ]
               },
               {
-                "id": "fec46ae5-aaed-4318-a271-eb181311aab7",
+                "id": "7de2ee8f-416b-4992-9518-d55bd188bd80",
                 "boundaryNum": 1,
                 "name": "Block 6A",
                 "localname": "Block 6A",
@@ -560,10 +560,10 @@
                 "code": "B 6A",
                 "children": [
                   {
-                    "id": "807b2448-83d7-4373-b537-56ae262281fa",
+                    "id": "3e06202e-c7c2-4acc-897f-1cf778c91e59",
                     "boundaryNum": 1,
-                    "name": "Raman Road - B 6A - A1",
-                    "localname": "Raman Road - B 6A - A1",
+                    "name": "Raman Road - Block 6A - A1",
+                    "localname": "Raman Road - Block 6A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -574,7 +574,7 @@
                 ]
               },
               {
-                "id": "e4248082-f133-4a56-8851-010f376216ec",
+                "id": "32be5fdc-dffb-40c6-ba64-c9062da03ef2",
                 "boundaryNum": 1,
                 "name": "Block 7A",
                 "localname": "Block 7A",
@@ -584,10 +584,10 @@
                 "code": "B 7A",
                 "children": [
                   {
-                    "id": "0e707823-6656-48a6-bf02-12ea7490124e",
+                    "id": "d99ccbdd-4bff-436f-a7f3-83b5bd392b96",
                     "boundaryNum": 1,
-                    "name": "Guru Kashi College Road - B 7A - A1",
-                    "localname": "Guru Kashi College Road - B 7A - A1",
+                    "name": "Guru Kashi College Road - Block 7A - A1",
+                    "localname": "Guru Kashi College Road - Block 7A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -598,7 +598,7 @@
                 ]
               },
               {
-                "id": "261d697f-9119-406a-bccb-aedb22010a53",
+                "id": "0e01726e-bfb7-4d54-ab97-da6b6cab6f43",
                 "boundaryNum": 1,
                 "name": "Block 9A",
                 "localname": "Block 9A",
@@ -608,10 +608,10 @@
                 "code": "B 9A",
                 "children": [
                   {
-                    "id": "6473f0ae-2d5f-4eb8-a40e-6ebddc12f13c",
+                    "id": "a0724d99-0422-4c7e-99d4-6a4b8fb0368e",
                     "boundaryNum": 1,
-                    "name": "Main Bazar - B 9A - A1",
-                    "localname": "Main Bazar - B 9A - A1",
+                    "name": "Main Bazar - Block 9A - A1",
+                    "localname": "Main Bazar - Block 9A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -624,7 +624,7 @@
             ]
           },
           {
-            "id": "919f926c-ae8b-4629-80cd-cb720dddf0ec",
+            "id": "9e6d574f-093c-4330-a866-eb7766a773b2",
             "boundaryNum": 1,
             "name": "Zone 2",
             "localname": "Zone 2",
@@ -634,7 +634,7 @@
             "code": "Z2",
             "children": [
               {
-                "id": "73361689-a2a6-411d-a638-b7d828eb7ec6",
+                "id": "6535dfa5-4ae1-4573-a906-ea8d720c21bc",
                 "boundaryNum": 1,
                 "name": "Block 1B",
                 "localname": "Block 1B",
@@ -644,10 +644,10 @@
                 "code": "B 1B",
                 "children": [
                   {
-                    "id": "81595798-cf6d-454f-b019-00a363e2998b",
+                    "id": "d475d43c-8261-4a71-a757-9494be316bc2",
                     "boundaryNum": 1,
-                    "name": "Patwari Colony - B 1B - A2",
-                    "localname": "Patwari Colony - B 1B - A2",
+                    "name": "Patwari Colony - Block 1B - A2",
+                    "localname": "Patwari Colony - Block 1B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -658,7 +658,7 @@
                 ]
               },
               {
-                "id": "08accd7d-c0f4-4f12-afdb-01c512146136",
+                "id": "c3f43a4d-e6f7-4c96-bf37-028c64155cda",
                 "boundaryNum": 1,
                 "name": "Block 2B",
                 "localname": "Block 2B",
@@ -668,10 +668,10 @@
                 "code": "B 2B",
                 "children": [
                   {
-                    "id": "0b346a4d-cdfc-48e7-b9ef-887cf487fef7",
+                    "id": "fc87aecd-a62e-48bf-8f5f-d555251339c8",
                     "boundaryNum": 1,
-                    "name": "Natt Road - B 2B - A2",
-                    "localname": "Natt Road - B 2B - A2",
+                    "name": "Natt Road - Block 2B - A2",
+                    "localname": "Natt Road - Block 2B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -682,7 +682,7 @@
                 ]
               },
               {
-                "id": "97d2a560-c9d7-421f-ba7f-f19ea6afa9a2",
+                "id": "9a1fa1c8-933a-4803-9918-c73cde25094b",
                 "boundaryNum": 1,
                 "name": "Block 3B",
                 "localname": "Block 3B",
@@ -692,10 +692,10 @@
                 "code": "B 3B",
                 "children": [
                   {
-                    "id": "7db1451b-31d4-4c8e-917b-0dc9e13cb630",
+                    "id": "abc92f52-e4ff-455e-94b7-18818dc87a3b",
                     "boundaryNum": 1,
-                    "name": "Kothi Wala Road - B 3B - A2",
-                    "localname": "Kothi Wala Road - B 3B - A2",
+                    "name": "Kothi Wala Road - Block 3B - A2",
+                    "localname": "Kothi Wala Road - Block 3B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -706,7 +706,7 @@
                 ]
               },
               {
-                "id": "eb1cdcf7-f10b-4035-bb69-d861a1746039",
+                "id": "bf4bc1a4-61ac-4db8-bc2e-a11812921253",
                 "boundaryNum": 1,
                 "name": "Block 4B",
                 "localname": "Block 4B",
@@ -716,10 +716,10 @@
                 "code": "B 4B",
                 "children": [
                   {
-                    "id": "bdcd5698-a25b-4afc-aae4-ab1b44ffdbdc",
+                    "id": "c5829cdc-76c9-49ed-b121-880e5e82d5f1",
                     "boundaryNum": 1,
-                    "name": "Maisar Mohhala - B 4B - A2",
-                    "localname": "Maisar Mohhala - B 4B - A2",
+                    "name": "Maisar Mohhala - Block 4B - A2",
+                    "localname": "Maisar Mohhala - Block 4B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -730,7 +730,7 @@
                 ]
               },
               {
-                "id": "ebc3792d-86ee-4a23-9343-c076197eb754",
+                "id": "0eaf2f8a-153e-450c-ba75-a88eddb9e261",
                 "boundaryNum": 1,
                 "name": "Block 5B",
                 "localname": "Block 5B",
@@ -740,10 +740,10 @@
                 "code": "B 5B",
                 "children": [
                   {
-                    "id": "24d363fa-a630-4186-88cc-1db81b2f89be",
+                    "id": "e61abdfe-3c13-4646-9c9d-1d0f8f541a5a",
                     "boundaryNum": 1,
-                    "name": "Profesor Colony - B 5B - A2",
-                    "localname": "Profesor Colony - B 5B - A2",
+                    "name": "Profesor Colony - Block 5B - A2",
+                    "localname": "Profesor Colony - Block 5B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -754,7 +754,7 @@
                 ]
               },
               {
-                "id": "f26cc8ca-6bff-4bc1-a8e1-4d92cd782563",
+                "id": "25090ae3-e4c7-4cf4-b867-94c08f4a829f",
                 "boundaryNum": 1,
                 "name": "Block 6B",
                 "localname": "Block 6B",
@@ -764,10 +764,10 @@
                 "code": "B 6B",
                 "children": [
                   {
-                    "id": "63fa6da2-df52-40ea-a44a-cbeb67b03a6b",
+                    "id": "b7f39e40-4daf-449f-875c-14d408c9ae4f",
                     "boundaryNum": 1,
-                    "name": "Bearian Wala Mohala - B 6B - A2",
-                    "localname": "Bearian Wala Mohala - B 6B - A2",
+                    "name": "Bearian Wala Mohala - Block 6B - A2",
+                    "localname": "Bearian Wala Mohala - Block 6B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -778,7 +778,7 @@
                 ]
               },
               {
-                "id": "5d71a1ab-1d52-4e64-81bd-0cc2d38e3b9f",
+                "id": "d6516d54-710e-41b7-9c44-ef6310fae614",
                 "boundaryNum": 1,
                 "name": "Block 7B",
                 "localname": "Block 7B",
@@ -788,10 +788,10 @@
                 "code": "B 7B",
                 "children": [
                   {
-                    "id": "70c41b28-41d0-4818-a37e-09a84a675cf2",
+                    "id": "3ca8dc49-56c8-4b42-9870-5597aec6504b",
                     "boundaryNum": 1,
-                    "name": "Govt. School Road - B 7B - A2",
-                    "localname": "Govt. School Road - B 7B - A2",
+                    "name": "Govt. School Road - Block 7B - A2",
+                    "localname": "Govt. School Road - Block 7B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -802,7 +802,7 @@
                 ]
               },
               {
-                "id": "e4cf9989-cca8-4225-a100-8b1bf4f354f4",
+                "id": "ee7ea02a-ee82-40c5-b19c-10c034d51086",
                 "boundaryNum": 1,
                 "name": "Block 8B",
                 "localname": "Block 8B",
@@ -812,10 +812,10 @@
                 "code": "B 8B",
                 "children": [
                   {
-                    "id": "2c86049f-d7e3-4fa8-9a20-05dd10c72ca6",
+                    "id": "87c53fe3-4d2d-4d99-9f1f-3a0fa2ca755a",
                     "boundaryNum": 1,
-                    "name": "Ramdasi Sikh Dharmshala - B 8B - A2",
-                    "localname": "Ramdasi Sikh Dharmshala - B 8B - A2",
+                    "name": "Ramdasi Sikh Dharmshala - Block 8B - A2",
+                    "localname": "Ramdasi Sikh Dharmshala - Block 8B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -826,7 +826,7 @@
                 ]
               },
               {
-                "id": "5337d9b3-ef5f-40ab-bf5a-641b1e9bcaa3",
+                "id": "d000db82-b4ad-4f45-9455-a9ae34041972",
                 "boundaryNum": 1,
                 "name": "Block 10B",
                 "localname": "Block 10B",
@@ -836,10 +836,10 @@
                 "code": "B 10B",
                 "children": [
                   {
-                    "id": "05ded9a7-c539-41d8-82e0-a1ae858a578d",
+                    "id": "ba5e9580-7330-4cb7-834d-310bee3b2406",
                     "boundaryNum": 1,
-                    "name": "Dall Singh Newas - B 10B - A2",
-                    "localname": "Dall Singh Newas - B 10B - A2",
+                    "name": "Dall Singh Newas - Block 10B - A2",
+                    "localname": "Dall Singh Newas - Block 10B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -850,7 +850,7 @@
                 ]
               },
               {
-                "id": "e1e193de-1baf-4a5e-b76e-a8e64f9d2b5c",
+                "id": "061d2fd3-da03-4e5f-8dbf-7f4971c8983d",
                 "boundaryNum": 1,
                 "name": "Block 11B",
                 "localname": "Block 11B",
@@ -860,10 +860,10 @@
                 "code": "B 11B",
                 "children": [
                   {
-                    "id": "55cdaabc-e550-41ad-a202-9758b657b8d0",
+                    "id": "8dce0086-d17f-4c18-803a-979de436f9f5",
                     "boundaryNum": 1,
-                    "name": "Near S.C Khuhi - B 11B - A2",
-                    "localname": "Near S.C Khuhi - B 11B - A2",
+                    "name": "Near S.C Khuhi - Block 11B - A2",
+                    "localname": "Near S.C Khuhi - Block 11B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -874,7 +874,7 @@
                 ]
               },
               {
-                "id": "0845ea7b-f2af-4f37-96de-8bdfad775390",
+                "id": "25766329-2848-46ac-b086-1f9b46811c9d",
                 "boundaryNum": 1,
                 "name": "Block 12B",
                 "localname": "Block 12B",
@@ -884,10 +884,10 @@
                 "code": "B 12B",
                 "children": [
                   {
-                    "id": "c9382bd6-f6d1-4c52-8506-dafa2f0eb48e",
+                    "id": "deefa4f4-43c5-4a46-8a5b-cbeee3931525",
                     "boundaryNum": 1,
-                    "name": "SBOP Bank Road - B 12B - A2",
-                    "localname": "SBOP Bank Road - B 12B - A2",
+                    "name": "SBOP Bank Road - Block 12B - A2",
+                    "localname": "SBOP Bank Road - Block 12B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -898,7 +898,7 @@
                 ]
               },
               {
-                "id": "56db3776-adf7-4ab2-a8dd-698cf1ff5249",
+                "id": "e042aa84-c6d5-4008-a1be-60ea03fb54a2",
                 "boundaryNum": 1,
                 "name": "Block 13B",
                 "localname": "Block 13B",
@@ -908,10 +908,10 @@
                 "code": "B 13B",
                 "children": [
                   {
-                    "id": "957c898b-5923-4d0b-b55b-8a351b62d126",
+                    "id": "4e15e810-7db4-4d2f-bf69-891c2235b7ca",
                     "boundaryNum": 1,
-                    "name": "Attar Singh Nagar - B 13B - A2",
-                    "localname": "Attar Singh Nagar - B 13B - A2",
+                    "name": "Attar Singh Nagar - Block 13B - A2",
+                    "localname": "Attar Singh Nagar - Block 13B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -922,7 +922,7 @@
                 ]
               },
               {
-                "id": "61a1ff89-86c5-415a-9489-2d5b857a154c",
+                "id": "7c28946f-9076-479a-ad68-916838af1a44",
                 "boundaryNum": 1,
                 "name": "Block 14B",
                 "localname": "Block 14B",
@@ -932,10 +932,10 @@
                 "code": "B 14B",
                 "children": [
                   {
-                    "id": "34788d9b-bf3b-4c31-972b-9c252ebf8b75",
+                    "id": "d541d9d6-ac98-441e-b944-af148547d5ff",
                     "boundaryNum": 1,
-                    "name": "Chatha Mohala - B 14B - A2",
-                    "localname": "Chatha Mohala - B 14B - A2",
+                    "name": "Chatha Mohala - Block 14B - A2",
+                    "localname": "Chatha Mohala - Block 14B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -946,7 +946,7 @@
                 ]
               },
               {
-                "id": "fe252ce2-abf2-44cb-a643-7863e45f558e",
+                "id": "2060daeb-7a29-403c-a4bd-c62c7f9d6ac5",
                 "boundaryNum": 1,
                 "name": "Block 15B",
                 "localname": "Block 15B",
@@ -956,10 +956,10 @@
                 "code": "B 15B",
                 "children": [
                   {
-                    "id": "feba69f6-4906-4300-818b-cdeae31d3ace",
+                    "id": "1a1ccb10-ed76-4bd6-9456-d46b3a4d8cca",
                     "boundaryNum": 1,
-                    "name": "Dikh Mohala - B 15B - A2",
-                    "localname": "Dikh Mohala - B 15B - A2",
+                    "name": "Dikh Mohala - Block 15B - A2",
+                    "localname": "Dikh Mohala - Block 15B - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -970,7 +970,7 @@
                 ]
               },
               {
-                "id": "1f0453eb-8a8a-4ab8-98ba-d0ecafd7ece4",
+                "id": "ce1f406a-3fbc-4def-844d-939cee91c764",
                 "boundaryNum": 1,
                 "name": "Block 5",
                 "localname": "Block 5",
@@ -980,10 +980,10 @@
                 "code": "B 5",
                 "children": [
                   {
-                    "id": "f0ba5008-9750-4199-9d1d-651454addde1",
+                    "id": "f965e623-e351-43fc-844a-0f4315519d8d",
                     "boundaryNum": 1,
-                    "name": "Maur Road - B 5 - A2",
-                    "localname": "Maur Road - B 5 - A2",
+                    "name": "Maur Road - Block 5 - A2",
+                    "localname": "Maur Road - Block 5 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -994,7 +994,7 @@
                 ]
               },
               {
-                "id": "7e95953c-294b-4ffe-9654-14d14e80e41a",
+                "id": "730eeb03-c2ca-4c5d-97c5-294dd389442f",
                 "boundaryNum": 1,
                 "name": "Block 15",
                 "localname": "Block 15",
@@ -1004,10 +1004,10 @@
                 "code": "B 15",
                 "children": [
                   {
-                    "id": "d119ca52-c9eb-4a38-843d-f67457923335",
+                    "id": "6df42d5b-d7a8-4d6e-be69-cc79aec2f221",
                     "boundaryNum": 1,
-                    "name": "Raman Road - B 15 - A2",
-                    "localname": "Raman Road - B 15 - A2",
+                    "name": "Raman Road - Block 15 - A2",
+                    "localname": "Raman Road - Block 15 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1018,7 +1018,7 @@
                 ]
               },
               {
-                "id": "c967b961-b363-4903-9f1c-650b570363e3",
+                "id": "48f7dee8-07e2-4aa0-893d-133e8153d5b5",
                 "boundaryNum": 1,
                 "name": "Block 16",
                 "localname": "Block 16",
@@ -1028,10 +1028,10 @@
                 "code": "B16",
                 "children": [
                   {
-                    "id": "7ebef400-95fe-48a0-845f-9e9681886526",
+                    "id": "eb25148a-0158-42fd-997b-2901a92c249c",
                     "boundaryNum": 1,
-                    "name": "Mastuana Road - B16 - A2",
-                    "localname": "Mastuana Road - B16 - A2",
+                    "name": "Mastuana Road - Block 16 - A2",
+                    "localname": "Mastuana Road - Block 16 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1042,7 +1042,7 @@
                 ]
               },
               {
-                "id": "b8b6226b-1909-4de8-a994-77ca9d03cca1",
+                "id": "b3ad857a-be77-4f63-8561-9f904250136d",
                 "boundaryNum": 1,
                 "name": "Block 17",
                 "localname": "Block 17",
@@ -1052,10 +1052,10 @@
                 "code": "B17",
                 "children": [
                   {
-                    "id": "b221a6d9-5b77-4cc7-b847-ca0ee8a5a30d",
+                    "id": "34e7e273-16d3-4fc9-91aa-5fd482bd0d11",
                     "boundaryNum": 1,
-                    "name": "B D O Black road - B17 - A2",
-                    "localname": "B D O Black road - B17 - A2",
+                    "name": "B D O Black road - Block 17 - A2",
+                    "localname": "B D O Black road - Block 17 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1066,7 +1066,7 @@
                 ]
               },
               {
-                "id": "31df1998-8348-46fb-8cb5-ee00e90ebca9",
+                "id": "fbd29866-96b0-41fe-8be6-c7ed96a4f7a1",
                 "boundaryNum": 1,
                 "name": "Block 18",
                 "localname": "Block 18",
@@ -1076,10 +1076,10 @@
                 "code": "B18",
                 "children": [
                   {
-                    "id": "eb5d888a-4ffc-410a-b94b-08dff695d863",
+                    "id": "e2abf2c7-a187-46df-9154-3035176c5049",
                     "boundaryNum": 1,
-                    "name": "bittu pardana di gali - B18 - A2",
-                    "localname": "bittu pardana di gali - B18 - A2",
+                    "name": "bittu pardana di gali - Block 18 - A2",
+                    "localname": "bittu pardana di gali - Block 18 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1090,7 +1090,7 @@
                 ]
               },
               {
-                "id": "14634b1d-51b4-49be-94b8-3075115eed34",
+                "id": "0e71d336-38bf-41e4-b675-9fe8a2cbf73c",
                 "boundaryNum": 1,
                 "name": "Block 19",
                 "localname": "Block 19",
@@ -1100,10 +1100,10 @@
                 "code": "B19",
                 "children": [
                   {
-                    "id": "660486f0-4b4c-41f1-b8fb-8083f9348805",
+                    "id": "37e5ba33-efdf-450d-aa82-14f121eedfbf",
                     "boundaryNum": 1,
-                    "name": "Exchange road - B19 - A2",
-                    "localname": "Exchange road - B19 - A2",
+                    "name": "Exchange road - Block 19 - A2",
+                    "localname": "Exchange road - Block 19 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1114,7 +1114,7 @@
                 ]
               },
               {
-                "id": "20a63e1d-0574-4e32-a81d-5fb28c394b07",
+                "id": "17b7afb5-f1e1-4c02-a742-08abbc4e47a1",
                 "boundaryNum": 1,
                 "name": "Block 20",
                 "localname": "Block 20",
@@ -1124,10 +1124,10 @@
                 "code": "B20",
                 "children": [
                   {
-                    "id": "6838815b-b39a-4890-a1be-8ef27ccfded0",
+                    "id": "d124779e-972b-4fdd-81e5-7713ab5be196",
                     "boundaryNum": 1,
-                    "name": "Malkana road - B20 - A2",
-                    "localname": "Malkana road - B20 - A2",
+                    "name": "Malkana road - Block 20 - A2",
+                    "localname": "Malkana road - Block 20 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
