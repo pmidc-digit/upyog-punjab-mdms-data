@@ -25540,6 +25540,56 @@
       "serviceCode": "RENT_N_LEASE",
       "code": "RNL",
       "path": ""
+    },
+    {
+      "id": 23384,
+      "name": "PT_MY_PROPERTIES",
+      "url": "digit-ui-card",
+      "displayName": "Rent And Lease",
+      "orderNumber": 1,
+      "parentModule": "RentAndLease",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/rentandlease/my-properties",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/rentandlease-home"
+    },
+    {
+      "id": 8900909,
+      "name": "Rent And Lease Inbox",
+      "url": "url",
+      "displayName": "Search Alloted Properties",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900910,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Allot New Property",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/allot-property",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
