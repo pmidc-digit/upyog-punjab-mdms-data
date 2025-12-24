@@ -2,6 +2,18 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
+
+      {
+      "id": 36001,
+      "name": "Survey Search",
+      "url": "/notification-sms/outsource/sms/send",
+      "displayName": "Outsource SMS Send",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "notification-sms",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 7001,
       "name": "Survey Search",
