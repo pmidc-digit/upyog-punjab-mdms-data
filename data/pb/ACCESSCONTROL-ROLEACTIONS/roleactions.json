@@ -66435,26 +66435,8 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "RL_CEMP",
-      "actionid": 8900097,
-      "actioncode": "RNL",
-      "tenantId": "pb"
-    },
-    {
       "rolecode": "RL_DOC_VERIFIER",
       "actionid": 8900098,
-      "actioncode": "RNL",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RL_DOC_VERIFIER",
-      "actionid": 8900068,
-      "actioncode": "RNL",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "RL_DOC_VERIFIER",
-      "actionid": 8900101,
       "actioncode": "RNL",
       "tenantId": "pb"
     },
@@ -66485,6 +66467,12 @@
     {
       "rolecode": "RL_APPROVER",
       "actionid": 8900097,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_APPROVER",
+      "actionid": 8900098,
       "actioncode": "RNL",
       "tenantId": "pb"
     },
@@ -66521,6 +66509,12 @@
     {
       "rolecode": "RL_FIELD_INSPECTOR",
       "actionid": 8900097,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_FIELD_INSPECTOR",
+      "actionid": 8900098,
       "actioncode": "RNL",
       "tenantId": "pb"
     },
@@ -66558,6 +66552,42 @@
       "rolecode": "RL_CEMP",
       "actionid": 8900910,
       "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900097,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900098,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900099,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900101,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900102,
+      "actioncode": "RNL",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 8900103,
+      "actioncode": "RNL",
       "tenantId": "pb"
     }
   ]
