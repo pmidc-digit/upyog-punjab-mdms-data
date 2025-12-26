@@ -19021,6 +19021,36 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 8900111,
+      "name": "Water Dump Report",
+      "url": "url",
+      "displayName": "Water Dump Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.WS.StateWater_Dump_report",
+      "navigationURL": "report/rainmaker-pt/StateWater_Dunp_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900112,
+      "name": "Sewerage Dump Report",
+      "url": "url",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.WS.StateSewerage_Dump_report",
+      "navigationURL": "report/rainmaker-pt/StateSewerage_Dunp_report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }    	  
   ]
 }
