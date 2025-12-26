@@ -6807,6 +6807,43 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 8900108,
+      "name": "Amritsar Summary Employee Report",
+      "url": "url",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach Reports.Amritsar Summary Employee Report",
+      "navigationURL": "report/rainmaker-swach/AmritsarSummaryEmployeeReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900109,
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/AmritsarSummaryEmployeeReport/metadata/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900110,
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/AmritsarSummaryEmployeeReport/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1, 
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
     }
   ]
 }
