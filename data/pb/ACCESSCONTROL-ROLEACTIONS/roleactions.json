@@ -3,6 +3,24 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 8900110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 8900109,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SWACH_STATE_EMP",
+      "actionid": 8900108,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ADV REPORTS",
       "actionid": 8900963,
       "actioncode": "",
