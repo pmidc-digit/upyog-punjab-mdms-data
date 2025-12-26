@@ -80,7 +80,7 @@
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bariwala",
@@ -365,7 +365,7 @@
     {
       "code": "pb.phagwara",
       "name": "Phagwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.phillaur",
@@ -400,7 +400,7 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.sahnewal",
