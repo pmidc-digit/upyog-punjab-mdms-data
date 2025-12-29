@@ -1,16 +1,16 @@
 {
-  "tenantId": "pb.bhairoopa",
+  "tenantId": "pb.kotkapura",
   "moduleName": "ndc",
   "NdcFee": [
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 200
+      "flatFee": 500
     },
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 200
+      "flatFee": 500
     }
   ]
 }
