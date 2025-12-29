@@ -19039,6 +19039,28 @@
     },
     {
       "id": 8900112,
+      "name": "Water Dump Report",
+      "url": "/report/rainmaker-ws/StateWater_Dump_report/metadata/_get",
+      "displayName": "Water Dump Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900113,
+      "name": "Water Dump Report",
+      "url": "/report/rainmaker-ws/StateWater_Dump_report/_get",
+      "displayName": "Water Dump Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900114,
       "name": "Sewerage Dump Report",
       "url": "url",
       "displayName": "Sewerage Dump Report",
@@ -19051,6 +19073,28 @@
       "navigationURL": "report/rainmaker-ws/StateSewerage_Dump_report",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }    	  
+    },
+    {
+      "id": 8900115,
+      "name": "Sewerage Dump Report",
+      "url": "/report/rainmaker-ws/StateSewerage_Dump_report/metadata/_get",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900116,
+      "name": "Sewerage Dump Report",
+      "url": "/report/rainmaker-ws/StateSewerage_Dump_report/_get",
+      "displayName": "Sewerage Dump Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }	  
   ]
 }
