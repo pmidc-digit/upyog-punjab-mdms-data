@@ -12,9 +12,7 @@
          "NocUserRole":"OBPAS_NOC_APPROVER"
       },
 
-
-
-{
+      {
          "code": "obpas_noc",
          "isActive": true,
          "offlineWF":"OBPAS NOC_OFFLINE",
@@ -22,8 +20,6 @@
          "mode":"online",
          "NocUserRole":"OBPAS_NOC_APPROVER"
       },
-
-
       {
          "code": "NOC",
          "isActive": true,
@@ -48,7 +44,7 @@
          "mode":"online",
          "LayoutUserRole":"LAYOUT_APPROVER"
       },
-	{
+	  {
          "code": "LAYOUT",
          "isActive": true,
          "offlineWF":"LAYOUT_OFFLINE",
@@ -56,7 +52,7 @@
          "mode":"online",
          "LayoutUserRole":"LAYOUT_APPROVER"
       },
-	{
+	  {
          "code": "LAYOUT",
          "isActive": true,
          "offlineWF":"LAYOUT_OFFLINE",
@@ -64,9 +60,6 @@
          "mode":"online",
          "LayoutUserRole":"LAYOUT_APPROVER"
       },
-
-
-
       {
         "code": "CLU",
         "isActive": true,
@@ -99,7 +92,7 @@
         "mode":"online",
         "LayoutUserRole":"CLU_APPROVER"
       },
-       {
+      {
          "code": "FIRE_NOC",
          "isActive": true,
          "offlineWF":"FIRE_NOC_OFFLINE",
