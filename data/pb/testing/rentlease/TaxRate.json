@@ -1,0 +1,44 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "rentAndLease",
+    "TaxRates": [
+          {
+            "id": "1",  
+            "taxType": "RL_CGST_FEE",
+            "type":"%",   
+            "isActive":true,         
+            "amount": 9            
+          },
+          {
+            "id": "2",  
+            "taxType": "RL_SGST_FEE",
+            "type":"%",
+            "isActive":true,                     
+            "amount": 9
+          },
+          {
+            "id": "3",  
+            "taxType": "RL_COWCESS_FEE",
+            "type":"value",
+            "isActive":true,         
+            "amount": 1000
+          },
+          {
+            "id": "4",  
+            "taxType": "RL_PENALTY_FEE_PERCENT",
+            "type":"%",
+            "amount": 2,
+            "isActive":true,
+            "description": "penalty on base rent"
+
+          },
+          {
+            "id": "5",  
+            "taxType": "RL_PENALTY_FEE",
+            "type":"value",
+            "amount": 200,
+            "isActive":true,
+            "description": "penalty on base rent"
+          }
+    ]
+  }

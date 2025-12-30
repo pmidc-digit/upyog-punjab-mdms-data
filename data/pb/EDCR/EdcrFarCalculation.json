@@ -1,5 +1,5 @@
 {
-	"tenantId": "pb.amritsar",
+	"tenantId": "pb",
 	"moduleName": "EDCR",
 	"MasterPlan": [
 		{
@@ -12,8 +12,751 @@
 			"active": true,
 			"OccType": [
 				{
-					"OccupancyType": "A",
+					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
+					"minPlotArea": 0,
+					"maxPlotArea": 150,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 1.54,
+					"rearSetBack": 1.54,
+					"sideSetBack1": 1.54,
+					"sideSetBack2": 1.54,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 151,
+					"maxPlotArea": 200,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 1.8,
+					"rearSetBack": 1.8,
+					"sideSetBack1": 1.8,
+					"sideSetBack2": 1.8,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 201,
+					"maxPlotArea": 300,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 2.16,
+					"rearSetBack": 2.13,
+					"sideSetBack1": 2.13,
+					"sideSetBack2": 2.13,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 301,
+					"maxPlotArea": 500,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 501,
+					"maxPlotArea": 1000,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 4.6,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 1001,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 6.17,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 0,
+					"maxPlotArea": 150,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 1.54,
+					"rearSetBack": 1.54,
+					"sideSetBack1": 1.54,
+					"sideSetBack2": 1.54,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 151,
+					"maxPlotArea": 200,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 1.8,
+					"rearSetBack": 1.8,
+					"sideSetBack1": 1.8,
+					"sideSetBack2": 1.8,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 201,
+					"maxPlotArea": 300,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 2.13,
+					"rearSetBack": 2.13,
+					"sideSetBack1": 2.13,
+					"sideSetBack2": 2.13,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 301,
+					"maxPlotArea": 500,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 501,
+					"maxPlotArea": 1000,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 4.6,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AIF",
+					"OccupancyName": "Independent Floor",
+					"minPlotArea": 1001,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 6.17,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 3.0,
+					"sideSetBack2": 3.0,
+					"siteCoverage": [
+						{
+							"limit": 100,
+							"percentage": 0.90
+						},
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 100,
+							"percentage": 0.70
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
+				},
+				{
+					"OccupancyType": "A-AF",
+					"OccupancyName": "Apartment/Flat",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.2,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 2147483647,
+					"minHeight": 2.75,
+					"maxHeight": 2147483647,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"rearSetBack": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"sideSetBack1": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"sideSetBack2": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "F",
+					"OccupancyName": "Commercial",
 					"minPlotArea": 0,
 					"maxPlotArea": 100,
 					"NormalFAR": 2.00,
@@ -21,131 +764,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 101,
-					"maxPlotArea": 150,
-					"NormalFAR": 1.90,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 151,
-					"maxPlotArea": 200,
-					"NormalFAR": 1.75,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 201,
-					"maxPlotArea": 300,
-					"NormalFAR": 1.65,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 301,
-					"maxPlotArea": 500,
-					"NormalFAR": 1.50,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 501,
-					"maxPlotArea": 1000,
-					"NormalFAR": 1.50,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "A",
-					"OccupancyName": "Residential",
-					"minPlotArea": 1001,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.25,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
-				},
-				{
-					"OccupancyType": "F",
-					"OccupancyName": "Commercial",
-					"minPlotArea": 0,
-					"maxPlotArea": 100,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+						{
+							"limit": 50,
+							"percentage": 0.80
+						},
+						{
+							"limit": 75,
+							"percentage": 0.75
+						},
+						{
+							"limit": 125,
+							"percentage": 0.65
+						},
+						{
+							"limit": 250,
+							"percentage": 0.60
+						},
+						{
+							"limit": -1,
+							"percentage": 0.50
+						}
+					]
 				},
 				{
 					"OccupancyType": "F",
@@ -157,12 +804,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "F",
@@ -174,12 +844,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "F",
@@ -191,12 +884,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "F",
@@ -208,12 +924,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "F",
@@ -225,12 +964,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "F",
@@ -242,12 +1004,35 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": [
+					    {
+					      "limit": 50,
+					      "percentage": 0.80
+					    },
+					    {
+					      "limit": 75,
+					      "percentage": 0.75
+					    },
+					    {
+					      "limit": 125,
+					      "percentage": 0.65
+					    },
+					    {
+					      "limit": 250,
+					      "percentage": 0.60
+					    },
+					    {
+					      "limit": -1,
+					      "percentage": 0.50
+					    }
+					  ]
 				},
 				{
 					"OccupancyType": "G",
@@ -259,12 +1044,491 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "C",
+					"OccupancyName": "Medical IP",
+					"minPlotArea": 209.10,
+					"maxPlotArea": 836.43,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.50,
+					"isActive": true,
+					"minRoad": 3.25,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 25,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "C",
+					"OccupancyName": "Medical IP",
+					"minPlotArea": 836.43,
+					"maxPlotArea": 3345.72,
+					"NormalFAR": 1.25,
+					"PurchasableFAR": 0.50,
+					"isActive": true,
+					"minRoad": 18.51,
+					"maxRoad": 1000,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 25,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "C",
+					"OccupancyName": "Medical IP",
+					"minPlotArea": 3345.72,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 1.00,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
+					"frontSetBack": 25,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "J_F",
+					"OccupancyName": "Filling Station",
+					"minPlotArea": 510.00,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.29,
+					"maxRoad": 999.99,
+					"minHeight": 2.75,
+					"maxHeight": 6.0,
+					"maxHeightWithStilt": 17.5,
 					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 10
+				},
+				{
+					"OccupancyType": "J-FCSS",
+					"OccupancyName": "Filling Cum Service Station",
+					"minPlotArea": 1080.00,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 0.20,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.29,
+					"maxRoad": 999.99,
+					"minHeight": 2.75,
+					"maxHeight": 6.0,
+					"maxHeightWithStilt": 17.5,
+					"frontSet": 6.0,
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 20
+				},
+				{
+					"OccupancyType": "J-CNG",
+					"OccupancyName": "Compressed Natural Gas (CNG) Mother Station",
+					"minPlotArea": 1080.00,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.29,
+					"maxRoad": 999.99,
+					"minHeight": 2.75,
+					"maxHeight": 4.5,
+					"maxHeightWithStilt": 17.5,
+					"frontSet": 6.0,
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 20
+				},
+				{
+					"OccupancyType": "K-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 836.43,
+					"maxPlotArea": 1672.86,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 12.0,
+					"maxRoad": 12.0,
+					"minHeight": 2.75,
+					"maxHeight": 9999,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 0.0,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "K-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 1672.89,
+					"maxPlotArea": 3345.72,
+					"NormalFAR": 2.50,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18.0,
+					"maxRoad": 18.0,
+					"minHeight": 2.75,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 0.0,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "K-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 3345.73,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 3.00,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 24.0,
+					"maxRoad": 24.0,
+					"minHeight": 2.75,
+					"maxHeight": 999,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 0.0,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "M-MP",
+					"OccupancyName": "Marriage Palace",
+					"minPlotArea": 2000,
+					"maxPlotArea": 4000,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 0.5,
+					"isActive": true,
+					"minRoad": 19,
+					"maxRoad": 12,
+					"minHeight": 2.75,
+					"maxHeight": 2147483647,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 30
+						},
+						{
+							"roadType": "SH",
+							"setback": 25
+						},
+						{
+							"roadType": "SR",
+							"setback": 20
+						},
+						{
+							"roadType": "Other",
+							"setback": 18
+						}
+					],
+					"rearSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack1": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack2": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "M-MP",
+					"OccupancyName": "Marriage Palace",
+					"minPlotArea": 4001,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 0.5,
+					"isActive": true,
+					"minRoad": 25,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 2147483647,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 30
+						},
+						{
+							"roadType": "SH",
+							"setback": 25
+						},
+						{
+							"roadType": "SR",
+							"setback": 20
+						},
+						{
+							"roadType": "Other",
+							"setback": 18
+						}
+					],
+					"rearSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack1": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack2": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-GPB",
+					"OccupancyName": "General Public/Semi-public buildings",
+					"minPlotArea": 418,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 9,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 12,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-GO",
+					"OccupancyName": "Government Offices / Integrated Office Complex",
+					"minPlotArea": 836,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 9,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 12,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-EB-NS",
+					"OccupancyName": "Educational Buildings - Nursery School",
+					"minPlotArea": 1000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 12,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 9,
+					"rearSetBack": 4.5,
+					"sideSetBack1": 4.5,
+					"sideSetBack2": 4.5,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-EB-PS",
+					"OccupancyName": "Educational Buildings - Primary School",
+					"minPlotArea": 5000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 9,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 9,
+					"rearSetBack": 4.5,
+					"sideSetBack1": 4.5,
+					"sideSetBack2": 4.5,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-EB-HSS",
+					"OccupancyName": "Educational Buildings - Higher Secondary School",
+					"minPlotArea": 5000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 12,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-EB-C",
+					"OccupancyName": "Educational Buildings - College",
+					"minPlotArea": 5000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 12,
+					"rearSetBack": 6,
+					"sideSetBack1": 6,
+					"sideSetBack2": 6,
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-E-RC",
+					"OccupancyName": "Education & Research Centre (Large Campus)",
+					"minPlotArea": 80000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 15,
+					"rearSetBack": 9,
+					"sideSetBack1": 9,
+					"sideSetBack2": 9,
+					"siteCoverage": 25
 				}
 			]
 		},
@@ -287,12 +1551,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -304,12 +1570,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -321,12 +1589,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -338,12 +1608,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -355,12 +1627,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -372,12 +1646,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A",
@@ -389,12 +1665,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -406,12 +1684,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -423,12 +1703,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -440,12 +1722,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -457,12 +1741,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -474,12 +1760,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -491,12 +1779,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -508,12 +1798,14 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 0,
+					"minHeight": 2.75,
 					"maxHeight": 15,
-					"frontSet": 3.0,
-					"rear": 1.5,
-					"side1": 1.5,
-					"side2": 1.5
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				}
 			]
 		}

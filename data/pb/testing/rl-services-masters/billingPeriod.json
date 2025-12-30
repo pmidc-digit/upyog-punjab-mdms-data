@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "rl-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "billingCycle": "MONTHLY",
+      "taxPeriodFrom": 1743436800000,
+      "taxPeriodTo": 1774915199000,
+      "demandGenerationDateMillis": 432000000,
+      "demandEndDateMillis": 1296000000,
+      "demandExpiryDate": 2592000000
+    }
+  ]
+}

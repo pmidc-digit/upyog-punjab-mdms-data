@@ -587,8 +587,14 @@
       "masterName": "Rebate",
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
+    },
+    "ReminderPeriods": {
+      "masterName": "ReminderPeriods",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
+
   "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",
@@ -1053,6 +1059,11 @@
       "masterName": "Rates",
       "isStateLevel": true,
       "uniqueKeys": ["$.subCategoryId"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "gc-services-masters": {

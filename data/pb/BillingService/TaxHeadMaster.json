@@ -8502,6 +8502,76 @@
       "name": "Garbage Cess",
       "order": "2",
       "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Security deposit fee",
+      "code": "RL_SECURITY_DEPOSIT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "Property rent lease Fee",
+      "code": "RENT_LEASE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Penalty Fee",
+      "code": "RL_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Cowcess fee",
+      "code": "RL_COWCESS_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL SGST fee",
+      "code": "RL_SGST_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL CGST fee",
+      "code": "RL_CGST_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "code": "RL_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Fee Round Off",
+      "order": "9",
+      "service": "rl-services"
     }
   ]
 }
