@@ -12,9 +12,18 @@
          "minimumCharge": 201,
          "slabs": [
            {
-             "from": 1,
-             "to": 60,
+             "from": 0,
+             "to": 30,
              "charge": 6.7,
+             "meterCharge": 0,
+             "effectiveFrom":1522584000000,
+             "effectiveTo":1895229252000
+   
+           },
+		   {
+             "from": 31,
+             "to": 60,
+             "charge": 0,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -40,7 +49,7 @@
            }
          ]
        },
-     {
+      {
          "id":"2",
          "buildingType": "COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_NA",
@@ -95,9 +104,18 @@
          "minimumCharge": 201,
          "slabs": [
            {
-             "from": 1,
-             "to": 60,
+             "from": 0,
+             "to": 30,
              "charge": 6.7,
+             "meterCharge": 0,
+             "effectiveFrom":1522584000000,
+             "effectiveTo":1895229252000
+   
+           },
+		   {
+             "from": 31,
+             "to": 60,
+             "charge": 0,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
@@ -224,9 +242,18 @@
          "minimumCharge": 201,
          "slabs": [
            {
-             "from": 1,
-             "to": 60,
+             "from": 0,
+             "to": 30,
              "charge": 6.7,
+             "meterCharge": 0,
+             "effectiveFrom":1522584000000,
+             "effectiveTo":1895229252000
+   
+           },
+		   {
+             "from": 31,
+             "to": 60,
+             "charge": 0,
              "meterCharge": 0,
              "effectiveFrom":1522584000000,
              "effectiveTo":1895229252000
