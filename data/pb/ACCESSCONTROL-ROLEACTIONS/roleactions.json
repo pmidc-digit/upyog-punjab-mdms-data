@@ -66625,6 +66625,31 @@
       "actionid": 8900103,
       "actioncode": "RNL",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 8900945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 8900945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 8900945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 8900945,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
