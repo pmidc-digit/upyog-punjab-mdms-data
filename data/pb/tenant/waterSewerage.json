@@ -45,7 +45,7 @@
     {
       "code": "pb.anandpursahib",
       "name": "Anandpursahib",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.arniwala",
@@ -120,7 +120,7 @@
     {
       "code": "pb.bhawanigarh",
       "name": "Bhawanigarh",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhikhi",
@@ -245,7 +245,7 @@
     {
       "code": "pb.joga",
       "name": "Joga",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.kapurthala",
@@ -365,7 +365,7 @@
     {
       "code": "pb.phagwara",
       "name": "Phagwara",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.phillaur",
@@ -400,7 +400,7 @@
     {
       "code": "pb.ropar",
       "name": "Ropar",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.sahnewal",
@@ -481,6 +481,11 @@
       "code": "pb.jaitu",
       "name": "Jaitu",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.samana",
+      "name": "Samana",
+      "isautodemand": "true"
     }
   ]
 }
