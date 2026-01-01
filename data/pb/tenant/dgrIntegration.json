@@ -139,6 +139,31 @@
       ]
     },
     {
+      "Category_ID": "313",
+      "Category_Label": "Sewerage",
+      "Category_Label_Local_Language": "ਸੀਵਰੇਜ",
+      "subcategories": [
+        { "id": "3420", "label": "Delay in release of New Sewer Connection / Transfer of Connection" },
+        { "id": "3419", "label": "Foul Smell from Sewer Line" },
+        { "id": "1157", "label": "Manhole Cover Broken / Missing" },
+        { "id": "1776", "label": "Sewer Blockage / Sewage Overflow" },
+        { "id": "3418", "label": "Sewer Line Broken / Damaged" }
+      ]
+    },
+    {
+    "Category_ID": "312",
+    "Category_Label": "Water Supply",
+    "Category_Label_Local_Language": "ਜਲ ਸਪਲਾਈ",
+    "subcategories": [
+      { "id": "1153", "label": "Broken / Leaking Water Pipeline" },
+      { "id": "3416", "label": "Delay in release of New Water Connection / Transfer of Connection" },
+      { "id": "1152", "label": "Dirty / Contaminated Water" },
+      { "id": "1154", "label": "Low Water Pressure" },
+      { "id": "1151", "label": "No Water Supply" },
+      { "id": "3415", "label": "Water Meter Issues / Billing Issues" }
+    ]
+  },
+    {
       "Category_ID": "1604",
       "subcategories": [
         { "id": "3384", "label": "illegal Discharge Of Sewage" },
