@@ -49,10 +49,20 @@
       "slaHours": 96,
       "menuPath": "Drains"
     },
+ 
+    {
+      "serviceCode": "FoulSmellFromSewerLine",
+      "name": "Foul Smell from Sewer Line",
+      "active": true,
+      "keywords": "sewer,smell,foul,odour,stink",
+      "department": "DEPT_4",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
     {
       "serviceCode": "illegalDischargeOfSewage",
       "name": "illegal Discharge Of Sewage",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -71,7 +81,7 @@
     {
       "serviceCode": "ShortageOfWater",
       "name": "Shortage Of Water or No water supply",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -378,8 +388,8 @@
       "menuPath": "Garbage"
     },
     {
-      "serviceCode": "SewageMainHoleCoverMissingOrBroken",
-      "name": "Sewage Main Hole Cover Missing Or Broken or not kept properly",
+      "serviceCode": "SewageManHoleCoverMissingOrBroken",
+      "name": "Sewage Man Hole Cover Missing Or Broken or not kept properly",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
@@ -398,7 +408,7 @@
     {
       "serviceCode": "CleaningOfSewageRemoveSLURRYGaar",
       "name": "Cleaning Of Sewage Remove SLURRYGaar",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -784,6 +794,34 @@
       "department": "DEPT_47",
       "slaHours": 336,
       "menuPath": "Mseva Application Related Issues"
+},
+{
+  "serviceCode": "DelayInReleaseOfNewSewerConnectionOrTransfer",
+  "name": "Delay in release of New Sewer Connection / Transfer of Connection",
+  "active": true,
+  "keywords": "sewer,connection,transfer,delay,new",
+  "department": "DEPT_4",
+  "slaHours": 96,
+  "menuPath": "WaterandSewage"
+},
+
+{
+  "serviceCode": "DelayInReleaseOfNewWaterConnectionOrTransfer",
+  "name": "Delay in release of New Water Connection / Transfer of Connection",
+  "active": true,
+  "keywords": "water,connection,transfer,delay,new",
+  "department": "DEPT_4",
+  "slaHours": 96,
+  "menuPath": "WaterandSewage"
+},
+{
+  "serviceCode": "WaterMeterOrBillingIssues",
+  "name": "Water Meter Issues / Billing Issues",
+  "active": true,
+  "keywords": "water,meter,billing,reading,wrong,amount",
+  "department": "DEPT_4",
+  "slaHours": 96,
+  "menuPath": "WaterandSewage"
 },
 {
       "serviceCode": "WaterandSewerageIssue",
