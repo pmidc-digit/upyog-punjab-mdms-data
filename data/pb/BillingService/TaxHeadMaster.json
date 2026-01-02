@@ -5911,7 +5911,7 @@
       "code": "WS_BREAKDOWN_PENALTY",
       "isActualDemand": true,
       "IsBillamend": true,
-      "isDebit": false,
+      "isDebit": true,
       "isRequired": false,
       "name": "BreakdownPenalty",
       "order": "3",
