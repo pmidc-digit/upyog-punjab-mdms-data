@@ -32020,6 +32020,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	{
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 5020,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
     {
       "rolecode": "CEMP",
       "actionid": 5020,
@@ -32116,6 +32122,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+	{
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 5021,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
     {
       "rolecode": "FIRE_NOC_APPROVER",
       "actionid": 5021,
