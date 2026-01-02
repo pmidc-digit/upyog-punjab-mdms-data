@@ -64,15 +64,15 @@
     },
     {
       "offenceTypeId": "OT16",
-      "amount": 2000
+      "amount": 250
     },
     {
       "offenceTypeId": "OT17",
-      "amount": 2000
+      "amount": 5000
     },
     {
       "offenceTypeId": "OT18",
-      "amount": 3000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT19",
@@ -80,11 +80,59 @@
     },
     {
       "offenceTypeId": "OT20",
-      "amount": 10000
+      "amount": 2000
     },
     {
       "offenceTypeId": "OT21",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT22",
+      "amount": 750
+    },
+    {
+      "offenceTypeId": "OT23",
+      "amount": 1500
+    },
+    {
+      "offenceTypeId": "OT24",
+      "amount": 1000
+    },
+    {
+      "offenceTypeId": "OT25",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT26",
+      "amount": 500
+    },
+    {
+      "offenceTypeId": "OT27",
+      "amount": 2000
+    },
+    {
+      "offenceTypeId": "OT28",
+      "amount": 3000
+    },
+    {
+      "offenceTypeId": "OT29",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT30",
+      "amount": 10000
+    },
+    {
+      "offenceTypeId": "OT31",
       "amount": 20000
+    },
+    {
+      "offenceTypeId": "OT32",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT33",
+      "amount": 25000
     }
   ]
 }
