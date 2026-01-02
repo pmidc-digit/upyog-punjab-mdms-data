@@ -19113,6 +19113,82 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 6283,
+      "name": "Create Challan Generation",
+      "url": "/challan-generation/challan/_create",
+      "displayName": "Create Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6284,
+      "name": "Update Challan Generation",
+      "url": "/challan-generation/challan/_update",
+      "displayName": "Update Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6285,
+      "name": "Search Challan Generation",
+      "url": "/challan-generation/challan/_search",
+      "displayName": "Search Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6286,
+      "name": "Challan Collection Search Reciept",
+      "url": "/collection-services/payments/Challan_Generation/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900900,
+      "name": "Challan Inbox",
+      "url": "url",
+      "displayName": "Search Challan Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900901,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Challan",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/generate-challan",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
