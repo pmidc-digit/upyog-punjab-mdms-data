@@ -2,8 +2,7 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
   "actions-test": [
-
-      {
+    {
       "id": 36001,
       "name": "Survey Search",
       "url": "/notification-sms/outsource/sms/send",
@@ -25,7 +24,7 @@
       "code": "null",
       "path": ""
     },
-{
+    {
       "id": 111806,
       "name": "Used Localities search",
       "url": "/egov-searcher/saski-property-search/saskitotalpercentagecount/_get",
@@ -49,7 +48,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 111808,
       "name": "Used Localities search",
       "url": "/egov-searcher/saski-property-search/saskipropertysearch/_get",
@@ -117,7 +116,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7006,
       "name": "Show Survey Response",
@@ -272,7 +270,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 890031,
       "name": "Update Active Survey",
@@ -295,7 +292,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 14,
       "name": "Get File by FileStoreId",
@@ -17853,7 +17849,7 @@
       "serviceCode": "PETREPORTS",
       "code": "null",
       "path": ""
-    } ,
+    },
     {
       "id": 8900963,
       "name": "Receipt Register ADV Report",
@@ -18277,109 +18273,109 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-	{
-	  "id": 5032,
-	  "name": "Plan Scrutiny",
-	  "url": "/edcr/rest/dcr/scrutinize",
-	  "displayName": "Building Plan Scrutiny",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "EDCR",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 5033,
-	  "name": "Search Plan Scrutiny",
-	  "url": "/edcr/rest/dcr/scrutinydetails",
-	  "displayName": "Search Building Plan Scrutiny",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "EDCR",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 5034,
-	  "name": "Download Files",
-	  "url": "/edcr/rest/dcr/downloadfile",
-	  "displayName": "Download Files",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "EDCR",
-	  "code": "null",
-	  "path": ""
-	},
-  {
-    "id": 5008,
-    "name": "BPA-Applyforservice",
-    "url": "/bpa-services/v1/bpa/_create",
-    "displayName": "Apply",
-    "orderNumber": 0,
-    "enabled": false,
-    "serviceCode": "BPA",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 5009,
-    "name": "BPA-applicationsearch",
-    "url": "/bpa-services/v1/bpa/_search",
-    "displayName": "Search",
-    "orderNumber": 0,
-    "enabled": false,
-    "serviceCode": "BPA",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 5010,
-    "name": "BPA-updateapplicationservice",
-    "url": "/bpa-services/v1/bpa/_update",
-    "displayName": "Apply",
-    "orderNumber": 0,
-    "enabled": false,
-    "serviceCode": "BPA",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 5024,
-    "name": "BPA Calculator",
-    "url": "/bpa-calculator/_calculate",
-    "parentModule": "",
-    "displayName": "BPA Calculator",
-    "orderNumber": 0,
-    "enabled": false,
-    "serviceCode": "tl-services",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 5020,
-    "name": "BPA Application Payment search",
-    "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
-    "displayName": "BPA Application Payment search",
-    "orderNumber": 1,
-    "parentModule": "",
-    "enabled": false,
-    "serviceCode": "",
-    "code": "null",
-    "path": ""
-  },
-  {
-    "id": 5021,
-    "name": "BPA San Payment search",
-    "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
-    "displayName": "BPA San Payment search",
-    "orderNumber": 1,
-    "parentModule": "",
-    "enabled": false,
-    "serviceCode": "",
-    "code": "null",
-    "path": ""
-  },
-  {
+    {
+      "id": 5032,
+      "name": "Plan Scrutiny",
+      "url": "/edcr/rest/dcr/scrutinize",
+      "displayName": "Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5033,
+      "name": "Search Plan Scrutiny",
+      "url": "/edcr/rest/dcr/scrutinydetails",
+      "displayName": "Search Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5034,
+      "name": "Download Files",
+      "url": "/edcr/rest/dcr/downloadfile",
+      "displayName": "Download Files",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5008,
+      "name": "BPA-Applyforservice",
+      "url": "/bpa-services/v1/bpa/_create",
+      "displayName": "Apply",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5009,
+      "name": "BPA-applicationsearch",
+      "url": "/bpa-services/v1/bpa/_search",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5010,
+      "name": "BPA-updateapplicationservice",
+      "url": "/bpa-services/v1/bpa/_update",
+      "displayName": "Apply",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5024,
+      "name": "BPA Calculator",
+      "url": "/bpa-calculator/_calculate",
+      "parentModule": "",
+      "displayName": "BPA Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "tl-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5020,
+      "name": "BPA Application Payment search",
+      "url": "/collection-services/payments/BPA.NC_APP_FEE/_search",
+      "displayName": "BPA Application Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 5021,
+      "name": "BPA San Payment search",
+      "url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
+      "displayName": "BPA San Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 5022,
       "name": "Revenue Inegration",
       "url": "url",
@@ -18393,7 +18389,7 @@
       "path": "Revenue Inegration",
       "leftIcon": "action:receipt"
     },
-	{
+    {
       "id": 8900045,
       "name": "State Application Detail Report",
       "url": "url",
@@ -19095,6 +19091,28 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 8900094,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900095,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/swbatchbilling/_get",
+      "displayName": "Search Sewerage Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
