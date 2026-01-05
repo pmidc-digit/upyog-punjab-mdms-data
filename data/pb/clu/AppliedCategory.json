@@ -1,0 +1,61 @@
+{
+  "tenantId": "pb",
+  "moduleName": "CLU",
+  "AppliedCategory": [
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Hospital / Multimedia Center (Not Multiplex) and Hotels",
+      "code": "HOSPITAL_MULTIMEDIA_CENTER_NOT_MULTIPLEX_AND_HOTELS",
+      "active": true
+    },
+    {
+      "name": "Industry / Godown / Warehousing / Cold Store",
+      "code": "INDUSTRY_GODOWN_WAREHOUSING_COLD_STORE",
+      "active": true
+    },
+    {
+      "name": "Institutions",
+      "code": "INSTITUTIONS",
+      "active": true
+    },
+    {
+      "name": "Marriage Palaces",
+      "code": "MARRIAGE_PALACES",
+      "active": true
+    },
+    {
+      "name": "Multiplex / Miniplex",
+      "code": "MULTIPLEX_MINIPLEX",
+      "active": true
+    },
+    {
+      "name": "Petrol Pumps",
+      "code": "PETROL_PUMPS",
+      "active": true
+    },
+    {
+      "name": "Recreational",
+      "code": "RECREATIONAL",
+      "active": true
+    },
+    {
+      "name": "Residential Group Housing",
+      "code": "RESIDENTIAL_GROUP_HOUSING",
+      "active": true
+    },
+    {
+      "name": "Residential Plotted",
+      "code": "RESIDENTIAL_PLOTTED",
+      "active": true
+    },
+    {
+      "name": "Sports",
+      "code": "SPORTS",
+      "active": true
+    }
+  ]
+}
