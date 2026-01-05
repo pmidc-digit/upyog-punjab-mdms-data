@@ -327,9 +327,44 @@
       "groupId": "004"
     },
     {
+      "code": "OBPAS_NOC_JE",
+      "name": "NOC JE verifier",
+      "description": "NOC JE verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_DM",
+      "name": "NOC DM verifier",
+      "description": "NOC DM verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_ATP",
+      "name": "NOC ATP verifier",
+      "description": "NOC ATP verifier",
+      "groupId": "004"
+    },{
+      "code": "OBPAS_NOC_MTP",
+      "name": "NOC MTP verifier",
+      "description": "NOC MTP verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_JC",
+      "name": "NOC JC verifier",
+      "description": "NOC JC verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_EO",
+      "name": "NOC EO verifier",
+      "description": "NOC EO verifier",
+      "groupId": "004"
+    },
+    {
       "code": "NOC_APPROVER",
-      "name": "NoC counter Approver",
-      "description": "Fire NOC Approver",
+      "name": "NOC Approver",
+      "description": "NOC Approver",
       "groupId": "004"
     },
     {
