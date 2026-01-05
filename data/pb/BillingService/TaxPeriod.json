@@ -3200,6 +3200,15 @@
     "service": "SW",
     "code": "SW-2013-14-Q4",
     "financialYear": "2013-14"
-  }
- ]
+  },
+    {
+      "service": "Challan_Generation",
+      "code": "FY2025-26",
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "financialYear": "2025-26",
+      "periodCycle": "ANNUAL",
+      "isActive": true
+    }
+  ]
 }
