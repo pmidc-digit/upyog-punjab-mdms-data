@@ -114,6 +114,12 @@
           "attributeAccessList": [
             {
               "attribute": {
+                "jsonPath": "*/pending_with_employee"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
