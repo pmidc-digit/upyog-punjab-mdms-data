@@ -10,7 +10,7 @@
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ahmedpur",
@@ -120,12 +120,12 @@
     {
       "code": "pb.bhawanigarh",
       "name": "Bhawanigarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.bhikhiwind",
@@ -145,7 +145,7 @@
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.boha",
@@ -350,12 +350,12 @@
     {
       "code": "pb.nurmahal",
       "name": "Nurmahal",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.patiala",
       "name": "Patiala",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.payal",
@@ -420,7 +420,7 @@
     {
       "code": "pb.shahkot",
       "name": "Shahkot",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.sirhind",
@@ -486,6 +486,11 @@
       "code": "pb.samana",
       "name": "Samana",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.sardulgarh",
+      "name": "Sardulgarh",
+      "isautodemand": "true"
     }
   ]
 }
