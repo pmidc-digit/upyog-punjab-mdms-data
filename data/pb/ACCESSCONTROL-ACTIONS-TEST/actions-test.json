@@ -25620,6 +25620,80 @@
       "serviceCode": "MiscReceipt",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900113,
+      "name": "Employee wise pending report",
+      "url": "url",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "path": "State Reports.Employee wise pending report",
+      "navigationURL": "report/rainmaker-ndc/Employeewisependingreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900114,
+      "name": "Employee wise pending report",
+      "url": "/report/rainmaker-ndc/Employeewisependingreport/metadata/_get",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900115,
+      "name": "Employee wise pending report",
+      "url": "/report/rainmaker-ndc/Employeewisependingreport/_get",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900116,
+      "name": "Overall Summary Report",
+      "url": "url",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.Overall Summary Report",
+      "navigationURL": "report/rainmaker-ndc/OverallSummaryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900117,
+      "name": "Overall Summary Report",
+      "url": "/report/rainmaker-ndc/OverallSummaryReport/metadata/_get",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900118,
+      "name": "Overall Summary Report",
+      "url": "/report/rainmaker-ndc/OverallSummaryReport/_get",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
