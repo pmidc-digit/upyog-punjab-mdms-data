@@ -93,8 +93,16 @@
         "code": "BPD.SITP.SITP",
         "active": true
       },
+	  {
+	    "code": "BPD.SITP",
+	    "active": true
+	  },
       {
         "code": "SITEPHOTOGRAPH.ONE.ONE",
+        "active" : true
+      },
+      {
+        "code": "SITEPHOTOGRAPH.ONE",
         "active" : true
       },
       {
@@ -118,6 +126,10 @@
       },
       {
         "code": "OWNERSHIP.DOCUMENT.DOCUMENT",
+        "active" : true
+      },
+      {
+        "code": "OWNERSHIP.DOCUMENT",
         "active" : true
       },
       {
