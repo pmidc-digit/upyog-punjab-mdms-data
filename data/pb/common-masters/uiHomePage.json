@@ -26,7 +26,6 @@
           "navigationUrl": "/digit-ui/citizen/all-services"
         },
         "props": [
-        
           {
             "code": "CITIZEN_SERVICE_ENGAGEMENT",
             "name": "Engagement",
@@ -68,6 +67,34 @@
             "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/obps-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_PT",
+            "name": "Property Tax",
+            "label": "MODULE_PT",
+            "enabled": true,
+            "navigationUrl": "/citizen/property-tax"
+          },
+          {
+            "code": "CITIZEN_SERVICE_WS",
+            "name": "Water & Sewerage",
+            "label": "ACTION_TEST_WATER_AND_SEWERAGE",
+            "enabled": true,
+            "navigationUrl": "/citizen/wns-citizen/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_TL",
+            "name": "Trade Licence",
+            "label": "MODULE_TL",
+            "enabled": true,
+            "navigationUrl": "/citizen/tradelicense-citizen/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_PGR",
+            "name": "Complaints",
+            "label": "ES_PGR_HEADER_COMPLAINT",
+            "enabled": true,
+            "navigationUrl": "/citizen/pgr-home"
           }
         ]
       },
