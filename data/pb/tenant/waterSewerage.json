@@ -5,12 +5,12 @@
     {
       "code": "pb.adampur",
       "name": "Adampur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.ahmedpur",
@@ -210,7 +210,7 @@
     {
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.gurdaspur",
@@ -221,6 +221,11 @@
       "code": "pb.hariana",
       "name": "Hariana",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.hoshiarpur",
+      "name": "Hoshiarpur",
+      "isautodemand": "true"
     },
     {
       "code": "pb.itpatiala",
@@ -285,7 +290,7 @@
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.malerkotla",
@@ -300,7 +305,7 @@
     {
       "code": "pb.mahilpur",
       "name": "Mahilpur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.mandigobindgarh",
@@ -350,7 +355,7 @@
     {
       "code": "pb.nurmahal",
       "name": "Nurmahal",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.patiala",
@@ -415,7 +420,7 @@
     {
       "code": "pb.sanaur",
       "name": "Sanaur",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.shahkot",
@@ -445,7 +450,7 @@
     {
       "code": "pb.talwara",
       "name": "Talwara",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.tapa",
