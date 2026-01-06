@@ -64706,6 +64706,31 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "JE",
       "actionid": 8900903,
@@ -64787,6 +64812,260 @@
     {
       "rolecode": "STP(HQ)",
       "actionid": 8900903,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "JE",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BI",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DM",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "AME",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MTP",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ME",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "JC",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMC",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EO",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(Field)",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADC",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP(HQ)",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(HQ)",
+      "actionid": 1755,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "JE",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BI",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DM",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "AME",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MTP",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ME",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "JC",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMC",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EO",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(Field)",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADC",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP(HQ)",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(HQ)",
+      "actionid": 1756,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+    {
+      "rolecode": "JE",
+      "actionid":1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BI",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "DM",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "AME",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MTP",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ME",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "JC",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CMC",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EO",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(Field)",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADC",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ATP(HQ)",
+      "actionid": 1757,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STP(HQ)",
+      "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
     },
