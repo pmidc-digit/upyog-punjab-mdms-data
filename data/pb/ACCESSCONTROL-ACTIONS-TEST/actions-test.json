@@ -19911,12 +19911,30 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-applications",
+      "navigationURL": "",
       "leftIcon": "propertyIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/citizen/property-tax"
+    },
+    {
+      "id": 8900925,
+      "name": "PT_MY_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "Water & Sewerage",
+      "orderNumber": 5,
+      "parentModule": "wns",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "",
+      "leftIcon": "custom:water-tap",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/citizen/wns-citizen/home"
     }
   ]
 }
