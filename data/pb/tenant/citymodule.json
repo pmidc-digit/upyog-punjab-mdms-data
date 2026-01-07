@@ -533,6 +533,9 @@
     {
       "module": "PGR",
       "code": "PGR",
+      "order": 4,
+      "active": true,
+      "access": "VIEW_PGR_CARD",
       "tenants": [
         {
           "code": "pb.testing"
@@ -2612,6 +2615,9 @@
     {
       "module": "TL",
       "code": "TL",
+      "order": 6,
+      "active": true,
+      "access": "VIEW_TL_CARD",
       "tenants": [
         {
           "code": "pb.mohali"
