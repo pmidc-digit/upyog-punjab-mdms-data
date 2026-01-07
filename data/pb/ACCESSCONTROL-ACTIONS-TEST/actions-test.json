@@ -19798,24 +19798,6 @@
       "sidebarURL": "/digit-ui/citizen/pgr-home"
     },
     {
-      "id": 882422,
-      "name": "TL_FAQ_S",
-      "url": "digit-ui-card",
-      "displayName": "FAQs",
-      "orderNumber": 7,
-      "parentModule": "TL",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/tl-faq",
-      "leftIcon": "TLIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/tl-home"
-    },
-    {
       "id": 882452,
       "name": "TL_CREATE_TRADE",
       "url": "digit-ui-card",
