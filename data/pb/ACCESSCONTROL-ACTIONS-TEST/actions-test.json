@@ -19868,6 +19868,55 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/tl-home"
+    },
+    {
+      "id": 19460,
+      "name": "Complaints",
+      "url": "url",
+      "displayName": "Complaints",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Complaints",
+      "navigationURL": "tl-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
+    },
+    {
+      "id": 19461,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Complaints",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "tl-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 8900924,
+      "name": "PT_MY_APPLICATION",
+      "url": "mseva-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 5,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/my-applications",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/citizen/property-tax"
     }
   ]
 }
