@@ -7,6 +7,7 @@
       "connectionType": "Metered",
       "billingCycle": "quarterly",
       "isBreakdownPenaltyEnabled": true,
+      "isBreakdownAverageApplicable": true,
       "breakdownPenaltyRate": 2,
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 1209600000,
