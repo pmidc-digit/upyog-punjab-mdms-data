@@ -6418,23 +6418,6 @@
       "code": "null",
       "path": ""
     },
-
-    {
-      "id": 1817,
-      "name": "rainmaker-citizen-fire-noc",
-      "url": "card",
-      "displayName": "FIRE-NOC",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "fire-noc/home",
-      "leftIcon": "custom:fire",
-      "rightIcon": "",
-      "queryParams": ""
-    },
     {
       "id": 1212,
       "name": "rainmaker-citizen-Survey",
@@ -8202,6 +8185,38 @@
       "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/ptr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 19403,
+      "name": "rainmaker-citizen-complaints",
+      "url": "url",
+      "displayName": "Pet Registeration",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ptr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 19402,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/property-tax",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""

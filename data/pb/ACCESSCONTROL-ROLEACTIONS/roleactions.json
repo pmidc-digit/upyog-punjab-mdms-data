@@ -43197,6 +43197,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 19402,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PT_APPROVER",
       "actionid": 1808,
       "actioncode": "",
@@ -44399,6 +44405,12 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1986,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19403,
       "actioncode": "",
       "tenantId": "pb"
     },
