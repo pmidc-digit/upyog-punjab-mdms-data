@@ -95,6 +95,13 @@
             "label": "ACTION_TEST_WATER_AND_SEWERAGE",
             "enabled": true,
             "navigationUrl": "/citizen/wns-citizen/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_FIRE_NOC",
+            "name": "Fire NOC",
+            "label": "ACTION_TEST_FIRE_NOC",
+            "enabled": true,
+            "navigationUrl": "/citizen/wns-citizen/fire-noc/home"
           }
         ]
       },
