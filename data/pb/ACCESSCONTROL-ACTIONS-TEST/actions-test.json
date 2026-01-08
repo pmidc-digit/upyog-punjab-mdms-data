@@ -5890,22 +5890,6 @@
       "leftIcon": "social:people"
     },
     {
-      "id": 1775,
-      "name": "rainmaker-common-complaints",
-      "url": "card",
-      "displayName": "Complaints",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "",
-      "path": "",
-      "navigationURL": "all-complaints",
-      "leftIcon": "action:announcement",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
       "id": 1776,
       "name": "rainmaker-common-propertytax",
       "url": "card",
@@ -8053,21 +8037,7 @@
       "code": "null",
       "path": "Billing Service.GenerateBill"
     },
-    {
-      "id": 1931,
-      "name": "TradeLicense",
-      "url": "url",
-      "displayName": "Trade License",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "navigationURL": "tradelicense-citizen/home",
-      "path": "TradeLicense",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
+
     {
       "id": 1932,
       "name": "mSeva Event Search",
@@ -8249,21 +8219,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-    {
-      "id": 1941,
-      "name": "Complaints",
-      "url": "url",
-      "displayName": "Complaints",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "Complaints",
-      "navigationURL": "pgr-home",
-      "leftIcon": "custom:account-alert",
-      "rightIcon": ""
-    },
+
     {
       "id": 1942,
       "name": "rainmaker-citizen-complaints",
@@ -8275,7 +8231,23 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "pgr-home",
+      "navigationURL": "/digit-ui/citizen/pgr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1942,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Trade License",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/tl-home",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
@@ -25615,7 +25587,7 @@
       "name": "Amritsar Summary Employee Report",
       "url": "/report/rainmaker-swach/AmritsarSummaryEmployeeReport/_get",
       "displayName": "Amritsar Summary Employee Report",
-      "orderNumber": 1, 
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
