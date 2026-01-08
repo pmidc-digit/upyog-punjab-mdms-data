@@ -7147,7 +7147,9 @@
       "navigationURL": "wns-citizen/home",
       "leftIcon": "custom:water-tap",
       "rightIcon": "",
-      "queryParams": ""
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/citizen/wns-citizen/home"
     },
     {
       "id": 1928,
@@ -7323,7 +7325,9 @@
       "path": "Property Tax",
       "navigationURL": "property-tax",
       "leftIcon": "communication:business",
-      "rightIcon": ""
+      "rightIcon": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/citizen/property-tax"
     },
     {
       "id": 1944,
