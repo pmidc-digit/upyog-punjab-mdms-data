@@ -19921,6 +19921,54 @@
       "queryParams": ""
     },
     {
+      "id": 6001,
+      "name": "Create PGR Request",
+      "url": "/pgr-services/v2/request/_create",
+      "parentModule": "",
+      "displayName": "Create PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6002,
+      "name": "Update PGR Request",
+      "url": "/pgr-services/v2/request/_update",
+      "parentModule": "",
+      "displayName": "Update PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6003,
+      "name": "Search PGR Request",
+      "url": "/pgr-services/v2/request/_search",
+      "parentModule": "",
+      "displayName": "Search PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 6004,
+      "name": "Search PGR Request",
+      "url": "/pgr-services/v2/request/_count",
+      "parentModule": "",
+      "displayName": "Count PGR Request",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "pgr-services",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 19420,
       "name": "Property_Tax",
       "url": "digit-ui-card",
