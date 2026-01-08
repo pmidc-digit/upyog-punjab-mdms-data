@@ -8189,22 +8189,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-    {
-      "id": 19403,
-      "name": "rainmaker-citizen-complaints",
-      "url": "url",
-      "displayName": "Pet Registeration",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/ptr-home",
-      "leftIcon": "custom:account-alert",
-      "rightIcon": "",
-      "queryParams": ""
-    },
+
     {
       "id": 19402,
       "name": "rainmaker-citizen-complaints",
@@ -8216,7 +8201,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/property-tax",
+      "navigationURL": "/citizen/property-tax",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
@@ -26580,6 +26565,21 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 194109,
+      "name": "Pet Registration",
+      "url": "url",
+      "displayName": "Pet Registration",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Pet Registration",
+      "navigationURL": "/digit-ui/citizen/ptr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
     }
   ]
 }
