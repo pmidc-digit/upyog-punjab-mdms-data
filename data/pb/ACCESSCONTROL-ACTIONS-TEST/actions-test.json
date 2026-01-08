@@ -19772,7 +19772,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/citizen/pgr-home",
+      "navigationURL": "pgr-home",
       "leftIcon": "custom:open-complaints",
       "rightIcon": "",
       "queryParams": ""
@@ -19788,7 +19788,7 @@
       "serviceCode": "complaints",
       "code": "null",
       "path": "complaints",
-      "navigationURL": "/citizen/pgr-home",
+      "navigationURL": "pgr-home",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
