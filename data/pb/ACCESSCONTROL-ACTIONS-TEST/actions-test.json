@@ -5900,7 +5900,7 @@
       "serviceCode": "PT",
       "code": "",
       "path": "",
-      "navigationURL": "pt-mutation/propertySearch",
+      "navigationURL": "/citizen/property-tax",
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
@@ -5921,22 +5921,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-    {
-      "id": 1778,
-      "name": "rainmaker-common-tradelicence",
-      "url": "card",
-      "displayName": "Trade Licence",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TL",
-      "code": "",
-      "path": "",
-      "navigationURL": "tradelicence/search",
-      "leftIcon": "places:business-center",
-      "rightIcon": "",
-      "queryParams": ""
-    },
+
     {
       "id": 1779,
       "name": "rainmaker-common-hrms",
@@ -6434,22 +6419,6 @@
       "path": ""
     },
 
-    {
-      "id": 1816,
-      "name": "rainmaker-citizen-tradelicence",
-      "url": "card",
-      "displayName": "Trade Licence",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/",
-      "leftIcon": "custom:trade-license",
-      "rightIcon": "",
-      "queryParams": ""
-    },
     {
       "id": 1817,
       "name": "rainmaker-citizen-fire-noc",
@@ -8206,7 +8175,7 @@
       "queryParams": ""
     },
     {
-      "id": 1942,
+      "id": 19400,
       "name": "rainmaker-citizen-complaints",
       "url": "card",
       "displayName": "Trade License",
@@ -8217,6 +8186,22 @@
       "code": "",
       "path": "",
       "navigationURL": "/digit-ui/citizen/tl-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 19401,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Pet Registeration",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ptr-home",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
