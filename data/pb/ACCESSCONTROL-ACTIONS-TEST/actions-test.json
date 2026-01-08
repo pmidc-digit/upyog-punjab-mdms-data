@@ -7147,9 +7147,7 @@
       "navigationURL": "wns-citizen/home",
       "leftIcon": "custom:water-tap",
       "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/wns-citizen/home"
+      "queryParams": ""
     },
     {
       "id": 1928,
@@ -7325,9 +7323,7 @@
       "path": "Property Tax",
       "navigationURL": "property-tax",
       "leftIcon": "communication:business",
-      "rightIcon": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/property-tax"
+      "rightIcon": ""
     },
     {
       "id": 1944,
@@ -19923,6 +19919,42 @@
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 19420,
+      "name": "Property_Tax",
+      "url": "digit-ui-card",
+      "displayName": "Property Tax",
+      "orderNumber": 1,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/property-tax"
+    },
+    {
+      "id": 19421,
+      "name": "Water_Sewerage",
+      "url": "digit-ui-card",
+      "displayName": "Water & Sewerage",
+      "orderNumber": 1,
+      "parentModule": "WNS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wns-citizen/home"
     }
   ]
 }
