@@ -31,7 +31,7 @@
             "name": "Complaints",
             "label": "ES_PGR_HEADER_COMPLAINT",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/pgr-home"
+            "navigationUrl": "/citizen/pgr-home"
           },
           {
             "code": "CITIZEN_SERVICE_PT",
