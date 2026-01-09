@@ -2,7 +2,7 @@
   "tenantId": "pb.jagraon",
   "moduleName": "ws-services-masters",
   "billingPeriod": [
-     {
+    {
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "quarterly",
@@ -16,15 +16,9 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1704067200000,
-      "taxPeriodTo": 1711909799000,
+      "taxPeriodFrom": 1759276800000,
+      "taxPeriodTo": 1767205799000,
       "demandGenerationDateMillis": 345600000
     }
   ]
 }
-
-
-
-
-
-
