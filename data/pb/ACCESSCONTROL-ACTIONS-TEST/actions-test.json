@@ -20003,6 +20003,24 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/citizen/wns-citizen/home"
+    },
+    {
+      "id": 23382,
+      "name": "UC_MY_CHALLANS",
+      "url": "digit-ui-card",
+      "displayName": "My Challans",
+      "orderNumber": 1,
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/challangeneration/My-Challans",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     }
   ]
 }

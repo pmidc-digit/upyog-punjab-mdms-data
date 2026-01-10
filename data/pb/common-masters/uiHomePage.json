@@ -102,6 +102,13 @@
             "label": "ACTION_TEST_FIRE_NOC",
             "enabled": true,
             "navigationUrl": "/citizen/fire-noc/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_CHALLANGENERATION",
+            "name": "Challan Generation",
+            "label": "ACTION_TEST_CHALLANGENERATION",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/challangeneration-home"
           }
         ]
       },
