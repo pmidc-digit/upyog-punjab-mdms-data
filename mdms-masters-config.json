@@ -821,6 +821,13 @@
       "uniqueKeys": []
     }
   },
+  "Challan": {
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
   "PAYMENT": {
     "PaymentGateway": {
       "masterName": "PaymentGateway",
