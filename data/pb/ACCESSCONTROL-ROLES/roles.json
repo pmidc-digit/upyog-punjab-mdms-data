@@ -2,7 +2,13 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
-	  {
+	{
+      "code": "CHALLAN REPORTS",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports ",
+      "groupId": "011"
+    },
+	{
       "code": "OBPAS REPORTS",
       "name": "OBPAS REPORTS",
       "description": "Access to all OBPAS Reports",
