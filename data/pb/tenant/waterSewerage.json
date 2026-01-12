@@ -168,6 +168,11 @@
       "isautodemand": "false"
     },
     {
+      "code": "pb.derabassi",
+      "name": "Derabassi",
+      "isautodemand": "false"
+    },
+    {
       "code": "pb.dhariwal",
       "name": "Dhariwal",
       "isautodemand": "false"
@@ -188,11 +193,6 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.derabassi",
-      "name": "Derabassi",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.fazilka",
       "name": "Fazilka",
       "isautodemand": "false"
@@ -203,13 +203,13 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.ghagga",
-      "name": "Ghagga",
+      "code": "pb.garhdiwala",
+      "name": "Garhdiwala",
       "isautodemand": "false"
     },
     {
-      "code": "pb.garhdiwala",
-      "name": "Garhdiwala",
+      "code": "pb.ghagga",
+      "name": "Ghagga",
       "isautodemand": "false"
     },
     {
@@ -231,6 +231,16 @@
       "code": "pb.itpatiala",
       "name": "Improvement Trust Patiala",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.jaitu",
+      "name": "Jaitu",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.jagraon",
+      "name": "Jagraon",
+      "isautodemand": "true"
     },
     {
       "code": "pb.jalalabad",
@@ -303,23 +313,18 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.mahilpur",
-      "name": "Mahilpur",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
       "isautodemand": "false"
     },
     {
-      "code": "pb.mamdot",
-      "name": "Mamdot",
+      "code": "pb.moga",
+      "name": "Moga",
       "isautodemand": "false"
     },
     {
-      "code": "pb.moga",
-      "name": "Moga",
+      "code": "pb.moonak",
+      "name": "Moonak",
       "isautodemand": "false"
     },
     {
@@ -333,13 +338,18 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.nadala",
-      "name": "Nadala",
-      "isautodemand": "false"
+      "code": "pb.mullanpur",
+      "name": "Mullanpur",
+      "isautodemand": "true"
     },
     {
       "code": "pb.nabha",
       "name": "Nabha",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.nadala",
+      "name": "Nadala",
       "isautodemand": "false"
     },
     {
@@ -363,11 +373,6 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.payal",
-      "name": "Payal",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.phagwara",
       "name": "Phagwara",
       "isautodemand": "false"
@@ -378,28 +383,8 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.quadian",
-      "name": "Quadian",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.raikot",
       "name": "Raikot",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.ramdass",
-      "name": "Ramdass",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.rampuraphul",
-      "name": "Rampuraphul",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.rayya",
-      "name": "Rayya",
       "isautodemand": "false"
     },
     {
@@ -408,53 +393,28 @@
       "isautodemand": "false"
     },
     {
-      "code": "pb.sahnewal",
-      "name": "Sahnewal",
-      "isautodemand": "false"
-    },
-    {
       "code": "pb.samrala",
       "name": "Samrala",
       "isautodemand": "false"
     },
     {
-      "code": "pb.sanaur",
-      "name": "Sanaur",
+      "code": "pb.samana",
+      "name": "Samana",
       "isautodemand": "false"
     },
     {
-      "code": "pb.shahkot",
-      "name": "Shahkot",
+      "code": "pb.sangrur",
+      "name": "Sangrur",
+      "isautodemand": "false"
+    },
+    {
+      "code": "pb.sardulgarh",
+      "name": "Sardulgarh",
       "isautodemand": "false"
     },
     {
       "code": "pb.sirhind",
       "name": "Sirhind",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.srihargobindpur",
-      "name": "Srihargobindpur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sujanpur",
-      "name": "Sujanpur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sultanpurlodhi",
-      "name": "Sultanpurlodhi",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.talwara",
-      "name": "Talwara",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.tapa",
-      "name": "Tapa",
       "isautodemand": "false"
     },
     {
@@ -470,31 +430,6 @@
     {
       "code": "pb.zirakpur",
       "name": "Zirakpur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.moonak",
-      "name": "Moonak",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.shamchurasi",
-      "name": "Shamchurasi",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.jaitu",
-      "name": "Jaitu",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.samana",
-      "name": "Samana",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sardulgarh",
-      "name": "Sardulgarh",
       "isautodemand": "false"
     }
   ]
