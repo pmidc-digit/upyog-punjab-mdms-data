@@ -180,7 +180,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "isautodemand": "false"
+      "isautodemand": "true"
     },
     {
       "code": "pb.dirba",
@@ -240,7 +240,7 @@
     {
       "code": "pb.jagraon",
       "name": "Jagraon",
-      "isautodemand": "true"
+      "isautodemand": "false"
     },
     {
       "code": "pb.jalalabad",
@@ -366,6 +366,11 @@
       "code": "pb.nurmahal",
       "name": "Nurmahal",
       "isautodemand": "false"
+    },
+    {
+      "code": "pb.payal",
+      "name": "Payal",
+      "isautodemand": "true"
     },
     {
       "code": "pb.patiala",
