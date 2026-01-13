@@ -2215,7 +2215,7 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "OTHER.library_annual_fees", 
+      "businessService": "OTHER.library_annual_fees",
       "code": "OTHER.library_annual_fees",
       "collectionModesNotAllowed": [
         ""
@@ -2241,7 +2241,7 @@
       "isVoucherCreationEnabled": false
     },
     {
-      "businessService": "OTHER.library_security_fees", 
+      "businessService": "OTHER.library_security_fees",
       "code": "OTHER.library_security_fees",
       "collectionModesNotAllowed": [
         ""
@@ -2365,7 +2365,7 @@
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
-    
+
        {
       "businessService": "Sanitation.Septic tank",
       "code": "SNT.Septic_tank",
@@ -2573,7 +2573,29 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
+    {
+      "businessService": "CLU.PAY1",
+      "code": "CLU.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
 
+    {
+      "businessService": "CLU.PAY2",
+      "code": "CLU.PAY2",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
     {
       "businessService": "Challan_Generation",
       "code": "Challan_Generation",
