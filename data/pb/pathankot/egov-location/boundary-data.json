@@ -1312,15 +1312,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Pathankot",
-        "localname": "Pathankot",
+        "name": "pathankot",
+        "localname": "pathankot",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.pathankot",
         "children": [
           {
-            "id": "70a59ad8-04ce-4eb7-a31a-cd36bf31264e",
+            "id": "7490a1a9-e10f-4071-b20d-06104681fa3c",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -1330,7 +1330,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "3d164fbe-2099-4ae7-853d-b43c52898a8b",
+                "id": "63cd94d6-76a5-4502-afd1-42d8b82da72c",
                 "boundaryNum": 1,
                 "name": "Sector 1",
                 "localname": "Sector 1",
@@ -1340,7 +1340,7 @@
                 "code": "B1",
                 "children": [
                   {
-                    "id": "0da9d644-ca12-40c4-bec6-ba488f85051c",
+                    "id": "e98ac5b1-414d-47e6-b9b7-1375cff3af15",
                     "boundaryNum": 1,
                     "name": "KAZIPURA - Sector 1 - A1",
                     "localname": "KAZIPURA - Sector 1 - A1",
@@ -1352,7 +1352,7 @@
                     "children": []
                   },
                   {
-                    "id": "10c25671-8888-4a4b-ad55-8540f3bc6b9a",
+                    "id": "894a37b5-7c2c-4bc6-8881-3fb9f1408974",
                     "boundaryNum": 1,
                     "name": "OLD SHAHPUR ROAD - Sector 1 - A1",
                     "localname": "OLD SHAHPUR ROAD - Sector 1 - A1",
@@ -1364,7 +1364,7 @@
                     "children": []
                   },
                   {
-                    "id": "f77292e5-6d9a-456c-8d45-f91368da1b85",
+                    "id": "ae9d9335-fa28-4970-849e-8755a464bbc6",
                     "boundaryNum": 1,
                     "name": "SINGHPURA - Sector 1 - A1",
                     "localname": "SINGHPURA - Sector 1 - A1",
@@ -1376,7 +1376,7 @@
                     "children": []
                   },
                   {
-                    "id": "cb8aa994-d3c4-4afd-b8d4-7ec5e8cea1e9",
+                    "id": "495381e6-7a2b-4b7f-a1bf-8be699cd06aa",
                     "boundaryNum": 1,
                     "name": "GREEN COLONY - Sector 1 - A1",
                     "localname": "GREEN COLONY - Sector 1 - A1",
@@ -1388,7 +1388,7 @@
                     "children": []
                   },
                   {
-                    "id": "095eca95-859c-40cc-a445-1835f2bb8942",
+                    "id": "27902636-2b6b-4fd9-bb2a-05b1aa09bb9c",
                     "boundaryNum": 1,
                     "name": "TRUST COLONY - Sector 1 - A1",
                     "localname": "TRUST COLONY - Sector 1 - A1",
@@ -1400,7 +1400,7 @@
                     "children": []
                   },
                   {
-                    "id": "faefe1f6-f77d-461b-8e68-b856aaa522c9",
+                    "id": "5fcf3f8b-b30e-44a8-b8cc-dcfb228961ad",
                     "boundaryNum": 1,
                     "name": "VISHKARMA NAGAR - Sector 1 - A1",
                     "localname": "VISHKARMA NAGAR - Sector 1 - A1",
@@ -1412,7 +1412,7 @@
                     "children": []
                   },
                   {
-                    "id": "de88b009-6abc-4ad0-9004-58a2f88ebf0c",
+                    "id": "61efcc92-7f9b-457c-aaad-de19e370c099",
                     "boundaryNum": 1,
                     "name": "LAMINI ROAD - Sector 1 - A1",
                     "localname": "LAMINI ROAD - Sector 1 - A1",
@@ -1424,7 +1424,7 @@
                     "children": []
                   },
                   {
-                    "id": "ecbe36b8-5e5e-4d37-9fff-906f825bd4c5",
+                    "id": "4893646a-7ac1-4bad-ad7b-8647615e048f",
                     "boundaryNum": 1,
                     "name": "PURAN NAGAR - Sector 1 - A1",
                     "localname": "PURAN NAGAR - Sector 1 - A1",
@@ -1436,7 +1436,7 @@
                     "children": []
                   },
                   {
-                    "id": "6bc20162-d04e-4a57-9f88-2f7d3f68abf5",
+                    "id": "b1e60516-6ae0-42ef-9a2d-48b0afc2e733",
                     "boundaryNum": 1,
                     "name": "TEACHER COLONY - Sector 1 - A1",
                     "localname": "TEACHER COLONY - Sector 1 - A1",
@@ -1450,7 +1450,7 @@
                 ]
               },
               {
-                "id": "fff238a4-d467-49b6-8485-3e3ba48def7f",
+                "id": "44a72583-5d79-4152-8db3-363c83d81836",
                 "boundaryNum": 1,
                 "name": "Sector 2",
                 "localname": "Sector 2",
@@ -1460,7 +1460,7 @@
                 "code": "B2",
                 "children": [
                   {
-                    "id": "d8738c21-f822-4760-8f9b-b8cd965b0f28",
+                    "id": "0c1764e5-c20e-433e-b466-0b19933c0204",
                     "boundaryNum": 1,
                     "name": "PARTAP NAGAR - Sector 2 - A1",
                     "localname": "PARTAP NAGAR - Sector 2 - A1",
@@ -1472,7 +1472,7 @@
                     "children": []
                   },
                   {
-                    "id": "04f867f6-7b27-4c54-8ea0-c499113bb28c",
+                    "id": "3ad969d8-76ae-45df-bfa0-7bb98387a301",
                     "boundaryNum": 1,
                     "name": "KABIR NAGAR - Sector 2 - A1",
                     "localname": "KABIR NAGAR - Sector 2 - A1",
@@ -1484,7 +1484,7 @@
                     "children": []
                   },
                   {
-                    "id": "c3665996-a087-44e3-9a45-a56d89c45376",
+                    "id": "8f1efed7-7c5d-4307-a4d4-cadc5755eff3",
                     "boundaryNum": 1,
                     "name": "KABIR NAGAR BACK SIDE BALMIKI MANDIR - Sector 2 - A1",
                     "localname": "KABIR NAGAR BACK SIDE BALMIKI MANDIR - Sector 2 - A1",
@@ -1496,7 +1496,7 @@
                     "children": []
                   },
                   {
-                    "id": "d2c5b2dd-1104-4b9b-8c17-9b48251ae9ca",
+                    "id": "c2fb40fc-ba18-4432-93a0-1b868daa4c8c",
                     "boundaryNum": 1,
                     "name": "ISSA NAGAR - Sector 2 - A1",
                     "localname": "ISSA NAGAR - Sector 2 - A1",
@@ -1508,7 +1508,7 @@
                     "children": []
                   },
                   {
-                    "id": "af5a4c59-416e-4760-80db-c01a679a8769",
+                    "id": "2aaa94e7-e57e-4c86-b832-36efa3863bfa",
                     "boundaryNum": 1,
                     "name": "TEACHER COLONY - Sector 2 - A1",
                     "localname": "TEACHER COLONY - Sector 2 - A1",
@@ -1520,7 +1520,7 @@
                     "children": []
                   },
                   {
-                    "id": "774285c2-d776-4e06-b3b9-2b45963cef40",
+                    "id": "07915a73-5ea1-4701-9079-c3fe11396f42",
                     "boundaryNum": 1,
                     "name": "GARDEN COLONY - Sector 2 - A1",
                     "localname": "GARDEN COLONY - Sector 2 - A1",
@@ -1532,7 +1532,7 @@
                     "children": []
                   },
                   {
-                    "id": "ecb846c7-0ef5-4cc7-af9e-e0a84ba444c8",
+                    "id": "8db525e8-af6d-49f4-9650-8e4078a5a32d",
                     "boundaryNum": 1,
                     "name": "SHAHPUR CHOWK - Sector 2 - A1",
                     "localname": "SHAHPUR CHOWK - Sector 2 - A1",
@@ -1544,7 +1544,7 @@
                     "children": []
                   },
                   {
-                    "id": "5e79add2-9507-49e8-974f-53d16e566001",
+                    "id": "e54f003c-df2d-41c9-96bd-f11943b240e8",
                     "boundaryNum": 1,
                     "name": "DEV NAGARI LAMINI - Sector 2 - A1",
                     "localname": "DEV NAGARI LAMINI - Sector 2 - A1",
@@ -1556,7 +1556,7 @@
                     "children": []
                   },
                   {
-                    "id": "93667d9a-4d5e-4ff4-9909-5abec8a722ae",
+                    "id": "1e3271ea-ca41-48b4-9f5f-801330b631be",
                     "boundaryNum": 1,
                     "name": "LAMINI LEFT SIDE - Sector 2 - A1",
                     "localname": "LAMINI LEFT SIDE - Sector 2 - A1",
@@ -1568,7 +1568,7 @@
                     "children": []
                   },
                   {
-                    "id": "5f865468-7f70-41a7-a848-d51b7c1fb01e",
+                    "id": "3ddad07b-5220-465d-af9e-f51fa86ad06a",
                     "boundaryNum": 1,
                     "name": "GOPAL NAGAR - Sector 2 - A1",
                     "localname": "GOPAL NAGAR - Sector 2 - A1",
@@ -1580,7 +1580,7 @@
                     "children": []
                   },
                   {
-                    "id": "c0fa8017-c803-4d2b-9bd6-6948b3bba20c",
+                    "id": "f56afabe-d079-43e1-b449-216a39b05ae1",
                     "boundaryNum": 1,
                     "name": "UPERLI LAMINI - Sector 2 - A1",
                     "localname": "UPERLI LAMINI - Sector 2 - A1",
@@ -1592,7 +1592,7 @@
                     "children": []
                   },
                   {
-                    "id": "9dfb1ad2-f505-4be4-a1e3-d02543696258",
+                    "id": "6b3a30bc-f4aa-48a7-bafe-2c64a5d161ae",
                     "boundaryNum": 1,
                     "name": "VISHNU NAGAR - Sector 2 - A1",
                     "localname": "VISHNU NAGAR - Sector 2 - A1",
@@ -1606,7 +1606,7 @@
                 ]
               },
               {
-                "id": "163d3697-3481-41af-8aef-4142705f529a",
+                "id": "288f3830-b4ef-408e-b548-484342389d9e",
                 "boundaryNum": 1,
                 "name": "Sector 3",
                 "localname": "Sector 3",
@@ -1616,7 +1616,7 @@
                 "code": "B3",
                 "children": [
                   {
-                    "id": "35f0f4ed-fba4-491b-b627-b759154380cb",
+                    "id": "eaaae82b-ee7c-4d1d-aff2-5ae127e859c5",
                     "boundaryNum": 1,
                     "name": "DALHOUSIE ROAD - Sector 3 - A1",
                     "localname": "DALHOUSIE ROAD - Sector 3 - A1",
@@ -1628,7 +1628,7 @@
                     "children": []
                   },
                   {
-                    "id": "8f768161-01a1-44bf-bb2a-63d55ce4eabf",
+                    "id": "65d0f9f2-8e11-4f48-869c-24618ee20854",
                     "boundaryNum": 1,
                     "name": "GADHI AHATA CHOWK - Sector 3 - A1",
                     "localname": "GADHI AHATA CHOWK - Sector 3 - A1",
@@ -1640,7 +1640,7 @@
                     "children": []
                   },
                   {
-                    "id": "9d657f86-adec-4cd9-96f3-90ffd7596366",
+                    "id": "3a06757c-bcf9-440d-99e7-bea5d761b763",
                     "boundaryNum": 1,
                     "name": "MAIN BAZAR - Sector 3 - A1",
                     "localname": "MAIN BAZAR - Sector 3 - A1",
@@ -1652,7 +1652,7 @@
                     "children": []
                   },
                   {
-                    "id": "063c15ae-0060-4f01-8ec8-27b6118b87ca",
+                    "id": "5cf22626-4497-49a6-b20f-e0d52e3004cc",
                     "boundaryNum": 1,
                     "name": "MISSION ROAD - Sector 3 - A1",
                     "localname": "MISSION ROAD - Sector 3 - A1",
@@ -1664,7 +1664,7 @@
                     "children": []
                   },
                   {
-                    "id": "63f64251-5d1f-4bfd-b03f-41b4dbf82544",
+                    "id": "42a1ec7b-077e-4390-ae42-43d60557796a",
                     "boundaryNum": 1,
                     "name": "SHEHID BAGAT SINGH NAGAR - Sector 3 - A1",
                     "localname": "SHEHID BAGAT SINGH NAGAR - Sector 3 - A1",
@@ -1676,7 +1676,7 @@
                     "children": []
                   },
                   {
-                    "id": "9f90e459-43b2-4363-aeeb-72844567bbb6",
+                    "id": "e977c7ac-d607-48e3-bc01-160df6fb9ff9",
                     "boundaryNum": 1,
                     "name": "SHRI RAM MARKET - Sector 3 - A1",
                     "localname": "SHRI RAM MARKET - Sector 3 - A1",
@@ -1688,7 +1688,7 @@
                     "children": []
                   },
                   {
-                    "id": "08a3dbbc-1009-4f53-985f-adbbc0713aa8",
+                    "id": "0c6348fc-054a-41c0-986f-b5a0f51598b4",
                     "boundaryNum": 1,
                     "name": "NEHRU NAGAR - Sector 3 - A1",
                     "localname": "NEHRU NAGAR - Sector 3 - A1",
@@ -1700,7 +1700,7 @@
                     "children": []
                   },
                   {
-                    "id": "5e8d7afc-d57a-460b-90b9-6da7bc4d58d6",
+                    "id": "4e66ed55-89ee-46be-9919-46c4f4f34ac9",
                     "boundaryNum": 1,
                     "name": "POST OFFICE CHOWK - Sector 3 - A1",
                     "localname": "POST OFFICE CHOWK - Sector 3 - A1",
@@ -1712,7 +1712,7 @@
                     "children": []
                   },
                   {
-                    "id": "e7afba7e-b84d-46d7-a830-88551c68baae",
+                    "id": "24bd5f8d-a06b-491a-8457-9a332734e4bf",
                     "boundaryNum": 1,
                     "name": "GHARTHOLI MOHALLA - Sector 3 - A1",
                     "localname": "GHARTHOLI MOHALLA - Sector 3 - A1",
@@ -1724,7 +1724,7 @@
                     "children": []
                   },
                   {
-                    "id": "2e1df379-3483-4a0c-8657-fc46856822f8",
+                    "id": "b471188f-2d34-4e0d-9c73-03b11b3a75d6",
                     "boundaryNum": 1,
                     "name": "RAM LILA GROUD ROAD - Sector 3 - A1",
                     "localname": "RAM LILA GROUD ROAD - Sector 3 - A1",
@@ -1738,7 +1738,7 @@
                 ]
               },
               {
-                "id": "f29e38e5-e569-4c4e-9df6-fb6d05b1a8df",
+                "id": "0f5824c3-6101-4d0d-b6f6-5d4436d4455d",
                 "boundaryNum": 1,
                 "name": "Sector 4",
                 "localname": "Sector 4",
@@ -1748,7 +1748,7 @@
                 "code": "B4",
                 "children": [
                   {
-                    "id": "1427a92b-a3e1-4fb0-b808-ebfae5168fee",
+                    "id": "a6ced7d6-ab4a-4fe6-8b93-bdd53c2aa68f",
                     "boundaryNum": 1,
                     "name": "MAMUN - Sector 4 - A1",
                     "localname": "MAMUN - Sector 4 - A1",
@@ -1760,7 +1760,7 @@
                     "children": []
                   },
                   {
-                    "id": "2517c647-0e4f-4eb5-befa-35b033af312a",
+                    "id": "a1d6cdce-4c08-438b-8b96-a226aa41633e",
                     "boundaryNum": 1,
                     "name": "MAMUN DIBBER KARAAT - Sector 4 - A1",
                     "localname": "MAMUN DIBBER KARAAT - Sector 4 - A1",
@@ -1772,7 +1772,7 @@
                     "children": []
                   },
                   {
-                    "id": "975b05e7-c1ec-4b69-b714-0a87f0c888eb",
+                    "id": "a0bae45c-63e8-441e-8315-04297e7ba64a",
                     "boundaryNum": 1,
                     "name": "PAKISTAN MOHALLA - Sector 4 - A1",
                     "localname": "PAKISTAN MOHALLA - Sector 4 - A1",
@@ -1784,7 +1784,7 @@
                     "children": []
                   },
                   {
-                    "id": "2a10555e-5c24-47b1-abcb-da5f2747d005",
+                    "id": "e13ce50a-156e-474f-9475-28ca28ad7dd4",
                     "boundaryNum": 1,
                     "name": "GURUDWARA COLONY - Sector 4 - A1",
                     "localname": "GURUDWARA COLONY - Sector 4 - A1",
@@ -1796,7 +1796,7 @@
                     "children": []
                   },
                   {
-                    "id": "ca83d515-be34-40d9-bde0-6dac13b28e1f",
+                    "id": "bd980d73-43fc-4454-bf8d-41d17340866a",
                     "boundaryNum": 1,
                     "name": "SIMBEL CHOWK - Sector 4 - A1",
                     "localname": "SIMBEL CHOWK - Sector 4 - A1",
@@ -1808,7 +1808,7 @@
                     "children": []
                   },
                   {
-                    "id": "87d86b13-61bb-4a48-a8c5-0fa185ee0bf2",
+                    "id": "c96beabb-be1e-4297-b462-5d6a0d91d6d9",
                     "boundaryNum": 1,
                     "name": "MAMUN CHOWK - Sector 4 - A1",
                     "localname": "MAMUN CHOWK - Sector 4 - A1",
@@ -1820,7 +1820,7 @@
                     "children": []
                   },
                   {
-                    "id": "138fe1de-654a-40d6-a79c-d6697792c85b",
+                    "id": "d61d3f6e-485e-4531-87e1-db28691cb999",
                     "boundaryNum": 1,
                     "name": "ADHUNIK VIHAR - Sector 4 - A1",
                     "localname": "ADHUNIK VIHAR - Sector 4 - A1",
@@ -1832,7 +1832,7 @@
                     "children": []
                   },
                   {
-                    "id": "2850c2cd-ca2a-41bb-be9d-8b08b3e6c441",
+                    "id": "1f5771bc-1751-4080-80cd-c2b6cfd2c231",
                     "boundaryNum": 1,
                     "name": "GREEN HAVEN COLONY - Sector 4 - A1",
                     "localname": "GREEN HAVEN COLONY - Sector 4 - A1",
@@ -1846,7 +1846,7 @@
                 ]
               },
               {
-                "id": "35ee8920-1d51-4171-a6bf-af1cbc2ee8ac",
+                "id": "26d05382-5d64-4395-95ba-460b91b8478b",
                 "boundaryNum": 1,
                 "name": "Sector 5",
                 "localname": "Sector 5",
@@ -1856,7 +1856,7 @@
                 "code": "B5",
                 "children": [
                   {
-                    "id": "e39ea6f4-586f-49d7-8cab-f24b79ac3c31",
+                    "id": "f9d109db-9b0a-476a-8b17-a161dca2eca7",
                     "boundaryNum": 1,
                     "name": "SAILI KULLIAN - Sector 5 - A1",
                     "localname": "SAILI KULLIAN - Sector 5 - A1",
@@ -1868,7 +1868,7 @@
                     "children": []
                   },
                   {
-                    "id": "21c1ca24-ba2c-48d2-b2f6-a3df9cd43254",
+                    "id": "333bdee8-e508-4c1f-b7d9-3983c125865a",
                     "boundaryNum": 1,
                     "name": "SIMBEL CHOWK - Sector 5 - A1",
                     "localname": "SIMBEL CHOWK - Sector 5 - A1",
@@ -1880,7 +1880,7 @@
                     "children": []
                   },
                   {
-                    "id": "3061878d-f8d9-4f12-9d12-7942e1d58586",
+                    "id": "8a03a0fe-0513-44dd-a74e-0e4d4ca3017e",
                     "boundaryNum": 1,
                     "name": "MAMUN - Sector 5 - A1",
                     "localname": "MAMUN - Sector 5 - A1",
@@ -1892,7 +1892,7 @@
                     "children": []
                   },
                   {
-                    "id": "d4cbc364-94d1-4612-a63c-d6cd4f709f4e",
+                    "id": "faa33734-994a-49e1-a2d4-63547e318058",
                     "boundaryNum": 1,
                     "name": "SAILI ROAD - Sector 5 - A1",
                     "localname": "SAILI ROAD - Sector 5 - A1",
@@ -1904,7 +1904,7 @@
                     "children": []
                   },
                   {
-                    "id": "0c8271d9-d082-444b-9197-7fef3d155bbe",
+                    "id": "1b542d22-acbe-4396-b4c4-71da4d0495a4",
                     "boundaryNum": 1,
                     "name": "VIHAR COLONY - Sector 5 - A1",
                     "localname": "VIHAR COLONY - Sector 5 - A1",
@@ -1916,7 +1916,7 @@
                     "children": []
                   },
                   {
-                    "id": "522408cb-fcd3-4de1-bad8-1f7dcb4f7f8c",
+                    "id": "13397abe-a8f5-4cad-9b9d-aa9201481722",
                     "boundaryNum": 1,
                     "name": "A.B COLLEGE ROAD - Sector 5 - A1",
                     "localname": "A.B COLLEGE ROAD - Sector 5 - A1",
@@ -1928,7 +1928,7 @@
                     "children": []
                   },
                   {
-                    "id": "871fb3dd-422c-4868-8a53-a82fa3f38999",
+                    "id": "fbf2b1e3-5806-4d58-872c-d0f52a02032b",
                     "boundaryNum": 1,
                     "name": "DIBAR GARAT - Sector 5 - A1",
                     "localname": "DIBAR GARAT - Sector 5 - A1",
@@ -1942,7 +1942,7 @@
                 ]
               },
               {
-                "id": "68c59e03-95a3-45a3-bae8-406fefc21e04",
+                "id": "7eb02e65-5723-4761-912b-92c1705c22ab",
                 "boundaryNum": 1,
                 "name": "Sector 6",
                 "localname": "Sector 6",
@@ -1952,7 +1952,7 @@
                 "code": "B6",
                 "children": [
                   {
-                    "id": "ecb42c63-43b9-4a70-b69f-c43d82095494",
+                    "id": "262a5dd9-54fa-4c02-ab36-14c9dec397bc",
                     "boundaryNum": 1,
                     "name": "RAM SHARNAM COLONY - Sector 6 - A1",
                     "localname": "RAM SHARNAM COLONY - Sector 6 - A1",
@@ -1964,7 +1964,7 @@
                     "children": []
                   },
                   {
-                    "id": "7bbedb9e-0b24-452b-9487-8d9c446923a8",
+                    "id": "0b20e8f9-8222-4b3c-9cac-97bd461ea52b",
                     "boundaryNum": 1,
                     "name": "SHANTI NAGAR - Sector 6 - A1",
                     "localname": "SHANTI NAGAR - Sector 6 - A1",
@@ -1976,7 +1976,7 @@
                     "children": []
                   },
                   {
-                    "id": "9b952987-9228-4db4-ba41-befb6d4bd473",
+                    "id": "72521494-6d21-4189-a6d6-bd811a83e3a4",
                     "boundaryNum": 1,
                     "name": "ROYAL AVENUE - Sector 6 - A1",
                     "localname": "ROYAL AVENUE - Sector 6 - A1",
@@ -1988,7 +1988,7 @@
                     "children": []
                   },
                   {
-                    "id": "8bef4be5-255c-46f3-9813-be9feef355ef",
+                    "id": "04b2ea1f-9784-4858-8385-29613499ba5c",
                     "boundaryNum": 1,
                     "name": "ONKAR NAGAR - Sector 6 - A1",
                     "localname": "ONKAR NAGAR - Sector 6 - A1",
@@ -2000,7 +2000,7 @@
                     "children": []
                   },
                   {
-                    "id": "d6a8fbaa-bbc6-49b8-8518-b64f8500b08d",
+                    "id": "57c4117f-cbd2-433b-bbe3-38ff3421a9a7",
                     "boundaryNum": 1,
                     "name": "ISHWER NAGAR - Sector 6 - A1",
                     "localname": "ISHWER NAGAR - Sector 6 - A1",
@@ -2012,7 +2012,7 @@
                     "children": []
                   },
                   {
-                    "id": "eda9df0b-6486-4bab-9686-e983c77fc2f8",
+                    "id": "8fdda6b7-cdd9-467c-b8e7-50cea5341049",
                     "boundaryNum": 1,
                     "name": "RAM NAGAR - Sector 6 - A1",
                     "localname": "RAM NAGAR - Sector 6 - A1",
@@ -2024,7 +2024,7 @@
                     "children": []
                   },
                   {
-                    "id": "3d9407f1-b417-44a5-9864-ca9793002744",
+                    "id": "fb2fda7e-6c2f-4a25-b43b-50433822e5cd",
                     "boundaryNum": 1,
                     "name": "NEW TEACHER COLONY - Sector 6 - A1",
                     "localname": "NEW TEACHER COLONY - Sector 6 - A1",
@@ -2036,7 +2036,7 @@
                     "children": []
                   },
                   {
-                    "id": "874cb1b8-2d68-4de4-80a1-9980bc543d7b",
+                    "id": "9c2ec343-2efc-4616-b2c5-b36c61a468bf",
                     "boundaryNum": 1,
                     "name": "JAGAT NAGAR - Sector 6 - A1",
                     "localname": "JAGAT NAGAR - Sector 6 - A1",
@@ -2048,7 +2048,7 @@
                     "children": []
                   },
                   {
-                    "id": "089515f9-0520-473f-9831-0101c765a0b5",
+                    "id": "c3b969df-88ef-45c9-aabc-f5c94e74af6f",
                     "boundaryNum": 1,
                     "name": "SHAKTI NAGAR - Sector 6 - A1",
                     "localname": "SHAKTI NAGAR - Sector 6 - A1",
@@ -2060,7 +2060,7 @@
                     "children": []
                   },
                   {
-                    "id": "05d4b2c4-9377-4068-9e55-0078e2763b45",
+                    "id": "be520aaa-0d68-4e52-8ea5-d3d97714ffb6",
                     "boundaryNum": 1,
                     "name": "BHADROYA ROAD - Sector 6 - A1",
                     "localname": "BHADROYA ROAD - Sector 6 - A1",
@@ -2072,7 +2072,7 @@
                     "children": []
                   },
                   {
-                    "id": "477f96f5-afbd-4ccc-a37c-67e90e6d84b9",
+                    "id": "95a05aaa-80c3-4aa3-81c2-0c9ffb3c0a39",
                     "boundaryNum": 1,
                     "name": "BHADROYA - Sector 6 - A1",
                     "localname": "BHADROYA - Sector 6 - A1",
@@ -2084,7 +2084,7 @@
                     "children": []
                   },
                   {
-                    "id": "b61f4b6b-fc41-4826-a515-ce1ab4f4d313",
+                    "id": "b7190ad1-edef-4a3d-9d4a-76a38d85c730",
                     "boundaryNum": 1,
                     "name": "ANGURA WALA BAGH - Sector 6 - A1",
                     "localname": "ANGURA WALA BAGH - Sector 6 - A1",
@@ -2096,7 +2096,7 @@
                     "children": []
                   },
                   {
-                    "id": "a01f7143-083b-4de8-b05e-94e51f649359",
+                    "id": "94c90ea7-e171-42dd-8885-842a80849adb",
                     "boundaryNum": 1,
                     "name": "KALI MATA MANDIR ROAD - Sector 6 - A1",
                     "localname": "KALI MATA MANDIR ROAD - Sector 6 - A1",
@@ -2110,7 +2110,7 @@
                 ]
               },
               {
-                "id": "a2437c13-da28-4874-b8d8-ad1726e7276f",
+                "id": "04aadda7-04e7-49f4-a74d-065dc5be4fff",
                 "boundaryNum": 1,
                 "name": "Sector 7",
                 "localname": "Sector 7",
@@ -2120,7 +2120,7 @@
                 "code": "B7",
                 "children": [
                   {
-                    "id": "e38ccea1-c275-4070-8e90-b4db9d26a645",
+                    "id": "3a30631b-f6ef-4fb4-8ba0-067056580482",
                     "boundaryNum": 1,
                     "name": "OMKAR NAGAR - Sector 7 - A1",
                     "localname": "OMKAR NAGAR - Sector 7 - A1",
@@ -2132,7 +2132,7 @@
                     "children": []
                   },
                   {
-                    "id": "0fde0fa4-20ee-4fd4-9370-604385012a1a",
+                    "id": "1e85f2b2-a16d-4092-92fd-dc79ee8d5d69",
                     "boundaryNum": 1,
                     "name": "PUSHAP COLONY - Sector 7 - A1",
                     "localname": "PUSHAP COLONY - Sector 7 - A1",
@@ -2144,7 +2144,7 @@
                     "children": []
                   },
                   {
-                    "id": "e1c37e5d-f362-45e1-8e7f-003500d1559b",
+                    "id": "ff2b25ab-938f-4c84-8cea-27854b0c28d8",
                     "boundaryNum": 1,
                     "name": "PREET NAGAR - Sector 7 - A1",
                     "localname": "PREET NAGAR - Sector 7 - A1",
@@ -2156,7 +2156,7 @@
                     "children": []
                   },
                   {
-                    "id": "7ad2e09a-5310-4069-a280-0afe14fe6b12",
+                    "id": "a5b2a525-eb4e-44db-8dd6-41add7d83aea",
                     "boundaryNum": 1,
                     "name": "PATEL NAGAR - Sector 7 - A1",
                     "localname": "PATEL NAGAR - Sector 7 - A1",
@@ -2168,7 +2168,7 @@
                     "children": []
                   },
                   {
-                    "id": "f802d38a-3c77-46b3-984e-e192ee1b9a97",
+                    "id": "47dff93a-4c56-4dc0-a0b8-ece086b7bc8a",
                     "boundaryNum": 1,
                     "name": "DHANGU ROAD - Sector 7 - A1",
                     "localname": "DHANGU ROAD - Sector 7 - A1",
@@ -2180,7 +2180,7 @@
                     "children": []
                   },
                   {
-                    "id": "94581acd-9576-4be1-b39e-419f6c7fef79",
+                    "id": "36cfb7bb-8a9e-49cf-b590-d440f83e925e",
                     "boundaryNum": 1,
                     "name": "FRIENDS COLONY - Sector 7 - A1",
                     "localname": "FRIENDS COLONY - Sector 7 - A1",
@@ -2192,7 +2192,7 @@
                     "children": []
                   },
                   {
-                    "id": "a0d1116b-222e-4049-b18b-edbd39e91300",
+                    "id": "01fcec6c-d4dc-44e5-b267-daf68910c549",
                     "boundaryNum": 1,
                     "name": "BASANT COLONY - Sector 7 - A1",
                     "localname": "BASANT COLONY - Sector 7 - A1",
@@ -2204,7 +2204,7 @@
                     "children": []
                   },
                   {
-                    "id": "f1af1c0e-8fec-4d27-9e45-ccc19b52f945",
+                    "id": "57ff4054-2234-4d68-937b-41ad818763e4",
                     "boundaryNum": 1,
                     "name": "SAILI ROAD - Sector 7 - A1",
                     "localname": "SAILI ROAD - Sector 7 - A1",
@@ -2216,7 +2216,7 @@
                     "children": []
                   },
                   {
-                    "id": "95b2edfd-7f00-44e6-a04d-adb891429b6e",
+                    "id": "43e437a7-b3d8-49e8-87a7-e8a25ee74e05",
                     "boundaryNum": 1,
                     "name": "HARI GARDEN COLONY - Sector 7 - A1",
                     "localname": "HARI GARDEN COLONY - Sector 7 - A1",
@@ -2228,7 +2228,7 @@
                     "children": []
                   },
                   {
-                    "id": "5f42edc1-c037-4ed5-bf73-20607454ab74",
+                    "id": "3eadadcf-bb9c-453b-9db1-c8c1d02bff28",
                     "boundaryNum": 1,
                     "name": "YODHA MAL COLONY - Sector 7 - A1",
                     "localname": "YODHA MAL COLONY - Sector 7 - A1",
@@ -2240,7 +2240,7 @@
                     "children": []
                   },
                   {
-                    "id": "9372e07c-6f14-4f08-bd7d-ea7ebf8de385",
+                    "id": "16b9d217-1140-42da-a936-2ee14f5ab43a",
                     "boundaryNum": 1,
                     "name": "AMBEDKAR NAGAR - Sector 7 - A1",
                     "localname": "AMBEDKAR NAGAR - Sector 7 - A1",
@@ -2252,7 +2252,7 @@
                     "children": []
                   },
                   {
-                    "id": "437cc76e-81e7-4930-9c57-2486740038d6",
+                    "id": "620b6f2e-2148-4b23-9c8f-21cb1e095835",
                     "boundaryNum": 1,
                     "name": "SURAKSHA COLONY - Sector 7 - A1",
                     "localname": "SURAKSHA COLONY - Sector 7 - A1",
@@ -2264,7 +2264,7 @@
                     "children": []
                   },
                   {
-                    "id": "b55a4b35-4c10-4b92-a61d-4e0692e7b748",
+                    "id": "c9aa8bc7-085b-462b-804d-e1de87b9ac40",
                     "boundaryNum": 1,
                     "name": "BEUATY AVENUE - Sector 7 - A1",
                     "localname": "BEUATY AVENUE - Sector 7 - A1",
@@ -2278,7 +2278,7 @@
                 ]
               },
               {
-                "id": "aa844f1e-0f64-4cf6-a47e-c91b018772c2",
+                "id": "5bb87872-00de-41ef-9b1c-1cd9f41f5955",
                 "boundaryNum": 1,
                 "name": "Sector 8",
                 "localname": "Sector 8",
@@ -2288,7 +2288,7 @@
                 "code": "B8",
                 "children": [
                   {
-                    "id": "b1184c38-1587-43c7-92ca-c3fdd4d2dd92",
+                    "id": "75c4be08-ae3e-4165-9aab-665710c91964",
                     "boundaryNum": 1,
                     "name": "NATHU NAGAR - Sector 8 - A1",
                     "localname": "NATHU NAGAR - Sector 8 - A1",
@@ -2300,7 +2300,7 @@
                     "children": []
                   },
                   {
-                    "id": "71fa2def-7920-4083-a273-e17625a52c8d",
+                    "id": "c57fb84c-662f-44f3-81bd-16266a4361eb",
                     "boundaryNum": 1,
                     "name": "PATEL NAGAR - Sector 8 - A1",
                     "localname": "PATEL NAGAR - Sector 8 - A1",
@@ -2312,7 +2312,7 @@
                     "children": []
                   },
                   {
-                    "id": "8c79c341-28ac-47c4-9da4-fdccc93f5a66",
+                    "id": "224511b3-b078-42d1-9eb8-35bb8dd75e2b",
                     "boundaryNum": 1,
                     "name": "SHIV NAGAR - Sector 8 - A1",
                     "localname": "SHIV NAGAR - Sector 8 - A1",
@@ -2324,7 +2324,7 @@
                     "children": []
                   },
                   {
-                    "id": "b531cd11-1d0b-41ac-aea2-409301197d7b",
+                    "id": "3fbeb235-f737-48f8-8718-c88db25ec81b",
                     "boundaryNum": 1,
                     "name": "SUNDER NAGAR - Sector 8 - A2",
                     "localname": "SUNDER NAGAR - Sector 8 - A2",
@@ -2336,7 +2336,7 @@
                     "children": []
                   },
                   {
-                    "id": "dc812c74-3330-4736-9431-b48d4a74797d",
+                    "id": "941ae9fc-a561-4f7a-af9b-439571086141",
                     "boundaryNum": 1,
                     "name": "SALARIA NAGAR - Sector 8 - A1",
                     "localname": "SALARIA NAGAR - Sector 8 - A1",
@@ -2348,7 +2348,7 @@
                     "children": []
                   },
                   {
-                    "id": "81a45826-51c0-4a88-85ff-34807606fc96",
+                    "id": "0c08e8ba-ce76-459d-a367-271206c548df",
                     "boundaryNum": 1,
                     "name": "BANK COLONY - Sector 8 - A1",
                     "localname": "BANK COLONY - Sector 8 - A1",
@@ -2360,7 +2360,7 @@
                     "children": []
                   },
                   {
-                    "id": "4b47a056-96ff-4d0e-a416-2b512000c770",
+                    "id": "1accf18f-c18e-4d02-8b59-d4fb3c3f13ee",
                     "boundaryNum": 1,
                     "name": "PATEL CHOWK - Sector 8 - A1",
                     "localname": "PATEL CHOWK - Sector 8 - A1",
@@ -2372,7 +2372,7 @@
                     "children": []
                   },
                   {
-                    "id": "fd8c12ad-eef8-4a9e-80c3-63bf76848d25",
+                    "id": "145b9c7e-f66e-44cd-ac8a-72d5ea1a7efe",
                     "boundaryNum": 1,
                     "name": "ROSE AVENUE - Sector 8 - A1",
                     "localname": "ROSE AVENUE - Sector 8 - A1",
@@ -2384,7 +2384,7 @@
                     "children": []
                   },
                   {
-                    "id": "a05ac0e0-b809-4c90-8025-036b447681b9",
+                    "id": "b50ab5eb-79d1-411b-b90d-c51a8a02edec",
                     "boundaryNum": 1,
                     "name": "SHIVAJI NAGAR - Sector 8 - A1",
                     "localname": "SHIVAJI NAGAR - Sector 8 - A1",
@@ -2396,7 +2396,7 @@
                     "children": []
                   },
                   {
-                    "id": "54cdf709-7a93-4bff-abf1-876a699ceee5",
+                    "id": "e80784d9-ac60-4d50-96af-96ac66fc8c41",
                     "boundaryNum": 1,
                     "name": "LIC LANE DHANGU ROAD - Sector 8 - A1",
                     "localname": "LIC LANE DHANGU ROAD - Sector 8 - A1",
@@ -2408,7 +2408,7 @@
                     "children": []
                   },
                   {
-                    "id": "e8dfe126-69ef-4050-a760-f66545f0e9f3",
+                    "id": "ba114499-8d7d-4ed6-9d9e-cca1fb2ad494",
                     "boundaryNum": 1,
                     "name": "SHANKAR COLONY - Sector 8 - A1",
                     "localname": "SHANKAR COLONY - Sector 8 - A1",
@@ -2420,7 +2420,7 @@
                     "children": []
                   },
                   {
-                    "id": "280e5268-bec2-41c7-896e-e3a8c87d16a4",
+                    "id": "a9f9d1c4-20f3-488c-a3a3-eff5418e82c3",
                     "boundaryNum": 1,
                     "name": "JAI RAM COLONY - Sector 8 - A1",
                     "localname": "JAI RAM COLONY - Sector 8 - A1",
@@ -2434,7 +2434,7 @@
                 ]
               },
               {
-                "id": "f1710b36-de95-4ee0-8c95-7c2b8449b920",
+                "id": "481de0dd-93e4-49c7-a2d1-d02d263cb335",
                 "boundaryNum": 1,
                 "name": "Sector 9",
                 "localname": "Sector 9",
@@ -2444,7 +2444,7 @@
                 "code": "B9",
                 "children": [
                   {
-                    "id": "08855c81-16ba-401c-aa6d-50b79f17fb75",
+                    "id": "f657fd19-d695-4e63-aec9-a41caacbb683",
                     "boundaryNum": 1,
                     "name": "SUNDER NAGAR - Sector 9 - A1",
                     "localname": "SUNDER NAGAR - Sector 9 - A1",
@@ -2456,7 +2456,7 @@
                     "children": []
                   },
                   {
-                    "id": "207e5733-1a05-464c-ae48-c0dd7f15e7bc",
+                    "id": "073c6d22-32f6-435e-8571-63a7c15cb638",
                     "boundaryNum": 1,
                     "name": "PURAN NAGAR - Sector 9 - A1",
                     "localname": "PURAN NAGAR - Sector 9 - A1",
@@ -2468,7 +2468,7 @@
                     "children": []
                   },
                   {
-                    "id": "f09de27d-2b7f-4fd9-a4f0-e697f05d775a",
+                    "id": "f3ef6d2a-4454-4606-8f81-f30cc1840c85",
                     "boundaryNum": 1,
                     "name": "MODEL TOWN - Sector 9 - A1",
                     "localname": "MODEL TOWN - Sector 9 - A1",
@@ -2480,7 +2480,7 @@
                     "children": []
                   },
                   {
-                    "id": "c79bc8e9-4e5f-4f93-867e-01aeb8fc20fc",
+                    "id": "5f5871cb-feef-4679-9a4f-cd771f071f47",
                     "boundaryNum": 1,
                     "name": "DHANGU ROAD - Sector 9 - A1",
                     "localname": "DHANGU ROAD - Sector 9 - A1",
@@ -2492,7 +2492,7 @@
                     "children": []
                   },
                   {
-                    "id": "05c2a59f-d4b4-4cbb-bb2b-56a5b91731fb",
+                    "id": "ba2d3879-123a-417b-a7bc-65a2f13bc025",
                     "boundaryNum": 1,
                     "name": "BHARAT NAGAR - Sector 9 - A1",
                     "localname": "BHARAT NAGAR - Sector 9 - A1",
@@ -2504,7 +2504,7 @@
                     "children": []
                   },
                   {
-                    "id": "26bb774c-9bc6-49ec-a4bd-50bd24289951",
+                    "id": "e8f94b22-5e15-44a8-8c36-fd10d781a903",
                     "boundaryNum": 1,
                     "name": "MIRPUR COLONY - Sector 9 - A1",
                     "localname": "MIRPUR COLONY - Sector 9 - A1",
@@ -2516,7 +2516,7 @@
                     "children": []
                   },
                   {
-                    "id": "83af714f-e4b7-49a2-b649-80d033263c2b",
+                    "id": "3a20808c-cb1d-40ff-ab62-5d14178900b4",
                     "boundaryNum": 1,
                     "name": "NAROT COLONY - Sector 9 - A1",
                     "localname": "NAROT COLONY - Sector 9 - A1",
@@ -2528,7 +2528,7 @@
                     "children": []
                   },
                   {
-                    "id": "23411c66-25c1-4f86-8835-6062419241a5",
+                    "id": "c5f8c439-cdff-49f8-b69f-19e652337ee7",
                     "boundaryNum": 1,
                     "name": "4 MARLA MODEL TOWN - Sector 9 - A1",
                     "localname": "4 MARLA MODEL TOWN - Sector 9 - A1",
@@ -2540,7 +2540,7 @@
                     "children": []
                   },
                   {
-                    "id": "ecea3079-5404-4ace-aab5-c23f756df264",
+                    "id": "710e5a0a-68c4-4841-8655-6e944e055c47",
                     "boundaryNum": 1,
                     "name": "KACHE QUARTER - Sector 9 - A1",
                     "localname": "KACHE QUARTER - Sector 9 - A1",
@@ -2552,7 +2552,7 @@
                     "children": []
                   },
                   {
-                    "id": "05f97745-46a6-4ea5-be12-f9e04557eb08",
+                    "id": "51ceb0f8-cda6-44d8-afd4-853e12414b20",
                     "boundaryNum": 1,
                     "name": "HOUSING BOARD COLONY - Sector 9 - A1",
                     "localname": "HOUSING BOARD COLONY - Sector 9 - A1",
@@ -2564,7 +2564,7 @@
                     "children": []
                   },
                   {
-                    "id": "9a9711b3-439c-44a5-a710-843aeb3f89cb",
+                    "id": "427dd85e-2632-4b80-9c4b-d5ebde441e00",
                     "boundaryNum": 1,
                     "name": "DHANGU PEER - Sector 9 - A1",
                     "localname": "DHANGU PEER - Sector 9 - A1",
@@ -2578,7 +2578,7 @@
                 ]
               },
               {
-                "id": "bd16a767-62a0-41b0-ab58-310e9d21f38d",
+                "id": "a1b22232-929e-4567-a5d5-6fe2761be887",
                 "boundaryNum": 1,
                 "name": "Sector 10",
                 "localname": "Sector 10",
@@ -2588,7 +2588,7 @@
                 "code": "B10",
                 "children": [
                   {
-                    "id": "9481a762-b5d7-4d63-984c-35e64f2c0562",
+                    "id": "312b071f-b736-4e0e-9f80-4c3db8b142b3",
                     "boundaryNum": 1,
                     "name": "NEHRU NAGAR - Sector 10 - A1",
                     "localname": "NEHRU NAGAR - Sector 10 - A1",
@@ -2600,7 +2600,7 @@
                     "children": []
                   },
                   {
-                    "id": "a3012b5a-755e-4286-8687-6d6575d83b6a",
+                    "id": "1e24b15f-1a55-4639-bc09-5d00fa9962f7",
                     "boundaryNum": 1,
                     "name": "BHARAT NAGAR - Sector 10 - A1",
                     "localname": "BHARAT NAGAR - Sector 10 - A1",
@@ -2612,7 +2612,7 @@
                     "children": []
                   },
                   {
-                    "id": "e86a5c4f-50ce-43cf-8ac8-7b1da248d4c4",
+                    "id": "2836821c-3b2c-4711-bafe-26305cbbffe6",
                     "boundaryNum": 1,
                     "name": "GREEN COLONY - Sector 10 - A1",
                     "localname": "GREEN COLONY - Sector 10 - A1",
@@ -2624,7 +2624,7 @@
                     "children": []
                   },
                   {
-                    "id": "6505be7b-32ea-45c9-abbe-5941d0dbe9e2",
+                    "id": "f9f926af-dfd7-4d3b-87c6-13df3d058523",
                     "boundaryNum": 1,
                     "name": "OID SABZI MANDI - Sector 10 - A1",
                     "localname": "OID SABZI MANDI - Sector 10 - A1",
@@ -2636,7 +2636,7 @@
                     "children": []
                   },
                   {
-                    "id": "fd4d97bb-5ea2-4898-bbf2-aa491035b564",
+                    "id": "2d7ce412-8602-436c-bbb2-69aefd8a5f2d",
                     "boundaryNum": 1,
                     "name": "DHAKI ROAD - Sector 10 - A1",
                     "localname": "DHAKI ROAD - Sector 10 - A1",
@@ -2648,7 +2648,7 @@
                     "children": []
                   },
                   {
-                    "id": "01e1d01a-ebaa-4d53-95d0-72985471dd57",
+                    "id": "b92cae1b-e4d5-4acb-8bf0-15d89772d8ee",
                     "boundaryNum": 1,
                     "name": "SAINGARH - Sector 10 - A1",
                     "localname": "SAINGARH - Sector 10 - A1",
@@ -2660,7 +2660,7 @@
                     "children": []
                   },
                   {
-                    "id": "8751c7e2-e96f-4588-a0ad-8eb4047bc8a1",
+                    "id": "e4afad2e-500e-4c0a-8efd-e6e2ddb5a01c",
                     "boundaryNum": 1,
                     "name": "PREEM NAGAR - Sector 10 - A1",
                     "localname": "PREEM NAGAR - Sector 10 - A1",
@@ -2672,7 +2672,7 @@
                     "children": []
                   },
                   {
-                    "id": "6d7ad434-b2e7-4976-8b76-3bca85932aa1",
+                    "id": "d477fb29-ce00-4aaf-ac3e-6e30a991cb6a",
                     "boundaryNum": 1,
                     "name": "BAZARI COMPANY - Sector 10 - A1",
                     "localname": "BAZARI COMPANY - Sector 10 - A1",
@@ -2684,7 +2684,7 @@
                     "children": []
                   },
                   {
-                    "id": "811d0cb2-1959-4569-92fc-6869309f40b8",
+                    "id": "e503188b-338b-4368-be66-c4b10d01b8bf",
                     "boundaryNum": 1,
                     "name": "RAJINDER NAGAR - Sector 10 - A1",
                     "localname": "RAJINDER NAGAR - Sector 10 - A1",
@@ -2696,7 +2696,7 @@
                     "children": []
                   },
                   {
-                    "id": "a35900af-47fd-4f92-b965-9b76f9eaf190",
+                    "id": "cf63f22e-f304-4c06-a01d-c15be5a255e1",
                     "boundaryNum": 1,
                     "name": "RAM NAGAR - Sector 10 - A1",
                     "localname": "RAM NAGAR - Sector 10 - A1",
@@ -2708,7 +2708,7 @@
                     "children": []
                   },
                   {
-                    "id": "c7929b24-5a8d-4148-823d-0e75cd51acba",
+                    "id": "8f04c347-daad-492a-a098-25414a6f2ae1",
                     "boundaryNum": 1,
                     "name": "4 MARLA RAM NAGAR - Sector 10 - A1",
                     "localname": "4 MARLA RAM NAGAR - Sector 10 - A1",
@@ -2720,7 +2720,7 @@
                     "children": []
                   },
                   {
-                    "id": "9506227e-c02d-4231-9c42-7dd3cd391173",
+                    "id": "11cd41cc-9168-424a-93ee-e701f474822b",
                     "boundaryNum": 1,
                     "name": "PREM NAGAR DHAKI ROAD - Sector 10 - A1",
                     "localname": "PREM NAGAR DHAKI ROAD - Sector 10 - A1",
@@ -2732,7 +2732,7 @@
                     "children": []
                   },
                   {
-                    "id": "b048ea3d-605e-4137-adf1-33289500fd8c",
+                    "id": "04d3eab0-97a6-4f3f-8dc9-171be6ef52b0",
                     "boundaryNum": 1,
                     "name": "YODHA MAL BAGH - Sector 10 - A1",
                     "localname": "YODHA MAL BAGH - Sector 10 - A1",
@@ -2742,11 +2742,23 @@
                     "code": "PTK_108",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "752ff0e4-bee9-48da-8604-b9e9aaa257ff",
+                    "boundaryNum": 1,
+                    "name": "BERMA SALE ROAD - Sector 10 - A1",
+                    "localname": "BERMA SALE ROAD - Sector 10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTK_196",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "4fcc2d4b-14b7-461f-b0b3-933acafec6c2",
+                "id": "ea09bf91-3689-4be6-be77-9f91d75e4a67",
                 "boundaryNum": 1,
                 "name": "Sector 11",
                 "localname": "Sector 11",
@@ -2756,7 +2768,7 @@
                 "code": "B11",
                 "children": [
                   {
-                    "id": "30df113b-ee5e-4139-9fe2-e79ded627001",
+                    "id": "3b04474d-18b0-4eb1-bbfc-60bffe6e4ea8",
                     "boundaryNum": 1,
                     "name": "BARFANI MANDIR - Sector 11 - A1",
                     "localname": "BARFANI MANDIR - Sector 11 - A1",
@@ -2768,7 +2780,7 @@
                     "children": []
                   },
                   {
-                    "id": "92b6d711-909e-499d-9136-1bb02e531260",
+                    "id": "1957ef8d-3bcb-4f96-ad39-08bbc57dd446",
                     "boundaryNum": 1,
                     "name": "AIR FORCE COLONY - Sector 11 - A1",
                     "localname": "AIR FORCE COLONY - Sector 11 - A1",
@@ -2780,7 +2792,7 @@
                     "children": []
                   },
                   {
-                    "id": "f750fc8d-a9b0-4554-ab6b-9a8e4c862909",
+                    "id": "804d26da-6d93-46a9-9443-b28aec1618df",
                     "boundaryNum": 1,
                     "name": "AIR FORCE ROAD - Sector 11 - A1",
                     "localname": "AIR FORCE ROAD - Sector 11 - A1",
@@ -2792,7 +2804,7 @@
                     "children": []
                   },
                   {
-                    "id": "a7d4bec4-8634-4292-aefa-445d68b28f54",
+                    "id": "b3bbbd40-4553-4b6e-98d8-feb950a02dc1",
                     "boundaryNum": 1,
                     "name": "DASHMESH NAGAR - Sector 11 - A1",
                     "localname": "DASHMESH NAGAR - Sector 11 - A1",
@@ -2804,7 +2816,7 @@
                     "children": []
                   },
                   {
-                    "id": "9efc1ff4-db05-4e11-9fa4-c50b94de7bac",
+                    "id": "b23687c5-bf7a-4905-abcc-4f5524de93da",
                     "boundaryNum": 1,
                     "name": "GURU GOBIND SINGH NAGAR - Sector 11 - A1",
                     "localname": "GURU GOBIND SINGH NAGAR - Sector 11 - A1",
@@ -2816,7 +2828,7 @@
                     "children": []
                   },
                   {
-                    "id": "63dc2a46-781d-4c23-93f5-c370077c0c58",
+                    "id": "8424a2f9-8ae1-49af-9baf-b5b71d11e20b",
                     "boundaryNum": 1,
                     "name": "DHAKI - Sector 11 - A1",
                     "localname": "DHAKI - Sector 11 - A1",
@@ -2828,7 +2840,7 @@
                     "children": []
                   },
                   {
-                    "id": "438eccf5-2c5f-40b9-bbfa-121f6c539b24",
+                    "id": "e23ec514-618f-4724-ba34-b0471e3dab5d",
                     "boundaryNum": 1,
                     "name": "SHIV NAGAR - Sector 11 - A1",
                     "localname": "SHIV NAGAR - Sector 11 - A1",
@@ -2840,7 +2852,7 @@
                     "children": []
                   },
                   {
-                    "id": "791c4797-77de-4e29-9cf4-0b25469d35cd",
+                    "id": "ba40a9bd-fc33-49a2-87ec-550be7ee02d0",
                     "boundaryNum": 1,
                     "name": "DASMESH GARDEN COLONY - Sector 11 - A1",
                     "localname": "DASMESH GARDEN COLONY - Sector 11 - A1",
@@ -2854,7 +2866,7 @@
                 ]
               },
               {
-                "id": "473e82e8-dde9-413b-9c95-7a8ca0cdceea",
+                "id": "904c4104-b5e0-4088-bbe9-dfe9590486aa",
                 "boundaryNum": 1,
                 "name": "Sector 12",
                 "localname": "Sector 12",
@@ -2864,7 +2876,7 @@
                 "code": "B12",
                 "children": [
                   {
-                    "id": "795c5b0d-4cc7-4776-b316-1853f101fe99",
+                    "id": "c4c52500-aa0f-4136-82e6-ffc6d3787f21",
                     "boundaryNum": 1,
                     "name": "PREM NAGAR - Sector 12 - A1",
                     "localname": "PREM NAGAR - Sector 12 - A1",
@@ -2876,7 +2888,7 @@
                     "children": []
                   },
                   {
-                    "id": "383f8600-abbe-4819-905d-a6afb280896c",
+                    "id": "870f76b2-5131-46b5-ae65-c31942742162",
                     "boundaryNum": 1,
                     "name": "GURDASPUR ROAD - Sector 12 - A1",
                     "localname": "GURDASPUR ROAD - Sector 12 - A1",
@@ -2888,7 +2900,7 @@
                     "children": []
                   },
                   {
-                    "id": "2da02673-5857-4e53-8a23-83b8a91fb8af",
+                    "id": "ad94475b-6eca-4eb7-af76-2a6093145cd6",
                     "boundaryNum": 1,
                     "name": "GANDHI NAGAR - Sector 12 - A1",
                     "localname": "GANDHI NAGAR - Sector 12 - A1",
@@ -2900,7 +2912,7 @@
                     "children": []
                   },
                   {
-                    "id": "eea76346-483b-481f-827e-02ca073e4356",
+                    "id": "0dad0cf2-430a-4b61-b53f-22170169209d",
                     "boundaryNum": 1,
                     "name": "GANDHI MOHALLA - Sector 12 - A1",
                     "localname": "GANDHI MOHALLA - Sector 12 - A1",
@@ -2912,7 +2924,7 @@
                     "children": []
                   },
                   {
-                    "id": "d05aa930-ecf4-4c0a-a26b-14ed41e5f793",
+                    "id": "8a6968e4-7303-4e42-8a31-a0aae36335e5",
                     "boundaryNum": 1,
                     "name": "RAILWAY STATION ROAD - Sector 12 - A1",
                     "localname": "RAILWAY STATION ROAD - Sector 12 - A1",
@@ -2924,7 +2936,7 @@
                     "children": []
                   },
                   {
-                    "id": "6629b462-4742-4082-b818-dc9b46201383",
+                    "id": "33c1dc7d-3fe4-4a61-806d-3217c1d263fa",
                     "boundaryNum": 1,
                     "name": "WADA DAULATPUR - Sector 12 - A1",
                     "localname": "WADA DAULATPUR - Sector 12 - A1",
@@ -2936,7 +2948,7 @@
                     "children": []
                   },
                   {
-                    "id": "414e9bad-89b8-43dd-8543-9fc17491534f",
+                    "id": "f45354a4-ac42-42cb-bfee-528ccc6db5f1",
                     "boundaryNum": 1,
                     "name": "CHOTTA DAULATPUR - Sector 12 - A1",
                     "localname": "CHOTTA DAULATPUR - Sector 12 - A1",
@@ -2948,7 +2960,7 @@
                     "children": []
                   },
                   {
-                    "id": "6286092d-f5c0-4f8d-ae7d-d29a6cddfc83",
+                    "id": "ab040e9d-74f9-4ca8-9c32-9eba79d365d3",
                     "boundaryNum": 1,
                     "name": "M.C COLONY - Sector 12 - A1",
                     "localname": "M.C COLONY - Sector 12 - A1",
@@ -2960,7 +2972,7 @@
                     "children": []
                   },
                   {
-                    "id": "8199aa83-b89f-4c72-8a28-d2cd306ad311",
+                    "id": "132ff065-aa48-4402-bf06-1a682bfd2258",
                     "boundaryNum": 1,
                     "name": "KATHLOR COLONY - Sector 12 - A1",
                     "localname": "KATHLOR COLONY - Sector 12 - A1",
@@ -2972,7 +2984,7 @@
                     "children": []
                   },
                   {
-                    "id": "95dcc9dc-2530-4953-9867-c55888927522",
+                    "id": "c72d6416-72a3-4489-8a17-b2a15008216b",
                     "boundaryNum": 1,
                     "name": "DHAKI ROAD - Sector 12 - A1",
                     "localname": "DHAKI ROAD - Sector 12 - A1",
@@ -2982,11 +2994,23 @@
                     "code": "PTK_126",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "c52a0af0-5f60-455f-b563-a5032440d4cf",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA RAM GARIYA GURDASPUR ROAD - Sector 12 - A1",
+                    "localname": "MOHALLA RAM GARIYA GURDASPUR ROAD - Sector 12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTK_197",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "68b912bd-c0be-4825-8512-14e58edea4b2",
+                "id": "ad23faca-fd1c-4782-a9f6-f743a992076f",
                 "boundaryNum": 1,
                 "name": "Sector 13",
                 "localname": "Sector 13",
@@ -2996,7 +3020,7 @@
                 "code": "B13",
                 "children": [
                   {
-                    "id": "cfaa0728-7227-4e81-b2dd-07e8aafd3fc1",
+                    "id": "147a092c-69ed-4ef0-ab03-85facea82980",
                     "boundaryNum": 1,
                     "name": "JAMMU JALANDHAR BYE PASS ROAD - Sector 13 - A1",
                     "localname": "JAMMU JALANDHAR BYE PASS ROAD - Sector 13 - A1",
@@ -3008,7 +3032,7 @@
                     "children": []
                   },
                   {
-                    "id": "eefbe26e-4932-4494-b18e-ac8455a5396c",
+                    "id": "f059da23-2623-4df5-b130-9359c145fc0a",
                     "boundaryNum": 1,
                     "name": "BHAROLI KALAN - Sector 13 - A1",
                     "localname": "BHAROLI KALAN - Sector 13 - A1",
@@ -3020,7 +3044,7 @@
                     "children": []
                   },
                   {
-                    "id": "651327b9-3454-486a-a359-04e1eb02889a",
+                    "id": "b19be224-a7d9-4c13-9526-94cf99c0846f",
                     "boundaryNum": 1,
                     "name": "BHAROLI KURAD - Sector 13 - A1",
                     "localname": "BHAROLI KURAD - Sector 13 - A1",
@@ -3034,7 +3058,7 @@
                 ]
               },
               {
-                "id": "e870401e-c4b4-42ad-8cd6-fba0b1e904e5",
+                "id": "56669e6d-8ac0-4a7c-9222-6d5584776086",
                 "boundaryNum": 1,
                 "name": "Sector 14",
                 "localname": "Sector 14",
@@ -3044,7 +3068,7 @@
                 "code": "B14",
                 "children": [
                   {
-                    "id": "e5ca1b61-e0a6-48c8-9963-3c855c5932d5",
+                    "id": "88aa51d4-5cb9-4bd0-9f61-d63fa551c5d8",
                     "boundaryNum": 1,
                     "name": "DHIRA - Sector 14 - A1",
                     "localname": "DHIRA - Sector 14 - A1",
@@ -3056,7 +3080,7 @@
                     "children": []
                   },
                   {
-                    "id": "9248981b-8476-4c7b-bf28-e14338222d73",
+                    "id": "f557c764-1ceb-4175-a76e-0c08de881d96",
                     "boundaryNum": 1,
                     "name": "LADO CHAK - Sector 14 - A1",
                     "localname": "LADO CHAK - Sector 14 - A1",
@@ -3068,7 +3092,7 @@
                     "children": []
                   },
                   {
-                    "id": "607cfc2f-5c56-4e4d-92c8-265481ab74f1",
+                    "id": "3695c840-8912-47c8-947c-6c0deb2afa62",
                     "boundaryNum": 1,
                     "name": "DEHRIWAL - Sector 14 - A1",
                     "localname": "DEHRIWAL - Sector 14 - A1",
@@ -3080,7 +3104,7 @@
                     "children": []
                   },
                   {
-                    "id": "c5cbc1ee-e030-48e1-a95b-7a5ded66cd92",
+                    "id": "1b6962c8-fe43-4b9a-b212-a7036cf914a2",
                     "boundaryNum": 1,
                     "name": "KOTHI PANDITA - Sector 14 - A1",
                     "localname": "KOTHI PANDITA - Sector 14 - A1",
@@ -3092,7 +3116,7 @@
                     "children": []
                   },
                   {
-                    "id": "820a1cf4-135c-4955-908f-e40dbf8e774d",
+                    "id": "696cf724-b497-4bad-bf0b-624692d0136f",
                     "boundaryNum": 1,
                     "name": "JAMALPUR - Sector 14 - A1",
                     "localname": "JAMALPUR - Sector 14 - A1",
@@ -3104,7 +3128,7 @@
                     "children": []
                   },
                   {
-                    "id": "528c0c9c-8fec-4e07-8fed-e9814bfe5afe",
+                    "id": "d1346b05-1c58-4e45-9231-dd87da6af0ef",
                     "boundaryNum": 1,
                     "name": "JAMALPUR KILLA - Sector 14 - A1",
                     "localname": "JAMALPUR KILLA - Sector 14 - A1",
@@ -3116,7 +3140,7 @@
                     "children": []
                   },
                   {
-                    "id": "3947f2ce-7bcf-41be-8b64-c05403bb5eab",
+                    "id": "14e900cd-5da2-4ac7-b2a6-61f41c74c11d",
                     "boundaryNum": 1,
                     "name": "DARA SALAM - Sector 14 - A1",
                     "localname": "DARA SALAM - Sector 14 - A1",
@@ -3128,7 +3152,7 @@
                     "children": []
                   },
                   {
-                    "id": "0bd4d771-1074-4992-81e2-c5354e6c47ad",
+                    "id": "1f545eee-9136-4495-8701-071e916eb17a",
                     "boundaryNum": 1,
                     "name": "KESO NAGAR DHIRA - Sector 14 - A1",
                     "localname": "KESO NAGAR DHIRA - Sector 14 - A1",
@@ -3142,7 +3166,7 @@
                 ]
               },
               {
-                "id": "b8a29f78-b975-4ad5-a575-c2125749d596",
+                "id": "154d177d-36b6-480e-92be-26ab813ca63b",
                 "boundaryNum": 1,
                 "name": "Sector 15",
                 "localname": "Sector 15",
@@ -3152,7 +3176,7 @@
                 "code": "B15",
                 "children": [
                   {
-                    "id": "1efa760d-de8e-4c54-a98a-e16be5d84e52",
+                    "id": "34d60ab9-a50f-46e0-8217-b4c4999541db",
                     "boundaryNum": 1,
                     "name": "ADARSH COLONY - Sector 15 - A1",
                     "localname": "ADARSH COLONY - Sector 15 - A1",
@@ -3164,7 +3188,7 @@
                     "children": []
                   },
                   {
-                    "id": "bb495dde-875a-491f-be25-a17abf4fde42",
+                    "id": "0b6741fe-3cef-414a-8b6c-5e07c4b67d06",
                     "boundaryNum": 1,
                     "name": "SARNA - Sector 15 - A1",
                     "localname": "SARNA - Sector 15 - A1",
@@ -3176,7 +3200,7 @@
                     "children": []
                   },
                   {
-                    "id": "19013543-da4f-4cb6-aaba-f190a860ec3d",
+                    "id": "74ac8fad-5f83-4c5a-bc99-a3b2e513e39a",
                     "boundaryNum": 1,
                     "name": "SANT VIHAR - Sector 15 - A1",
                     "localname": "SANT VIHAR - Sector 15 - A1",
@@ -3188,7 +3212,7 @@
                     "children": []
                   },
                   {
-                    "id": "ae0bddcc-5589-4cd1-83e7-3ffdb44f249e",
+                    "id": "22e2ea82-6caa-47da-b618-566bc0214abd",
                     "boundaryNum": 1,
                     "name": "DARA SALAM PIND - Sector 15 - A1",
                     "localname": "DARA SALAM PIND - Sector 15 - A1",
@@ -3200,7 +3224,7 @@
                     "children": []
                   },
                   {
-                    "id": "77f129e1-1e33-4ec4-9007-19e49522333c",
+                    "id": "85d70bb8-a5ea-44d8-bb62-36fb1e513488",
                     "boundaryNum": 1,
                     "name": "SARNA CHOWK - Sector 15 - A1",
                     "localname": "SARNA CHOWK - Sector 15 - A1",
@@ -3212,7 +3236,7 @@
                     "children": []
                   },
                   {
-                    "id": "63ce1559-4c6e-40c8-9662-b719590945c5",
+                    "id": "e5b535af-308d-4cd1-af49-483782cbd189",
                     "boundaryNum": 1,
                     "name": "BEHLOLPUR - Sector 15 - A1",
                     "localname": "BEHLOLPUR - Sector 15 - A1",
@@ -3224,7 +3248,7 @@
                     "children": []
                   },
                   {
-                    "id": "b384dbd1-7d56-4f88-8832-8e83041e1d43",
+                    "id": "c33c0769-a47d-43af-b28d-58ff89eb6353",
                     "boundaryNum": 1,
                     "name": "MALIKPUR - Sector 15 - A1",
                     "localname": "MALIKPUR - Sector 15 - A1",
@@ -3238,7 +3262,7 @@
                 ]
               },
               {
-                "id": "ff2d009c-938e-4734-b720-1fbaa262d0d8",
+                "id": "094f7f46-6d1d-4024-8b09-200d1a39781c",
                 "boundaryNum": 1,
                 "name": "Sector 16",
                 "localname": "Sector 16",
@@ -3248,7 +3272,7 @@
                 "code": "B16",
                 "children": [
                   {
-                    "id": "6fd6ac44-98ae-49f4-89c5-cd8fcd821ead",
+                    "id": "e81ecadf-8ddd-4f3c-9eb0-1d95a41b4a15",
                     "boundaryNum": 1,
                     "name": "BUDHA NAGAR - Sector 16 - A1",
                     "localname": "BUDHA NAGAR - Sector 16 - A1",
@@ -3260,7 +3284,7 @@
                     "children": []
                   },
                   {
-                    "id": "4efd5e7b-92ff-407d-ae11-84217cec3217",
+                    "id": "e45c8733-f033-4c26-8ca3-336e4e871414",
                     "boundaryNum": 1,
                     "name": "MALIKPUR - Sector 16 - A1",
                     "localname": "MALIKPUR - Sector 16 - A1",
@@ -3272,7 +3296,7 @@
                     "children": []
                   },
                   {
-                    "id": "da53bca9-63a6-4b70-a8dc-9bdea78e8358",
+                    "id": "4babc892-60e4-4c26-89ba-3aaea612162e",
                     "boundaryNum": 1,
                     "name": "BAGAR MOHALLA - Sector 16 - A1",
                     "localname": "BAGAR MOHALLA - Sector 16 - A1",
@@ -3284,7 +3308,7 @@
                     "children": []
                   },
                   {
-                    "id": "01389243-3426-42db-85e7-5cc4abd996f4",
+                    "id": "f7210e5a-faec-4437-b1fc-88d6b2a53bbb",
                     "boundaryNum": 1,
                     "name": "MALIKPUR CHOWK - Sector 16 - A1",
                     "localname": "MALIKPUR CHOWK - Sector 16 - A1",
@@ -3296,7 +3320,7 @@
                     "children": []
                   },
                   {
-                    "id": "298a0966-ec13-4d36-b91d-b3e07990e65c",
+                    "id": "23d72f80-41b5-4ad3-b1d2-b3387c63fe7a",
                     "boundaryNum": 1,
                     "name": "CHOTI NEHAR MALIKPUR - Sector 16 - A1",
                     "localname": "CHOTI NEHAR MALIKPUR - Sector 16 - A1",
@@ -3310,7 +3334,7 @@
                 ]
               },
               {
-                "id": "51135d0f-861a-499a-b71b-5c8c6073a333",
+                "id": "1fd6c578-9c40-4e80-8b3a-6a1f1f8024bc",
                 "boundaryNum": 1,
                 "name": "Sector 17",
                 "localname": "Sector 17",
@@ -3320,7 +3344,7 @@
                 "code": "B17",
                 "children": [
                   {
-                    "id": "246f0d51-9c7a-492e-8676-9831b6f516aa",
+                    "id": "5e4c4aa1-627e-45b3-bc9d-99b086af522a",
                     "boundaryNum": 1,
                     "name": "BAHADUR LAHRI - Sector 17 - A2",
                     "localname": "BAHADUR LAHRI - Sector 17 - A2",
@@ -3332,7 +3356,7 @@
                     "children": []
                   },
                   {
-                    "id": "6f9cf893-13fd-4339-9ea3-448e77c4cb15",
+                    "id": "fa8ab939-afd3-4e2c-8026-f5d8e2daa457",
                     "boundaryNum": 1,
                     "name": "NEHAR WALI COLONY - Sector 17 - A1",
                     "localname": "NEHAR WALI COLONY - Sector 17 - A1",
@@ -3344,7 +3368,7 @@
                     "children": []
                   },
                   {
-                    "id": "43eb727c-0af4-4cf6-83c6-118daa3a9d51",
+                    "id": "e9cf8b14-4bfa-493b-af8f-e1a29fc26d99",
                     "boundaryNum": 1,
                     "name": "JATTA MOHALLA - Sector 17 - A1",
                     "localname": "JATTA MOHALLA - Sector 17 - A1",
@@ -3358,7 +3382,7 @@
                 ]
               },
               {
-                "id": "8521f798-1aed-44d6-b984-6fb133e73622",
+                "id": "060c4d30-ca7c-42f0-8e2f-fde8c6e29946",
                 "boundaryNum": 1,
                 "name": "Sector 18",
                 "localname": "Sector 18",
@@ -3368,7 +3392,7 @@
                 "code": "B18",
                 "children": [
                   {
-                    "id": "49a7804b-089e-4f1e-ba83-c9cd289b2b31",
+                    "id": "e20d7448-c593-4c08-8146-f5ac4a3de001",
                     "boundaryNum": 1,
                     "name": "GURDASPUR ROAD - Sector 18 - A1",
                     "localname": "GURDASPUR ROAD - Sector 18 - A1",
@@ -3380,7 +3404,7 @@
                     "children": []
                   },
                   {
-                    "id": "46a00933-a5fa-4926-ae2d-56c2661c6b94",
+                    "id": "f79d90bb-0e41-435e-bf77-9ad4981d6672",
                     "boundaryNum": 1,
                     "name": "ANANDPUR - Sector 18 - A1",
                     "localname": "ANANDPUR - Sector 18 - A1",
@@ -3392,7 +3416,7 @@
                     "children": []
                   },
                   {
-                    "id": "a20cdc16-e885-4436-b82b-7204846e86ce",
+                    "id": "5fb13da1-3597-48f1-80a3-44501081f7c2",
                     "boundaryNum": 1,
                     "name": "AMRUDHA WALI CHUGIA - Sector 18 - A1",
                     "localname": "AMRUDHA WALI CHUGIA - Sector 18 - A1",
@@ -3404,7 +3428,7 @@
                     "children": []
                   },
                   {
-                    "id": "33172ce7-396c-4fd2-afa7-ef79dd636ce7",
+                    "id": "824d9965-b1b6-481d-af6b-a9124f5a9069",
                     "boundaryNum": 1,
                     "name": "ANANDPUR KULLIAN - Sector 18 - A1",
                     "localname": "ANANDPUR KULLIAN - Sector 18 - A1",
@@ -3416,7 +3440,7 @@
                     "children": []
                   },
                   {
-                    "id": "7362713e-b0d8-454e-98e1-59456754b8d9",
+                    "id": "cbed2335-298e-48fc-871b-6bc51843501d",
                     "boundaryNum": 1,
                     "name": "ANANDPUR RARA - Sector 18 - A2",
                     "localname": "ANANDPUR RARA - Sector 18 - A2",
@@ -3428,7 +3452,7 @@
                     "children": []
                   },
                   {
-                    "id": "0314ff0c-7720-4216-8579-7dad3f3e778e",
+                    "id": "87cf0357-ac0f-4a2a-b70a-a41e86726367",
                     "boundaryNum": 1,
                     "name": "ABROL NAGAR - Sector 18 - A1",
                     "localname": "ABROL NAGAR - Sector 18 - A1",
@@ -3440,7 +3464,7 @@
                     "children": []
                   },
                   {
-                    "id": "1092954f-09ee-487f-adb0-836278cea4f7",
+                    "id": "e4eda53c-b992-4d17-a56b-c3cc363e2ef6",
                     "boundaryNum": 1,
                     "name": "SHASTRI NAGAR - Sector 18 - A1",
                     "localname": "SHASTRI NAGAR - Sector 18 - A1",
@@ -3452,7 +3476,7 @@
                     "children": []
                   },
                   {
-                    "id": "6866bc57-7ab8-4499-8998-21d0c002382a",
+                    "id": "166af01c-1056-49d9-b107-297eb6267359",
                     "boundaryNum": 1,
                     "name": "WEAR HOUSE - Sector 18 - A1",
                     "localname": "WEAR HOUSE - Sector 18 - A1",
@@ -3464,7 +3488,7 @@
                     "children": []
                   },
                   {
-                    "id": "f6b54966-adc3-4c0b-a997-4bf84b1d08d6",
+                    "id": "8fa35650-158d-4ff0-8236-b073585787bc",
                     "boundaryNum": 1,
                     "name": "INDRA COLONY - Sector 18 - A1",
                     "localname": "INDRA COLONY - Sector 18 - A1",
@@ -3476,7 +3500,7 @@
                     "children": []
                   },
                   {
-                    "id": "42c9beec-e30e-48a2-ac42-b1b67e12c772",
+                    "id": "0d2bb426-4a79-4851-b06a-e67f247f7016",
                     "boundaryNum": 1,
                     "name": "BANK COLONY - Sector 18 - A1",
                     "localname": "BANK COLONY - Sector 18 - A1",
@@ -3488,7 +3512,7 @@
                     "children": []
                   },
                   {
-                    "id": "8dfde1d5-a659-4376-8e88-4744ff48b936",
+                    "id": "e4f77b2d-ef9e-4d1b-be8e-a9baf745074d",
                     "boundaryNum": 1,
                     "name": "GOLDEN AVENUE - Sector 18 - A1",
                     "localname": "GOLDEN AVENUE - Sector 18 - A1",
@@ -3500,7 +3524,7 @@
                     "children": []
                   },
                   {
-                    "id": "b0203000-30e2-480a-837f-fa338f357343",
+                    "id": "6dbdadc9-3ad8-4730-936a-5c2462902f76",
                     "boundaryNum": 1,
                     "name": "GREEN FIELD LANE NO, 1 & 2 - Sector 18 - A1",
                     "localname": "GREEN FIELD LANE NO, 1 & 2 - Sector 18 - A1",
@@ -3514,7 +3538,7 @@
                 ]
               },
               {
-                "id": "51cfda6b-2abd-427c-a618-619b47b22163",
+                "id": "2ae96cb1-81ce-4176-bc10-6e29fb88a809",
                 "boundaryNum": 1,
                 "name": "Sector 19",
                 "localname": "Sector 19",
@@ -3524,7 +3548,7 @@
                 "code": "B19",
                 "children": [
                   {
-                    "id": "40d864f8-cb8d-473c-98c8-ff2071aa1d1c",
+                    "id": "411effdb-79e5-4730-ba31-d14ee281493f",
                     "boundaryNum": 1,
                     "name": "CIVIL HOSPITAL ROAD - Sector 19 - A1",
                     "localname": "CIVIL HOSPITAL ROAD - Sector 19 - A1",
@@ -3536,7 +3560,7 @@
                     "children": []
                   },
                   {
-                    "id": "c293e596-e7ed-4130-8922-b9f473cb35d9",
+                    "id": "fb344e04-e807-4354-ba2c-f8a1d117a021",
                     "boundaryNum": 1,
                     "name": "GOPAL NAGAR - Sector 19 - A1",
                     "localname": "GOPAL NAGAR - Sector 19 - A1",
@@ -3548,7 +3572,7 @@
                     "children": []
                   },
                   {
-                    "id": "0308b5d9-8359-40dc-994d-4a80ac486d85",
+                    "id": "18a0cdad-86ad-47bb-bf29-9b0dccc79be5",
                     "boundaryNum": 1,
                     "name": "OLD SHAHPUR ROAD - Sector 19 - A1",
                     "localname": "OLD SHAHPUR ROAD - Sector 19 - A1",
@@ -3560,7 +3584,7 @@
                     "children": []
                   },
                   {
-                    "id": "1434a561-91d9-4c9a-ac85-5f7a2ff398c3",
+                    "id": "cb13a863-c0b3-499d-adc4-f8457dd78f8f",
                     "boundaryNum": 1,
                     "name": "MOHALLA SARAI - Sector 19 - A1",
                     "localname": "MOHALLA SARAI - Sector 19 - A1",
@@ -3572,7 +3596,7 @@
                     "children": []
                   },
                   {
-                    "id": "d83ce6b2-b571-4eb6-9b81-32a386dab9ab",
+                    "id": "c29ba006-f099-4169-8e6e-1c02f1cb44a3",
                     "boundaryNum": 1,
                     "name": "KAZIAN - Sector 19 - A1",
                     "localname": "KAZIAN - Sector 19 - A1",
@@ -3584,7 +3608,7 @@
                     "children": []
                   },
                   {
-                    "id": "d032a642-3b07-4f77-9172-f4a0dab1fd5f",
+                    "id": "3fd6bac1-ac29-42bf-a1e7-c97f870c1ee7",
                     "boundaryNum": 1,
                     "name": "SANT NAGAR - Sector 19 - A1",
                     "localname": "SANT NAGAR - Sector 19 - A1",
@@ -3596,7 +3620,7 @@
                     "children": []
                   },
                   {
-                    "id": "221c263f-c7cc-4fe7-936a-0ea43b6f7790",
+                    "id": "65785438-51e6-4ca9-8378-908d63671d56",
                     "boundaryNum": 1,
                     "name": "ANDROON BAZAR - Sector 19 - A1",
                     "localname": "ANDROON BAZAR - Sector 19 - A1",
@@ -3608,7 +3632,7 @@
                     "children": []
                   },
                   {
-                    "id": "1411cc5b-f887-42ce-afd4-000db09058f3",
+                    "id": "50f42ee3-8ce9-4948-83dc-5b7c7c02c000",
                     "boundaryNum": 1,
                     "name": "MAIN BAZAR - Sector 19 - A1",
                     "localname": "MAIN BAZAR - Sector 19 - A1",
@@ -3620,7 +3644,7 @@
                     "children": []
                   },
                   {
-                    "id": "4dc059f5-e07f-4b7b-94aa-b8591de7f753",
+                    "id": "57b16df7-21bc-40d6-b3f4-94f2f27da22d",
                     "boundaryNum": 1,
                     "name": "GANDHI CHOWK - Sector 19 - A1",
                     "localname": "GANDHI CHOWK - Sector 19 - A1",
@@ -3632,7 +3656,7 @@
                     "children": []
                   },
                   {
-                    "id": "1c2bbb78-ace1-4f8a-a3d1-16390457f83d",
+                    "id": "ae087400-77af-4100-a4ef-22752a0bd0fa",
                     "boundaryNum": 1,
                     "name": "WADHERIAN MOHALLA - Sector 19 - A1",
                     "localname": "WADHERIAN MOHALLA - Sector 19 - A1",
@@ -3644,7 +3668,7 @@
                     "children": []
                   },
                   {
-                    "id": "57d95379-41b9-44aa-ad32-d7aea5330ee4",
+                    "id": "02463b0e-c893-499c-ae3b-3762ac07b39c",
                     "boundaryNum": 1,
                     "name": "SAHIBZADIAN - Sector 19 - A1",
                     "localname": "SAHIBZADIAN - Sector 19 - A1",
@@ -3656,19 +3680,19 @@
                     "children": []
                   },
                   {
-                    "id": "ee695584-c90e-444f-b02c-6c15ccb477ed",
+                    "id": "7783b3fc-8ef3-4862-b9f9-9009828ea4f9",
                     "boundaryNum": 1,
-                    "name": "KAZIAN - Sector 19 - A1",
-                    "localname": "KAZIAN - Sector 19 - A1",
+                    "name": "KAZIAN - Sector 19 - A2",
+                    "localname": "KAZIAN - Sector 19 - A2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "PTK_176",
-                    "area": "AREA1",
+                    "area": "AREA2",
                     "children": []
                   },
                   {
-                    "id": "19173fce-60c9-46ad-965a-381934dad3ed",
+                    "id": "f7088f31-9cf9-41e0-8ae3-48a729a93e3f",
                     "boundaryNum": 1,
                     "name": "MOHALLA OHARIAN - Sector 19 - A1",
                     "localname": "MOHALLA OHARIAN - Sector 19 - A1",
@@ -3680,7 +3704,7 @@
                     "children": []
                   },
                   {
-                    "id": "95621f46-7715-47a0-a798-faa138866a63",
+                    "id": "58054872-6b71-4c3a-9462-d748cc8940c1",
                     "boundaryNum": 1,
                     "name": "KARAM SINGH NAGAR - Sector 19 - A1",
                     "localname": "KARAM SINGH NAGAR - Sector 19 - A1",
@@ -3692,7 +3716,7 @@
                     "children": []
                   },
                   {
-                    "id": "d8b8d71d-0888-4bcd-aa0d-166a1eb8bd17",
+                    "id": "d3933c53-cfd1-4412-a1cf-c3a7439b5437",
                     "boundaryNum": 1,
                     "name": "TILAK NAGAR - Sector 19 - A1",
                     "localname": "TILAK NAGAR - Sector 19 - A1",
@@ -3704,7 +3728,7 @@
                     "children": []
                   },
                   {
-                    "id": "b102346a-a29f-4aa0-8664-e6bdfbf37fed",
+                    "id": "15c288ec-ee4b-473b-b8b7-4fb8384a5e93",
                     "boundaryNum": 1,
                     "name": "KHARA KHOO - Sector 19 - A1",
                     "localname": "KHARA KHOO - Sector 19 - A1",
@@ -3716,7 +3740,7 @@
                     "children": []
                   },
                   {
-                    "id": "3c3e6fe2-943a-44d5-981c-d29c61c818b6",
+                    "id": "2091b26b-207b-4959-9673-713d5043f8c8",
                     "boundaryNum": 1,
                     "name": "CHARZIAN - Sector 19 - A1",
                     "localname": "CHARZIAN - Sector 19 - A1",
@@ -3728,7 +3752,7 @@
                     "children": []
                   },
                   {
-                    "id": "21df3612-b9e1-4a21-84db-0b2b39d9c850",
+                    "id": "a6714c53-48f0-41bd-8b16-6c99693a9aa0",
                     "boundaryNum": 1,
                     "name": "NADIAN - Sector 19 - A1",
                     "localname": "NADIAN - Sector 19 - A1",
@@ -3740,7 +3764,7 @@
                     "children": []
                   },
                   {
-                    "id": "84e1f2ee-97f9-45f5-8573-109dd71a2a44",
+                    "id": "c3ddb671-8992-42c1-8a61-46adc0900717",
                     "boundaryNum": 1,
                     "name": "RAJADIAN - Sector 19 - A1",
                     "localname": "RAJADIAN - Sector 19 - A1",
@@ -3752,7 +3776,7 @@
                     "children": []
                   },
                   {
-                    "id": "bcdd4480-e0fd-4e78-ba0e-d3a36f1233b4",
+                    "id": "34aa0e2a-4bf1-42fe-b44f-6474a66fabd8",
                     "boundaryNum": 1,
                     "name": "GOPIPURA - Sector 19 - A1",
                     "localname": "GOPIPURA - Sector 19 - A1",
@@ -3764,7 +3788,7 @@
                     "children": []
                   },
                   {
-                    "id": "5eb37587-06f2-4403-b6cc-4700c0a02625",
+                    "id": "fb57b932-bce3-4309-9060-168566001d86",
                     "boundaryNum": 1,
                     "name": "ARJAN NAGAR - Sector 19 - A1",
                     "localname": "ARJAN NAGAR - Sector 19 - A1",
@@ -3776,7 +3800,7 @@
                     "children": []
                   },
                   {
-                    "id": "76cc0353-8062-43d5-8328-55fb6001b22a",
+                    "id": "d2ab808c-2f82-4e12-884e-5308451b6696",
                     "boundaryNum": 1,
                     "name": "RAINA CHOWK - Sector 19 - A1",
                     "localname": "RAINA CHOWK - Sector 19 - A1",
@@ -3790,7 +3814,7 @@
                 ]
               },
               {
-                "id": "697c953b-c117-4ec6-9aea-d9fcce123969",
+                "id": "30aba9a7-a2ad-4f79-a61d-44530ff33f80",
                 "boundaryNum": 1,
                 "name": "Sector 20",
                 "localname": "Sector 20",
@@ -3800,7 +3824,7 @@
                 "code": "B20",
                 "children": [
                   {
-                    "id": "3f2b6f1d-2187-446a-a6e4-f3009bc9aca3",
+                    "id": "96b08846-df24-4fc4-8de3-b9290be549a8",
                     "boundaryNum": 1,
                     "name": "SHANT VIHAR - Sector 20 - A1",
                     "localname": "SHANT VIHAR - Sector 20 - A1",
@@ -3812,7 +3836,7 @@
                     "children": []
                   },
                   {
-                    "id": "c6da3e5a-595c-4043-840c-4b3a1c0ec4db",
+                    "id": "5834da7b-137c-460a-9ecf-ac476f5db710",
                     "boundaryNum": 1,
                     "name": "RANDHAWA COLONY - Sector 20 - A1",
                     "localname": "RANDHAWA COLONY - Sector 20 - A1",
@@ -3824,7 +3848,7 @@
                     "children": []
                   },
                   {
-                    "id": "d0e915e9-c05e-4e71-a14d-8cd4856ec783",
+                    "id": "3aa51fe4-a14f-4bf7-8a82-be1fafd5e000",
                     "boundaryNum": 1,
                     "name": "KHANPUR - Sector 20 - A1",
                     "localname": "KHANPUR - Sector 20 - A1",
@@ -3836,7 +3860,7 @@
                     "children": []
                   },
                   {
-                    "id": "5319bc9b-dfee-484c-a2ed-de428230ffef",
+                    "id": "9ac88998-ef3f-4e19-a6c4-4eb98344fb2b",
                     "boundaryNum": 1,
                     "name": "GURU NANAK AVENUE - Sector 20 - A1",
                     "localname": "GURU NANAK AVENUE - Sector 20 - A1",
@@ -3848,7 +3872,7 @@
                     "children": []
                   },
                   {
-                    "id": "792e6acf-5fc2-4656-a997-0094146ffd61",
+                    "id": "b53d225e-6410-464e-8608-49fdb8784fd5",
                     "boundaryNum": 1,
                     "name": "KABIR COLONY - Sector 20 - A1",
                     "localname": "KABIR COLONY - Sector 20 - A1",
@@ -3860,7 +3884,7 @@
                     "children": []
                   },
                   {
-                    "id": "94e8c877-52c5-49db-a21b-5c0abf677d52",
+                    "id": "0e5f09c5-7ded-48fa-8959-fdbc456b9da0",
                     "boundaryNum": 1,
                     "name": "KHANPUR CHOWK - Sector 20 - A1",
                     "localname": "KHANPUR CHOWK - Sector 20 - A1",
@@ -3872,7 +3896,7 @@
                     "children": []
                   },
                   {
-                    "id": "c35e98ee-62eb-4d75-999b-9a8262ec0b2e",
+                    "id": "f43db633-378e-4e74-a2d7-6a65c0880a86",
                     "boundaryNum": 1,
                     "name": "BAJUA MOHALLA - Sector 20 - A1",
                     "localname": "BAJUA MOHALLA - Sector 20 - A1",
@@ -3884,7 +3908,7 @@
                     "children": []
                   },
                   {
-                    "id": "f8278b13-cdbb-48f9-bf16-aa0c287b1ee3",
+                    "id": "70e8d2ff-5c4f-496f-af0f-5c415f287bfe",
                     "boundaryNum": 1,
                     "name": "KESAV NAGAR - Sector 20 - A1",
                     "localname": "KESAV NAGAR - Sector 20 - A1",
@@ -3896,10 +3920,10 @@
                     "children": []
                   },
                   {
-                    "id": "27a67c6c-cdf6-45d2-9197-6fd9149cefd9",
+                    "id": "3d98076f-48b9-4b43-8331-193099fb1957",
                     "boundaryNum": 1,
-                    "name": "UNKNOWN - Sector 6 - A1",
-                    "localname": "UNKNOWN - Sector 6 - A1",
+                    "name": "UNKNOWN - Sector 20 - A1",
+                    "localname": "UNKNOWN - Sector 20 - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
