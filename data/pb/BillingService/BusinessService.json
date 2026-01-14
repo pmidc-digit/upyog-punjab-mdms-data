@@ -2573,6 +2573,29 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
+    {
+      "businessService": "CLU.PAY1",
+      "code": "CLU.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+
+    {
+      "businessService": "CLU.PAY2",
+      "code": "CLU.PAY2",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
 
     {
       "businessService": "Challan_Generation",

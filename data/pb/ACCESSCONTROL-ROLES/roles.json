@@ -1250,6 +1250,31 @@
       "groupId": "025"
     },
     {
+      "code": "OBPAS_CLU_STP",
+      "name": "OBPAS_CLU_STP",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_ATP_HQ",
+      "name": "OBPAS_CLU_ATP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_MTP_HQ",
+      "name": "OBPAS_CLU_MTP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_STP_HQ",
+      "name": "OBPAS_CLU_STP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+
+    {
       "code": "OBPAS_CLU_BI",
       "name": "OBPAS_CLU_BI",
       "description": "OBPAS CLU workflow Approver",
