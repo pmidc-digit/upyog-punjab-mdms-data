@@ -7534,7 +7534,7 @@
 	  "order": "1",
 	  "isRequired": false
 	},
-	     {
+	{
 	  "category": "FEE",
 	  "service": "obpas_noc",
 	  "name": "NOC Compounding fees",
@@ -7544,6 +7544,16 @@
 	  "order": "1",
 	  "isRequired": false
 	},
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "NOC fees",
+      "code": "NOC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
 	     {
 	  "category": "FEE",
 	  "service": "obpas_noc",
