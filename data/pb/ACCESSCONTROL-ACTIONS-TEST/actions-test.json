@@ -23754,6 +23754,28 @@
       "path": ""
     },
     {
+      "id": 8900134,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900135,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 8900914,
       "name": "PT_HOW_IT_WORKS",
       "url": "mseva-ui-card",
