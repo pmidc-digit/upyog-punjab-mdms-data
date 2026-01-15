@@ -1,0 +1,50 @@
+{
+    "tenantId": "pb",
+    "moduleName": "Workflow",
+    "AutoSkipSteps": [
+        {
+            "moduleName": "bpa-service",
+            "comment": "Auto Skip Stete",
+            "active": false,
+            "businessService": [
+                "BPA_MC",
+                "BPA_MC_HIGH",
+                "BPA_MC_OTH",
+                "BPA_NP",
+                "BPA_NP_HIGH",
+                "BPA_NP_OTH"
+            ],
+            "terminateActionRoles": [
+                "CITIZEN"
+            ]
+        },
+        {
+            "moduleName": "clu-service",
+            "comment": "Auto Skip Stete",
+            "active": false,
+            "businessService": [
+                "CLU_MC",
+                "CLU_MC_HIGH",
+                "CLU_MC_OTH",
+                "CLU_NP",
+                "CLU_NP_HIGH",
+                "CLU_NP_OTH"
+            ],
+            "terminateActionRoles": [
+                "CITIZEN"
+            ]
+        },
+        {
+            "moduleName": "noc-service",
+            "comment": "Auto Skip Stete",
+            "active": false,
+            "businessService": [
+                "NOC_MC",
+                "NOC_NP"
+            ],
+            "terminateActionRoles": [
+                "CITIZEN"
+            ]
+        }
+    ]
+}
