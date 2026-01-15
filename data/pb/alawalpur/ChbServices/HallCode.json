@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.alawalpur",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HALLCODE-CHA",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    }
+  ]
+}
