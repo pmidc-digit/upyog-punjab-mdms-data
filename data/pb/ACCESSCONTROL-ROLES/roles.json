@@ -308,6 +308,12 @@
       "description": "HRMS Administrator which can create new employees",
       "groupId": "023"
     },
+	{
+      "code": "VIEW_HRMS_CARD",
+      "name": "View HRMS Card",
+      "description": "For HRMS Card Display in Dashboard",
+      "groupId": "023"
+    },
     {
       "code": "GIS_USER",
       "name": "GIS USER",
