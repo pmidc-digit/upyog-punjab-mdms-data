@@ -10,7 +10,7 @@
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
           "amount": 11000,
-          "taxApplicable": false
+          "taxApplicable": true
         }
       ]
     }
