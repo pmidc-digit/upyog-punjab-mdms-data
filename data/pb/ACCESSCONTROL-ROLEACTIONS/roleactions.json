@@ -68100,6 +68100,78 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_WATER_SEW",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP_FORLEGACY",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 8900142,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 8900945,
       "actioncode": "",

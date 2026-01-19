@@ -26726,6 +26726,17 @@
       "path": ""
     },
     {
+      "id": 8900142,
+      "name": "SearchUser",
+      "url": "/user/_searchV2",
+      "displayName": "Search User",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUser"
+    },
+    {
       "id": 194120,
       "name": "Challan Detail Report",
       "url": "/report/rainmaker-ch/ChallanDetailReport/_get",
