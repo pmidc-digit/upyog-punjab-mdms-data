@@ -20675,6 +20675,87 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+	  "id": 883339,
+	  "name": "create noc application",
+	  "url": "/noc-services/v1/noc/_create",
+	  "displayName": "create noc application",
+	  "orderNumber": 1,
+	  "enabled": true,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883340,
+	  "name": "update noc application",
+	  "url": "/noc-services/v1/noc/_update",
+	  "displayName": "update noc application",
+	  "orderNumber": 2,
+	  "enabled": true,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883341,
+	  "name": "Search NOC Applications",
+	  "url": "/noc-services/v1/noc/_search",
+	  "parentModule": "",
+	  "displayName": "Search NOC Applications",
+	  "orderNumber": 3,
+	  "enabled": true,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883342,
+	  "name": "Noc Collection Search Reciept",
+	  "url": "/collection-services/payments/obpas_noc/_search",
+	  "displayName": "Search Payment",
+	  "orderNumber": 0,
+	  "enabled": false,
+	  "serviceCode": "COLLECTION",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883343,
+	  "name": "Noc document CheckList Create",
+	  "url": "/noc-services/v1/checklist/_create",
+	  "displayName": "CheckList Create",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883344,
+	  "name": "Noc document CheckList Create",
+	  "url": "/noc-services/v1/checklist/_update",
+	  "displayName": "CheckList update",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883345,
+	  "name": "Noc document CheckList Create",
+	  "url": "/noc-services/v1/checklist/_search",
+	  "displayName": "CheckList search",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "noc-services",
+	  "code": "null",
+	  "path": ""
+	}
   ]
 }

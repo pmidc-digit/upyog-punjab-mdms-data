@@ -946,5 +946,17 @@
       "isStateLevel": true,
       "uniqueKeys": []
     }
+  },
+  "noc": {
+    "NocFee": {
+      "masterName": "NocFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
   }
 }

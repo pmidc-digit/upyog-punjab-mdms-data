@@ -3217,6 +3217,22 @@
       "financialYear": "2025-26",
       "periodCycle": "ANNUAL",
       "isActive": true
-    }
+    },
+	{
+	  "fromDate": 1743465600000,
+	  "toDate": 1775001599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "obpas_noc",
+	  "code": "NOC",
+	  "financialYear": "2025-26"
+	},
+	{
+	  "fromDate": 1775001600000,
+	  "toDate": 1806537599000,
+	  "periodCycle": "ANNUAL",
+	  "service": "obpas_noc",
+	  "code": "NOC",
+	  "financialYear": "2026-27"
+	}
   ]
 }
