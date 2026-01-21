@@ -20629,6 +20629,17 @@
       "path": ""
     },
     {
+      "id": 8900142,
+      "name": "SearchUser",
+      "url": "/user/_searchV2",
+      "displayName": "Search User",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUser"
+    },
+    {
       "id": 8900012,
       "name": "Receipt Register Layout",
       "url": "url",
