@@ -2700,6 +2700,7 @@
       "code": "null",
       "path": "Location.Search Boundary"
     },
+
     {
       "id": 1444,
       "name": "CheckList Create",
@@ -26744,6 +26745,152 @@
       "orderNumber": 1,
       "enabled": true,
       "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1443,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1446,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1449,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1453,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1456,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1459,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1463,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1473,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1474,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1461,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1471,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1472,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
       "code": "null",
       "path": ""
     }
