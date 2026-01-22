@@ -49,7 +49,6 @@
       "slaHours": 96,
       "menuPath": "Drains"
     },
- 
     {
       "serviceCode": "FoulSmellFromSewerLine",
       "name": "Foul Smell from Sewer Line",
@@ -432,7 +431,7 @@
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "ReplacementOfTrafficLights",
       "name": "Replacement Of Traffic Lights",
       "active": false,
@@ -442,15 +441,15 @@
       "menuPath": "StreetLights"
     },
     {
-       "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
-       "name": "Maintenance Of Lights Of All Parks Green Belts",
+      "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
+      "name": "Maintenance Of Lights Of All Parks Green Belts",
       "active": false,
       "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
       "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
-     {
+    {
       "serviceCode": "ImproperTimingOfWaterSupply",
       "name": "Improper Timing Of Water Supply",
       "active": false,
@@ -459,7 +458,7 @@
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
-     {
+    {
       "serviceCode": "CleaningOfRoadGullies",
       "name": "Cleaning Of Road Gullies",
       "active": false,
@@ -468,7 +467,7 @@
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
-      {
+    {
       "serviceCode": "RegardingClarificationOfArrears",
       "name": "Regarding Clarification Of Arrears",
       "active": false,
@@ -477,7 +476,7 @@
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingPenalties",
       "name": "Regarding Penalties",
       "active": false,
@@ -486,7 +485,7 @@
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingDatesOfDepositionOfPropertyTax",
       "name": "Regarding Dates Of Deposition Of PropertyTax",
       "active": false,
@@ -495,7 +494,7 @@
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingInformationAboutLatestNotificationsInstructions",
       "name": "Regarding Information About Latest Notifications Instructions",
       "active": false,
@@ -504,7 +503,7 @@
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-     {
+    {
       "serviceCode": "RequestForConstructionOfNewRoadsFootpathsPavements",
       "name": "Request For Construction Of New Roads Footpaths Pavements",
       "active": true,
@@ -513,7 +512,7 @@
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "MaintenanceOfRoadsWithPatchWork",
       "name": "Maintenance Of Roads With Patch Work",
       "active": true,
@@ -522,7 +521,7 @@
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "RepairOfCulvertsCauseWays",
       "name": "Repair Of Culverts CauseWays",
       "active": true,
@@ -531,7 +530,7 @@
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "MarkingOfRoads",
       "name": "Marking Of Roads",
       "active": true,
@@ -540,7 +539,7 @@
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-      {
+    {
       "serviceCode": "IllegalShopsCommercialbuildings",
       "name": "Illegal Shops or Commercial buildings",
       "active": true,
@@ -549,7 +548,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "UnauthorizedConstructions",
       "name": "Unauthorized Constructions",
       "active": false,
@@ -558,7 +557,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "UnauthorizedLandUse",
       "name": "Unauthorized Land Use in Premises",
       "active": true,
@@ -567,7 +566,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "ViolationOfMasterPlan",
       "name": "Violation Of Master Plan",
       "active": false,
@@ -576,7 +575,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "MaintenanceOfMonuments",
       "name": "Maintenance Of Monuments",
       "active": false,
@@ -585,7 +584,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "ExcessiveRampsOfShopsAndHouses",
       "name": "Excessive Ramps Of Shops And Houses",
       "active": false,
@@ -594,7 +593,7 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "EncroachmentOnAnyKindOnGovernmentLand",
       "name": "Encroachment On Any Kind On Government Land",
       "active": true,
@@ -603,88 +602,88 @@
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "RequestForFumigation",
-       "name": "Request For Fumigation",
+      "name": "Request For Fumigation",
       "active": false,
       "keywords": "mosquito, insects, fog, spray, kill, health, dengue, malaria, disease, clean",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
-     {
+    {
       "serviceCode": "ProvisionofShedsForAnimals",
-       "name": "Provision of Sheds For Animals",
+      "name": "Provision of Sheds For Animals",
       "active": false,
       "keywords": "stray, dog, dogs, menace, animal, animals, shed, arrangments, bite, biting, bark, barking",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
-     {
+    {
       "serviceCode": "OverchargeinpaidparkingMCandULBs",
-       "name": "Overcharge in paid parkings",
+      "name": "Overcharge in paid parkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "MisusageOfGovernmentPropertyInPaidParkings",
-       "name": "Misusage Of Government Property In Paid Parkings",
+      "name": "Misusage Of Government Property In Paid Parkings",
       "active": false,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_17",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "RequestsForPlantingNewtrees",
-       "name": "Requests For Planting New trees",
+      "name": "Requests For Planting New trees",
       "active": false,
       "keywords": "tree, cut, planting, unathourized, remove, plant",
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees"
     },
-     {
+    {
       "serviceCode": "NewParkRequest",
-       "name": "New Park Request",
+      "name": "New Park Request",
       "active": false,
       "keywords": "open, new, park, human, privy, toilet",
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks"
     },
-     {
+    {
       "serviceCode": "BirthAndDeathCertificates",
-       "name": "Birth And Death Certificates",
+      "name": "Birth And Death Certificates",
       "active": true,
       "keywords": "open, new, park, human, privy, toilet",
       "department": "DEPT_12",
       "slaHours": 336,
       "menuPath": "BirthandDeath"
     },
-     {
+    {
       "serviceCode": "TransferAndPosting",
-       "name": "Transfer And Posting",
+      "name": "Transfer And Posting",
       "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
       "department": "DEPT_38",
       "slaHours": 336,
       "menuPath": ""
     },
-     {
+    {
       "serviceCode": "RecruitmentRelated",
-       "name": "Recruitment Related",
+      "name": "Recruitment Related",
       "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
       "department": "DEPT_38",
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "FundsRelated",
       "name": "Funds Related",
       "active": true,
@@ -693,7 +692,7 @@
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "TownPlanning",
       "name": "Town Planning",
       "active": false,
@@ -702,7 +701,7 @@
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "AgainstEmployee",
       "name": "Against Employee",
       "active": true,
@@ -711,7 +710,7 @@
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "eGovWaterSupply",
       "name": "eGov Water Supply",
       "active": false,
@@ -720,7 +719,7 @@
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovSewerage",
       "name": "eGov Sewerage",
       "active": false,
@@ -729,7 +728,7 @@
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovPropertyTax",
       "name": "eGov Property Tax",
       "active": false,
@@ -738,7 +737,7 @@
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovtradeLicense",
       "name": "eGov tradeLicense",
       "active": false,
@@ -747,7 +746,7 @@
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovOthers",
       "name": "eGov Others",
       "active": false,
@@ -756,7 +755,7 @@
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "NCAPRelatedCompaints",
       "name": "NCAP Related Compaints",
       "active": false,
@@ -766,27 +765,24 @@
       "menuPath": "environmentRelated"
     },
     {
-        
       "serviceCode": "PropertyTaxIssue",
       "name": "Property Tax Issues",
       "active": true,
       "keywords": "property,issues,pay",
       "department": "DEPT_33",
       "slaHours": 336,
-      "menuPath": "Mseva Application Related Issues"    
-   },
-   { 
-    
-     "serviceCode": "TradeLicenseIssue",
+      "menuPath": "Mseva Application Related Issues"
+    },
+    {
+      "serviceCode": "TradeLicenseIssue",
       "name": "Trade License Issues",
       "active": true,
       "keywords": "tradelicense,issues,pay",
       "department": "DEPT_27",
       "slaHours": 336,
       "menuPath": "Mseva Application Related Issues"
-   },
-   {
-
+    },
+    {
       "serviceCode": "FireNocIssue",
       "name": "FireNoc Issues",
       "active": true,
@@ -794,210 +790,285 @@
       "department": "DEPT_47",
       "slaHours": 336,
       "menuPath": "Mseva Application Related Issues"
-},
-{
-  "serviceCode": "DelayInReleaseOfNewSewerConnectionOrTransfer",
-  "name": "Delay in release of New Sewer Connection / Transfer of Connection",
-  "active": true,
-  "keywords": "sewer,connection,transfer,delay,new",
-  "department": "DEPT_4",
-  "slaHours": 96,
-  "menuPath": "WaterandSewage"
-},
-
-{
-  "serviceCode": "DelayInReleaseOfNewWaterConnectionOrTransfer",
-  "name": "Delay in release of New Water Connection / Transfer of Connection",
-  "active": true,
-  "keywords": "water,connection,transfer,delay,new",
-  "department": "DEPT_4",
-  "slaHours": 96,
-  "menuPath": "WaterandSewage"
-},
-{
-  "serviceCode": "WaterMeterOrBillingIssues",
-  "name": "Water Meter Issues / Billing Issues",
-  "active": true,
-  "keywords": "water,meter,billing,reading,wrong,amount",
-  "department": "DEPT_4",
-  "slaHours": 96,
-  "menuPath": "WaterandSewage"
-},
-{
+    },
+    {
+      "serviceCode": "DelayInReleaseOfNewSewerConnectionOrTransfer",
+      "name": "Delay in release of New Sewer Connection / Transfer of Connection",
+      "active": true,
+      "keywords": "sewer,connection,transfer,delay,new",
+      "department": "DEPT_4",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
+    {
+      "serviceCode": "DelayInReleaseOfNewWaterConnectionOrTransfer",
+      "name": "Delay in release of New Water Connection / Transfer of Connection",
+      "active": true,
+      "keywords": "water,connection,transfer,delay,new",
+      "department": "DEPT_4",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
+    {
+      "serviceCode": "WaterMeterOrBillingIssues",
+      "name": "Water Meter Issues / Billing Issues",
+      "active": true,
+      "keywords": "water,meter,billing,reading,wrong,amount",
+      "department": "DEPT_4",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
+    {
       "serviceCode": "WaterandSewerageIssue",
       "name": "Water and Sewerage Issues",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Mseva Application Related Issues"   
-},
-{
-  
+      "menuPath": "Mseva Application Related Issues"
+    },
+    {
       "serviceCode": "SocialImpactDamageOfProperty",
       "name": "Social Impact Damage Of Property",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project"   
-  
-},
-{    
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "SocialImpactResettlementOrRehabilitation",
       "name": "Social Impact Resettlement Or Rehabilitation",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project"  
-  
-},
-{    
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "SocialImpactSexualHarrasmentAtWorkSiteEtc",
       "name": "Social Impact Sexual Harrasment At Work Site Etc",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project"  
-  
-},
-{    
-  
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "SocialImpactLossOfLivelihood",
       "name": "Social Impact Loss Of Livelihood",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project"  
-
-},
-{  
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactUnauthorisedTreeCutting",
       "name": "Environmental Impact Unauthorised Tree Cutting",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project"  
-},
-{  
-
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactSoilErosion",
       "name": "Environmental Impact Soil Erosion",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-
-},
-{
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactSoilContamination",
       "name": "Environmental Impact Soil Contamination",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-
-},
-{
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactVehiclePollution",
       "name": "Environmental Impact Vehicle Pollution",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-
-},
-{
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactNoiseAndAirPollution",
       "name": "Environmental Impact Vehicle Pollution",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-
-},
-{
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "EnvironmentalImpactHazardousMaterialAtSiteEtc",
       "name": "Environmental Impact Hazardous Material At Site Etc",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-},
-{
-
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "CivilWorksWaterTreatmentPlant",
       "name": "Civil Works Water Treatment Plant",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-  
-},
-{    
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "CivilWorksOverheadReservoirTank",
       "name": "Civil Works Overhead Reservoir Tank",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-},
-{  
-  
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "PipelineWorkRoadNotRestored",
       "name": "Pipeline Work Road Not Restored",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-},
-{    
-  
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "PipelineWorkHouseConnectionDamaged",
       "name": "Pipeline Work House Connection Damaged",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-},
-{    
-  
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "PipelineWorkTrenchpitNotBackfilled",
       "name": "Pipeline Work Trench Pit Not Backfilled",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-},
-{ 
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
       "serviceCode": "PipelineWorkTrafficJam",
       "name": "Pipeline Work Traffic Jam",
       "active": true,
       "keywords": "water and sewerage,issues,pay",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "Canal Based Water Supply Project" 
-
-  
+      "menuPath": "Canal Based Water Supply Project"
+    },
+    {
+      "serviceCode": "CMWindow",
+      "name": "CM Window",
+      "active": true,
+      "keywords": "cm, window, complaint, grievance, chief minister",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "CMWindow"
+    },
+    {
+      "serviceCode": "WeeklyDCCamps",
+      "name": "Weekly DC Camps",
+      "active": true,
+      "keywords": "dc, camp, weekly, deputy commissioner, grievance",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "WeeklyDCCamps"
+    },
+    {
+      "serviceCode": "CMOFFICE",
+      "name": "CM OFFICE",
+      "active": true,
+      "keywords": "cm, office, complaint, chief minister",
+      "department": "DEPT_1",
+      "slaHours": 336,
+      "menuPath": "CMOFFICE"
+    },
+    {
+      "serviceCode": "GarbageOnVacantPlots",
+      "name": "Garbage on Vacant Plots",
+      "active": true,
+      "keywords": "garbage, vacant, plot, dump, waste, clean",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "IllegalGarbageDumpGarbageVulnerablePoint",
+      "name": "Illegal Garbage Dump/ Garbage Vulnerable Point",
+      "active": true,
+      "keywords": "garbage, dump, illegal, vulnerable, point, waste",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "FallenTree",
+      "name": "Fallen Tree",
+      "active": true,
+      "keywords": "tree, fallen, road, block, remove",
+      "department": "DEPT_5",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "VehicleCarryingGarbageWithoutNet",
+      "name": "Vehicle Carrying Garbage Without Net",
+      "active": true,
+      "keywords": "garbage, vehicle, net, transport, waste, spill",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "RemovalOfSiltFromRoad",
+      "name": "Removal of Silt from Road",
+      "active": true,
+      "keywords": "silt, road, cleaning, mud, dust, remove",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "IllegalDumpingOfBiomedicalHazardousSlaughterHouseWaste",
+      "name": "Illegal Dumping of Biomedical/ Hazardous/ Slaughter House Waste",
+      "active": true,
+      "keywords": "biomedical, hazardous, slaughter, waste, illegal, dumping",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "DamagedSpeedBreaker",
+      "name": "Damaged Speed Breaker",
+      "active": true,
+      "keywords": "speed, breaker, damaged, road, repair",
+      "department": "DEPT_2",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
+    },
+    {
+      "serviceCode": "DamagedMissingDrainCover",
+      "name": "Damaged/ Missing Drain Cover",
+      "active": true,
+      "keywords": "drain, cover, missing, damaged, repair",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
     }
   ]
 }

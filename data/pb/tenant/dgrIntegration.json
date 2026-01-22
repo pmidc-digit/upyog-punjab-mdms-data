@@ -6,172 +6,409 @@
       "categories": [
         {
           "Category_ID": "264",
+          "Category_Label": "StreetLights",
+          "Category_Label_Local_Language": "ਸਟਰੀਟ ਲਾਈਟ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "989", "label": "Street or Park Light Not Working", "msevaServiceCode": "StreetLightNotWorking" },
-            { "id": "990", "label": "No Street Light", "msevaServiceCode": "NoStreetlight" }
-          ]
-        },
-        {
-          "Category_ID": "265",
-          "departmentId": "232",
-          "departmentName": "URBAN LOCAL BODIES",
-          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
-          "subcategories": [
-            { "id": "993", "label": "Garbage Needs To be Cleared", "msevaServiceCode": "GarbageNeedsTobeCleared" },
-            { "id": "994", "label": "Burning Of Garbage", "msevaServiceCode": "BurningOfGarbage" },
-            { "id": "995", "label": "Damaged Garbage Bin", "msevaServiceCode": "DamagedGarbageBin" },
-            { "id": "996", "label": "Non Sweeping Of Road", "msevaServiceCode": "NonSweepingOfRoad" },
-            { "id": "997", "label": "Congress Grass Cutting", "msevaServiceCode": "CongressGrassCutting" }
-          ]
-        },
-        {
-          "Category_ID": "266",
-          "departmentId": "232",
-          "departmentName": "URBAN LOCAL BODIES",
-          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
-          "subcategories": [
-            { "id": "998", "label": "Overflowing Or Blocked Drain", "msevaServiceCode": "OverflowingOrBlockedDrain" },
-            { "id": "999", "label": "Cleaning Of Drains", "msevaServiceCode": "CleaningOfDrains" },
-            { "id": "1000", "label": "Water Entered House Rainy Season", "msevaServiceCode": "WaterEnteredHouseRainySeason" }
-          ]
-        },
-        {
-          "Category_ID": "274",
-          "departmentId": "232",
-          "departmentName": "URBAN LOCAL BODIES",
-          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
-          "subcategories": [
-            { "id": "1037", "label": "Damaged Road", "msevaServiceCode": "DamagedRoad" },
-            { "id": "1039", "label": "Construction Material Lying On the Road", "msevaServiceCode": "ConstructionMaterialLyingOntheRoad" },
-            { "id": "1040", "label": "Manhole Cover Missing Or Damaged Or Improper Level", "msevaServiceCode": "ManholeCoverMissingOrDamaged" },
-            { "id": "1041", "label": "Broken or Cleaning of Roads", "msevaServiceCode": "WaterLoggedRoad" },
-            { "id": "1043", "label": "Road Jalli Broken", "msevaServiceCode": "RoadJalliBroken" },
-            { "id": "1045", "label": "Damaged Or Blocked Foot path", "msevaServiceCode": "DamagedOrBlockedFootpath" },
-            { "id": "1047", "label": "Repair Of Culverts CauseWays", "msevaServiceCode": "RepairOfCulvertsCauseWays" },
-            { "id": "1049", "label": "Request For Construction Of New Roads Footpaths Pavements", "msevaServiceCode": "RequestForConstructionOfNewRoadsFootpathsPavements" },
-            { "id": "1050", "label": "Illegal Rehries On Road", "msevaServiceCode": "IllegalRehriesOnRoad" },
-            { "id": "3382", "label": "Maintenance Of Roads With Patch Work", "msevaServiceCode": "MaintenanceOfRoadsWithPatchWork" },
-            { "id": "3383", "label": "Marking Of Roads", "msevaServiceCode": "MarkingOfRoads" }
+            {
+              "id": "989",
+              "label": "Street or Park Light Not Working",
+              "msevaServiceCode": "StreetLightNotWorking"
+            },
+            {
+              "id": "990",
+              "label": "No Street Light",
+              "msevaServiceCode": "NoStreetlight"
+            }
           ]
         },
         {
           "Category_ID": "276",
+          "Category_Label": "Land Violations",
+          "Category_Label_Local_Language": "ਬਿਲਡਿੰਗ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1053", "label": "Overcharge in paid parkings", "msevaServiceCode": "OverchargeinpaidparkingMCandULBs" },
-            { "id": "1054", "label": "Illegal Constructions", "msevaServiceCode": "IllegalConstructions" },
-            { "id": "1056", "label": "Illegal Shops or Commercial buildings", "msevaServiceCode": "IllegalShopsCommercialbuildings" },
-            { "id": "1060", "label": "Unauthorized Land Use in Premises", "msevaServiceCode": "UnauthorizedLandUse" },
-            { "id": "1061", "label": "Illegal Parking", "msevaServiceCode": "IllegalParking" },
-            { "id": "1063", "label": "Encroachment On Any Kind On Government Land", "msevaServiceCode": "EncroachmentOnAnyKindOnGovernmentLand" }
+            {
+              "id": "1053",
+              "label": "Overcharge in paid parkings",
+              "msevaServiceCode": "OverchargeinpaidparkingMCandULBs"
+            },
+            {
+              "id": "1054",
+              "label": "Illegal Constructions",
+              "msevaServiceCode": "IllegalConstructions"
+            },
+            {
+              "id": "1056",
+              "label": "Illegal Shops or Commercial buildings",
+              "msevaServiceCode": "IllegalShopsCommercialbuildings"
+            },
+            {
+              "id": "1060",
+              "label": "Unauthorized Land Use in Premises",
+              "msevaServiceCode": "UnauthorizedLandUse"
+            },
+            {
+              "id": "1061",
+              "label": "Illegal Parking",
+              "msevaServiceCode": "IllegalParking"
+            },
+            {
+              "id": "1063",
+              "label": "Encroachment On Any Kind On Government Land",
+              "msevaServiceCode": "EncroachmentOnAnyKindOnGovernmentLand"
+            }
           ]
         },
         {
           "Category_ID": "280",
+          "Category_Label": "Mosquitos",
+          "Category_Label_Local_Language": "ਕੀਟਨਾਸ਼ਕਾਂ/ਕੀਟਾਣੂਨਾਸ਼ਕਾਂ ਆਦਿ ਦੀ ਵਰਤੋਂ ਕਰਨਾ।",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1074", "label": "Request Spraying Or Fogging Operation", "msevaServiceCode": "RequestSprayingOrFoggingOperation" }
+            {
+              "id": "1074",
+              "label": "Request Spraying Or Fogging Operation",
+              "msevaServiceCode": "RequestSprayingOrFoggingOperation"
+            }
           ]
         },
         {
           "Category_ID": "281",
+          "Category_Label": "Animals",
+          "Category_Label_Local_Language": "ਜਾਨਵਰ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1079", "label": "Lifting Of Stray Animals", "msevaServiceCode": "StrayAnimals" },
-            { "id": "1080", "label": "Dead Animals", "msevaServiceCode": "DeadAnimals" }
+            {
+              "id": "1079",
+              "label": "Lifting Of Stray Animals",
+              "msevaServiceCode": "StrayAnimals"
+            },
+            {
+              "id": "1080",
+              "label": "Dead Animals",
+              "msevaServiceCode": "DeadAnimals"
+            }
           ]
         },
         {
           "Category_ID": "282",
+          "Category_Label": "Public Toilets",
+          "Category_Label_Local_Language": "ਜਨਤਕ ਪਖਾਨੇ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1085", "label": "Improper maintenance of public toilet", "msevaServiceCode": "DirtyOrSmellyPublicToilets" }
+            {
+              "id": "1085",
+              "label": "Improper maintenance of public toilet",
+              "msevaServiceCode": "DirtyOrSmellyPublicToilets"
+            }
           ]
         },
         {
           "Category_ID": "285",
+          "Category_Label": "Trees",
+          "Category_Label_Local_Language": "ਰੁੱਖ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1097", "label": "Cutting Or Trimming Of Tree Required", "msevaServiceCode": "CuttingOrTrimmingOfTreeRequired" }
-          ]
-        },
-        {
-          "Category_ID": "286",
-          "departmentId": "232",
-          "departmentName": "URBAN LOCAL BODIES",
-          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
-          "subcategories": [
-            { "id": "1100", "label": "Open Defecation", "msevaServiceCode": "OpenDefecation" }
+            {
+              "id": "1097",
+              "label": "Cutting Or Trimming Of Tree Required",
+              "msevaServiceCode": "CuttingOrTrimmingOfTreeRequired"
+            }
           ]
         },
         {
           "Category_ID": "288",
+          "Category_Label": "Parks",
+          "Category_Label_Local_Language": "ਪਾਰਕ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1104", "label": "Park Requires Maintenance", "msevaServiceCode": "ParkRequiresMaintenance" }
+            {
+              "id": "1104",
+              "label": "Park Requires Maintenance",
+              "msevaServiceCode": "ParkRequiresMaintenance"
+            }
           ]
         },
         {
           "Category_ID": "289",
+          "Category_Label": "Birth and Death",
+          "Category_Label_Local_Language": "ਜਨਮ ਮਰਨ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1108", "label": "Birth And Death Certificates", "msevaServiceCode": "BirthAndDeathCertificates" }
+            {
+              "id": "1108",
+              "label": "Birth And Death Certificates",
+              "msevaServiceCode": "BirthAndDeathCertificates"
+            }
           ]
         },
         {
           "Category_ID": "292",
+          "Category_Label": "Funds Related",
+          "Category_Label_Local_Language": "ਫੰਡਾਂ ਨਾਲ ਸਬੰਧਤ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1140", "label": "Funds Related", "msevaServiceCode": "FundsRelated" }
+            {
+              "id": "1140",
+              "label": "Funds Related",
+              "msevaServiceCode": "FundsRelated"
+            }
           ]
         },
         {
           "Category_ID": "296",
+          "Category_Label": "Against Employee",
+          "Category_Label_Local_Language": "ਕਰਮਚਾਰੀ ਦੇ ਖਿਲਾਫ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1148", "label": "Against Employee", "msevaServiceCode": "AgainstEmployee" }
+            {
+              "id": "1148",
+              "label": "Against Employee",
+              "msevaServiceCode": "AgainstEmployee"
+            }
           ]
         },
         {
           "Category_ID": "297",
+          "Category_Label": "Mseva Application Related Issues",
+          "Category_Label_Local_Language": "ਈ ਗਵਰਨੈਂਸ ਨਾਲ ਸਬੰਧਤ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1112", "label": "Water and Sewerage Issues", "msevaServiceCode": "WaterandSewerageIssue" },
-            { "id": "1115", "label": "Property Tax Issues", "msevaServiceCode": "PropertyTaxIssue" },
-            { "id": "1116", "label": "Trade License Issues", "msevaServiceCode": "TradeLicenseIssue" },
-            { "id": "1117", "label": "FireNoc Issues", "msevaServiceCode": "FireNocIssue" }
+            {
+              "id": "1112",
+              "label": "Water and Sewerage Issues",
+              "msevaServiceCode": "WaterandSewerageIssue"
+            },
+            {
+              "id": "1115",
+              "label": "Property Tax Issues",
+              "msevaServiceCode": "PropertyTaxIssue"
+            },
+            {
+              "id": "1116",
+              "label": "Trade License Issues",
+              "msevaServiceCode": "TradeLicenseIssue"
+            },
+            {
+              "id": "1117",
+              "label": "Fire Noc Issues",
+              "msevaServiceCode": "FireNocIssue"
+            }
           ]
         },
         {
           "Category_ID": "298",
+          "Category_Label": "Others",
+          "Category_Label_Local_Language": "ਹੋਰ",
           "departmentId": "232",
           "departmentName": "URBAN LOCAL BODIES",
           "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
           "subcategories": [
-            { "id": "1149", "label": "Others Complaints for local government", "msevaServiceCode": "OtherComplaints" }
+            {
+              "id": "1149",
+              "label": "Others",
+              "msevaServiceCode": "Others"
+            }
+          ]
+        },
+        {
+          "Category_ID": "1079",
+          "Category_Label": "CM Window",
+          "Category_Label_Local_Language": "CM ਵਿੰਡੋ",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3020",
+              "label": "CM Window",
+              "msevaServiceCode": "CMWindow"
+            }
+          ]
+        },
+        {
+          "Category_ID": "1257",
+          "Category_Label": "Weekly DC Camps",
+          "Category_Label_Local_Language": "ਹਫਤਾਵਾਰੀ ਡੀਸੀ ਕੈਂਪ",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3198",
+              "label": "Weekly DC Camps",
+              "msevaServiceCode": "WeeklyDCCamps"
+            }
+          ]
+        },
+        {
+          "Category_ID": "1321",
+          "Category_Label": "CM OFFICE",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3413",
+              "label": "CM OFFICE",
+              "msevaServiceCode": "CMOFFICE"
+            }
+          ]
+        },
+        {
+          "Category_ID": "1612",
+          "Category_Label": "Garbage and Cleanliness",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3424",
+              "label": "Open Burning of Garbage",
+              "msevaServiceCode": "BurningOfGarbage"
+            },
+            {
+              "id": "3425",
+              "label": "Damaged Garbage Bin",
+              "msevaServiceCode": "DamagedGarbageBin"
+            },
+            {
+              "id": "3426",
+              "label": "Garbage Bin Needs to be Cleared",
+              "msevaServiceCode": "GarbageNeedsTobeCleared"
+            },
+            {
+              "id": "3427",
+              "label": "Garbage on Vacant Plots",
+              "msevaServiceCode": "GarbageOnVacantPlots"
+            },
+            {
+              "id": "3428",
+              "label": "Road Needs Sweeping",
+              "msevaServiceCode": "NonSweepingOfRoad"
+            },
+            {
+              "id": "3429",
+              "label": "Construction Material/ Malba on Road Side",
+              "msevaServiceCode": "ConstructionMaterialLyingOntheRoad"
+            },
+            {
+              "id": "3430",
+              "label": "Illegal Garbage Dump/ Garbage Vulnerable Point",
+              "msevaServiceCode": "IllegalGarbageDumpGarbageVulnerablePoint"
+            },
+            {
+              "id": "3431",
+              "label": "Fallen Tree",
+              "msevaServiceCode": "FallenTree"
+            },
+            {
+              "id": "3432",
+              "label": "Open Defecation",
+              "msevaServiceCode": "OpenDefecation"
+            },
+            {
+              "id": "3433",
+              "label": "Vehicle Carrying Garbage Without Net",
+              "msevaServiceCode": "VehicleCarryingGarbageWithoutNet"
+            },
+            {
+              "id": "3434",
+              "label": "Remove Dead Animal",
+              "msevaServiceCode": "DeadAnimals"
+            },
+            {
+              "id": "3435",
+              "label": "Removal of Silt from Road",
+              "msevaServiceCode": "RemovalOfSiltFromRoad"
+            },
+            {
+              "id": "3436",
+              "label": "Clogged Open Drain",
+              "msevaServiceCode": "OverflowingOrBlockedDrain"
+            },
+            {
+              "id": "3437",
+              "label": "Illegal Dumping of Biomedical/ Hazardous/ Slaughter House Waste",
+              "msevaServiceCode": "IllegalDumpingOfBiomedicalHazardousSlaughterHouseWaste"
+            }
+          ]
+        },
+        {
+          "Category_ID": "1613",
+          "Category_Label": "Roads and Footpaths",
+          "departmentId": "232",
+          "departmentName": "URBAN LOCAL BODIES",
+          "departmentNameLocal": "ਸ਼ਹਿਰੀ ਸਥਾਨਕ ਬੋਡੀਜ਼",
+          "subcategories": [
+            {
+              "id": "3438",
+              "label": "Potholes/ Damaged Road",
+              "msevaServiceCode": "DamagedRoad"
+            },
+            {
+              "id": "3439",
+              "label": "Damaged Speed Breaker",
+              "msevaServiceCode": "DamagedSpeedBreaker"
+            },
+            {
+              "id": "3440",
+              "label": "Damaged Footpath/ Median",
+              "msevaServiceCode": "DamagedOrBlockedFootpath"
+            },
+            {
+              "id": "3441",
+              "label": "Absent Road Markings",
+              "msevaServiceCode": "MarkingOfRoads"
+            },
+            {
+              "id": "3442",
+              "label": "Cutting of Overgrown Grass",
+              "msevaServiceCode": "CongressGrassCutting"
+            },
+            {
+              "id": "3443",
+              "label": "Damaged/ Missing Drain Cover",
+              "msevaServiceCode": "DamagedMissingDrainCover"
+            },
+            {
+              "id": "3444",
+              "label": "Damaged/ Missing Manhole Cover",
+              "msevaServiceCode": "ManholeCoverMissingOrDamaged"
+            },
+            {
+              "id": "3445",
+              "label": "?Damaged Road Drain Jalli",
+              "msevaServiceCode": "RoadJalliBroken"
+            },
+            {
+              "id": "3446",
+              "label": "Cleaning of Road Drain Jalli",
+              "msevaServiceCode": "CleaningOfDrains"
+            }
           ]
         },
         {
@@ -182,12 +419,36 @@
           "departmentName": "PUNJAB WATER SUPPLY AND SEWERAGE BOARD",
           "departmentNameLocal": "ਪੰਜਾਬ ਪਾਣੀ ਸਪਲਾਈ ਅਤੇ ਸੀਵਰੇਜ ਬੋਰਡ",
           "subcategories": [
-            { "id": "1153", "label": "Broken Water Pipe or leakage", "msevaServiceCode": "BrokenWaterPipeOrLeakage" },
-            { "id": "3416", "label": "Delay in release of New Water Connection or Transfer", "msevaServiceCode": "DelayInReleaseOfNewWaterConnectionOrTransfer" },
-            { "id": "1152", "label": "Dirty Water Supply", "msevaServiceCode": "DirtyWaterSupply" },
-            { "id": "1154", "label": "Low Water Pressure", "msevaServiceCode": "WaterPressureisVeryLess" },
-            { "id": "1151", "label": "No Water Supply", "msevaServiceCode": "NoWaterSupply" },
-            { "id": "3415", "label": "Water Meter or Billing Issues", "msevaServiceCode": "WaterMeterOrBillingIssues" }
+            {
+              "id": "1153",
+              "label": "Broken / Leaking Water Pipeline",
+              "msevaServiceCode": "BrokenWaterPipeOrLeakage"
+            },
+            {
+              "id": "3416",
+              "label": "Delay in release of New Water Connection / Transfer of Connection",
+              "msevaServiceCode": "DelayInReleaseOfNewWaterConnectionOrTransfer"
+            },
+            {
+              "id": "1152",
+              "label": "Dirty / Contaminated Water",
+              "msevaServiceCode": "DirtyWaterSupply"
+            },
+            {
+              "id": "1154",
+              "label": "Low Water Pressure",
+              "msevaServiceCode": "WaterPressureisVeryLess"
+            },
+            {
+              "id": "1151",
+              "label": "No Water Supply",
+              "msevaServiceCode": "NoWaterSupply"
+            },
+            {
+              "id": "3415",
+              "label": "Water Meter Issues / Billing Issues",
+              "msevaServiceCode": "WaterMeterOrBillingIssues"
+            }
           ]
         },
         {
@@ -198,28 +459,31 @@
           "departmentName": "PUNJAB WATER SUPPLY AND SEWERAGE BOARD",
           "departmentNameLocal": "ਪੰਜਾਬ ਪਾਣੀ ਸਪਲਾਈ ਅਤੇ ਸੀਵਰੇਜ ਬੋਰਡ",
           "subcategories": [
-            { "id": "3420", "label": "Delay in release of New Sewer Connection or Transfer", "msevaServiceCode": "DelayInReleaseOfNewSewerConnectionOrTransfer" },
-            { "id": "3419", "label": "Foul Smell from Sewer Line", "msevaServiceCode": "FoulSmellFromSewerLine" },
-            { "id": "1157", "label": "Manhole Cover Missing or Broken", "msevaServiceCode": "ManholeCoverMissingOrBroken" },
-            { "id": "1776", "label": "Block Or Overflowing Sewage", "msevaServiceCode": "BlockOrOverflowingSewage" },
-            { "id": "3418", "label": "Broken Water Pipe or leakage", "msevaServiceCode": "BrokenWaterPipeOrLeakage" }
-          ]
-        },
-        {
-          "Category_ID": "1604",
-          "departmentId": "108",
-          "departmentName": "DIRECTOR LOCAL GOVERNMENT",
-          "departmentNameLocal": "ਨਿਰਦੇਸ਼ਕ ਸਥਾਨਕ ਸਰਕਾਰ",
-          "subcategories": [
-            { "id": "3384", "label": "illegal Discharge Of Sewage", "msevaServiceCode": "illegalDischargeOfSewage" },
-            { "id": "3385", "label": "Block Or Overflowing Sewraage", "msevaServiceCode": "BlockOrOverflowingSewage" },
-            { "id": "3386", "label": "Shortage Of Water or No water supply", "msevaServiceCode": "ShortageOfWaterOrNoWaterSupply" },
-            { "id": "3387", "label": "Dirty Water Supply", "msevaServiceCode": "DirtyWaterSupply" },
-            { "id": "3388", "label": "Broken Water Pipe Or Leakage", "msevaServiceCode": "BrokenWaterPipeOrLeakage" },
-            { "id": "3389", "label": "Water Pressure is Very Less", "msevaServiceCode": "WaterPressureisVeryLess" },
-            { "id": "3390", "label": "No Water Supply", "msevaServiceCode": "NoWaterSupply" },
-            { "id": "3391", "label": "Sewage Main Hole Cover Missing Or Broken or not kept properly", "msevaServiceCode": "SewageManHoleCoverMissingOrBroken" },
-            { "id": "3392", "label": "Cleaning Of Sewage Remove SLURRYGaar", "msevaServiceCode": "CleaningOfSewageRemoveSLURRYGaar" }
+            {
+              "id": "3420",
+              "label": "Delay in release of New Sewer Connection / Transfer of Connection",
+              "msevaServiceCode": "DelayInReleaseOfNewSewerConnectionOrTransfer"
+            },
+            {
+              "id": "3419",
+              "label": "Foul Smell from Sewer Line",
+              "msevaServiceCode": "FoulSmellFromSewerLine"
+            },
+            {
+              "id": "1157",
+              "label": "Manhole Cover Broken / Missing",
+              "msevaServiceCode": "SewageMainHoleCoverMissingOrBroken"
+            },
+            {
+              "id": "1776",
+              "label": "Sewer Blockage / Sewage Overflow",
+              "msevaServiceCode": "BlockOrOverflowingSewage"
+            },
+            {
+              "id": "3418",
+              "label": "Sewer Line Broken / Damaged",
+              "msevaServiceCode": "BrokenSeweragePipeOrLeakage"
+            }
           ]
         }
       ]
