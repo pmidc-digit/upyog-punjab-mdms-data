@@ -1,0 +1,40 @@
+{
+  "tenantId": "pb.morinda",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Dr.Bheem Rao Ambedkar Community Center (Happy)",
+      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_HAPPY",
+      "locationCode": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_HAPPY",
+      "contactDetails": "011-25695450",
+      "address": "Ward No 08 Near Nagar Kheda Morinda",
+      "type": "HALL",
+      "hallDescription": "Community center facility for happy occasions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "name": "Dr.Bheem Rao Ambedkar Community Center (Sad)",
+      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_SAD",
+      "locationCode": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER_SAD",
+      "contactDetails": "011-25695450",
+      "address": "Ward No 08 Near Nagar Kheda Morinda",
+      "type": "HALL",
+      "hallDescription": "Community center facility for sad occasions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

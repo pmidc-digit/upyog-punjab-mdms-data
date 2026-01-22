@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.bhuchomandi",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Shanti Sathal",
+      "code": "SHANTI_SATHAL",
+      "locationCode": "SHANTI_SATHAL",
+      "contactDetails": "011-25695450",
+      "address": "Lehra Bega Road, Near Rambagh",
+      "type": "HALL",
+      "hallDescription": "Community hall facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

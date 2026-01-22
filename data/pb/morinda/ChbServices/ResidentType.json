@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.morinda",
+  "moduleName": "CHB",
+  "ResidentType": [
+    {
+      "name": "Resident",
+      "code": "RESIDENT",
+      "active": true
+    },
+    {
+      "name": "Non-Resident",
+      "code": "NON_RESIDENT",
+      "active": true
+    }
+  ]
+}

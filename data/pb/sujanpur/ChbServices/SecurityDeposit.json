@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.sujanpur",
+  "moduleName": "CHB",
+  "SecurityDeposit": [
+    {
+      "1": [
+        {
+          "flatAmount": 0,
+          "fromFY": "2025-26",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": true
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "flatAmount": 0,
+          "fromFY": "2025-26",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": true
+        }
+      ]
+    },
+    {
+      "3": [
+        {
+          "flatAmount": 0,
+          "fromFY": "2025-26",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": true
+        }
+      ]
+    }
+  ]
+}

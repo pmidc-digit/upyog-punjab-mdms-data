@@ -1,0 +1,102 @@
+{
+  "tenantId": "pb.sahnewal",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HallCode-CHW6",
+      "capacity": "100",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "hallId": "2",
+      "HallCode": "HallCode-CHW12",
+      "capacity": "100",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "3",
+      "hallId": "3",
+      "HallCode": "HallCode-CHW13",
+      "capacity": "100",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "4",
+      "hallId": "4",
+      "HallCode": "HallCode-CHW2",
+      "capacity": "100",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    }
+  ]
+}

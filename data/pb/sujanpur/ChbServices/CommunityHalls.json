@@ -1,0 +1,57 @@
+{
+  "tenantId": "pb.sujanpur",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Sujanpur Community Hall (Marriage)",
+      "code": "SUJANPUR_COMMUNITY_HALL_MARRIAGE",
+      "locationCode": "SUJANPUR_COMMUNITY_HALL_MARRIAGE",
+      "contactDetails": "011-25695450",
+      "address": "Community hall, Near Tempu Stand Sujanpur",
+      "type": "HALL",
+      "hallDescription": "Community hall facility for marriage functions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "name": "Sujanpur Community Hall (Happy)",
+      "code": "SUJANPUR_COMMUNITY_HALL_HAPPY",
+      "locationCode": "SUJANPUR_COMMUNITY_HALL_HAPPY",
+      "contactDetails": "011-25695450",
+      "address": "Community hall, Near Tempu Stand Sujanpur",
+      "type": "HALL",
+      "hallDescription": "Community hall facility for happy occasions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "3",
+      "name": "Sujanpur Community Hall (Sad)",
+      "code": "SUJANPUR_COMMUNITY_HALL_SAD",
+      "locationCode": "SUJANPUR_COMMUNITY_HALL_SAD",
+      "contactDetails": "011-25695450",
+      "address": "Community hall, Near Tempu Stand Sujanpur",
+      "type": "HALL",
+      "hallDescription": "Community hall facility for sad occasions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

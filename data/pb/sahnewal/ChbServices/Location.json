@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.sahnewal",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Community Hall, Ward No 6",
+      "code": "COMMUNITY_HALL_WARD_NO_6",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Community Hall, Ward No 12",
+      "code": "COMMUNITY_HALL_WARD_NO_12",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Community Hall, Ward No 13",
+      "code": "COMMUNITY_HALL_WARD_NO_13",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Community Hall, Ward No 2",
+      "code": "COMMUNITY_HALL_WARD_NO_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    }
+  ]
+}
