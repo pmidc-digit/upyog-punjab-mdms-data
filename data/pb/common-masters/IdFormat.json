@@ -784,6 +784,26 @@
     {
       "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID]",
       "idname": "challan_generation.receipt.id"
-    }
+    },
+	{
+	  "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+	  "idname": "clu.pay1.receipt.id"
+	},
+	{
+	  "format": "CLU/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CL_RECEIPT_ID]",
+	  "idname": "clu.pay2.receipt.id"
+	},
+	{
+	  "format": "NOC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NOC_RECEIPT_ID]",
+	  "idname": "obpas_noc.receipt.id"
+	},
+	{
+	  "format": "PB-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION]",
+	  "idname": "noc.application.number"
+	},
+	{
+	  "format": "PB-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
+	  "idname": "clu.application.number"
+	}
   ]
 }

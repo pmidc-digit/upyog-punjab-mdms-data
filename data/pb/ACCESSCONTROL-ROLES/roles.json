@@ -835,6 +835,103 @@
 	  "name": "View NOC Card",
 	  "description": "For NOC Card Display in Dashboard",
 	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_CLU_JE",
+	  "name": "OBPAS_CLU_JE",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_STP",
+	  "name": "OBPAS_CLU_STP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ATP_HQ",
+	  "name": "OBPAS_CLU_ATP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_MTP_HQ",
+	  "name": "OBPAS_CLU_MTP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_STP_HQ",
+	  "name": "OBPAS_CLU_STP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+
+	{
+	  "code": "OBPAS_CLU_BI",
+	  "name": "OBPAS_CLU_BI",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ATP",
+	  "name": "OBPAS_CLU_ATP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_AME",
+	  "name": "OBPAS_CLU_AME",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_MTP",
+	  "name": "OBPAS_CLU_MTP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ME",
+	  "name": "OBPAS_CLU_ME",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_JC",
+	  "name": "OBPAS_CLU_JC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_CMC",
+	  "name": "OBPAS_CLU_CMC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_EO",
+	  "name": "OBPAS_CLU_EO",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ADC",
+	  "name": "OBPAS_CLU_ADC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_DM",
+	  "name": "OBPAS_CLU_DM",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "VIEW_CLU_CARD",
+	  "name": "View CLU Card",
+	  "description": "For CLU Card Display in Dashboard",
+	  "groupId": "013"
 	}
   ]
 }
