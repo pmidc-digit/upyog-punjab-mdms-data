@@ -382,6 +382,18 @@
                     "code": "B13",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "13086088-8716-4e4f-81c1-278e1d595dc8",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B13 - A2",
+                    "localname": "UNKNOWN - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -770,7 +782,6 @@
                     "code": "B11",
                     "area": "",
                     "children": []
-
                   },
                   {
                     "id": "aaf25a6e-2f4c-4693-99f2-5461ed36cdbb",
@@ -783,7 +794,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }

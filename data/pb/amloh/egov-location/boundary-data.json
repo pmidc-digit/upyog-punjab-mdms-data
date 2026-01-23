@@ -264,6 +264,18 @@
                     "code": "P_10",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "b4b3be66-bf7e-47e6-8b9a-e59de5014531",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B10 - A1",
+                    "localname": "UNKNOWN - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
@@ -370,7 +382,6 @@
                 ]
               },
               {
-
                 "id": "aa35a7ff-6378-4383-9be4-b10f8a1769bb",
                 "boundaryNum": 1,
                 "name": "Ward No 3",
@@ -391,8 +402,7 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                 }
+                  }
                 ]
               },
               {

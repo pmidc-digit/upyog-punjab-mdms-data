@@ -1374,7 +1374,6 @@
                     "code": "NGL33",
                     "area": "AREA1",
                     "children": []
-                
                   },
                   {
                     "id": "e30a7469-cd8c-51fb-986b-dabbb9337b20",
@@ -1769,6 +1768,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "B8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "76a3b3b0-e102-4d98-b4d1-0f5689996e20",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - ZB9 - A1",
+                    "localname": "UNKNOWN - ZB9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

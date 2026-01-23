@@ -348,8 +348,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }
@@ -774,6 +772,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "DNL_25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9ba28617-34e3-4aa8-bfb3-7d5ef2bf6b90",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B8 - A2",
+                    "localname": "UNKNOWN - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

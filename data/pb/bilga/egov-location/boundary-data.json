@@ -828,6 +828,18 @@
                     "code": "BILG33",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "24c33197-1f51-4a88-8035-00e005831b0b",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - BLOCK 33 - A2",
+                    "localname": "UNKNOWN - BLOCK 33 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -1326,8 +1338,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }

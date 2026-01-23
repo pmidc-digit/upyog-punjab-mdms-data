@@ -466,8 +466,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }
@@ -760,6 +758,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2327eb49-159e-4466-ad14-0a51d377c4dc",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B7 - A1",
+                    "localname": "UNKNOWN - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

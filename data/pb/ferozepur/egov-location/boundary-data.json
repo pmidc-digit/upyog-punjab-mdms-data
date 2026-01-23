@@ -1777,7 +1777,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-                    {
+                  {
                     "id": "9010ba0f-e7df-4b43-b821-1f44123453eb",
                     "boundaryNum": 1,
                     "name": "Malwal Road, Mall Road - Ward 31",
@@ -1789,7 +1789,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				   {
+                  {
                     "id": "9010ba0f-e7df-4b43-a741-1f44767893eb",
                     "boundaryNum": 1,
                     "name": "Circular Road Bansi Gate - Ward 31",
@@ -1801,7 +1801,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "1028ba0f-e7df-4b43-b821-1f44763113eb",
                     "boundaryNum": 1,
                     "name": "Sodhe Wala Road - Ward 31",
@@ -1813,7 +1813,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "1510ba0f-e7df-4b43-b821-1f41253113eb",
                     "boundaryNum": 1,
                     "name": "Rikhi Colony - Ward 31",
@@ -1825,7 +1825,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "0303ba0f-e7df-4b43-b821-1f17103113eb",
                     "boundaryNum": 1,
                     "name": "Commercial, Institutional AND Govt. Building - Ward 31",
@@ -1834,6 +1834,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "FRP_120",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8a968487-4b13-4d6f-b8d8-c570669e7755",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN",
+                    "localname": "UNKNOWN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

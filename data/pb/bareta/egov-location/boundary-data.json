@@ -336,12 +336,10 @@
                     "code": "BLZ 13",
                     "area": "",
                     "children": []
-
                   }
                 ]
               },
               {
-
                 "id": "aa709985-091f-4964-83c9-78834c2820bb",
                 "boundaryNum": 1,
                 "name": "WARD 14",
@@ -362,9 +360,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-
-                    
                   }
                 ]
               }
@@ -945,6 +940,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BRT 33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a93660f7-9966-4df3-9798-097f72c5c240",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B15 - A1",
+                    "localname": "UNKNOWN - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

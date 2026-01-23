@@ -336,7 +336,6 @@
                     "code": "BG11",
                     "area": "",
                     "children": []
-                  
                   },
                   {
                     "id": "aa114a5a-62ad-4a36-8213-a212612ec1bb",
@@ -349,8 +348,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }
@@ -619,6 +616,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BEG_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36d7ea41-0a77-4acd-9e7f-16eff5f38775",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B10 - A1",
+                    "localname": "UNKNOWN - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

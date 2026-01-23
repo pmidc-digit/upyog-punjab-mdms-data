@@ -492,7 +492,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -989,6 +988,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d06f8b1b-1d2e-4127-8c21-012224dfedb8",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Block 8 - A1",
+                    "localname": "UNKNOWN - Block 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

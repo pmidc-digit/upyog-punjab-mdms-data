@@ -384,11 +384,10 @@
                     "code": "BLC_15",
                     "area": "",
                     "children": []
-               }
+                  }
                 ]
               },
               {
-
                 "id": "aa1a349c-3af3-4a27-9ff3-6586ada078bb",
                 "boundaryNum": 1,
                 "name": "WARD_16",
@@ -409,7 +408,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -822,6 +820,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BLC_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6209d53-1710-4f12-95c0-dcf1a3264c31",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B4 - A1",
+                    "localname": "UNKNOWN - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

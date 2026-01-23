@@ -828,6 +828,18 @@
                     "code": "BDK-54",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "704a20a1-44c9-40b0-918b-d2105c57a5ab",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Ward 13 - A1",
+                    "localname": "UNKNOWN - Ward 13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
@@ -1170,12 +1182,10 @@
                     "code": "LG_13",
                     "area": "",
                     "children": []
-
-                 }
+                  }
                 ]
               },
               {
-
                 "id": "aa1d72ca-cdf7-4654-8b63-b40a3c66fbb",
                 "boundaryNum": 1,
                 "name": "Ward No 14",

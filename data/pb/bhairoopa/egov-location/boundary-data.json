@@ -348,7 +348,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -749,6 +748,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BR28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5789147-a43c-446b-b4de-b7bada4646da",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B3 - A1",
+                    "localname": "UNKNOWN - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

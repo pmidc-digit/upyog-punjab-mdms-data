@@ -396,6 +396,18 @@
                     "code": "bhd_15",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "53b26291-6ad4-460e-af8f-27470fc20848",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B15 - A2",
+                    "localname": "UNKNOWN - B15 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -882,7 +894,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }

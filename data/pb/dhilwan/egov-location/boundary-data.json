@@ -300,7 +300,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -509,6 +508,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LC_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "7e4114bf-4f42-4b45-999c-1b950ae430a8",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B5 - A2",
+                    "localname": "UNKNOWN - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

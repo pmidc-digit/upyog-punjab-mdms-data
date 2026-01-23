@@ -97,7 +97,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "89645b9a-1180-43ca-881c-4c2f56c14785",
                     "boundaryNum": 1,
                     "name": "Near Tubwell - W1 - A1",
@@ -109,7 +109,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "39428b9a-1180-43ca-881c-4c2f56c14785",
                     "boundaryNum": 1,
                     "name": "Gali Prem Singh Wali - W1 - A1",
@@ -121,7 +121,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "12365b9a-1180-43ca-881c-4c2f56c14785",
                     "boundaryNum": 1,
                     "name": "Gali Nachtar Singh wali - W1 - A1",
@@ -133,7 +133,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "39428b9a-6874-50ca-881c-4c2f56c14785",
                     "boundaryNum": 1,
                     "name": "Kurali Road - W1 - A1",
@@ -145,7 +145,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "74589b9a-6874-50ca-881c-4c2f56c32145",
                     "boundaryNum": 1,
                     "name": "Surjit Nagar - W1 - A1",
@@ -217,7 +217,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "0ac3fde7-1c73-7845-8082-6560d478965d",
                     "boundaryNum": 1,
                     "name": "Near Gurdwara - W2 - A1",
@@ -277,7 +277,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "8d8d77c3-3214-404f-38ec-1941b2f715c6",
                     "boundaryNum": 1,
                     "name": "Gali Kapoor wali - W3 - A1",
@@ -361,7 +361,7 @@
                     "area": "AREA1",
                     "children": []
                   },
-				          {
+                  {
                     "id": "be10d6cc-369b-1879-b822-afd2e0e4a7d5",
                     "boundaryNum": 1,
                     "name": "Mohalla Rajputa - W4 - A1",
@@ -409,7 +409,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				          {
+                  {
                     "id": "82750e89-31fd-74a7-b450-c8c0a98d010e",
                     "boundaryNum": 1,
                     "name": "Gali School wala - W5 - A2",
@@ -958,6 +958,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "MLC41",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "897f8995-dc71-44e5-853a-3bf711a449af",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - W13 - A2",
+                    "localname": "UNKNOWN - W13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

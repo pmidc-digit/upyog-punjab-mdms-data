@@ -612,6 +612,18 @@
                     "code": "DBN LOC-33",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "f97a8e3f-54cd-43e9-a202-109a0e8b3226",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - 11 - A2",
+                    "localname": "UNKNOWN - 11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -1878,7 +1890,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }

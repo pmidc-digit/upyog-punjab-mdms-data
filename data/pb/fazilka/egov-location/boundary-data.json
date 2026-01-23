@@ -4506,7 +4506,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-                   {
+                  {
                     "id": "8530e77b-f1cd-4dc3-9b90-a3a0c9cd46b7",
                     "boundaryNum": 1,
                     "name": "UNMIGRATED - B9 - A2",
@@ -4515,6 +4515,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LC-178",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "818e26fd-d358-44eb-98b0-4bcdb9511399",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B9 - A2",
+                    "localname": "UNKNOWN - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

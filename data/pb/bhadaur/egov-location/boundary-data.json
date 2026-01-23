@@ -96,7 +96,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               },
@@ -1349,6 +1348,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LC 50",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3c33931c-fbb1-498b-aab0-7e297a35849f",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Block 7 - A1",
+                    "localname": "UNKNOWN - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

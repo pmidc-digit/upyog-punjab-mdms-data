@@ -1236,6 +1236,18 @@
                     "code": "Dhuri_97",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "515f8136-f7b5-4a7d-9884-a79d1ef30bb5",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B4 - A2",
+                    "localname": "UNKNOWN - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -1760,7 +1772,6 @@
                     "children": []
                   },
                   {
-
                     "id": "aa008980-b961-49b0-b3db-f1464265a7bb",
                     "boundaryNum": 1,
                     "name": "UNKNOWNAD- Blk_4",

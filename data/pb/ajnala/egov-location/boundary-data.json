@@ -1560,6 +1560,18 @@
                     "code": "MM_61",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "070b6fb0-a832-4554-afb8-f92aaa694e78",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - W 15C - A2",
+                    "localname": "UNKNOWN - W 15C - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -1618,7 +1630,6 @@
                 ]
               },
               {
-
                 "id": "aa4de7f7-462d-4e4b-98fd-3c6d76a694bb",
                 "boundaryNum": 1,
                 "name": "WARD_2",
@@ -1639,10 +1650,9 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                 }
+                  }
                 ]
               },
-
               {
                 "id": "624de7f7-462d-4e4b-98fd-3c6d76a6948a",
                 "boundaryNum": 1,
