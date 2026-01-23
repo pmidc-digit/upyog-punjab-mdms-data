@@ -149,7 +149,12 @@
 					"OccupancyName": "Independent Floor",
 					"minPlotArea": 0,
 					"maxPlotArea": 250,
-					"NormalFAR": 2.60,
+					"NormalFAR": [
+					    { "upto": 250, "far": 2.6 },
+					    { "upto": 350, "far": 2.4 },
+					    { "upto": 450, "far": 2.0 },
+					    { "upto": -1,  "far": 1.6 }
+					  ],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -161,14 +166,36 @@
 					"rearSetBack": 2.0,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": 65
+					"siteCoverage": [
+						{
+							"limit": 250,
+							"percentage": 0.65
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
 					"minPlotArea": 251,
 					"maxPlotArea": 350,
-					"NormalFAR": 2.40,
+					"NormalFAR": [
+					    { "upto": 250, "far": 2.6 },
+					    { "upto": 350, "far": 2.4 },
+					    { "upto": 450, "far": 2.0 },
+					    { "upto": -1,  "far": 1.6 }
+					  ],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -180,14 +207,36 @@
 					"rearSetBack": 2.0,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": 60
+					"siteCoverage": [
+						{
+							"limit": 250,
+							"percentage": 0.65
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
 					"minPlotArea": 351,
 					"maxPlotArea": 450,
-					"NormalFAR": 1.20,
+					"NormalFAR": [
+					    { "upto": 250, "far": 2.6 },
+					    { "upto": 350, "far": 2.4 },
+					    { "upto": 450, "far": 2.0 },
+					    { "upto": -1,  "far": 1.6 }
+					  ],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -199,14 +248,36 @@
 					"rearSetBack": 2.0,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": 50
+					"siteCoverage": [
+						{
+							"limit": 250,
+							"percentage": 0.65
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
 					"minPlotArea": 451,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.60,
+					"NormalFAR": [
+					    { "upto": 250, "far": 2.6 },
+					    { "upto": 350, "far": 2.4 },
+					    { "upto": 450, "far": 2.0 },
+					    { "upto": -1,  "far": 1.6 }
+					  ],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -218,7 +289,24 @@
 					"rearSetBack": 2.0,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": 40
+					"siteCoverage": [
+						{
+							"limit": 250,
+							"percentage": 0.65
+						},
+						{
+							"limit": 100,
+							"percentage": 0.60
+						},
+						{
+							"limit": 100,
+							"percentage": 0.50
+						},
+						{
+							"limit": -1,
+							"percentage": 0.40
+						}
+					]
 				},
 				{
 					"OccupancyType": "A-AF",
@@ -435,120 +523,498 @@
 					"siteCoverage": 35
 				},
 				{
+					"OccupancyType": "A-FH",
+					"OccupancyName": "Farmhouse",
+					"minPlotArea": 10000,
+					"maxPlotArea": 20000,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 0,
+					"maxRoad": 2147483647,
+					"minHeight": 0,
+					"maxHeight": 6,
+					"frontSetBack": 15,
+					"rearSetBack": 15,
+					"sideSetBack1": 15,
+					"sideSetBack2": 15,
+					"siteCoverage": 5
+				},
+				{
+					"OccupancyType": "A-FH",
+					"OccupancyName": "Farmhouse",
+					"minPlotArea": 20000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 0,
+					"maxRoad": 2147483647,
+					"minHeight": 0,
+					"maxHeight": 6,
+					"frontSetBack": 15,
+					"rearSetBack": 15,
+					"sideSetBack1": 15,
+					"sideSetBack2": 15,
+					"siteCoverage": 5
+				},
+				{
 					"OccupancyType": "F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 0,
-					"maxPlotArea": 100,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 1.00,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
 				},
 				{
 					"OccupancyType": "F",
 					"OccupancyName": "Commercial",
-					"minPlotArea": 101,
-					"maxPlotArea": 150,
-					"NormalFAR": 1.90,
-					"PurchasableFAR": 1.00,
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
 				},
 				{
 					"OccupancyType": "F",
 					"OccupancyName": "Commercial",
-					"minPlotArea": 151,
-					"maxPlotArea": 200,
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
 					"NormalFAR": 1.75,
-					"PurchasableFAR": 1.00,
+					"PurchasableFAR": 0.0,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
 				},
 				{
 					"OccupancyType": "F",
 					"OccupancyName": "Commercial",
-					"minPlotArea": 201,
-					"maxPlotArea": 300,
-					"NormalFAR": 1.65,
-					"PurchasableFAR": 1.00,
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
 					"minHeight": 0,
 					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
 				},
 				{
 					"OccupancyType": "F",
 					"OccupancyName": "Commercial",
-					"minPlotArea": 301,
-					"maxPlotArea": 500,
-					"NormalFAR": 1.50,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
-				},
-				{
-					"OccupancyType": "F",
-					"OccupancyName": "Commercial",
-					"minPlotArea": 501,
-					"maxPlotArea": 1000,
-					"NormalFAR": 1.50,
-					"PurchasableFAR": 1.00,
-					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
-					"siteCoverage": 40
-				},
-				{
-					"OccupancyType": "F",
-					"OccupancyName": "Commercial",
-					"minPlotArea": 1001,
+					"minPlotArea": 418.2,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.25,
-					"PurchasableFAR": 1.00,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-RB",
+					"OccupancyName": "Restaurants/ Banquet Halls",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-RB",
+					"OccupancyName": "Restaurants/ Banquet Halls",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-RB",
+					"OccupancyName": "Restaurants/ Banquet Halls",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-RB",
+					"OccupancyName": "Restaurants/ Banquet Halls",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-RB",
+					"OccupancyName": "Restaurants/ Banquet Halls",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-SCC",
+					"OccupancyName": "Shops/Showrooms/commercial complexes,etc",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-SCC",
+					"OccupancyName": "Shops/Showrooms/commercial complexes,etc",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-SCC",
+					"OccupancyName": "Shops/Showrooms/commercial complexes,etc",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-SCC",
+					"OccupancyName": "Shops/Showrooms/commercial complexes,etc",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-SCC",
+					"OccupancyName": "Shops/Showrooms/commercial complexes,etc",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-PO",
+					"OccupancyName": "Private Offices",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-PO",
+					"OccupancyName": "Private Offices",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-PO",
+					"OccupancyName": "Private Offices",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-PO",
+					"OccupancyName": "Private Offices",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-PO",
+					"OccupancyName": "Private Offices",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-B",
+					"OccupancyName": "Banks",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-B",
+					"OccupancyName": "Banks",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-B",
+					"OccupancyName": "Banks",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-B",
+					"OccupancyName": "Banks",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-B",
+					"OccupancyName": "Banks",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-LB",
+					"OccupancyName": "Guest House / Lodging & Boarding / Service Apartments",
+					"minPlotArea": 500,
+					"maxPlotArea": 1000,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 1.0,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -559,23 +1025,563 @@
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
 					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-LB",
+					"OccupancyName": "Guest House / Lodging & Boarding / Service Apartments",
+					"minPlotArea": 1001,
+					"maxPlotArea": 2000,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-LB",
+					"OccupancyName": "Guest House / Lodging & Boarding / Service Apartments",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.0,
+					"PurchasableFAR": 1.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 3.0,
+					"rearSetBack": 1.5,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 200,
+					"maxPlotArea": 836.43,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 35,
+					"sideSetBack1": 35,
+					"sideSetBack2": 35,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 836.43,
+					"maxPlotArea": 3345.72,
+					"NormalFAR": 2.25,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 35,
+					"sideSetBack1": 35,
+					"sideSetBack2": 35,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-HM",
+					"OccupancyName": "Hotel / Motel",
+					"minPlotArea": 3345.72,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 35,
+					"sideSetBack1": 35,
+					"sideSetBack2": 35,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "F-VGP",
+					"OccupancyName": "Video Games and Parlors",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-VGP",
+					"OccupancyName": "Video Games and Parlors",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-VGP",
+					"OccupancyName": "Video Games and Parlors",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-VGP",
+					"OccupancyName": "Video Games and Parlors",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-VGP",
+					"OccupancyName": "Video Games and Parlors",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-BU",
+					"OccupancyName": "Boutiques",
+					"minPlotArea": 0,
+					"maxPlotArea": 41.82,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 80
+				},
+				{
+					"OccupancyType": "F-BU",
+					"OccupancyName": "Boutiques",
+					"minPlotArea": 41.82,
+					"maxPlotArea": 104.55,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 10,
+					"sideSetBack1": 10,
+					"sideSetBack2": 10,
+					"siteCoverage": 75
+				},
+				{
+					"OccupancyType": "F-BU",
+					"OccupancyName": "Boutiques",
+					"minPlotArea": 104.55,
+					"maxPlotArea": 209,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 20,
+					"sideSetBack1": 20,
+					"sideSetBack2": 20,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "F-BU",
+					"OccupancyName": "Boutiques",
+					"minPlotArea": 209,
+					"maxPlotArea": 418.2,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 15,
+					"rearSetBack": 25,
+					"sideSetBack1": 25,
+					"sideSetBack2": 25,
+					"siteCoverage": 60
+				},
+				{
+					"OccupancyType": "F-BU",
+					"OccupancyName": "Boutiques",
+					"minPlotArea": 418.2,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 3.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 20,
+					"rearSetBack": 30,
+					"sideSetBack1": 30,
+					"sideSetBack2": 30,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "F-FS",
+					"OccupancyName": "Filling Station",
+					"minPlotArea": 250,
+					"maxPlotArea": 510,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSet": 3,
+					"rear": 0.0,
+					"side1": 0.0,
+					"side2": 0.0,
+					"siteCoverage": 10
+				},
+				{
+					"OccupancyType": "F-FCSS",
+					"OccupancyName": "Filling Cum Service Station",
+					"minPlotArea": 1080,
+					"maxPlotArea": 1485,
+					"NormalFAR": 0.20,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 6,
+					"maxHeight": 999,
+					"frontSetBack": 6.0,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 20
+				},
+				{
+					"OccupancyType": "F-CNG",
+					"OccupancyName": "Compressed Natural Gas (CNG) Mother Station",
+					"minPlotArea": 1080,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 0.10,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 4.5,
+					"maxHeight": 999,
+					"frontSetBack": 6.0,
+					"rearSetBack": 0.0,
+					"sideSetBack1": 0.0,
+					"sideSetBack2": 0.0,
+					"siteCoverage": 20
 				},
 				{
 					"OccupancyType": "G",
 					"OccupancyName": "Industrial",
 					"minPlotArea": 0,
-					"maxPlotArea": 1000,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 1.00,
+					"maxPlotArea": 300,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0.0,
 					"isActive": true,
-					"minRoad": 9,
-					"maxRoad": 18,
-					"minHeight": 0,
-					"maxHeight": 15,
-					"frontSetBack": 3.0,
-					"rearSetBack": 1.5,
-					"sideSetBack1": 1.5,
-					"sideSetBack2": 1.5,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 20,
+					"rearSetBack": 15,
+					"sideSetBack1": 15,
+					"sideSetBack2": 15,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G",
+					"OccupancyName": "Industrial",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 20,
+					"rearSetBack": 15,
+					"sideSetBack1": 15,
+					"sideSetBack2": 15,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G-F",
+					"OccupancyName": "Factory",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G-S",
+					"OccupancyName": "Storage",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G-HI",
+					"OccupancyName": "Hazard Industries",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G-RSI",
+					"OccupancyName": "Retail Service Industry",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 65
+				},
+				{
+					"OccupancyType": "G-GIP",
+					"OccupancyName": "General Industry- Industry Plotted",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-GF",
+					"OccupancyName": "General industry Flatted",
+					"minPlotArea": 2000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-ITF",
+					"OccupancyName": "Informational Technology- Flatted",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-TI",
+					"OccupancyName": "Textile Industry",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-KI",
+					"OccupancyName": "Knitwear Industry",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-SI",
+					"OccupancyName": "Sports Industry",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-WT",
+					"OccupancyName": "Wholesale Trade/ Ware House/ Integrated Freight complex (Standalone)",
+					"minPlotArea": 10000,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 24,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 35,
+					"sideSetBack1": 35,
+					"sideSetBack2": 35,
 					"siteCoverage": 40
 				},
 				{
@@ -633,287 +1639,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "J_F",
-					"OccupancyName": "Filling Station",
-					"minPlotArea": 510.00,
-					"maxPlotArea": 999999.99,
-					"NormalFAR": 0.10,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 18.29,
-					"maxRoad": 999.99,
-					"minHeight": 0,
-					"maxHeight": 6.0,
-					"frontSet": 3.0,
-					"rear": 0.0,
-					"side1": 0.0,
-					"side2": 0.0,
-					"siteCoverage": 10
-				},
-				{
-					"OccupancyType": "J-FCSS",
-					"OccupancyName": "Filling Cum Service Station",
-					"minPlotArea": 1080.00,
-					"maxPlotArea": 999999.99,
-					"NormalFAR": 0.20,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 18.29,
-					"maxRoad": 999.99,
-					"minHeight": 0,
-					"maxHeight": 6.0,
-					"frontSet": 6.0,
-					"rear": 0.0,
-					"side1": 0.0,
-					"side2": 0.0,
-					"siteCoverage": 20
-				},
-				{
-					"OccupancyType": "J-CNG",
-					"OccupancyName": "Compressed Natural Gas (CNG) Mother Station",
-					"minPlotArea": 1080.00,
-					"maxPlotArea": 999999.99,
-					"NormalFAR": 0.10,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 18.29,
-					"maxRoad": 999.99,
-					"minHeight": 0,
-					"maxHeight": 4.5,
-					"frontSet": 6.0,
-					"rear": 0.0,
-					"side1": 0.0,
-					"side2": 0.0,
-					"siteCoverage": 20
-				},
-				{
-					"OccupancyType": "K-HM",
-					"OccupancyName": "Hotel / Motel",
-					"minPlotArea": 836.43,
-					"maxPlotArea": 1672.86,
-					"NormalFAR": 2.00,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 12.0,
-					"maxRoad": 12.0,
-					"minHeight": 0,
-					"maxHeight": 999,
-					"frontSetBack": 0.0,
-					"rearSetBack": 0.0,
-					"sideSetBack1": 0.0,
-					"sideSetBack2": 0.0,
-					"siteCoverage": 40
-				},
-				{
-					"OccupancyType": "K-HM",
-					"OccupancyName": "Hotel / Motel",
-					"minPlotArea": 1672.89,
-					"maxPlotArea": 3345.72,
-					"NormalFAR": 2.50,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 18.0,
-					"maxRoad": 18.0,
-					"minHeight": 0,
-					"maxHeight": 999,
-					"frontSetBack": 0.0,
-					"rearSetBack": 0.0,
-					"sideSetBack1": 0.0,
-					"sideSetBack2": 0.0,
-					"siteCoverage": 40
-				},
-				{
-					"OccupancyType": "K-HM",
-					"OccupancyName": "Hotel / Motel",
-					"minPlotArea": 3345.73,
-					"maxPlotArea": 999999.99,
-					"NormalFAR": 3.00,
-					"PurchasableFAR": 0.00,
-					"isActive": true,
-					"minRoad": 24.0,
-					"maxRoad": 24.0,
-					"minHeight": 0,
-					"maxHeight": 999,
-					"frontSetBack": 0.0,
-					"rearSetBack": 0.0,
-					"sideSetBack1": 0.0,
-					"sideSetBack2": 0.0,
-					"siteCoverage": 40
-				},
-				{
-					"OccupancyType": "M-MP",
-					"OccupancyName": "Marriage Palace",
-					"minPlotArea": 2000,
-					"maxPlotArea": 4000,
-					"NormalFAR": 1.0,
-					"PurchasableFAR": 0.5,
-					"isActive": true,
-					"minRoad": 19,
-					"maxRoad": 12,
-					"minHeight": 4,
-					"maxHeight": 2147483647,
-					"frontSetBack": [
-						{
-							"roadType": "NH",
-							"setback": 30
-						},
-						{
-							"roadType": "SH",
-							"setback": 25
-						},
-						{
-							"roadType": "SR",
-							"setback": 20
-						},
-						{
-							"roadType": "Other",
-							"setback": 18
-						}
-					],
-					"rearSetBack": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"sideSetBack1": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"sideSetBack2": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"siteCoverage": 35
-				},
-				{
-					"OccupancyType": "M-MP",
-					"OccupancyName": "Marriage Palace",
-					"minPlotArea": 4001,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.0,
-					"PurchasableFAR": 0.5,
-					"isActive": true,
-					"minRoad": 25,
-					"maxRoad": 18,
-					"minHeight": 4,
-					"maxHeight": 2147483647,
-					"frontSetBack": [
-						{
-							"roadType": "NH",
-							"setback": 30
-						},
-						{
-							"roadType": "SH",
-							"setback": 25
-						},
-						{
-							"roadType": "SR",
-							"setback": 20
-						},
-						{
-							"roadType": "Other",
-							"setback": 18
-						}
-					],
-					"rearSetBack": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"sideSetBack1": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"sideSetBack2": [
-						{
-							"roadType": "NH",
-							"setback": 6
-						},
-						{
-							"roadType": "SH",
-							"setback": 6
-						},
-						{
-							"roadType": "SR",
-							"setback": 6
-						},
-						{
-							"roadType": "Other",
-							"setback": 6
-						}
-					],
-					"siteCoverage": 35
-				},
-				{
-					"OccupancyType": "L-GPB",
+					"OccupancyType": "L-GP",
 					"OccupancyName": "General Public/Semi-public buildings",
 					"minPlotArea": 418,
 					"maxPlotArea": 2147483647,
@@ -921,9 +1647,9 @@
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 9,
-					"maxRoad": 9,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -939,9 +1665,9 @@
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 9,
-					"maxRoad": 9,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -949,17 +1675,17 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-EB-NS",
+					"OccupancyType": "L-NS",
 					"OccupancyName": "Educational Buildings - Nursery School",
 					"minPlotArea": 1000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.00,
+					"NormalFAR": 1.0,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 12,
-					"maxRoad": 12,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 9,
 					"rearSetBack": 4.5,
 					"sideSetBack1": 4.5,
@@ -967,17 +1693,17 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-EB-PS",
+					"OccupancyType": "L-PS",
 					"OccupancyName": "Educational Buildings - Primary School",
 					"minPlotArea": 5000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.00,
+					"NormalFAR": 2.0,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 9,
-					"maxRoad": 9,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 9,
 					"rearSetBack": 4.5,
 					"sideSetBack1": 4.5,
@@ -985,17 +1711,17 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-EB-HSS",
+					"OccupancyType": "L-HSS",
 					"OccupancyName": "Educational Buildings - Higher Secondary School",
 					"minPlotArea": 5000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.50,
+					"NormalFAR": 1.5,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 18,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1003,17 +1729,17 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-EB-C",
-					"OccupancyName": "Educational Buildings - College",
+					"OccupancyType": "L-CO",
+					"OccupancyName": "Educational (College)",
 					"minPlotArea": 5000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 1.50,
+					"NormalFAR": 1.5,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 18,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1021,22 +1747,248 @@
 					"siteCoverage": 35
 				},
 				{
-					"OccupancyType": "L-E-RC",
+					"OccupancyType": "L-ERC",
 					"OccupancyName": "Education & Research Centre (Large Campus)",
 					"minPlotArea": 80000,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.00,
+					"NormalFAR": 2.0,
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 18,
+					"maxRoad": 999,
 					"minHeight": 3.6,
-					"maxHeight": 3.6,
+					"maxHeight": 999,
 					"frontSetBack": 15,
 					"rearSetBack": 9,
 					"sideSetBack1": 9,
 					"sideSetBack2": 9,
 					"siteCoverage": 25
+				},
+				{
+					"OccupancyType": "L-MP",
+					"OccupancyName": "Marriage Palace",
+					"minPlotArea": 2000,
+					"maxPlotArea": 4000,
+					"NormalFAR": 0.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 4,
+					"maxHeight": 999,
+					"frontSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 30
+						},
+						{
+							"roadType": "SH",
+							"setback": 25
+						},
+						{
+							"roadType": "SR",
+							"setback": 20
+						},
+						{
+							"roadType": "Other",
+							"setback": 18
+						}
+					],
+					"rearSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack1": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack2": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-MP",
+					"OccupancyName": "Marriage Palace",
+					"minPlotArea": 4001,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 0.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 25,
+					"maxRoad": 999,
+					"minHeight": 4,
+					"maxHeight": 999,
+					"frontSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 30
+						},
+						{
+							"roadType": "SH",
+							"setback": 25
+						},
+						{
+							"roadType": "SR",
+							"setback": 20
+						},
+						{
+							"roadType": "Other",
+							"setback": 18
+						}
+					],
+					"rearSetBack": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack1": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"sideSetBack2": [
+						{
+							"roadType": "NH",
+							"setback": 6
+						},
+						{
+							"roadType": "SH",
+							"setback": 6
+						},
+						{
+							"roadType": "SR",
+							"setback": 6
+						},
+						{
+							"roadType": "Other",
+							"setback": 6
+						}
+					],
+					"siteCoverage": 35
+				},
+				{
+					"OccupancyType": "L-NH",
+					"OccupancyName": "Hospital / Nursing Home",
+					"minPlotArea": 209.10,
+					"maxPlotArea": 836.43,
+					"NormalFAR": 2.0,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 3.25,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 3,
+					"sideSetBack1": 2,
+					"sideSetBack2": 2,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "L-NH",
+					"OccupancyName": "Hospital / Nursing Home",
+					"minPlotArea": 836.43,
+					"maxPlotArea": 3345.72,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 18.51,
+					"maxRoad": 999,
+					"minHeight": 0,
+					"maxHeight": 999,
+					"frontSetBack": 25,
+					"rearSetBack": 3,
+					"sideSetBack1": 2,
+					"sideSetBack2": 2,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "L-C",
+					"OccupancyName": "Creche / Day Care facilities",
+					"minPlotArea": 800,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.5,
+					"PurchasableFAR": 0,
+					"isActive": true,
+					"minRoad": 12,
+					"maxRoad": 999,
+					"minHeight": 3.6,
+					"maxHeight": 999,
+					"frontSetBack": 6,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
 				}
 			]
 		},
