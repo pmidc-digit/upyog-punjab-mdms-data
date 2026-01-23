@@ -5911,7 +5911,7 @@
       "code": "WS_BREAKDOWN_PENALTY",
       "isActualDemand": true,
       "IsBillamend": true,
-      "isDebit": false,
+      "isDebit": true,
       "isRequired": false,
       "name": "BreakdownPenalty",
       "order": "3",
@@ -7534,7 +7534,7 @@
 	  "order": "1",
 	  "isRequired": false
 	},
-	     {
+	{
 	  "category": "FEE",
 	  "service": "obpas_noc",
 	  "name": "NOC Compounding fees",
@@ -7544,6 +7544,16 @@
 	  "order": "1",
 	  "isRequired": false
 	},
+    {
+      "category": "FEE",
+      "service": "obpas_noc",
+      "name": "NOC fees",
+      "code": "NOC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
 	     {
 	  "category": "FEE",
 	  "service": "obpas_noc",
@@ -7982,6 +7992,86 @@
       "service": "clu",
       "name": "No Object Certificate Fee",
       "code": "CLU",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY1",
+      "name": "CLU PROCESSING FEE",
+      "code": "CLU_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU CLU FEE",
+      "code": "CLU_CLU_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU EDC FEE",
+      "code": "CLU_EDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER FEE",
+      "code": "CLU_OTHER1_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU TOTAL FEE",
+      "code": "CLU_TOTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU OTHER2 FEE",
+      "code": "CLU_OTHER2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU UDC/SIF FEE",
+      "code": "CLU_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "CLU.PAY2",
+      "name": "CLU LF FEE",
+      "code": "CLU_LF_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "0",
@@ -8502,6 +8592,76 @@
       "name": "Garbage Cess",
       "order": "2",
       "service": "GC"
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Security deposit fee",
+      "code": "RL_SECURITY_DEPOSIT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "Property rent lease Fee",
+      "code": "RENT_LEASE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Penalty Fee",
+      "code": "RL_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL Cowcess fee",
+      "code": "RL_COWCESS_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL SGST fee",
+      "code": "RL_SGST_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "rl-services",
+      "name": "RL CGST fee",
+      "code": "RL_CGST_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "code": "RL_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Fee Round Off",
+      "order": "9",
+      "service": "rl-services"
     }
   ]
 }

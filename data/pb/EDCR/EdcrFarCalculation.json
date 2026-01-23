@@ -15,9 +15,9 @@
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
 					"minPlotArea": 0,
-					"maxPlotArea": 150,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"maxPlotArea": 100,
+					"NormalFAR": 2.00,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -25,43 +25,18 @@
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 1.54,
-					"rearSetBack": 1.54,
-					"sideSetBack1": 1.54,
-					"sideSetBack2": 1.54,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 90
 				},
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 151,
-					"maxPlotArea": 200,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 101,
+					"maxPlotArea": 150,
+					"NormalFAR": 1.90,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -69,43 +44,18 @@
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 1.8,
-					"rearSetBack": 1.8,
-					"sideSetBack1": 1.8,
-					"sideSetBack2": 1.8,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 90
 				},
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 201,
-					"maxPlotArea": 300,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 151,
+					"maxPlotArea": 200,
+					"NormalFAR": 1.75,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -113,43 +63,18 @@
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 2.16,
-					"rearSetBack": 2.13,
-					"sideSetBack1": 2.13,
-					"sideSetBack2": 2.13,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 70
 				},
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 301,
-					"maxPlotArea": 500,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 201,
+					"maxPlotArea": 300,
+					"NormalFAR": 1.65,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -158,42 +83,17 @@
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 65
 				},
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 501,
-					"maxPlotArea": 1000,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 301,
+					"maxPlotArea": 500,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -202,42 +102,17 @@
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 4.6,
 					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 60
 				},
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 1001,
-					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 501,
+					"maxPlotArea": 1000,
+					"NormalFAR": 1.50,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
@@ -246,298 +121,104 @@
 					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 6.17,
 					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 50
+				},
+				{
+					"OccupancyType": "A-R",
+					"OccupancyName": "Residential",
+					"minPlotArea": 1001,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 1.25,
+					"PurchasableFAR": 1.00,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 2.75,
+					"maxHeight": 15,
+					"maxHeightWithStilt": 17.5,
+					"frontSetBack": 6.17,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
 					"minPlotArea": 0,
-					"maxPlotArea": 150,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"maxPlotArea": 250,
+					"NormalFAR": 2.60,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
 					"maxRoad": 1000,
 					"minHeight": 2.75,
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 1.54,
-					"rearSetBack": 1.54,
-					"sideSetBack1": 1.54,
-					"sideSetBack2": 1.54,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"frontSetBack": 2.0,
+					"rearSetBack": 2.0,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 65
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
-					"minPlotArea": 151,
-					"maxPlotArea": 200,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 251,
+					"maxPlotArea": 350,
+					"NormalFAR": 2.40,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
 					"maxRoad": 1000,
 					"minHeight": 2.75,
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 1.8,
-					"rearSetBack": 1.8,
-					"sideSetBack1": 1.8,
-					"sideSetBack2": 1.8,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"frontSetBack": 2.0,
+					"rearSetBack": 2.0,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 60
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
-					"minPlotArea": 201,
-					"maxPlotArea": 300,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"minPlotArea": 351,
+					"maxPlotArea": 450,
+					"NormalFAR": 1.20,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
 					"maxRoad": 1000,
 					"minHeight": 2.75,
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 2.13,
-					"rearSetBack": 2.13,
-					"sideSetBack1": 2.13,
-					"sideSetBack2": 2.13,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"frontSetBack": 2.0,
+					"rearSetBack": 2.0,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 50
 				},
 				{
 					"OccupancyType": "A-AIF",
 					"OccupancyName": "Independent Floor",
-					"minPlotArea": 301,
-					"maxPlotArea": 500,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
-					"isActive": true,
-					"minRoad": 12,
-					"maxRoad": 1000,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 3.0,
-					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
-				},
-				{
-					"OccupancyType": "A-AIF",
-					"OccupancyName": "Independent Floor",
-					"minPlotArea": 501,
-					"maxPlotArea": 1000,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
-					"isActive": true,
-					"minRoad": 12,
-					"maxRoad": 1000,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 4.6,
-					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
-				},
-				{
-					"OccupancyType": "A-AIF",
-					"OccupancyName": "Independent Floor",
-					"minPlotArea": 1001,
+					"minPlotArea": 451,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 2.0,
-					"PurchasableFAR": 1.0,
+					"NormalFAR": 1.60,
+					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
 					"maxRoad": 1000,
 					"minHeight": 2.75,
 					"maxHeight": 15,
 					"maxHeightWithStilt": 17.5,
-					"frontSetBack": 6.17,
-					"rearSetBack": 3.0,
-					"sideSetBack1": 3.0,
-					"sideSetBack2": 3.0,
-					"siteCoverage": [
-						{
-							"limit": 100,
-							"percentage": 0.90
-						},
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 100,
-							"percentage": 0.70
-						},
-						{
-							"limit": 100,
-							"percentage": 0.60
-						},
-						{
-							"limit": 100,
-							"percentage": 0.50
-						},
-						{
-							"limit": -1,
-							"percentage": 0.40
-						}
-					]
+					"frontSetBack": 2.0,
+					"rearSetBack": 2.0,
+					"sideSetBack1": 1.5,
+					"sideSetBack2": 1.5,
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "A-AF",
@@ -549,9 +230,8 @@
 					"isActive": true,
 					"minRoad": 18,
 					"maxRoad": 2147483647,
-					"minHeight": 2.75,
+					"minHeight": 10,
 					"maxHeight": 2147483647,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": [
 						{
 							"height": 10,
@@ -764,35 +444,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-						{
-							"limit": 50,
-							"percentage": 0.80
-						},
-						{
-							"limit": 75,
-							"percentage": 0.75
-						},
-						{
-							"limit": 125,
-							"percentage": 0.65
-						},
-						{
-							"limit": 250,
-							"percentage": 0.60
-						},
-						{
-							"limit": -1,
-							"percentage": 0.50
-						}
-					]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -804,35 +462,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -844,35 +480,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -884,35 +498,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -924,35 +516,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -964,35 +534,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "F",
@@ -1004,35 +552,13 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
 					"sideSetBack2": 1.5,
-					"siteCoverage": [
-					    {
-					      "limit": 50,
-					      "percentage": 0.80
-					    },
-					    {
-					      "limit": 75,
-					      "percentage": 0.75
-					    },
-					    {
-					      "limit": 125,
-					      "percentage": 0.65
-					    },
-					    {
-					      "limit": 250,
-					      "percentage": 0.60
-					    },
-					    {
-					      "limit": -1,
-					      "percentage": 0.50
-					    }
-					  ]
+					"siteCoverage": 40
 				},
 				{
 					"OccupancyType": "G",
@@ -1044,9 +570,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1063,9 +588,8 @@
 					"isActive": true,
 					"minRoad": 3.25,
 					"maxRoad": 1000,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 25,
 					"rearSetBack": 3.0,
 					"sideSetBack1": 2.0,
@@ -1082,9 +606,8 @@
 					"isActive": true,
 					"minRoad": 18.51,
 					"maxRoad": 1000,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 25,
 					"rearSetBack": 3.0,
 					"sideSetBack1": 2.0,
@@ -1119,9 +642,8 @@
 					"isActive": true,
 					"minRoad": 18.29,
 					"maxRoad": 999.99,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 6.0,
-					"maxHeightWithStilt": 17.5,
 					"frontSet": 3.0,
 					"rear": 0.0,
 					"side1": 0.0,
@@ -1138,9 +660,8 @@
 					"isActive": true,
 					"minRoad": 18.29,
 					"maxRoad": 999.99,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 6.0,
-					"maxHeightWithStilt": 17.5,
 					"frontSet": 6.0,
 					"rear": 0.0,
 					"side1": 0.0,
@@ -1157,9 +678,8 @@
 					"isActive": true,
 					"minRoad": 18.29,
 					"maxRoad": 999.99,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 4.5,
-					"maxHeightWithStilt": 17.5,
 					"frontSet": 6.0,
 					"rear": 0.0,
 					"side1": 0.0,
@@ -1176,9 +696,8 @@
 					"isActive": true,
 					"minRoad": 12.0,
 					"maxRoad": 12.0,
-					"minHeight": 2.75,
-					"maxHeight": 9999,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 0,
+					"maxHeight": 999,
 					"frontSetBack": 0.0,
 					"rearSetBack": 0.0,
 					"sideSetBack1": 0.0,
@@ -1195,9 +714,8 @@
 					"isActive": true,
 					"minRoad": 18.0,
 					"maxRoad": 18.0,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 999,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 0.0,
 					"rearSetBack": 0.0,
 					"sideSetBack1": 0.0,
@@ -1214,9 +732,8 @@
 					"isActive": true,
 					"minRoad": 24.0,
 					"maxRoad": 24.0,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 999,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 0.0,
 					"rearSetBack": 0.0,
 					"sideSetBack1": 0.0,
@@ -1233,9 +750,8 @@
 					"isActive": true,
 					"minRoad": 19,
 					"maxRoad": 12,
-					"minHeight": 2.75,
+					"minHeight": 4,
 					"maxHeight": 2147483647,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": [
 						{
 							"roadType": "NH",
@@ -1320,9 +836,8 @@
 					"isActive": true,
 					"minRoad": 25,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 4,
 					"maxHeight": 2147483647,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": [
 						{
 							"roadType": "NH",
@@ -1409,7 +924,6 @@
 					"maxRoad": 9,
 					"minHeight": 3.6,
 					"maxHeight": 3.6,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1428,7 +942,6 @@
 					"maxRoad": 9,
 					"minHeight": 3.6,
 					"maxHeight": 3.6,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1445,9 +958,8 @@
 					"isActive": true,
 					"minRoad": 12,
 					"maxRoad": 12,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
 					"frontSetBack": 9,
 					"rearSetBack": 4.5,
 					"sideSetBack1": 4.5,
@@ -1464,9 +976,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 9,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
 					"frontSetBack": 9,
 					"rearSetBack": 4.5,
 					"sideSetBack1": 4.5,
@@ -1483,9 +994,8 @@
 					"isActive": true,
 					"minRoad": 18,
 					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1502,9 +1012,8 @@
 					"isActive": true,
 					"minRoad": 18,
 					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
 					"frontSetBack": 12,
 					"rearSetBack": 6,
 					"sideSetBack1": 6,
@@ -1521,9 +1030,8 @@
 					"isActive": true,
 					"minRoad": 18,
 					"maxRoad": 18,
-					"minHeight": 2.75,
-					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
+					"minHeight": 3.6,
+					"maxHeight": 3.6,
 					"frontSetBack": 15,
 					"rearSetBack": 9,
 					"sideSetBack1": 9,
@@ -1551,9 +1059,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1570,9 +1077,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1589,9 +1095,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1608,9 +1113,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1627,9 +1131,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1646,9 +1149,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1665,9 +1167,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1684,9 +1185,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1703,9 +1203,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1722,9 +1221,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1741,9 +1239,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1760,9 +1257,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1779,9 +1275,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,
@@ -1798,9 +1293,8 @@
 					"isActive": true,
 					"minRoad": 9,
 					"maxRoad": 18,
-					"minHeight": 2.75,
+					"minHeight": 0,
 					"maxHeight": 15,
-					"maxHeightWithStilt": 17.5,
 					"frontSetBack": 3.0,
 					"rearSetBack": 1.5,
 					"sideSetBack1": 1.5,

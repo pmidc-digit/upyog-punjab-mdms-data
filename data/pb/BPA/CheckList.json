@@ -9,22 +9,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -59,22 +134,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -109,22 +259,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -210,22 +435,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -260,22 +560,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -310,22 +685,97 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_1",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "TREE_EXISTS_ON_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_2",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "PLAN_AS_PER_THE_SITE",
+          "question": "INSPECTION_REPORT_QUESTION_3",
           "fieldType": "YES/NO/NA",
           "active": true
         },
         {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "question": "INSPECTION_REPORT_QUESTION_4",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_5",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_6",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_7",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_8",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_9",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_10",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_11",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_12",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_13",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_14",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_15",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_16",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_17",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_18",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "INSPECTION_REPORT_QUESTION_19",
           "fieldType": "YES/NO/NA",
           "active": true
         }

@@ -2,21 +2,26 @@
   "tenantId": "pb.anandpursahib",
   "moduleName": "ws-services-masters",
   "billingPeriod": [
+     {
+      "active": true,
+      "connectionType": "Metered",
+      "billingCycle": "quarterly",
+      "isBreakdownPenaltyEnabled": true,
+      "isBreakdownAverageApplicable": true,
+      "breakdownPenaltyRate": 2,
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 1209600000,
+      "demandGenerationDateMillis": 345600000
+    },
     {
       "active": true,
       "connectionType": "Non Metered",
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1727740800000,
-      "taxPeriodTo": 1735669799000,
+      "taxPeriodFrom": 1759276800000,
+      "taxPeriodTo": 1767205799000,
       "demandGenerationDateMillis": 345600000
     }
   ]
 }
-
-
-
-
-
-

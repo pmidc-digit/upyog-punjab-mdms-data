@@ -1,0 +1,276 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "SubCategory": [
+    {
+      "subCategoryId": "A-R",
+      "subCategoryName": "Residential-Plotted",
+      "categoryId": "A",
+      "active": true
+    },
+    {
+      "subCategoryId": "A-GH",
+      "subCategoryName": "Group Housing/Apartment/Flat",
+      "categoryId": "A",
+      "active": true
+    },
+    {
+      "subCategoryId": "A-AF",
+      "subCategoryName": "Independent Floors",
+      "categoryId": "A",
+      "active": true
+    },
+    {
+      "subCategoryId": "A-FH",
+      "subCategoryName": "Farm House",
+      "categoryId": "A",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-C",
+      "subCategoryName": "Commercial",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-R",
+      "subCategoryName": "Restaurants/Banquet Halls",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-H",
+      "subCategoryName": "Hotels/Motels",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-S",
+      "subCategoryName": "Shop/Showrooms/Commercial Complexes etc",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-PO",
+      "subCategoryName": "Private Offices",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-B",
+      "subCategoryName": "Banks",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-CA",
+      "subCategoryName": "Cinemas and Auditoriums",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-VGP",
+      "subCategoryName": "Video Games Parlors",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-B",
+      "subCategoryName": "Boutiques",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-M",
+      "subCategoryName": "Multiplex/Miniplex",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-CGH",
+      "subCategoryName": "Club/Guest House/Lodging & Boarding/Service Apartments",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-D",
+      "subCategoryName": "Dhaba",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-PFSF",
+      "subCategoryName": "Petrol Filling Station – Four Wheeler",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-FPST",
+      "subCategoryName": "Petrol Filling Station – Two Wheeler",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-PFSS",
+      "subCategoryName": "Petrol Filling Station Service",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-PS",
+      "subCategoryName": "Petrol Station",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "F-CNGS",
+      "subCategoryName": "Compressed Natural Gas Station",
+      "categoryId": "F",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-I",
+      "subCategoryName": "Industrial",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-F",
+      "subCategoryName": "Factory",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-S",
+      "subCategoryName": "Storage",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-HI",
+      "subCategoryName": "Hazard Industries",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-W",
+      "subCategoryName": "Wholesale Trade/Ware House/Integrated Freight complex (Standalone)",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-RSI",
+      "subCategoryName": "Retail Service Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-GI",
+      "subCategoryName": "General Industry-Industry Plotted",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-GI",
+      "subCategoryName": "General Industry-Flatted",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-IT",
+      "subCategoryName": "Information Technology-Industry Plotted",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-IT",
+      "subCategoryName": "Information Technology-Flatted",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-TI",
+      "subCategoryName": "Textile Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-KI",
+      "subCategoryName": "Knitwear Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "G-SI",
+      "subCategoryName": "Sports Industry",
+      "categoryId": "G",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-GP",
+      "subCategoryName": "General Public/Semi-public buildings",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-GO",
+      "subCategoryName": "Government offices-integrated office complex buildings",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-EN",
+      "subCategoryName": "Educational(Nursery School)",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-EP",
+      "subCategoryName": "Educational(Primary School)",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-EH",
+      "subCategoryName": "Educational(Higher Secondary School)",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-E",
+      "subCategoryName": "Educational(College)",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-ER",
+      "subCategoryName": "Education and Research Centre (large campus i.e. above 8 Ha./ 19.75 acres)",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-MP",
+      "subCategoryName": "Marriage Palace",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-NH",
+      "subCategoryName": "Nursing Home/Hospitals",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "P-NH",
+      "subCategoryName": "Creche/Day Care facilities",
+      "categoryId": "P",
+      "active": true
+    },
+    {
+      "subCategoryId": "Q-ML",
+      "subCategoryName": "Mixed land",
+      "categoryId": "Q",
+      "active": true
+    }
+  ]
+}

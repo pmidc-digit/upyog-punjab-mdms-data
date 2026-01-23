@@ -2121,7 +2121,6 @@
       "code": "null",
       "path": "Billing Service.BS_GetDemandDues"
     },
-
     {
       "id": 819,
       "name": "TL Report MetaData",
@@ -2701,6 +2700,7 @@
       "code": "null",
       "path": "Location.Search Boundary"
     },
+
     {
       "id": 1444,
       "name": "CheckList Create",
@@ -5891,22 +5891,6 @@
       "leftIcon": "social:people"
     },
     {
-      "id": 1775,
-      "name": "rainmaker-common-complaints",
-      "url": "card",
-      "displayName": "Complaints",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "",
-      "path": "",
-      "navigationURL": "all-complaints",
-      "leftIcon": "action:announcement",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
       "id": 1776,
       "name": "rainmaker-common-propertytax",
       "url": "card",
@@ -5917,7 +5901,7 @@
       "serviceCode": "PT",
       "code": "",
       "path": "",
-      "navigationURL": "pt-mutation/propertySearch",
+      "navigationURL": "/citizen/property-tax",
       "leftIcon": "action:store",
       "rightIcon": "",
       "queryParams": ""
@@ -5938,22 +5922,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-    {
-      "id": 1778,
-      "name": "rainmaker-common-tradelicence",
-      "url": "card",
-      "displayName": "Trade Licence",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TL",
-      "code": "",
-      "path": "",
-      "navigationURL": "tradelicence/search",
-      "leftIcon": "places:business-center",
-      "rightIcon": "",
-      "queryParams": ""
-    },
+
     {
       "id": 1779,
       "name": "rainmaker-common-hrms",
@@ -6449,54 +6418,6 @@
       "serviceCode": "egov-indexer",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 1815,
-      "name": "rainmaker-citizen-propertytax",
-      "url": "card",
-      "displayName": "Property Tax",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen",
-      "leftIcon": "custom:home-city-outline",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 1816,
-      "name": "rainmaker-citizen-tradelicence",
-      "url": "card",
-      "displayName": "Trade Licence",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/",
-      "leftIcon": "custom:trade-license",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 1817,
-      "name": "rainmaker-citizen-fire-noc",
-      "url": "card",
-      "displayName": "FIRE-NOC",
-      "orderNumber": 3,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "fire-noc/home",
-      "leftIcon": "custom:fire",
-      "rightIcon": "",
-      "queryParams": ""
     },
     {
       "id": 1212,
@@ -7731,7 +7652,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1906,
       "name": "TradeWiseCollectionReport",
@@ -7872,7 +7792,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1916,
       "name": "Create Sewerage Connection",
@@ -7972,7 +7891,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1925,
       "name": "Add adhoc tax to sewerage",
@@ -8046,7 +7964,6 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-
     {
       "id": 1930,
       "name": "FetchBillV2",
@@ -8057,21 +7974,6 @@
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.GenerateBill"
-    },
-    {
-      "id": 1931,
-      "name": "TradeLicense",
-      "url": "url",
-      "displayName": "Trade License",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "navigationURL": "tradelicense-citizen/home",
-      "path": "TradeLicense",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
     },
 
     {
@@ -8151,7 +8053,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 1899,
       "name": "Create Water Connection",
@@ -8240,37 +8141,7 @@
       "code": "null",
       "path": ""
     },
-    {
-      "id": 1940,
-      "name": "rainmaker-citizen-tradelicence",
-      "url": "card",
-      "displayName": "Trade Licence",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "tradelicense-citizen/home",
-      "leftIcon": "custom:trade-license",
-      "rightIcon": "",
-      "queryParams": ""
-    },
-    {
-      "id": 1941,
-      "name": "Complaints",
-      "url": "url",
-      "displayName": "Complaints",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "Complaints",
-      "navigationURL": "pgr-home",
-      "leftIcon": "custom:account-alert",
-      "rightIcon": ""
-    },
+
     {
       "id": 1942,
       "name": "rainmaker-citizen-complaints",
@@ -8282,29 +8153,47 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "pgr-home",
+      "navigationURL": "/digit-ui/citizen/pgr-home",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
     },
     {
-      "id": 1943,
-      "name": "PropertyTax",
-      "url": "url",
-      "displayName": "Property Tax",
-      "orderNumber": 1,
-      "queryParams": "",
+      "id": 19400,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Trade License",
+      "orderNumber": 2,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax",
-      "navigationURL": "property-tax",
-      "leftIcon": "communication:business",
-      "rightIcon": ""
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/tl-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
     },
     {
-      "id": 1944,
-      "name": "rainmaker-citizen-propertytax",
+      "id": 19401,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Pet Registeration",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ptr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+
+    {
+      "id": 19402,
+      "name": "rainmaker-citizen-complaints",
       "url": "card",
       "displayName": "Property Tax",
       "orderNumber": 2,
@@ -8313,8 +8202,8 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "property-tax",
-      "leftIcon": "custom:home-city-outline",
+      "navigationURL": "/citizen/property-tax",
+      "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -8520,7 +8409,6 @@
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant_v2",
       "path": "Misc_Collect.Reports.Misc Business Service Collections V2"
     },
-
     {
       "id": 1962,
       "name": "MiscReceiptULBCancelled_v2",
@@ -8877,7 +8765,6 @@
       "rightIcon": "",
       "queryParams": ""
     },
-
     {
       "id": 1988,
       "name": "DescriptionReport_v2",
@@ -9066,7 +8953,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2001,
       "name": "Receipt Register_V2",
@@ -9202,7 +9088,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2010,
       "name": "FY Collection Report_V2",
@@ -9270,7 +9155,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2015,
       "name": "ULBInformation",
@@ -9425,7 +9309,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2026,
       "name": "RuralDistrictWiseChannelsReport_V2",
@@ -9441,7 +9324,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1844,
       "name": "RainmakerPGR-DescriptionReport-Metadata",
@@ -9480,7 +9362,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2027,
       "name": "DrillDownRuralWiseChannelReport_V2",
@@ -9685,7 +9566,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2041,
       "name": "Receipt RegisterShortWithoutLocality_V2",
@@ -9787,7 +9667,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2047,
       "name": "Top Payers 2020-21",
@@ -9878,251 +9757,139 @@
     },
     {
       "id": 2053,
-
       "name": "rainmaker-localization-screen",
-
       "url": "url",
-
       "displayName": "Localization",
-
       "orderNumber": 5,
-
       "parentModule": "",
-
       "enabled": false,
-
       "serviceCode": "",
-
       "code": "",
-
       "path": "Localization",
-
       "navigationURL": "integration/ui-localisation/localization",
-
       "leftIcon": "places:business-center",
-
       "rightIcon": "",
-
       "queryParams": ""
     },
-
     {
       "id": 2054,
-
       "name": "consolidatedreceipt search",
-
       "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
-
       "displayName": "consolidatedreceipt search",
-
       "orderNumber": 1,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2055,
-
       "name": "consolidatedbill search",
-
       "url": "/egov-pdf/download/BILL/consolidatedbill",
-
       "displayName": "consolidatedbill search",
-
       "orderNumber": 2,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2056,
-
       "name": "tlreceipt search",
-
       "url": "/egov-pdf/download/TL/tlreceipt",
-
       "displayName": "tlreceipt search",
-
       "orderNumber": 3,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2057,
-
       "name": "tlcertificate search",
-
       "url": "/egov-pdf/download/TL/tlcertificate",
-
       "displayName": "tlcertificate search",
-
       "orderNumber": 4,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2058,
-
       "name": "tlrenewalcertificate search",
-
       "url": "/egov-pdf/download/TL/tlrenewalcertificate",
-
       "displayName": "tlrenewalcertificate search",
-
       "orderNumber": 5,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2059,
-
       "name": "tlbill search",
-
       "url": "/egov-pdf/download/TL/tlbill",
-
       "displayName": "tlbill search",
-
       "orderNumber": 6,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2060,
-
       "name": "ptmutationcertificate search",
-
       "url": "/egov-pdf/download/PT/ptmutationcertificate",
-
       "displayName": "ptmutationcertificate search",
-
       "orderNumber": 7,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2061,
-
       "name": "ptbill search",
-
       "url": "/egov-pdf/download/PT/ptbill",
-
       "displayName": "ptbill search",
-
       "orderNumber": 8,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2062,
-
       "name": "ptreceipt search",
-
       "url": "/egov-pdf/download/PT/ptreceipt",
-
       "displayName": "ptreceipt search",
-
       "orderNumber": 9,
-
       "enabled": false,
-
       "serviceCode": "egov-pdf",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2063,
-
       "name": "Locality searcher endpoint for SW",
-
       "url": "/egov-searcher/locality/sw-services/_get",
-
       "displayName": "SW-Service locality searcher",
-
       "orderNumber": 0,
-
       "enabled": true,
-
       "serviceCode": "egov-searcher",
-
       "code": "null",
-
       "path": ""
     },
-
     {
       "id": 2064,
-
       "name": "Locality searcher endpoint for WS",
-
       "url": "/egov-searcher/locality/ws-services/_get",
-
       "displayName": "WS-Service locality searcher",
-
       "orderNumber": 0,
-
       "enabled": true,
-
       "serviceCode": "egov-searcher",
-
       "code": "null",
-
       "path": ""
     },
     {
@@ -10137,7 +9904,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2066,
       "name": "BillGenie",
@@ -10228,7 +9994,6 @@
       "code": "null",
       "path": "WS Report"
     },
-
     {
       "id": 2071,
       "name": "WS Report",
@@ -10468,7 +10233,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2090,
       "name": "Base Register Report WS",
@@ -10484,7 +10248,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2091,
       "name": "WS Report",
@@ -11323,7 +11086,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2161,
       "name": "DEFAULT Payment search",
@@ -11804,7 +11566,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2201,
       "name": "DEFAULT Payment search",
@@ -12444,7 +12205,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2253,
       "name": "ReceiptCollections",
@@ -12532,7 +12292,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2260,
       "name": "UC Payment workflow",
@@ -13025,7 +12784,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2301,
       "name": "DEFAULT Payment workflow",
@@ -14058,7 +13816,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2387,
       "name": "DEFAULT Payment search",
@@ -14154,7 +13911,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2395,
       "name": "Disconnect Sewerage Connection",
@@ -14226,7 +13982,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2401,
       "name": "SW Payment workflow",
@@ -15527,7 +15282,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1810,
       "name": "ApplicationStatusReport",
@@ -15543,7 +15297,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 1811,
       "name": "ChannelsReport",
@@ -15559,7 +15312,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 2501,
       "name": "Top Payers Commercial",
@@ -16650,7 +16402,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2584,
       "name": "GrievanceWithPriority",
@@ -16767,7 +16518,6 @@
       "path": "",
       "navigationURL": ""
     },
-
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -19405,7 +19155,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 2817,
       "name": "MDMS",
@@ -19448,7 +19197,6 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-
     {
       "id": 5001,
       "name": "Create BPALicense",
@@ -19794,7 +19542,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 5032,
       "name": "Plan Scrutiny",
@@ -19828,7 +19575,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 180,
       "name": "CommunitySearch",
@@ -19842,7 +19588,6 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.Community.CommunitySearch"
     },
-
     {
       "id": 9996,
       "name": "BND UnLink Account",
@@ -19887,7 +19632,6 @@
       "code": "null",
       "path": "PGR Report"
     },
-
     {
       "id": 6001,
       "name": "Create PGR Request",
@@ -19958,7 +19702,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7001,
       "name": "Survey Search",
@@ -19970,7 +19713,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7002,
       "name": "Create Survey",
@@ -20015,7 +19757,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 7006,
       "name": "Show Survey Response",
@@ -20027,7 +19768,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 6007,
       "name": "OpenComplaints",
@@ -20693,7 +20433,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
-
     {
       "id": 882456,
       "name": "BPA_CITIZEN_HOME_STAKEHOLDER_LOGIN_LABEL",
@@ -20928,7 +20667,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-
     {
       "id": 882473,
       "name": "OBPS_FAQ_S",
@@ -21758,7 +21496,6 @@
       "code": "null",
       "path": "Property Report"
     },
-
     {
       "id": 23451576,
       "name": "PT Report",
@@ -22957,24 +22694,6 @@
       "sidebarURL": "/digit-ui/citizen/challangeneration-home"
     },
     {
-      "id": 23383,
-      "name": "UC_MY_CHALLANS",
-      "url": "digit-ui-card",
-      "displayName": "Rent And Lease",
-      "orderNumber": 1,
-      "parentModule": "RentAndLease",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/rentandlease/My-Challans",
-      "leftIcon": "MCollectIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/rentandlease-home"
-    },
-    {
       "id": 23385,
       "name": "NDC Reports",
       "url": "/report/rainmaker-ndc/_get",
@@ -23902,7 +23621,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900912,
       "name": "LAYOUT Calculator",
@@ -23979,7 +23697,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-
     {
       "id": 8900802,
       "name": "create clu application",
@@ -24014,7 +23731,6 @@
       "code": "null",
       "path": ""
     },
-
     {
       "id": 8900913,
       "name": "CLU Calculator",
@@ -24024,6 +23740,39 @@
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "clu-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900945,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/clu/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900134,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900135,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
     },
@@ -24364,25 +24113,25 @@
     },
     {
       "id": 882433,
-      "name": "CHB Reports",
+      "name": "Venue Booking Reports",
       "url": "/report/rainmaker-chb/_get",
-      "displayName": "CHB Reports",
+      "displayName": "Venue Booking Reports",
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
       "code": "null",
-      "path": "CHB Reports"
+      "path": "Venue Booking Reports"
     },
     {
       "id": 882434,
-      "name": "CHB Reports",
+      "name": "Venue Booking Reports",
       "url": "/report/rainmaker-chb/metadata/_get",
-      "displayName": "CHB Reports",
+      "displayName": "Venue Booking Reports",
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
       "code": "null",
-      "path": "CHB Reports"
+      "path": "Venue Booking Reports"
     },
     {
       "id": 882435,
@@ -24394,7 +24143,7 @@
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "CHBREPORTS",
-      "path": "CHB Reports.Timely Booking Report",
+      "path": "Venue Booking Reports.Timely Booking Report",
       "navigationURL": "report/rainmaker-chb/TimelyBookingReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -24431,7 +24180,7 @@
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "CHB Reports.Collection Report",
+      "path": "Venue Booking Reports.Collection Report",
       "navigationURL": "report/rainmaker-chb/CollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -24630,24 +24379,24 @@
     },
     {
       "id": 8900955,
-      "name": "Receipt Register CHB",
+      "name": "Receipt Register Venue Booking",
       "url": "url",
-      "displayName": "Receipt Register CHB",
+      "displayName": "Receipt Register Venue Booking",
       "orderNumber": 4,
       "queryParams": "",
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "CHBREPORTS",
-      "path": "CHB Reports.Receipt Register CHB",
-      "navigationURL": "report/rainmaker-chb/ReceiptRegisterCHB",
+      "path": "Venue Booking Reports.Receipt Register Venue Booking",
+      "navigationURL": "report/rainmaker-chb/ReceiptRegisterVenueBooking",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 8900957,
-      "name": "Receipt Register CHB",
-      "url": "/report/rainmaker-chb/ReceiptRegisterCHB/metadata/_get",
-      "displayName": "Receipt Register CHB",
+      "name": "Receipt Register Venue Booking",
+      "url": "/report/rainmaker-chb/ReceiptRegisterVenueBooking/metadata/_get",
+      "displayName": "Receipt Register Venue Booking",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
@@ -24656,9 +24405,9 @@
     },
     {
       "id": 8900956,
-      "name": "Receipt Register CHB",
-      "url": "/report/rainmaker-chb/ReceiptRegisterCHB/_get",
-      "displayName": "Receipt Register CHB",
+      "name": "Receipt Register Venue Booking",
+      "url": "/report/rainmaker-chb/ReceiptRegisterVenueBooking/_get",
+      "displayName": "Receipt Register Venue Booking",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
@@ -25159,7 +24908,7 @@
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "CHBREPORTS",
-      "path": "State Reports.CHB.State Timely Booking Report",
+      "path": "State Reports.Venue Booking.State Timely Booking Report",
       "navigationURL": "report/rainmaker-chb/StateTimelyBookingReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25196,7 +24945,7 @@
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "State Reports.CHB.State Collection Report",
+      "path": "State Reports.Venue Booking.State Collection Report",
       "navigationURL": "report/rainmaker-chb/StateCollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -25225,24 +24974,24 @@
     },
     {
       "id": 8900064,
-      "name": "State Receipt Register CHB",
+      "name": "State Receipt Register Venue Booking",
       "url": "url",
-      "displayName": "State Receipt Register CHB",
+      "displayName": "State Receipt Register Venue Booking",
       "orderNumber": 4,
       "queryParams": "",
       "parentModule": "CHB REPORTS",
       "enabled": true,
       "serviceCode": "CHBREPORTS",
-      "path": "State Reports.CHB.State Receipt Register CHB",
-      "navigationURL": "report/rainmaker-chb/StateReceiptRegisterCHB",
+      "path": "State Reports.Venue Booking.State Receipt Register Venue Booking",
+      "navigationURL": "report/rainmaker-chb/StateReceiptRegisterVenueBooking",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
       "id": 8900065,
-      "name": "State Receipt Register CHB",
-      "url": "/report/rainmaker-chb/StateReceiptRegisterCHB/metadata/_get",
-      "displayName": "State Receipt Register CHB",
+      "name": "State Receipt Register Venue Booking",
+      "url": "/report/rainmaker-chb/StateReceiptRegisterVenueBooking/metadata/_get",
+      "displayName": "State Receipt Register Venue Booking",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
@@ -25251,9 +25000,9 @@
     },
     {
       "id": 8900066,
-      "name": "State Receipt Register CHB",
-      "url": "/report/rainmaker-chb/StateReceiptRegisterCHB/_get",
-      "displayName": "State Receipt Register CHB",
+      "name": "State Receipt Register Venue Booking",
+      "url": "/report/rainmaker-chb/StateReceiptRegisterVenueBooking/_get",
+      "displayName": "State Receipt Register Venue Booking",
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "CHBREPORTS",
@@ -25590,6 +25339,1558 @@
       "orderNumber": 4,
       "enabled": true,
       "serviceCode": "PETREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900094,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900095,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/swbatchbilling/_get",
+      "displayName": "Search Sewerage Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900096,
+      "name": "CreateAllotment",
+      "url": "/rl-services/allotment/_create",
+      "displayName": "Create Allotment",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900097,
+      "name": "UpdateAllotment",
+      "url": "/rl-services/allotment/_update",
+      "displayName": "Update Allotment",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900098,
+      "name": "searchListAllotment",
+      "url": "/rl-services/allotment/v1/_search",
+      "displayName": "search List Allotment",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900099,
+      "name": "RLCalculatorCalculate",
+      "url": "/rl-calculator/v1/_calculate",
+      "displayName": "Calculate demand",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900100,
+      "name": "PropertyReport",
+      "url": "/rl-services/property/_report",
+      "displayName": "Property Report",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900101,
+      "name": "SearchCollection",
+      "url": "/collection-services/payments/rl-services/_search",
+      "displayName": "Search Collection",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900102,
+      "name": "RLCalculatorEstimate",
+      "url": "/rl-calculator/v1/_estimate",
+      "displayName": "Estimate Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8900103,
+      "name": "RLCalculatorUpdateDemand",
+      "url": "/rl-calculator/v1/_updatedemand",
+      "displayName": "Updatedemand Demand",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 23384,
+      "name": "PT_MY_PROPERTIES",
+      "url": "digit-ui-card",
+      "displayName": "Rent And Lease",
+      "orderNumber": 1,
+      "parentModule": "RentAndLease",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/rentandlease/my-properties",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/rentandlease-home"
+    },
+    {
+      "id": 8900909,
+      "name": "Rent And Lease Inbox",
+      "url": "url",
+      "displayName": "Search Alloted Properties",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900910,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Allot New Property",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/allot-property",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900108,
+      "name": "Amritsar Summary Employee Report",
+      "url": "url",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "path": "Swach Reports.Amritsar Summary Employee Report",
+      "navigationURL": "report/rainmaker-swach/AmritsarSummaryEmployeeReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900109,
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/AmritsarSummaryEmployeeReport/metadata/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900110,
+      "name": "Amritsar Summary Employee Report",
+      "url": "/report/rainmaker-swach/AmritsarSummaryEmployeeReport/_get",
+      "displayName": "Amritsar Summary Employee Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900113,
+      "name": "Employee wise pending report",
+      "url": "url",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "path": "State Reports.Employee wise pending report",
+      "navigationURL": "report/rainmaker-ndc/Employeewisependingreport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900114,
+      "name": "Employee wise pending report",
+      "url": "/report/rainmaker-ndc/Employeewisependingreport/metadata/_get",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900115,
+      "name": "Employee wise pending report",
+      "url": "/report/rainmaker-ndc/Employeewisependingreport/_get",
+      "displayName": "Employee wise pending report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900116,
+      "name": "Overall Summary Report",
+      "url": "url",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "NDC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.Overall Summary Report",
+      "navigationURL": "report/rainmaker-ndc/OverallSummaryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900117,
+      "name": "Overall Summary Report",
+      "url": "/report/rainmaker-ndc/OverallSummaryReport/metadata/_get",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900118,
+      "name": "Overall Summary Report",
+      "url": "/report/rainmaker-ndc/OverallSummaryReport/_get",
+      "displayName": "Overall Summary Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900119,
+      "name": "Beyond Timeline Summary",
+      "url": "url",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Beyond Timeline Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/BeyondTimelineSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900120,
+      "name": "Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/BeyondTimelineSummary/metadata/_get",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900121,
+      "name": "Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/BeyondTimelineSummary/_get",
+      "displayName": "Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900122,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "url",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Detailed List Beyond Timeline Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900123,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary/metadata/_get",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900124,
+      "name": "Detailed List Beyond Timeline Summary",
+      "url": "/report/rainmaker-obpas_bpa/DetailedListBeyondTimelineSummary/_get",
+      "displayName": "Detailed List Beyond Timeline Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900125,
+      "name": "Detailed Files Near Timeline Breach",
+      "url": "url",
+      "displayName": "Detailed Files Near Timeline Breach",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Detailed Files Near Timeline Breach",
+      "navigationURL": "report/rainmaker-obpas_bpa/DetailedFilesNearTimelineBreach",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900126,
+      "name": "Detailed Files Near Timeline Breach",
+      "url": "/report/rainmaker-obpas_bpa/DetailedFilesNearTimelineBreach/metadata/_get",
+      "displayName": "Detailed Files Near Timeline Breach",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900127,
+      "name": "Detailed Files Near Timeline Breach",
+      "url": "/report/rainmaker-obpas_bpa/DetailedFilesNearTimelineBreach/_get",
+      "displayName": "Detailed Files Near Timeline Breach",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900128,
+      "name": "Files Near Timeline Breach Summary",
+      "url": "url",
+      "displayName": "Files Near Timeline Breach Summary",
+      "orderNumber": 9,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Files Near Timeline Breach Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/FilesNearTimelineBreachSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900129,
+      "name": "Files Near Timeline Breach Summary",
+      "url": "/report/rainmaker-obpas_bpa/FilesNearTimelineBreachSummary/metadata/_get",
+      "displayName": "Files Near Timeline Breach Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900130,
+      "name": "Files Near Timeline Breach Summary",
+      "url": "/report/rainmaker-obpas_bpa/FilesNearTimelineBreachSummary/_get",
+      "displayName": "Files Near Timeline Breach Summary",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900015,
+      "name": "BUILDING PLAN REPORTS",
+      "url": "/report/rainmaker-obpas_bpa/_get",
+      "displayName": "BUILDING PLAN REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": "BUILDING PLAN REPORTS"
+    },
+    {
+      "id": 8900016,
+      "name": "BUILDING PLAN REPORTS",
+      "url": "/report/rainmaker-obpas_bpa/metadata/_get",
+      "displayName": "BUILDING PLAN REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": "BUILDING PLAN REPORTS"
+    },
+    {
+      "id": 8900017,
+      "name": "Application Detail Report",
+      "url": "url",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/ApplicationDetailReportBPA",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900018,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_bpa/ApplicationDetailReportBPA/metadata/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900019,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_bpa/ApplicationDetailReportBPA/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900020,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "BUILDING PLAN REPORTS.Collection Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/CollectionsReportBPA",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900021,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_bpa/CollectionsReportBPA/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900022,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_bpa/CollectionsReportBPA/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900023,
+      "name": "SLA Report",
+      "url": "url",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "BUILDING PLAN REPORTS.SLA Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/SLAReportbpa",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900024,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_bpa/SLAReportbpa/metadata/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900025,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_bpa/SLAReportbpa/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900026,
+      "name": "Receipt Register BPA",
+      "url": "url",
+      "displayName": "Receipt Register BPA",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Receipt Register BPA",
+      "navigationURL": "report/rainmaker-obpas_bpa/ReceiptRegisterbpa",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900027,
+      "name": "Receipt Register BPA",
+      "url": "/report/rainmaker-obpas_bpa/ReceiptRegisterbpa/metadata/_get",
+      "displayName": "Receipt Register BPA",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900028,
+      "name": "Receipt Register BPA",
+      "url": "/report/rainmaker-obpas_bpa/ReceiptRegisterbpa/_get",
+      "displayName": "Receipt Register BPA",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900029,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "url",
+      "displayName": "Pending Files Summary",
+      "orderNumber": 6,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Beyond Time Line Pending Files Summary",
+      "navigationURL": "report/rainmaker-obpas_bpa/Pending_Files_Summary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900030,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "/report/rainmaker-obpas_bpa/Pending_Files_Summary/metadata/_get",
+      "displayName": "Beyond Time Line Pending Files Summary",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900031,
+      "name": "Beyond Time Line Pending Files Summary",
+      "url": "/report/rainmaker-obpas_bpa/Pending_Files_Summary/_get",
+      "displayName": "Beyond Time Line Pending Files Summary",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900032,
+      "name": "Detailed File List",
+      "url": "url",
+      "displayName": "Detailed File List",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Detailed File List",
+      "navigationURL": "report/rainmaker-obpas_bpa/Detailed_File_List",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900033,
+      "name": "Detailed File List",
+      "url": "/report/rainmaker-obpas_bpa/Detailed_File_List/metadata/_get",
+      "displayName": "Detailed File List",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900034,
+      "name": "Detailed File List",
+      "url": "/report/rainmaker-obpas_bpa/Detailed_File_List/_get",
+      "displayName": "Detailed File List",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900036,
+      "name": "Top 7 officers with Highest Pendency",
+      "url": "url",
+      "displayName": "Top 7 officers with Highest Pendency",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Top 7 officers with Highest Pendency",
+      "navigationURL": "report/rainmaker-obpas_bpa/officers_with_highest_pendency",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900037,
+      "name": "Top 7 officers with Highest Pendency",
+      "url": "/report/rainmaker-obpas_bpa/officers_with_highest_pendency/metadata/_get",
+      "displayName": "Top 7 officers with Highest Pendency",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900038,
+      "name": "Top 7 officers with Highest Pendency",
+      "url": "/report/rainmaker-obpas_bpa/officers_with_highest_pendency/_get",
+      "displayName": "Top 7 officers with Highest Pendency",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900039,
+      "name": "Officers wise Pendency Trend Analysis - Last 7 Days",
+      "url": "url",
+      "displayName": "Officers wise Pendency Trend Analysis",
+      "orderNumber": 8,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/officers_wise_pendency",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900040,
+      "name": "Officers wise Pendency Trend Analysis - Last 7 Days",
+      "url": "/report/rainmaker-obpas_bpa/officers_wise_pendency/metadata/_get",
+      "displayName": "Officers wise Pendency Trend Analysis",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900041,
+      "name": "Officers wise Pendency Trend Analysis - Last 7 Days",
+      "url": "/report/rainmaker-obpas_bpa/officers_wise_pendency/_get",
+      "displayName": "Officers wise Pendency Trend Analysis",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900973,
+      "name": "OBPAS NOC REPORTS",
+      "url": "/report/rainmaker-obpas_noc/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS NOC REPORTS"
+    },
+    {
+      "id": 8900974,
+      "name": "OBPAS NOC REPORTS",
+      "url": "/report/rainmaker-obpas_noc/metadata/_get",
+      "displayName": "OBPAS NOC REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": "OBPAS NOC REPORTS"
+    },
+    {
+      "id": 8900975,
+      "name": "Application Detail Report",
+      "url": "url",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "path": "OBPAS NOC REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_noc/ApplicationDetailReportNOC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900976,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_noc/ApplicationDetailReportNOC/metadata/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900977,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_noc/ApplicationDetailReportNOC/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900978,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS NOC REPORTS.Collection Report",
+      "navigationURL": "report/rainmaker-obpas_noc/CollectionsReportNOC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900979,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_noc/CollectionsReportNOC/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900980,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_noc/CollectionsReportNOC/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900981,
+      "name": "SLA Report",
+      "url": "url",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS NOC REPORTS.SLA Report",
+      "navigationURL": "report/rainmaker-obpas_noc/SLAReportNOC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900982,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_noc/SLAReportNOC/metadata/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900983,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_noc/SLAReportNOC/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900984,
+      "name": "Receipt Register NOC",
+      "url": "url",
+      "displayName": "Receipt Register NOC",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "path": "OBPAS NOC REPORTS.Receipt Register NOC",
+      "navigationURL": "report/rainmaker-obpas_noc/ReceiptRegisterNOC",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900985,
+      "name": "Receipt Register NOC",
+      "url": "/report/rainmaker-obpas_noc/ReceiptRegisterNOC/metadata/_get",
+      "displayName": "Receipt Register NOC",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900986,
+      "name": "Receipt Register NOC",
+      "url": "/report/rainmaker-obpas_noc/ReceiptRegisterNOC/_get",
+      "displayName": "Receipt Register NOC",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900987,
+      "name": "OBPAS CLU REPORTS",
+      "url": "/report/rainmaker-obpas_clu/_get",
+      "displayName": "OBPAS CLU REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": "OBPAS CLU REPORTS"
+    },
+    {
+      "id": 8900988,
+      "name": "OBPAS CLU REPORTS",
+      "url": "/report/rainmaker-obpas_clu/metadata/_get",
+      "displayName": "OBPAS CLU REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": "OBPAS CLU REPORTS"
+    },
+    {
+      "id": 8900989,
+      "name": "Application Detail Report",
+      "url": "url",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "path": "OBPAS CLU REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_clu/ApplicationDetailReportCLU",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900990,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_clu/ApplicationDetailReportCLU/metadata/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900991,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_clu/ApplicationDetailReportCLU/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900992,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS CLU REPORTS.Collection Report",
+      "navigationURL": "report/rainmaker-obpas_clu/CollectionsReportCLU",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900993,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_clu/CollectionsReportCLU/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900994,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_clu/CollectionsReportCLU/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900995,
+      "name": "SLA Report",
+      "url": "url",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS CLU REPORTS.SLA Report",
+      "navigationURL": "report/rainmaker-obpas_clu/SLAReportCLU",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900996,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_clu/SLAReportCLU/metadata/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900997,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_clu/SLAReportCLU/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900998,
+      "name": "Receipt Register clu",
+      "url": "url",
+      "displayName": "Receipt Register clu",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "path": "OBPAS CLU REPORTS.Receipt Register clu",
+      "navigationURL": "report/rainmaker-obpas_clu/ReceiptRegisterCLU",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900999,
+      "name": "Receipt Register CLU",
+      "url": "/report/rainmaker-obpas_clu/ReceiptRegisterCLU/metadata/_get",
+      "displayName": "Receipt Register clu",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900000,
+      "name": "Receipt Register CLU",
+      "url": "/report/rainmaker-obpas_clu/ReceiptRegisterCLU/_get",
+      "displayName": "Receipt Register clu",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900001,
+      "name": "OBPAS LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/_get",
+      "displayName": "OBPAS LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": "OBPAS LAYOUT REPORTS"
+    },
+    {
+      "id": 8900002,
+      "name": "OBPAS LAYOUT REPORTS",
+      "url": "/report/rainmaker-obpas_layout/metadata/_get",
+      "displayName": "OBPAS LAYOUT REPORTS",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": "OBPAS LAYOUT REPORTS"
+    },
+    {
+      "id": 8900003,
+      "name": "Application Detail Report",
+      "url": "url",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "OBPAS LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "path": "OBPAS LAYOUT REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_layout/ApplicationDetailReportlayout",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900004,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_layout/ApplicationDetailReportlayout/metadata/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900005,
+      "name": "Application Detail Report",
+      "url": "/report/rainmaker-obpas_layout/ApplicationDetailReportlayout/_get",
+      "displayName": "Application Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900006,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "OBPAS LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS LAYOUT REPORTS.Collection Report",
+      "navigationURL": "report/rainmaker-obpas_layout/CollectionsReportlayout",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900007,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_layout/CollectionsReportlayout/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900008,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-obpas_layout/CollectionsReportlayout/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900009,
+      "name": "SLA Report",
+      "url": "url",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "OBPAS LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "OBPAS LAYOUT REPORTS.SLA Report",
+      "navigationURL": "report/rainmaker-obpas_layout/SLAReportlayout",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900010,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_layout/SLAReportlayout/metadata/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900011,
+      "name": "SLA Report",
+      "url": "/report/rainmaker-obpas_layout/SLAReportlayout/_get",
+      "displayName": "SLA Report",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900012,
+      "name": "Receipt Register Layout",
+      "url": "url",
+      "displayName": "Receipt Register Layout",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "OBPAS LAYOUT REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "path": "OBPAS LAYOUT REPORTS.Receipt Register Layout",
+      "navigationURL": "report/rainmaker-obpas_layout/ReceiptRegisterlayout",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900013,
+      "name": "Receipt Register Layout",
+      "url": "/report/rainmaker-obpas_layout/ReceiptRegisterlayout/metadata/_get",
+      "displayName": "Receipt Register Layout",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900014,
+      "name": "Receipt Register Layout",
+      "url": "/report/rainmaker-obpas_layout/ReceiptRegisterlayout/_get",
+      "displayName": "Receipt Register Layout",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "OBPASLAYOUTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 194109,
+      "name": "Pet Registration",
+      "url": "url",
+      "displayName": "Pet Registration",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Pet Registration",
+      "navigationURL": "/digit-ui/citizen/ptr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
+    },
+    {
+      "id": 194110,
+      "name": "CHALLAN Reports",
+      "url": "/report/rainmaker-ch/_get",
+      "displayName": "CHALLAN Reports",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": "CHALLAN Reports"
+    },
+    {
+      "id": 194111,
+      "name": "CHALLAN Reports",
+      "url": "/report/rainmaker-ch/metadata/_get",
+      "displayName": "CHALLAN Reports",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": "CHALLAN Reports"
+    },
+    {
+      "id": 194112,
+      "name": "Receipt Register Challan",
+      "url": "url",
+      "displayName": "Receipt Register Challan",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "CHALLAN Reports.Receipt Register Challan",
+      "navigationURL": "report/rainmaker-ch/ReceiptRegisterCHALLAN",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 194113,
+      "name": "Receipt Register Challan",
+      "url": "/report/rainmaker-ch/ReceiptRegisterCHALLAN/metadata/_get",
+      "displayName": "Receipt Register Challan",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 194114,
+      "name": "Receipt Register Challan",
+      "url": "/report/rainmaker-ch/ReceiptRegisterCHALLAN/_get",
+      "displayName": "Receipt Register Challan",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 194115,
+      "name": "Collections Report",
+      "url": "url",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "CHALLAN Reports.Collection Report",
+      "navigationURL": "report/rainmaker-ch/CollectionsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 194116,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-ch/CollectionsReport/metadata/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 194117,
+      "name": "Collections Report",
+      "url": "/report/rainmaker-ch/CollectionsReport/_get",
+      "displayName": "Collections Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 194118,
+      "name": "Challan Detail Report",
+      "url": "url",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "CHALLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "path": "CHALLAN Reports.Challan Detail Report",
+      "navigationURL": "report/rainmaker-ch/ChallanDetailReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 194119,
+      "name": "Challan Detail Report",
+      "url": "/report/rainmaker-ch/ChallanDetailReport/metadata/_get",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900142,
+      "name": "SearchUser",
+      "url": "/user/_searchV2",
+      "displayName": "Search User",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.SearchUser"
+    },
+    {
+      "id": 194120,
+      "name": "Challan Detail Report",
+      "url": "/report/rainmaker-ch/ChallanDetailReport/_get",
+      "displayName": "Challan Detail Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "CHALLANREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1443,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1446,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1449,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1453,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1456,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1459,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+
+    {
+      "id": 1463,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1473,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1474,
+      "name": "Layout document CheckList Create",
+      "url": "/layout-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1461,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1471,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1472,
+      "name": "BPA document CheckList Create",
+      "url": "/bpa-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "bpa-services",
       "code": "null",
       "path": ""
     }

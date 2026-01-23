@@ -587,8 +587,14 @@
       "masterName": "Rebate",
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
+    },
+    "ReminderPeriods": {
+      "masterName": "ReminderPeriods",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
+
   "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",
@@ -938,11 +944,6 @@
   },
 
   "clu": {
-    "NocFee": {
-      "masterName": "NocFee",
-      "isStateLevel": true,
-      "uniqueKeys": []
-    },
     "ChargesType": {
       "masterName": "ChargesType",
       "isStateLevel": true,
@@ -1053,6 +1054,11 @@
       "masterName": "Rates",
       "isStateLevel": true,
       "uniqueKeys": ["$.subCategoryId"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "gc-services-masters": {

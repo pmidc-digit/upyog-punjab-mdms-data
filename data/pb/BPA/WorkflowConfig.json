@@ -7,18 +7,36 @@
 				"Municipal Corporation"
 			],
 			"occupancyTypes": [
-				"A",
-				"B",
-				"C",
-				"D",
-				"E",
-				"F",
-				"G",
-				"H",
-				"I"
+				"F"
 			],
-			"minArea": 0,
-			"maxArea": 500,
+			"subOccupancyTypes": [
+				"F-SCC",
+				"F-RS",
+				"F-R",
+				"F-FP",
+				"F-FC",
+				"F-CC", 
+				"F-CO",
+				"F-B",
+				"F-DS",
+				"F-BS",
+				"F-BO",
+				"F-IT",
+				"F-O",
+				"F-S",
+				"F-SM",
+				"F-WS",
+				"F-M",
+				"F-SRM",
+				"F-SCO",
+				"F-BTH",
+				"F-DBTH",
+				"F-SSTY",
+				"F-GBA",
+				"F-SC"
+			],
+			"minArea": 0.0,
+			"maxArea": 500.0,
 			"businessService": "BPA_MC"
 		},
 		{
@@ -27,18 +45,36 @@
 				"Municipal Council"
 			],
 			"occupancyTypes": [
-				"A",
-				"B",
-				"C",
-				"D",
-				"E",
-				"F",
-				"G",
-				"H",
-				"I"
+				"F"
 			],
-			"minArea": 0,
-			"maxArea": 500,
+			"subOccupancyTypes": [
+				"F-SCC",
+				"F-RS",
+				"F-R",
+				"F-FP",
+				"F-FC",
+				"F-CC", 
+				"F-CO",
+				"F-B",
+				"F-DS",
+				"F-BS",
+				"F-BO",
+				"F-IT",
+				"F-O",
+				"F-S",
+				"F-SM",
+				"F-WS",
+				"F-M",
+				"F-SRM",
+				"F-SCO",
+				"F-BTH",
+				"F-DBTH",
+				"F-SSTY",
+				"F-GBA",
+				"F-SC"
+			],
+			"minArea": 0.0,
+			"maxArea": 500.0,
 			"businessService": "BPA_NP"
 		},
 		{
@@ -46,15 +82,135 @@
 				"Municipal Corporation"
 			],
 			"occupancyTypes": [
-				"A",
-				"B",
-				"C",
-				"D",
-				"E",
-				"F",
+				"N",
+				"J",
 				"G",
-				"H",
-				"I"
+				"O",
+				"S",
+				"T",
+				"U",
+				"B",
+				"W",
+				"M",
+				"V",
+				"A"
+			],
+			"subOccupancyTypes": [
+				"N",
+				"O",
+				"S",
+				"T",
+				"U",
+				"M",
+				"V",
+				"J-FS",
+				"J-TW",
+				"J-FCSS",
+				"J-CNG",
+				"J-CNGD",
+				"G-GTKS",
+				"G-IT",
+				"G-F",
+				"B-DCF",
+				"B-NS",
+				"B-PS",
+				"B-HSS",
+				"B-ERC",
+				"B-MNH",
+				"W-MA",
+				"W-OH",
+				"W-PHP",
+				"A-R",
+				"A-AIF"
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_MC"
+		},
+		{
+			"ulbType": [
+				"Nagar Panchayat",
+				"Municipal Council"
+			],
+			"occupancyTypes": [
+				"N",
+				"J",
+				"G",
+				"O",
+				"S",
+				"T",
+				"U",
+				"B",
+				"W",
+				"M",
+				"V",
+				"A"
+			],
+			"subOccupancyTypes": [
+				"N",
+				"O",
+				"S",
+				"T",
+				"U",
+				"M",
+				"V",
+				"J-FS",
+				"J-TW",
+				"J-FCSS",
+				"J-CNG",
+				"J-CNGD",
+				"G-GTKS",
+				"G-IT",
+				"G-F",
+				"B-DCF",
+				"B-NS",
+				"B-PS",
+				"B-HSS",
+				"B-ERC",
+				"B-MNH",
+				"W-MA",
+				"W-OH",
+				"W-PHP",
+				"A-R",
+				"A-AIF"
+				
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_NP"
+		},
+		{
+			"ulbType": [
+				"Municipal Corporation"
+			],
+			"occupancyTypes": [
+				"F"
+			],
+			"subOccupancyTypes": [
+				"F-SCC",
+				"F-RS",
+				"F-R",
+				"F-FP",
+				"F-FC",
+				"F-CC", 
+				"F-CO",
+				"F-B",
+				"F-DS",
+				"F-BS",
+				"F-BO",
+				"F-IT",
+				"F-O",
+				"F-S",
+				"F-SM",
+				"F-WS",
+				"F-M",
+				"F-SRM",
+				"F-SCO",
+				"F-BTH",
+				"F-DBTH",
+				"F-SSTY",
+				"F-GBA",
+				"F-SC"
 			],
 			"minArea": 500.0,
 			"maxArea": 9999999.0,
@@ -66,15 +222,33 @@
 				"Municipal Council"
 			],
 			"occupancyTypes": [
-				"A",
-				"B",
-				"C",
-				"D",
-				"E",
-				"F",
-				"G",
-				"H",
-				"I"
+				"F"
+			],
+			"subOccupancyTypes": [
+				"F-SCC",
+				"F-RS",
+				"F-R",
+				"F-FP",
+				"F-FC",
+				"F-CC", 
+				"F-CO",
+				"F-B",
+				"F-DS",
+				"F-BS",
+				"F-BO",
+				"F-IT",
+				"F-O",
+				"F-S",
+				"F-SM",
+				"F-WS",
+				"F-M",
+				"F-SRM",
+				"F-SCO",
+				"F-BTH",
+				"F-DBTH",
+				"F-SSTY",
+				"F-GBA",
+				"F-SC"
 			],
 			"minArea": 500.0,
 			"maxArea": 9999999.0,
@@ -85,9 +259,53 @@
 				"Municipal Corporation"
 			],
 			"occupancyTypes": [
-				"J",
-				"K",
 				"L"
+			],
+			"subOccupancyTypes": [
+				"L-PCH",
+				"L-PO",
+				"L-RB",
+				"L-CC",
+				"L-MICE"
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_MC_HIGH"
+		},
+		{
+			"ulbType": [
+				"Nagar Panchayat",
+				"Municipal Council"
+			],
+			"occupancyTypes": [
+				"L"
+			],
+			"subOccupancyTypes": [
+				"L-PCH",
+				"L-PO",
+				"L-RB",
+				"L-CC",
+				"L-MICE"
+			],
+			"minArea": 0.0,
+			"maxArea": 9999999.0,
+			"businessService": "BPA_NP_HIGH"
+		},
+		{
+			"ulbType": [
+				"Municipal Corporation"
+			],
+			"occupancyTypes": [
+				"P",
+				"Q",
+				"R",
+				"A"
+			],
+			"subOccupancyTypes": [
+				"P",
+				"Q",
+				"R",
+				"A-AF"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,
@@ -99,9 +317,16 @@
 				"Municipal Council"
 			],
 			"occupancyTypes": [
-				"J",
-				"K",
-				"L"
+				"P",
+				"Q",
+				"R",
+				"A"
+			],
+			"subOccupancyTypes": [
+				"P",
+				"Q",
+				"R",
+				"A-AF"
 			],
 			"minArea": 0.0,
 			"maxArea": 9999999.0,

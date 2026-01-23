@@ -3,56 +3,56 @@
   "moduleName": "sw-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 100,
-      "securityDeposit": 0,
+      "formFee": 10000,
+      "securityDeposit": 875,
       "connectionFee":
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"50",
+          "connectionFee":"59869860",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"50",
+          "connectionFee":"50986986",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"50",
+          "connectionFee":"50986986",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"50",
+          "connectionFee":"986986",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"50",
+          "connectionFee":"509869",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"50",
+          "connectionFee":"509869",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"50",
+          "connectionFee":"509869",
           "usageType":"DEFAULT"
         }
         
       ],
-      "other": 0,
-      "taxpercentage": 0,
+      "other": 98690,
+      "taxpercentage": 98690,
       "isActive": true
     }
   ]

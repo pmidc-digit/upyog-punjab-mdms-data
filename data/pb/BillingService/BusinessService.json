@@ -3,6 +3,19 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
+      "businessService": "rl-services",
+      "code": "rl-services",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "cancelReceipt": true,
+      "isActive": true
+    },
+    {
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
@@ -2552,6 +2565,29 @@
     {
       "businessService": "clu",
       "code": "clu",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "CLU.PAY1",
+      "code": "CLU.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+
+    {
+      "businessService": "CLU.PAY2",
+      "code": "CLU.PAY2",
       "collectionModesNotAllowed": [
         "DD"
       ],

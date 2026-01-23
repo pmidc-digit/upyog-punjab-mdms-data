@@ -2699,6 +2699,62 @@
       "financialYear": "2025-26"
     },
     {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY1",
+      "code": "CLU_PROCESSING_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_CLU_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_EDC_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_OTHER1_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_OTHER2_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_UDC_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "CLU.PAY2",
+      "code": "CLU_LF_FEE",
+      "financialYear": "2025-26"
+    },
+    {
       "service": "Challan_Generation",
       "code": "FY2025-26",
       "fromDate": 1743465600000,
@@ -2932,7 +2988,7 @@
     "financialYear": "2011-12"
   },
   {
-    "fromDate": 1333238401000,
+    "fromDate": 1333218599000,
     "toDate": 1341080999000,
     "periodCycle": "QUATERLY",
     "service": "WS",
@@ -3752,6 +3808,38 @@
       "periodCycle": "QUATERLY",
       "service": "GC",
       "code": "GC-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "ANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "BIANNUAL",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1735669800000,
+      "toDate": 1798741799999,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
       "financialYear": "2025-26"
     }
  ]

@@ -1,7 +1,7 @@
 {
-    "tenantId": "pb",
-    "moduleName": "CLU",
-    "BuildingType": [
+  "tenantId": "pb",
+  "moduleName": "CLU",
+  "BuildingType": [
     {
       "name": "Vacant Land",
       "code": "VACANT",
@@ -12,5 +12,5 @@
       "code": "BUILTUP",
       "active": true
     }
-    ]
-  }
+  ]
+}

@@ -2,6 +2,18 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
+	{
+      "code": "CHALLAN REPORTS",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports ",
+      "groupId": "011"
+    },
+	{
+      "code": "OBPAS REPORTS",
+      "name": "OBPAS REPORTS",
+      "description": "Access to all OBPAS Reports",
+      "groupId": "025"
+    },
     {
       "code": "ADV REPORTS",
       "name": "ADV REPORTS",
@@ -327,9 +339,44 @@
       "groupId": "004"
     },
     {
+      "code": "OBPAS_NOC_JE",
+      "name": "NOC JE verifier",
+      "description": "NOC JE verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_DM",
+      "name": "NOC DM verifier",
+      "description": "NOC DM verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_ATP",
+      "name": "NOC ATP verifier",
+      "description": "NOC ATP verifier",
+      "groupId": "004"
+    },{
+      "code": "OBPAS_NOC_MTP",
+      "name": "NOC MTP verifier",
+      "description": "NOC MTP verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_JC",
+      "name": "NOC JC verifier",
+      "description": "NOC JC verifier",
+      "groupId": "004"
+    },
+    {
+      "code": "OBPAS_NOC_EO",
+      "name": "NOC EO verifier",
+      "description": "NOC EO verifier",
+      "groupId": "004"
+    },
+    {
       "code": "NOC_APPROVER",
-      "name": "NoC counter Approver",
-      "description": "Fire NOC Approver",
+      "name": "NOC Approver",
+      "description": "NOC Approver",
       "groupId": "004"
     },
     {
@@ -747,6 +794,12 @@
       "groupId": "013"
     },
     {
+      "code": "VIEW_LAYOUT_CARD",
+      "name": "View Layout Card",
+      "description": "For Layout Card Display in Dashboard",
+      "groupId": "100"
+    },
+    {
       "code": "VIEW_PT_CARD",
       "name": "View PT Card",
       "description": "For PT Card Display in Dashboard",
@@ -1107,87 +1160,178 @@
       "groupId": "011"
     },
     {
-      "code": "JE",
-      "name": "JE",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_JE",
+      "name": "OBPAS_LAYOUT_JE",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "BI",
-      "name": "BI",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_BI",
+      "name": "OBPAS_LAYOUT_BI",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "ATP",
-      "name": "ATP",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_ATP",
+      "name": "OBPAS_LAYOUT_ATP",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "AME",
-      "name": "AME",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_AME",
+      "name": "OBPAS_LAYOUT_AME",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "MTP",
-      "name": "MTP",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_MTP",
+      "name": "OBPAS_LAYOUT_MTP",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "ME",
-      "name": "ME",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_ME",
+      "name": "OBPAS_LAYOUT_ME",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "JC",
-      "name": "JC",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_JC",
+      "name": "OBPAS_LAYOUT_JC",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "CMC",
-      "name": "CMC",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_CMC",
+      "name": "OBPAS_LAYOUT_CMC",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "EO",
-      "name": "EO",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_EO",
+      "name": "OBPAS_LAYOUT_EO",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "STP(Field)",
-      "name": "STP(Field)",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_STP(Field)",
+      "name": "OBPAS_LAYOUT_STP(Field)",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "ADC",
-      "name": "ADC",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_ADC",
+      "name": "OBPAS_LAYOUT_ADC",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "DM",
-      "name": "DM",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_DM",
+      "name": "OBPAS_LAYOUT_DM",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "ATP(HQ)",
-      "name": "ATP(HQ)",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_ATP(HQ)",
+      "name": "OBPAS_LAYOUT_ATP(HQ)",
+      "description": "OBPAS Layout workflow Approver",
       "groupId": "025"
     },
     {
-      "code": "STP(HQ)",
-      "name": "STP(HQ)",
-      "description": "BPA Stakeholder workflow Approver",
+      "code": "OBPAS_LAYOUT_STP(HQ)",
+      "name": "OBPAS_LAYOUT_STP(HQ)",
+      "description": "OBPAS Layout workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_JE",
+      "name": "OBPAS_CLU_JE",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_STP",
+      "name": "OBPAS_CLU_STP",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_ATP_HQ",
+      "name": "OBPAS_CLU_ATP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_MTP_HQ",
+      "name": "OBPAS_CLU_MTP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_STP_HQ",
+      "name": "OBPAS_CLU_STP_HQ",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+
+    {
+      "code": "OBPAS_CLU_BI",
+      "name": "OBPAS_CLU_BI",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_ATP",
+      "name": "OBPAS_CLU_ATP",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_AME",
+      "name": "OBPAS_CLU_AME",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_MTP",
+      "name": "OBPAS_CLU_MTP",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_ME",
+      "name": "OBPAS_CLU_ME",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_JC",
+      "name": "OBPAS_CLU_JC",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_CMC",
+      "name": "OBPAS_CLU_CMC",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_EO",
+      "name": "OBPAS_CLU_EO",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_ADC",
+      "name": "OBPAS_CLU_ADC",
+      "description": "OBPAS CLU workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_CLU_DM",
+      "name": "OBPAS_CLU_DM",
+      "description": "OBPAS CLU workflow Approver",
       "groupId": "025"
     },
 	{ "code": "OBPAS_BPA_STP",
@@ -1288,12 +1432,35 @@
       "description": "Access to GC",
       "groupId": "014"
     },
-    
-     {
+    {
       "code": "SASKI",
       "name": "SASKI EMPLOYEE",
       "description": "SASKI employee",
       "groupId": "014"
+    },
+    {
+      "code": "RL_DOC_VERIFIER",
+      "name": "RL Document Verifier",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_FIELD_INSPECTOR",
+      "name": "RL Field Inspector",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_APPROVER",
+      "name": "RL Application Approver",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
+    },
+    {
+      "code": "RL_CEMP",
+      "name": "RL Counter User",
+      "description": "Access to Rent And Lease",
+      "groupId": "032"
     }
   ]
 }
