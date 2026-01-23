@@ -535,6 +535,34 @@
           "employeeUrl": "/challangeneration/inbox"
         }
       ]
+    },
+    {
+      "code": "CLU.PAY2",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "clu-receiptsecond",
+      "billKey": "consolidatedbill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/obps-home",
+          "employeeUrl": "/obps/inbox"
+        }
+      ]
+    },
+    {
+      "code": "CLU.PAY1",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "clu-receipt",
+      "billKey": "consolidatedbill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/obps-home",
+          "employeeUrl": "/obps/inbox"
+        }
+      ]
     }
   ]
 }
