@@ -1178,5 +1178,49 @@
       "isStateLevel": false,
       "uniqueKeys": []
     }
+  },
+ "rentAndLease": {
+    "Documents": {
+      "masterName": "documentType",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.code"]
+    },
+    "RLProperty": {
+      "masterName": "RLProperty",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.propertyId"]
+    },
+    "TaxRates": {
+      "masterName": "TaxRate",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.taxType"]
+    },
+    "AllotmentType": {
+      "masterName": "AllotmentType",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.code"]
+    },
+    "LocationType": {
+      "masterName": "LocationType",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.code"]
+    },
+    "PropertyType": {
+      "masterName": "PropertyType",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.code"]
+    }
+  },
+  "rl-services-masters": {
+    "billingPeriod": {
+      "masterName": "billingPeriod",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.billingCycle"]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.fromFY"]
+    }
   }
 }
