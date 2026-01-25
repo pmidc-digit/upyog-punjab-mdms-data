@@ -8594,7 +8594,7 @@
       "service": "GC"
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL Security deposit fee",
       "code": "RL_SECURITY_DEPOSIT_FEE",
@@ -8604,7 +8604,7 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "Property rent lease Fee",
       "code": "RENT_LEASE_FEE",
@@ -8614,7 +8614,7 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL Penalty Fee",
       "code": "RL_PENALTY_FEE",
@@ -8624,7 +8624,7 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL Cowcess fee",
       "code": "RL_COWCESS_FEE",
@@ -8634,7 +8634,7 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL SGST fee",
       "code": "RL_SGST_FEE",
@@ -8644,7 +8644,7 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
+      "category": "ADVANCE_COLLECTION",
       "service": "rl-services",
       "name": "RL CGST fee",
       "code": "RL_CGST_FEE",
@@ -8654,14 +8654,14 @@
       "isRequired": false
     },
     {
-      "category": "FEE",
-      "code": "RL_FEE_ROUND_OFF",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
+      "category": "ADVANCE_COLLECTION",
       "name": "Fee Round Off",
+      "service": "rl-services",
+      "code": "RL_FEE_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
       "order": "9",
-      "service": "rl-services"
+      "isRequired": false
     }
   ]
 }
