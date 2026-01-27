@@ -47,20 +47,6 @@
 
         },
         {
-          "name": "CLU OTHER FEE",
-          "rate": 0.0,
-          "taxHeadCode": "CLU_OTHER1_FEE",
-          "applicable": true
-
-        },
-        {
-          "name": "CLU_OTHER2_FEE",
-          "rate": 0.0,
-          "taxHeadCode": "CLU_OTHER2_FEE",
-          "applicable": true
-
-        },
-        {
           "name": "CLU UDC/SIF FEE",
           "rate": 0.0,
           "taxHeadCode": "CLU_UDC_FEE",
@@ -73,8 +59,21 @@
           "taxHeadCode": "CLU_LF_FEE",
           "applicable": true
 
-        }
+        },
+        {
+          "name": "CLU OTHER FEE",
+          "rate": 0.0,
+          "taxHeadCode": "CLU_OTHER1_FEE",
+          "applicable": true
 
+        },
+        {
+          "name": "CLU_OTHER2_FEE",
+          "rate": 0.0,
+          "taxHeadCode": "CLU_OTHER2_FEE",
+          "applicable": true
+
+        }
       ]
     },
     {
@@ -122,20 +121,6 @@
 
         },
         {
-          "name": "CLU OTHER FEE",
-          "rate": 0.0,
-          "taxHeadCode": "CLU_OTHER1_FEE",
-          "applicable": true
-
-        },
-        {
-          "name": "CLU_OTHER2_FEE",
-          "rate": 0.0,
-          "taxHeadCode": "CLU_OTHER2_FEE",
-          "applicable": true
-
-        },
-        {
           "name": "CLU UDC/SIF FEE",
           "rate": 0.0,
           "taxHeadCode": "CLU_UDC_FEE",
@@ -148,8 +133,21 @@
           "taxHeadCode": "CLU_LF_FEE",
           "applicable": true
 
-        }
+        },
+        {
+          "name": "CLU OTHER FEE",
+          "rate": 0.0,
+          "taxHeadCode": "CLU_OTHER1_FEE",
+          "applicable": true
 
+        },
+        {
+          "name": "CLU_OTHER2_FEE",
+          "rate": 0.0,
+          "taxHeadCode": "CLU_OTHER2_FEE",
+          "applicable": true
+
+        }
       ]
     }
   ]
