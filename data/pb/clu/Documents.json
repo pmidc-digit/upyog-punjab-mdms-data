@@ -138,7 +138,7 @@
     {
       "code": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "description": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT.INDUSTRYCATEGORYSUPPORTINGDOCUMENT_DESCRIPTION"
     }
