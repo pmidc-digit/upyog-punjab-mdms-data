@@ -68291,6 +68291,36 @@
       "actionid": 1474,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 1478,
+      "actioncode": "",
+      "tenantId": "pb"
+    },{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1479,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1483,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 1481,
+      "actioncode": "",
+      "tenantId": "pb"
+    },	
+	  {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1482,
+      "actioncode": "",
+      "tenantId": "pb"
     }
+	
   ]
 }
