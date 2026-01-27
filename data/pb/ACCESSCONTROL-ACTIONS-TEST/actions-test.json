@@ -26972,7 +26972,22 @@
       "navigationURL": "/digit-ui/employee/tl/new-application",
       "leftIcon": "",
       "rightIcon": ""
-    }
-	
+    },
+    {
+      "id": 1485,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "OBPAS Employee Mapping",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "/digit-ui/employee/hrms/empMaping",
+      "leftIcon": "social:people",
+      "rightIcon": ""
+    }	
   ]
 }
