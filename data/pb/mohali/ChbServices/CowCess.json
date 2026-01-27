@@ -6,7 +6,7 @@
         "1": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -22,7 +22,7 @@
         "2": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -38,7 +38,7 @@
         "3": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -54,7 +54,7 @@
         "4": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -70,7 +70,7 @@
         "5": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -86,7 +86,7 @@
         "6": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -102,7 +102,7 @@
         "7": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,
@@ -115,28 +115,11 @@
         ]
       }
       ,
-            {
+      {
         "8": [
           {
             "feeType": "CHB_COW_CESS",
-            "rate": 9,
-            "flatAmount": 0,
-            "minAmount": null,
-            "maxAmount": null,
-            "fromFY": "2025-26",
-            "applicableAfterDays": "0",
-            "active": true,
-            "taxApplicable": false,
-            "refundable": false
-          }
-        ]
-      }
-      ,
-            {
-        "9": [
-          {
-            "feeType": "CHB_COW_CESS",
-            "rate": 9,
+            "rate": 0,
             "flatAmount": 0,
             "minAmount": null,
             "maxAmount": null,

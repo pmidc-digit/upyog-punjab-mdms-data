@@ -3,93 +3,75 @@
   "moduleName": "CHB",
   "Location": [
     {
-      "name": "Mehram Nagar Barat Ghar",
-      "code": "MEHRAM_NAGAR_BARAT_GHAR",
+      "name": "Community Centre, Phase-01",
+      "code": "COMMUNITY_CENTRE_PH_01",
       "active": true,
       "geo_tag": {
-        "latitude": 28.564143,
-        "longitude": 77.123490
+        "latitude": 30.7046,
+        "longitude": 76.7179
       }
     },
     {
-      "name": "Jharera Barat Ghar",
-      "code": "JHARERA_BARAT_GHAR",
+      "name": "Community Centre, Phase-02",
+      "code": "COMMUNITY_CENTRE_PH_02",
       "active": true,
       "geo_tag": {
-        "latitude": 28.5802044,
-        "longitude": 77.1378208
+        "latitude": 30.7100,
+        "longitude": 76.7250
       }
     },
     {
-      "name": "Manglam Barat Ghar",
-      "code": "MANGLAM_BARAT_GHAR",
+      "name": "Community Centre, Phase-05",
+      "code": "COMMUNITY_CENTRE_PH_05",
       "active": true,
       "geo_tag": {
-        "latitude": 28.605519,
-        "longitude": 77.115316
+        "latitude": 30.6950,
+        "longitude": 76.7300
       }
     },
     {
-      "name": "Ashoka Barat Ghar",
-      "code": "ASHOKA_BARAT_GHAR",
+      "name": "Community Centre, Phase-07",
+      "code": "COMMUNITY_CENTRE_PH_07",
       "active": true,
       "geo_tag": {
-        "latitude": 28.5978913,
-        "longitude": 77.1322511
+        "latitude": 30.7200,
+        "longitude": 76.7400
       }
     },
     {
-      "name": "Alankar Barat Ghar",
-      "code": "ALANKAR_BARAT_GHAR",
+      "name": "Community Centre, Phase-11",
+      "code": "COMMUNITY_CENTRE_PH_11",
       "active": true,
       "geo_tag": {
-        "latitude": 28.5934095,
-        "longitude": 77.1195994
+        "latitude": 30.7350,
+        "longitude": 76.7500
       }
     },
     {
-      "name": "Dussehra Ground Part I",
-      "code": "DUSSEHRA_GROUND_PART_I",
+      "name": "Community Centre, Sector-70",
+      "code": "COMMUNITY_CENTRE_SEC_70",
       "active": true,
       "geo_tag": {
-        "latitude": 28.5926723,
-        "longitude": 77.1196247
+        "latitude": 30.7080,
+        "longitude": 76.6950
       }
     },
     {
-      "name": "Dussehra Ground Part II",
-      "code": "DUSSEHRA_GROUND_PART_II",
+      "name": "Community Centre, Sector-71",
+      "code": "COMMUNITY_CENTRE_SEC_71",
       "active": true,
       "geo_tag": {
-        "latitude": 28.5926723,
-        "longitude": 77.1196247
+        "latitude": 30.7120,
+        "longitude": 76.7020
       }
     },
     {
-      "name": "DAV Ground",
-      "code": "DAV_GROUND",
+      "name": "Community Centre, Sector-69",
+      "code": "COMMUNITY_CENTRE_SEC_69",
       "active": true,
       "geo_tag": {
-        "latitude": 28.596320,
-        "longitude": 77.121770
-      }
-    },
-    {
-      "name": "Jain Mandir",
-      "code": "JAIN_MANDIR",
-      "active": true,
-      "geo_tag": {
-        "latitude": 28.594060,
-        "longitude": 77.120439
-      }
-    },
-    {
-      "name": "Masjid Ground",
-      "code": "MASJID_GROUND",
-      "active": true,
-      "geo_tag": {
-        "latitude": 28.595236,
-        "longitude": 77.121738
+        "latitude": 30.7050,
+        "longitude": 76.6900
       }
     }
   ]
