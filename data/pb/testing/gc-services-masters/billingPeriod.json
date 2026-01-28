@@ -4,30 +4,39 @@
   "billingPeriod": [
     {
       "active": true,
-      "connectionType": "Metered",
       "billingCycle": "quarterly",
+      "connectionType": "Non Metered",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
+      "taxPeriodFrom": 1767205800000,
+      "taxPeriodTo": 1774981799999,
       "demandGenerationDateMillis": 345600000
     },
     {
       "active": true,
-      "connectionType": "Non Metered",
       "billingCycle": "monthly",
+      "connectionType": "Non Metered",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 0,
-      "demandGenerationDateMillis": 345600000,
-      "taxPeriodFrom": 1767225600000,
-      "taxPeriodTo": 1774981799000
+      "taxPeriodFrom": 1759276800000,
+      "taxPeriodTo": 1761868799000,
+      "demandGenerationDateMillis": 345600000
     }
   ],
-"schedulerBillingPeriod":[
+  "schedulerBillingPeriod": [
     {
-    "active": true,
-    "connectionType": "Non Metered",
-    "billingCycle": "quarterly",
-    "taxPeriodFrom": 1609459200000,
-    "taxPeriodTo": 1617215399000
-  }
+      "active": true,
+      "billingCycle": "quarterly",
+      "connectionType": "Non Metered",
+      "taxPeriodFrom": 1767205800000,
+      "taxPeriodTo": 1774981799999
+    },
+    {
+      "active": true,
+      "billingCycle": "monthly",
+      "connectionType": "Non Metered",
+      "taxPeriodFrom": 1737407400000,
+      "taxPeriodTo": 1740085799999
+    }
   ]
 }

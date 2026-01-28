@@ -1,130 +1,182 @@
 {
-   "tenantId":"pb.testing",
-   "moduleName":"gc-services-calculation",
-   "GCBillingSlab":[
-      {
-         "id":"1",
-         "buildingType":"RESIDENTIAL",
-         "waterSubUsageType": "USAGE_DOM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0,
-               "to":125,
-               "charge":0,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":126,
-               "to":250,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":251,
-               "to":1000000000,
-               "charge":150,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-      {
-         "id":"4",
-         "buildingType":"COMMERCIAL",
-         "waterSubUsageType": "USAGE_COMM_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0,
-               "to":125,
-               "charge":600,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":126,
-               "to":250,
-               "charge":630,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":251,
-               "to":1000000000,
-               "charge":840,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-       {
-         "id":"5",
-         "buildingType":"INDUSTRIAL",
-         "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0,
-               "to":125,
-               "charge":600,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":126,
-               "to":250,
-               "charge":630,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":251,
-               "to":1000000000,
-               "charge":840,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      },
-      {
-         "id":"7",
-         "buildingType":"INSTITUTIONAL",
-         "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
-         "calculationAttribute":"PLOT_BASED",
-         "connectionType":"Non Metered",
-         "minimumCharge":0,
-         "slabs":[
-            {
-               "from":0,
-               "to":125,
-               "charge":600,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":126,
-               "to":250,
-               "charge":630,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            },
-            {
-               "from":251,
-               "to":1000000000,
-               "charge":840,
-               "effectiveFrom":917523271000,
-               "effectiveTo":1774929282000
-            }
-         ]
-      }
-   ]
+  "tenantId": "pb.testing",
+  "moduleName": "gc-services-calculation",
+  "GCBillingSlab": [
+    {
+      "id": "1",
+      "buildingType": "RESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
+      "slabs": []
+    },
+    {
+      "id": "2",
+      "buildingType": "MIXED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 400,
+      "slabs": []
+    },
+    {
+      "id": "3",
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 500,
+      "slabs": []
+    },
+    {
+      "id": "4",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "5",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1500,
+      "slabs": []
+    },
+    {
+      "id": "6",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1200,
+      "slabs": []
+    },
+    {
+      "id": "7",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "8",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "9",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.ENTERTAINMENT.MULTIPLEX",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1800,
+      "slabs": []
+    },
+    {
+      "id": "10",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 950,
+      "slabs": []
+    },
+    {
+      "id": "11",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE.MARRIAGEPALACE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1300,
+      "slabs": []
+    },
+    {
+      "id": "12",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 750,
+      "slabs": []
+    },
+    {
+      "id": "13",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1100,
+      "slabs": []
+    },
+    {
+      "id": "14",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 400,
+      "slabs": []
+    },
+    {
+      "id": "15",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "16",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "17",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 150,
+      "slabs": []
+    },
+    {
+      "id": "18",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 700,
+      "slabs": []
+    },
+    {
+      "id": "19",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.GOLFCLUB",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1200,
+      "slabs": []
+    },
+    {
+      "id": "20",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 100,
+      "slabs": []
+    },
+    {
+      "id": "21",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "22",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 600,
+      "slabs": []
+    }
+  ]
 }
