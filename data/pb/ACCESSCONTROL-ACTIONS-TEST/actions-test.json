@@ -27024,6 +27024,21 @@
       "navigationURL": "/digit-ui/employee/hrms/empMaping",
       "leftIcon": "social:people",
       "rightIcon": ""
-    }	
+    },
+    {
+      "id": 1486,
+      "name": "swach complaint create",
+      "url": "url",
+      "displayName": "Swach complaint create",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-swach",
+      "enabled": true,
+      "serviceCode": "Swach",
+      "path": "Swach.Search ",
+      "navigationURL": "/digit-ui/employee/swach/complaint/create",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
