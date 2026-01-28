@@ -101,13 +101,6 @@
       "description": "OWNER.ANYOTHERNOC.ANYOTHERNOC_DESCRIPTION"
     },
     {
-      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
-    },
-    {
       "code": "OWNER.CIRCLEREVENUEOFFICERREPORT",
       "documentType": "OWNER",
       "required": true,
@@ -141,6 +134,13 @@
       "required": true,
       "active": true,
       "description": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT.INDUSTRYCATEGORYSUPPORTINGDOCUMENT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
     }
   ]
 }
