@@ -24635,6 +24635,42 @@
       "code": "null",
       "path": ""
     },
+     {
+      "id": 8900877,
+      "name": "GC Calculator",
+      "url": "/gc-calculator/garbagecharges/scheduler/_create",
+      "parentModule": "",
+      "displayName": "GC Schedular Create",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "gc-calculator",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 8900878,
+      "name": "GC Calculator",
+      "url": "/gc-calculator/garbagecharges/scheduler/_search",
+      "parentModule": "",
+      "displayName": "GC Schedular Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "gc-calculator",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 8900879,
+      "name": "GC Calculator",
+      "url": "/egov-searcher/bill-genie/garbagecollectionbills/_get",
+      "parentModule": "",
+      "displayName": "Garbage Collection Bill Genie",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "gc-calculator",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 8900947,
       "name": "Create Application",
