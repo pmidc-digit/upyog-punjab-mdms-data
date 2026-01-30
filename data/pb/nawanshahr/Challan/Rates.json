@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.nawanshahr",
+  "moduleName": "Challan",
+  "Rates": [
+    {
+      "offenceTypeId": "OT1",
+      "amount": 250
+    },
+    {
+      "offenceTypeId": "OT2",
+      "amount": 5000
+    },
+    {
+      "offenceTypeId": "OT3",
+      "amount": 5000
+    }
+  ]
+}
