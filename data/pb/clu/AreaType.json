@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb",
+  "moduleName": "CLU",
+  "AreaType": [
+    {
+      "name": "Scheme Area",
+      "code": "SCHEME_AREA",
+      "active": true
+    },
+    {
+      "name": "Non-Scheme Area",
+      "code": "NON_SCHEME",
+      "active": true
+    }
+  ]
+}
