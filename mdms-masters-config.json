@@ -958,5 +958,12 @@
       "isStateLevel": true,
       "uniqueKeys": ["$.code", "$name"]
     }
+  },
+  "clu": {
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
   }
 }
