@@ -1,0 +1,171 @@
+{
+  "tenantId": "pb.khemkaran",
+  "moduleName": "Challan",
+  "OffenceType": [
+    {
+      "id": "OT1",
+      "name": "Failure to segregate and store waste and handover segregated waste in accordance with the Rule (Residential)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT2",
+      "name": "Failure to segregate and store waste and handover segregated waste in accordance with the Rule (Marriage/ Party Halls, Festival Halls, Party Lawns, Exhibition and fairs)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT3",
+      "name": "Failure to segregate and store waste and handover segregated waste in accordance with the Rule (Clubs, Cinema Halls, Community Halls, Multiplexes and other such places)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT4",
+      "name": "Failure to segregate and store waste and handover segregated waste in accordance with the Rule (other non-residential entities)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT5",
+      "name": "Person littering waste on public places like road/ streets/ parks etc.",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT6",
+      "name": "Waste dumping/ throwing/ littering in open areas by household owner/ occupier OR Person dumping/ throwing/ littering on his private open plots or allowing the other to do so",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT7",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by shop owner",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT8",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by hotel/ restaurant owner",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT9",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by industrial establishment (non hazardous)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT10",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by educational establishments",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT11",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by health establishments (non hazardous)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT12",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by anyone establishment/ organization not covered in above",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT13",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by sweet shops",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT14",
+      "name": "Waste dumping/ throwing/ littering in open areas/ public places by chat seller, fast food seller, ice-cream seller, sugarcane juice seller, vegetable seller, fruit seller etc.",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT15",
+      "name": "Owner/head of the establishment from occupation mentioned at serial numbers 3 to 10 above, establishment if did not keep the separate disposal Bins for compostable and non-biodegradable wastes at his business place and spreading garbage in the public place",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT16",
+      "name": "Spit,throw waste in public/ private roads from vehicles",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT17",
+      "name": "Disposal of cow dung in public places",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT18",
+      "name": "For small storing & delivering construction and demolition materials upto 1 ton on unauthorized sites including public land/ along the roads/ streets etc.",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT19",
+      "name": "Dumping of solid waste in water bodies/ sewerage",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT20",
+      "name": "If the shopkeeper throws blood, bones, feather, skin, egg shells and the other remains of dead animals/ birds, in front of butcher's shop",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT21",
+      "name": "If domestic animals like cow, buffalo, dog, pig etc - create wastes on public places like streets, parks etc.",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT22",
+      "name": "Vegetable vendor/hawker without a container/waste basket",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT23",
+      "name": "Throwing waste materials on roads by vegetable vendors",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT24",
+      "name": "Throwing waste materials on roads by hair cutting salons",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT25",
+      "name": "Littering road, public places, pathways, footpath etc. by hospitals, nursing homes, clinics, medical stores, laboratories etc. (non hazardous)",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT26",
+      "name": "Open defecation/urination in each case",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT27",
+      "name": "Quantity found/impounded upto 100 gram",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT28",
+      "name": "Quantity found/impounded 101 - 500 gram",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT29",
+      "name": "Quantity found/impounded 501 gram - 1 kilogram",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT30",
+      "name": "Quantity found/impounded more than 1 Kg upto 5 kilogram",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT31",
+      "name": "Quantity found/impounded more than 5 kilogram",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT32",
+      "name": "To pay compensation in case of simple burning ",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    },
+    {
+      "id": "OT33",
+      "name": "To pay compensation in case of bulk waste burning on dump sites or in secondary waste collection points or other",
+      "taxHeadCode": "CH.CHALLAN_FINE"
+    }
+  ]
+}
