@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.derababananak",
+  "moduleName": "CHB",
+  "SecurityDeposit": [
+    {
+      "1": [
+        {
+          "flatAmount": 500,
+          "fromFY": "2025-26",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": true
+        }
+      ]
+    }
+  ]
+}

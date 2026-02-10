@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Center, Kurali",
+      "code": "COMMUNITY_CENTER_KURALI",
+      "locationCode": "COMMUNITY_CENTER_KURALI",
+      "contactDetails": "011-25695450",
+      "address": "Community center W.No.5, Ropar Road, Kurali",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

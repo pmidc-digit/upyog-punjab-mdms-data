@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.bhadson",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Diwan Toder Mall Community Hall",
+      "code": "DIWAN_TODER_MALL_COMMUNITY_HALL",
+      "locationCode": "DIWAN_TODER_MALL_COMMUNITY_HALL",
+      "contactDetails": "011-25695450",
+      "address": "Back Side Harihar Mandir, Near NP Bhadson",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.derababananak",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall, Dera Baba Nanak",
+      "code": "COMMUNITY_HALL_DERA_BABA_NANAK",
+      "locationCode": "COMMUNITY_HALL_DERA_BABA_NANAK",
+      "contactDetails": "011-25695450",
+      "address": "Near Post Office & Yuvraj Garden, Dera Baba Nanak",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

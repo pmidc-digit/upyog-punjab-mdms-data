@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.ajnala",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Centre, NP Ajnala",
+      "code": "COMMUNITY_CENTRE_NP_AJNALA",
+      "locationCode": "COMMUNITY_CENTRE_NP_AJNALA",
+      "contactDetails": "011-25695450",
+      "address": "FGC Byepass road, Ajnala, Amritsar",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

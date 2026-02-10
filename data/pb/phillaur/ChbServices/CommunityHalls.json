@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.phillaur",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall, Phillaur",
+      "code": "COMMUNITY_HALL_PHILLAUR",
+      "locationCode": "COMMUNITY_HALL_PHILLAUR",
+      "contactDetails": "011-25695450",
+      "address": "Near Municipal Council office, Phillaur",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

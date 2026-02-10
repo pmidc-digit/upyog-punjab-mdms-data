@@ -1,0 +1,40 @@
+{
+  "tenantId": "pb.amargarh",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall W.No.05 (Happy Function)",
+      "code": "COMMUNITY_HALL_WNO_05_HAPPY",
+      "locationCode": "COMMUNITY_HALL_WNO_05",
+      "contactDetails": "011-25695450",
+      "address": "Jhundan Darwajja, Amargarh",
+      "type": "HALL",
+      "hallDescription": "Community centre facility for happy functions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "name": "Community Hall W.No.05 (Sad Function)",
+      "code": "COMMUNITY_HALL_WNO_05_SAD",
+      "locationCode": "COMMUNITY_HALL_WNO_05",
+      "contactDetails": "011-25695450",
+      "address": "Jhundan Darwajja, Amargarh",
+      "type": "HALL",
+      "hallDescription": "Community centre facility for sad functions.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}
