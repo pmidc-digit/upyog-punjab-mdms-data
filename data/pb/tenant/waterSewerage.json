@@ -83,7 +83,7 @@
     {
       "code": "pb.balachaur",
       "name": "Balachaur",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -227,7 +227,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -254,6 +254,12 @@
       "iswater": false,
       "issewerage": false
     },
+   {
+  "code": "pb.faridkot",
+  "name": "Faridkot",
+  "iswater": true,
+  "issewerage": true
+  },
     {
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
@@ -329,8 +335,8 @@
     {
       "code": "pb.jandialaguru",
       "name": "Jandiala Guru",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.jalandhar",
@@ -545,13 +551,13 @@
     {
       "code": "pb.sangrur",
       "name": "Sangrur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
       "code": "pb.sardulgarh",
       "name": "Sardulgarh",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -575,8 +581,8 @@
     {
       "code": "pb.zira",
       "name": "Zira",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.zirakpur",
