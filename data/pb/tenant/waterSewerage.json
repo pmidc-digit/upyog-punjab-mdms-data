@@ -54,7 +54,7 @@
       "code": "pb.amritsar",
       "name": "Amritsar",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.anandpursahib",
@@ -95,8 +95,8 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.barnala",
@@ -227,7 +227,7 @@
     {
       "code": "pb.dhilwan",
       "name": "Dhilwan",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -245,8 +245,8 @@
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.ferozepur",
@@ -335,8 +335,8 @@
     {
       "code": "pb.jandialaguru",
       "name": "Jandiala Guru",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jalandhar",
@@ -551,14 +551,14 @@
     {
       "code": "pb.sangrur",
       "name": "Sangrur",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
       "code": "pb.sardulgarh",
       "name": "Sardulgarh",
-      "iswater": true,
-      "issewerage": false
+      "iswater": false,
+      "issewerage": true
     },
     {
       "code": "pb.sirhind",
@@ -581,8 +581,8 @@
     {
       "code": "pb.zira",
       "name": "Zira",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.zirakpur",
