@@ -5,12 +5,12 @@
     {
       "name": "Commercial Fee",
       "code": "COMMERCIAL",
-      "flatFee": 1000
+      "flatFee": 2000
     },
     {
       "name": "Residential Fee",
       "code": "RESIDENTIAL",
-      "flatFee": 2000
+      "flatFee": 1000
     }
   ]
 }
