@@ -35,8 +35,8 @@
     {
       "code": "pb.alawalpur",
       "name": "Alawalpur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.amargarh",
@@ -54,7 +54,7 @@
       "code": "pb.amritsar",
       "name": "Amritsar",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.anandpursahib",
@@ -77,8 +77,8 @@
     {
       "code": "pb.baghapurana",
       "name": "Baghapurana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.balachaur",
@@ -95,8 +95,8 @@
     {
       "code": "pb.banur",
       "name": "Banur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.barnala",
@@ -137,8 +137,8 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhadaur",
@@ -186,7 +186,7 @@
       "code": "pb.bhulath",
       "name": "Bhulath",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.boha",
@@ -245,8 +245,8 @@
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ferozepur",
@@ -257,8 +257,8 @@
    {
   "code": "pb.faridkot",
   "name": "Faridkot",
-  "iswater": true,
-  "issewerage": true
+  "iswater": false,
+  "issewerage": false
   },
     {
       "code": "pb.garhdiwala",
@@ -275,7 +275,7 @@
     {
       "code": "pb.ghagga",
       "name": "Ghagga",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -402,7 +402,7 @@
       "code": "pb.machhiwara",
       "name": "Machhiwara",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.malerkotla",
@@ -558,7 +558,7 @@
       "code": "pb.sardulgarh",
       "name": "Sardulgarh",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.sirhind",
