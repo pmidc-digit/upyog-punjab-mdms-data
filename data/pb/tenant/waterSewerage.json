@@ -35,8 +35,8 @@
     {
       "code": "pb.alawalpur",
       "name": "Alawalpur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amargarh",
@@ -77,8 +77,8 @@
     {
       "code": "pb.baghapurana",
       "name": "Baghapurana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.balachaur",
@@ -137,8 +137,8 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadaur",
@@ -173,7 +173,7 @@
     {
       "code": "pb.bhogpur",
       "name": "Bhogpur",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -186,7 +186,7 @@
       "code": "pb.bhulath",
       "name": "Bhulath",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.boha",
@@ -275,7 +275,7 @@
     {
       "code": "pb.ghagga",
       "name": "Ghagga",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -377,14 +377,14 @@
     {
       "code": "pb.kharar",
       "name": "Kharar",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.kurali",
       "name": "Kurali",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.lehragaga",
@@ -402,7 +402,7 @@
       "code": "pb.machhiwara",
       "name": "Machhiwara",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.malerkotla",
