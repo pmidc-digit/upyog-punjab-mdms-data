@@ -68356,7 +68356,126 @@
       "actionid": 1486,
       "actioncode": "",
       "tenantId": "pb"
+    },
+        {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATP",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTP",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_DM",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_JC",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STP",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATPHQ",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTPHQ",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STPHQ",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_FIELD_REPORT_INSPECTOR",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATP",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTP",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_DM",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_JC",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STP",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_ATPHQ",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_MTPHQ",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPAS_BPA_STPHQ",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_FIELD_REPORT_INSPECTOR",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-	
   ]
 }
