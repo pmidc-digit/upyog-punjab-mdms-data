@@ -1919,6 +1919,26 @@
          }
        ]
      },
+
+     {
+       "id": 70,
+       "buildingType": "INDUSTRIAL",
+       "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
+       "calculationAttribute": "Water consumption",
+       "connectionType": "Metered",
+       "minimumCharge": 0,    
+       "slabs": [
+         {
+           "from": 0,
+           "to": 1000020000,
+           "charge": 7.6,
+           "meterCharge": 0,
+           "effectiveFrom":1522584000000,
+           "effectiveTo":1774929282000
+ 
+         }
+       ]
+     },
  {
        "id": 61,
        "buildingType": "COMMERCIAL",
