@@ -5208,7 +5208,6 @@
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
-
     {
       "id": 1776,
       "name": "rainmaker-common-propertytax",
@@ -7309,7 +7308,6 @@
       "rightIcon": "",
       "queryParams": ""
     },
-
     {
       "id": 1943,
       "name": "PropertyTax",
@@ -18053,7 +18051,6 @@
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
-
     {
       "id": 5007,
       "name": "Locality searcher endpoint for BPA Reg",
@@ -20676,202 +20673,232 @@
       "code": "null",
       "path": ""
     },
-	{
-	  "id": 883339,
-	  "name": "create noc application",
-	  "url": "/noc-services/v1/noc/_create",
-	  "displayName": "create noc application",
-	  "orderNumber": 1,
-	  "enabled": true,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883340,
-	  "name": "update noc application",
-	  "url": "/noc-services/v1/noc/_update",
-	  "displayName": "update noc application",
-	  "orderNumber": 2,
-	  "enabled": true,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883341,
-	  "name": "Search NOC Applications",
-	  "url": "/noc-services/v1/noc/_search",
-	  "parentModule": "",
-	  "displayName": "Search NOC Applications",
-	  "orderNumber": 3,
-	  "enabled": true,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883342,
-	  "name": "Noc Collection Search Reciept",
-	  "url": "/collection-services/payments/obpas_noc/_search",
-	  "displayName": "Search Payment",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883343,
-	  "name": "Noc document CheckList Create",
-	  "url": "/noc-services/v1/checklist/_create",
-	  "displayName": "CheckList Create",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883344,
-	  "name": "Noc document CheckList Create",
-	  "url": "/noc-services/v1/checklist/_update",
-	  "displayName": "CheckList update",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883345,
-	  "name": "Noc document CheckList Create",
-	  "url": "/noc-services/v1/checklist/_search",
-	  "displayName": "CheckList search",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883346,
-	  "name": "NOC Calculator",
-	  "url": "/noc-calculator/v1/_calculate",
-	  "parentModule": "",
-	  "displayName": "NOC Calculator",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883347,
-	  "name": "CLU Calculator",
-	  "url": "/clu-calculator/v1/_calculate",
-	  "parentModule": "",
-	  "displayName": "CLU Calculator",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "clu-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883348,
-	  "name": "create clu application",
-	  "url": "/clu-services/v1/clu/_create",
-	  "displayName": "create clu application",
-	  "orderNumber": 1,
-	  "enabled": true,
-	  "serviceCode": "clu-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883349,
-	  "name": "update clu application",
-	  "url": "/clu-services/v1/clu/_update",
-	  "displayName": "update layout application",
-	  "orderNumber": 2,
-	  "enabled": true,
-	  "serviceCode": "clu-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883350,
-	  "name": "Search clu Applications",
-	  "url": "/clu-services/v1/clu/_search",
-	  "parentModule": "",
-	  "displayName": "Search clu Applications",
-	  "orderNumber": 3,
-	  "enabled": true,
-	  "serviceCode": "clu-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883351,
-	  "name": "CLU document CheckList Create",
-	  "url": "/clu-services/v1/checklist/_create",
-	  "displayName": "CheckList Create",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883352,
-	  "name": "CLU document CheckList Update",
-	  "url": "/clu-services/v1/checklist/_update",
-	  "displayName": "CheckList update",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883353,
-	  "name": "CLU document CheckList Search",
-	  "url": "/clu-services/v1/checklist/_search",
-	  "displayName": "CheckList search",
-	  "orderNumber": 0,
-	  "parentModule": "",
-	  "enabled": false,
-	  "serviceCode": "noc-services",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883354,
-	  "name": "Clu Collection Search Reciept",
-	  "url": "/collection-services/payments/CLU.PAY1/_search",
-	  "displayName": "Search Payment",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-	},
-	{
-	  "id": 883355,
-	  "name": "Clu Collection Search Reciept",
-	  "url": "/collection-services/payments/CLU.PAY2/_search",
-	  "displayName": "Search Payment",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-	}
+    {
+      "id": 883339,
+      "name": "create noc application",
+      "url": "/noc-services/v1/noc/_create",
+      "displayName": "create noc application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883340,
+      "name": "update noc application",
+      "url": "/noc-services/v1/noc/_update",
+      "displayName": "update noc application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883341,
+      "name": "Search NOC Applications",
+      "url": "/noc-services/v1/noc/_search",
+      "parentModule": "",
+      "displayName": "Search NOC Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883342,
+      "name": "Noc Collection Search Reciept",
+      "url": "/collection-services/payments/obpas_noc/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883343,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883344,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883345,
+      "name": "Noc document CheckList Create",
+      "url": "/noc-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883346,
+      "name": "NOC Calculator",
+      "url": "/noc-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "NOC Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883347,
+      "name": "CLU Calculator",
+      "url": "/clu-calculator/v1/_calculate",
+      "parentModule": "",
+      "displayName": "CLU Calculator",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "clu-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883348,
+      "name": "create clu application",
+      "url": "/clu-services/v1/clu/_create",
+      "displayName": "create clu application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "clu-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883349,
+      "name": "update clu application",
+      "url": "/clu-services/v1/clu/_update",
+      "displayName": "update layout application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "clu-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883350,
+      "name": "Search clu Applications",
+      "url": "/clu-services/v1/clu/_search",
+      "parentModule": "",
+      "displayName": "Search clu Applications",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "clu-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883351,
+      "name": "CLU document CheckList Create",
+      "url": "/clu-services/v1/checklist/_create",
+      "displayName": "CheckList Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883352,
+      "name": "CLU document CheckList Update",
+      "url": "/clu-services/v1/checklist/_update",
+      "displayName": "CheckList update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883353,
+      "name": "CLU document CheckList Search",
+      "url": "/clu-services/v1/checklist/_search",
+      "displayName": "CheckList search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "noc-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883354,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883355,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/CLU.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 883356,
+      "name": "Property Revenue",
+      "url": "url",
+      "displayName": "Property Revenue",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "",
+      "path": "Property Revenue",
+      "navigationURL": "/abg/ptreve",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 883357,
+      "name": "Property Revenue Mapped",
+      "url": "url",
+      "displayName": "Property Revenue Mapped",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "",
+      "path": "Property Revenue",
+      "navigationURL": "/abg/ptmapped",
+      "rightIcon": "",
+      "queryParams": ""
+    }
   ]
 }
