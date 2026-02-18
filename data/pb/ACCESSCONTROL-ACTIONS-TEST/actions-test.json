@@ -27039,6 +27039,17 @@
       "navigationURL": "/digit-ui/employee/swach/complaint/create",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+	  {
+      "id": 8900139,
+      "name": "Pdf Generator getBulkPdfRecordsDetails",
+      "url": "/pdf-service/v1/_getBulkPdfRecordsDetails",
+      "displayName": "Pdf Generator get Bulk Records",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "pdf-generator-getBulkPdfRecordsDetails",
+      "code": "null",
+      "path": ""
+    },
   ]
 }
