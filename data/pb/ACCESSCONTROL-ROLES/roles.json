@@ -1484,6 +1484,12 @@
       "name": "OBPAS_NOC_ADC",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "004"
+    },
+    {
+      "code": "OBPAS_UPDATE_ZONE",
+      "name": "OBPAS_UPDATE_ZONE",
+      "description": "BPA EO workflow Approver",
+      "groupId": "025"
     }
   ]
 }
