@@ -1478,6 +1478,12 @@
       "name": "REVENUE APPROVER",
       "description": "Revenue Approver",
       "groupId": "014"
+    },
+    {
+      "code": "OBPAS_NOC_ADC",
+      "name": "OBPAS_NOC_ADC",
+      "description": "OBPAS NOC workflow Approver",
+      "groupId": "004"
     }
   ]
 }
