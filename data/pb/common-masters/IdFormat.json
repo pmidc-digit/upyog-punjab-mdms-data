@@ -760,7 +760,7 @@
       "idname": "communityhall.booking.id"
     },
     {
-      "format": "CHB/[CITY.CODE]/[seq_chb_receipt_id]",
+      "format": "CHB/[CITY.CODE]/[seq_chb_receipt_id_[TENANT_ID]]",
       "idname": "chb-services.receipt.id"
     },
 	  {
@@ -768,7 +768,7 @@
       "idname": "advertisement.booking.id"
     },
     {
-      "format": "ADV/[CITY.CODE]/[seq_adv_receipt_id]",
+      "format": "ADV/[CITY.CODE]/[seq_adv_receipt_id_[TENANT_ID]]",
       "idname": "adv-services.receipt.id"
     },
     {
@@ -805,11 +805,11 @@
       "idname": "ptr.petregistrationnumber"
     },
     {
-      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID]",
+      "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID_[TENANT_ID]]",
       "idname": "ndc.receipt.id"
     },
     {
-      "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID]",
+      "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_PTR_RECEIPT_ID_[TENANT_ID]]",
       "idname": "pet-services.receipt.id"
     },
     {
@@ -825,7 +825,7 @@
       "idname": "challan.aplnumber"
     },
     {
-      "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID]",
+      "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID_[TENANT_ID]]",
       "idname": "challan_generation.receipt.id"
     },
     {
@@ -866,7 +866,7 @@
       "idname": "garbageservice.disconnection.id"
     },
     {
-      "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_GC_RECEIPT_ID]",
+      "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_GC_RECEIPT_ID_[TENANT_ID]]",
       "idname": "gc.one_time_fee.receipt.id"
     },
     {
@@ -878,7 +878,7 @@
       "idname": "rl.regapplicationnumber"
     },
     {
-      "format": "PB-REC-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RECEIPT_NUMBER]",
+      "format": "PB-REC-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RECEIPT_NUMBER_[TENANT_ID]]",
       "idname": "rl-services.receipt.id"
     }
   ]
