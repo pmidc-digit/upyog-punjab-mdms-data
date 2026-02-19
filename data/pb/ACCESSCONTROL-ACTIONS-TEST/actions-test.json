@@ -25572,6 +25572,22 @@
       "navigationURL": "/digit-ui/employee/rentandlease/allot-property",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+     {
+      "id": 8900911,
+      "name": "Bill Genie",
+      "url": "url",
+      "displayName": "Bill Genie",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/bill-genie",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
