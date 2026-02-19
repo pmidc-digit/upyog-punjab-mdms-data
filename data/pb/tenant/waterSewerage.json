@@ -593,20 +593,20 @@
     {
   "code": "pb.kotfatta",
   "name": "Kot Fatta",
-  "iswater": true,
-  "issewerage": true
+  "iswater": false,
+  "issewerage": false
 },
 {
   "code": "pb.handiaya",
   "name": "Handiaya",
-  "iswater": true,
-  "issewerage": true
+  "iswater": false,
+  "issewerage": false
 },
 {
   "code": "pb.mamdot",
   "name": "Mamdot",
-  "iswater": true,
-  "issewerage": true
+  "iswater": false,
+  "issewerage": false
 }
 
 
