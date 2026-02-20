@@ -113,7 +113,7 @@
     {
       "code": "pb.bariwala",
       "name": "Bariwala",
-      "iswater": false,
+      "iswater": true,
       "issewerage": false
     },
     {
@@ -597,18 +597,28 @@
   "issewerage": false
 },
 {
-  "code": "pb.handiaya",
-  "name": "Handiaya",
-  "iswater": false,
-  "issewerage": false
-},
-{
-  "code": "pb.mamdot",
-  "name": "Mamdot",
-  "iswater": false,
-  "issewerage": false
-}
-
-
+      "code": "pb.handiaya",
+      "name": "Handiaya",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.mamdot",
+      "name": "Mamdot",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.maur",
+      "name": "Maur",
+      "iswater": true,
+      "issewerage": true
+    },
+    {
+      "code": "pb.dharamkot",
+      "name": "Dharamkot",
+      "iswater": true,
+      "issewerage": true
+    }
   ]
 }
