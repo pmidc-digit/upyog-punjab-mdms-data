@@ -1035,6 +1035,11 @@
     }
   },
   "Challan": {
+    "Acts": {
+      "masterName": "Acts",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
     "OffenceType": {
       "masterName": "OffenceType",
       "isStateLevel": true,
