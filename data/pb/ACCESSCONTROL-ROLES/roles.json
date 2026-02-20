@@ -932,6 +932,18 @@
 	  "name": "View CLU Card",
 	  "description": "For CLU Card Display in Dashboard",
 	  "groupId": "013"
-	}
+	},
+    {
+      "code": "REV_CEMP",
+      "name": "REVENUE COUNTER EMPLOYEE",
+      "description": "Revenue Counter Employee",
+      "groupId": "014"
+    },
+    {
+      "code": "REV_APPROVER",
+      "name": "REVENUE APPROVER",
+      "description": "Revenue Approver",
+      "groupId": "014"
+    }
   ]
 }
