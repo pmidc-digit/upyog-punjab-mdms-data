@@ -113,7 +113,7 @@
     {
       "code": "pb.bariwala",
       "name": "Bariwala",
-      "iswater": true,
+      "iswater": false,
       "issewerage": false
     },
     {
@@ -534,7 +534,7 @@
       "code": "pb.ropar",
       "name": "Ropar",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.samrala",
@@ -611,14 +611,14 @@
     {
       "code": "pb.maur",
       "name": "Maur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dharamkot",
       "name": "Dharamkot",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     }
   ]
 }
