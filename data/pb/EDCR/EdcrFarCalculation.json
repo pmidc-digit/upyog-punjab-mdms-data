@@ -150,11 +150,23 @@
 					"minPlotArea": 0,
 					"maxPlotArea": 250,
 					"NormalFAR": [
-					    { "upto": 250, "far": 2.6 },
-					    { "upto": 350, "far": 2.4 },
-					    { "upto": 450, "far": 2.0 },
-					    { "upto": -1,  "far": 1.6 }
-					  ],
+						{
+							"upto": 250,
+							"far": 2.6
+						},
+						{
+							"upto": 350,
+							"far": 2.4
+						},
+						{
+							"upto": 450,
+							"far": 2.0
+						},
+						{
+							"upto": -1,
+							"far": 1.6
+						}
+					],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -191,11 +203,23 @@
 					"minPlotArea": 251,
 					"maxPlotArea": 350,
 					"NormalFAR": [
-					    { "upto": 250, "far": 2.6 },
-					    { "upto": 350, "far": 2.4 },
-					    { "upto": 450, "far": 2.0 },
-					    { "upto": -1,  "far": 1.6 }
-					  ],
+						{
+							"upto": 250,
+							"far": 2.6
+						},
+						{
+							"upto": 350,
+							"far": 2.4
+						},
+						{
+							"upto": 450,
+							"far": 2.0
+						},
+						{
+							"upto": -1,
+							"far": 1.6
+						}
+					],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -232,11 +256,23 @@
 					"minPlotArea": 351,
 					"maxPlotArea": 450,
 					"NormalFAR": [
-					    { "upto": 250, "far": 2.6 },
-					    { "upto": 350, "far": 2.4 },
-					    { "upto": 450, "far": 2.0 },
-					    { "upto": -1,  "far": 1.6 }
-					  ],
+						{
+							"upto": 250,
+							"far": 2.6
+						},
+						{
+							"upto": 350,
+							"far": 2.4
+						},
+						{
+							"upto": 450,
+							"far": 2.0
+						},
+						{
+							"upto": -1,
+							"far": 1.6
+						}
+					],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -273,11 +309,23 @@
 					"minPlotArea": 451,
 					"maxPlotArea": 2147483647,
 					"NormalFAR": [
-					    { "upto": 250, "far": 2.6 },
-					    { "upto": 350, "far": 2.4 },
-					    { "upto": 450, "far": 2.0 },
-					    { "upto": -1,  "far": 1.6 }
-					  ],
+						{
+							"upto": 250,
+							"far": 2.6
+						},
+						{
+							"upto": 350,
+							"far": 2.4
+						},
+						{
+							"upto": 450,
+							"far": 2.0
+						},
+						{
+							"upto": -1,
+							"far": 1.6
+						}
+					],
 					"PurchasableFAR": 1.00,
 					"isActive": true,
 					"minRoad": 12,
@@ -1477,7 +1525,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "G-GF",
+					"OccupancyType": "G-GIF",
 					"OccupancyName": "General industry Flatted",
 					"minPlotArea": 2000,
 					"maxPlotArea": 2147483647,
@@ -1485,6 +1533,24 @@
 					"PurchasableFAR": 0.0,
 					"isActive": true,
 					"minRoad": 18,
+					"maxRoad": 999,
+					"minHeight": 3,
+					"maxHeight": 999,
+					"frontSetBack": 3,
+					"rearSetBack": 3,
+					"sideSetBack1": 3,
+					"sideSetBack2": 3,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "G-ITP",
+					"OccupancyName": "Informational Technology- Industry Plotted",
+					"minPlotArea": 300,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 2.5,
+					"PurchasableFAR": 0.0,
+					"isActive": true,
+					"minRoad": 12,
 					"maxRoad": 999,
 					"minHeight": 3,
 					"maxHeight": 999,
@@ -1970,6 +2036,24 @@
 					"rearSetBack": 3,
 					"sideSetBack1": 2,
 					"sideSetBack2": 2,
+					"siteCoverage": 40
+				},
+				{
+					"OccupancyType": "L-NH",
+					"OccupancyName": "Hospital / Nursing Home",
+					"minPlotArea": 3345.72,
+					"maxPlotArea": 999999.99,
+					"NormalFAR": 1.00,
+					"PurchasableFAR": 0.00,
+					"isActive": true,
+					"minRoad": 9,
+					"maxRoad": 18,
+					"minHeight": 0,
+					"maxHeight": 15,
+					"frontSetBack": 25,
+					"rearSetBack": 3.0,
+					"sideSetBack1": 2.0,
+					"sideSetBack2": 2.0,
 					"siteCoverage": 40
 				},
 				{
