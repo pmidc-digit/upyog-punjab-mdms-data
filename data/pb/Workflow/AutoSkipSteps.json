@@ -5,7 +5,7 @@
         {
             "moduleName": "bpa-service",
             "comment": "Auto Skip Stete",
-            "active": false,
+            "active": true,
             "businessService": [
                 "BPA_MC",
                 "BPA_MC_HIGH",
@@ -21,7 +21,7 @@
         {
             "moduleName": "clu-service",
             "comment": "Auto Skip Stete",
-            "active": false,
+            "active": true,
             "businessService": [
                 "CLU_MC",
                 "CLU_MC_HIGH",
