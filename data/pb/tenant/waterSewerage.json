@@ -215,8 +215,8 @@
     {
       "code": "pb.derabassi",
       "name": "Derabassi",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.dhariwal",
@@ -281,8 +281,8 @@
     {
       "code": "pb.gidderbaha",
       "name": "Gidderbaha",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.goraya",
@@ -614,6 +614,17 @@
       "iswater": false,
       "issewerage": false
     },
+  
+    {
+      "code": "pb.sangatmandi",
+      "name": "Sangatmandi",
+      "iswater": true,
+      "issewerage": true
+       },
+      
+
+
+    
     {
       "code": "pb.dharamkot",
       "name": "Dharamkot",
@@ -621,4 +632,5 @@
       "issewerage": false
     }
   ]
+  
 }
