@@ -20954,6 +20954,38 @@
       "serviceCode": "egov-property-rate-search",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2200022,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "HRMS Inbox",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "digit-ui/employee/hrms/inbox",
+      "leftIcon": "social:people",
+      "rightIcon": ""
+    },
+	 {
+      "id": 2200023,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Create Employee",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "/digit-ui/employee/hrms/create",
+      "leftIcon": "social:people",
+      "rightIcon": ""
     }
   ]
 }
