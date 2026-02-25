@@ -827,6 +827,31 @@
     }
   },
   "Challan": {
+       "Acts": {
+      "masterName": "Acts",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "OffenceType": {
+      "masterName": "OffenceType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "Rates": {
+      "masterName": "Rates",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.subCategoryId"]
+    },
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
