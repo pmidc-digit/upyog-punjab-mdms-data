@@ -1,0 +1,30 @@
+{
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "AllowedDistance": [
+		{
+			"name": "Allowed Distance For NOC",
+			"module": "NOC",
+			"active": true,
+			"value": 50.00
+		},
+		{
+			"name": "Allowed Distance For CLU",
+			"module": "CLU",
+			"active": true,
+			"value": 50.00
+		},
+		{
+			"name": "Allowed Distance For LAYOUT",
+			"module": "LAYOUT",
+			"active": true,
+			"value": 50.00
+		},
+		{
+			"name": "Allowed Distance For BPA",
+			"module": "BPA",
+			"active": true,
+			"value": 50.00
+		}
+	]
+}
