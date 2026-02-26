@@ -8,57 +8,65 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION"
+      "description": "OWNER.AUTHORIZATIONLETTER.AUTHORIZATIONLETTER_DESCRIPTION",
+      "order": 1
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
+      "order": 2
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
+      "order": 3
     },
     {
       "code": "OWNER.OWNERSHIPPROOF",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERSHIPPROOF.OWNERSHIPPROOF_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPPROOF.OWNERSHIPPROOF_DESCRIPTION",
+      "order": 4
     },
     {
       "code": "OWNER.DETAILEDLOCATIONPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION"
+      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION",
+      "order": 5
     },
     {
       "code": "OWNER.BUILDINGDRAWING",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.BUILDINGDRAWING.BUILDINGDRAWING_DESCRIPTION"
+      "description": "OWNER.BUILDINGDRAWING.BUILDINGDRAWING_DESCRIPTION",
+      "order": 6
     },
     {
       "code": "OWNER.GOOGLEMARKEDSITE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION",
+      "order": 7
     },
     {
       "code": "OWNER.ANYOTHERDOCUMENT",
       "documentType": "OWNER",
       "required":false,
       "active": true,
-      "description": "OWNER.ANYOTHERDOCUMENT.ANYOTHERDOCUMENT_DESCRIPTION"
+      "description": "OWNER.ANYOTHERDOCUMENT.ANYOTHERDOCUMENT_DESCRIPTION",
+      "order": 8
     }
-   
+
   ]
 }

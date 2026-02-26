@@ -7,42 +7,48 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERSHIPDOCUMENT_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPDOCUMENT_DESCRIPTION",
+      "order": 1
     },
     {
       "code": "OWNER.LAYOUTDRAWING",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWING_DESCRIPTION"
+      "description": "OWNER.LAYOUTDRAWING_DESCRIPTION",
+      "order": 2
     },
     {
       "code": "OWNER.LAYOUTDRAWINGWITHKHASRA",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHKHASRA_DESCRIPTION"
+      "description": "OWNER.LAYOUTDRAWINGWITHKHASRA_DESCRIPTION",
+      "order": 3
     },
     {
       "code": "OWNER.LAYOUTDRAWINGWITHWSLINES",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHWSLINES_DESCRIPTION"
+      "description": "OWNER.LAYOUTDRAWINGWITHWSLINES_DESCRIPTION",
+      "order": 4
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHONE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
+      "order": 5
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
+      "order": 6
     },
 
     {
@@ -50,14 +56,16 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES_DESCRIPTION"
+      "description": "OWNER.LAYOUTDRAWINGWITHSEWERAGELINES_DESCRIPTION",
+      "order": 7
     },
     {
       "code": "OWNER.ANYOTHERLAYOUTDRAWING",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERLAYOUTDRAWING_DESCRIPTION"
+      "description": "OWNER.ANYOTHERLAYOUTDRAWING_DESCRIPTION",
+      "order": 8
     },
     {
       "code": "OWNER.REVENUEPLANAKSHSHAJRA",
@@ -65,7 +73,8 @@
       "required": true,
       "active": true,
       "cluRequired": true,
-      "description": "OWNER.REVENUEPLANAKSHSHAJRA_DESCRIPTION"
+      "description": "OWNER.REVENUEPLANAKSHSHAJRA_DESCRIPTION",
+      "order": 9
     },
     {
       "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
@@ -73,7 +82,8 @@
       "required": true,
       "active": true,
       "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION",
+      "order": 10
     },
     {
       "code": "OWNER.SITEMARKEDONMASTERPLAN",
@@ -81,7 +91,8 @@
       "required": true,
       "active": true,
       "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONMASTERPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONMASTERPLAN_DESCRIPTION",
+      "order": 11
     },
     {
       "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
@@ -89,7 +100,8 @@
       "required": true,
       "active": true,
       "cluRequired": true,
-      "description": "OWNER.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONSATELLITEPLAN_DESCRIPTION",
+      "order": 12
     },
     {
       "code": "OWNER.MUSTARKALANDAFFIDAVIT",
@@ -97,84 +109,96 @@
       "required": true,
       "active": true,
       "cluRequired": true,
-      "description": "OWNER.MUSTARKALANDAFFIDAVIT_DESCRIPTION"
+      "description": "OWNER.MUSTARKALANDAFFIDAVIT_DESCRIPTION",
+      "order": 13
     },
     {
       "code": "OWNER.CIRCLEREVENUEOFFCIERREPORT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.CIRCLEREVENUEOFFCIERREPORT_DESCRIPTION"
+      "description": "OWNER.CIRCLEREVENUEOFFCIERREPORT_DESCRIPTION",
+      "order": 14
     },
     {
       "code": "OWNER.NONENCUMBRANCECERTIFICATE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.NONENCUMBRANCECERTIFICATE_DESCRIPTION"
+      "description": "OWNER.NONENCUMBRANCECERTIFICATE_DESCRIPTION",
+      "order": 15
     },
     {
       "code": "OWNER.NATIONALHIGHWAYNOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.NATIONALHIGHWAYNOC_DESCRIPTION"
+      "description": "OWNER.NATIONALHIGHWAYNOC_DESCRIPTION",
+      "order": 16
     },
     {
       "code": "OWNER.AIRPORTAUTHORITYNOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.AIRPORTAUTHORITYNOC_DESCRIPTION"
+      "description": "OWNER.AIRPORTAUTHORITYNOC_DESCRIPTION",
+      "order": 17
     },
     {
       "code": "OWNER.FORESTNOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.FORESTNOC_DESCRIPTION"
+      "description": "OWNER.FORESTNOC_DESCRIPTION",
+      "order": 18
     },
     {
       "code": "OWNER.ANYOTHERNOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERNOC_DESCRIPTION"
+      "description": "OWNER.ANYOTHERNOC_DESCRIPTION",
+      "order": 19
     },
     {
       "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
+      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION",
+      "order": 20
     },
     {
       "code": "OWNER.OWNERSHIPSTATEMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.OWNERSHIPSTATEMENT_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPSTATEMENT_DESCRIPTION",
+      "order": 21
     },
     {
       "code": "OWNER.REVENUEPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.REVENUEPLAN_DESCRIPTION"
+      "description": "OWNER.REVENUEPLAN_DESCRIPTION",
+      "order": 22
     },
     {
       "code": "OWNER.SITEMARKEDONGOOGLEPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEMARKEDONGOOGLEPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONGOOGLEPLAN_DESCRIPTION",
+      "order": 23
     },
     {
       "code": "OWNER.INDUSTRYCATEGORYDOCUMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.INDUSTRYCATEGORYDOCUMENT_DESCRIPTION"
+      "description": "OWNER.INDUSTRYCATEGORYDOCUMENT_DESCRIPTION",
+      "order": 24
     }
   ]
 }
