@@ -215,8 +215,8 @@
     {
       "code": "pb.derabassi",
       "name": "Derabassi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dhariwal",
@@ -614,12 +614,22 @@
       "iswater": false,
       "issewerage": false
     },
+     
+    
+  {
+      "code": "pb.patti",
+      "name": "Patti",
+      "iswater": true,
+      "issewerage": true
+    },
+
+
   
     {
       "code": "pb.sangatmandi",
       "name": "Sangatmandi",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
        },
       
 
