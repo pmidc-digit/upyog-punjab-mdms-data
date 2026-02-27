@@ -811,6 +811,12 @@
       "description": "Tehsildar",
       "code": "DESIG_136",
       "active": true
+    },
+    {
+      "name": "Patwari",
+      "description": "Revenue Patwari officer",
+      "code": "DESIG_137",
+      "active": true
     }
   ]
 }
