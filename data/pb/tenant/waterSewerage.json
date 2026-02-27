@@ -254,12 +254,12 @@
       "iswater": false,
       "issewerage": false
     },
-   {
-  "code": "pb.faridkot",
-  "name": "Faridkot",
-  "iswater": false,
-  "issewerage": false
-  },
+    {
+      "code": "pb.faridkot",
+      "name": "Faridkot",
+      "iswater": false,
+      "issewerage": false
+    },
     {
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
@@ -591,12 +591,12 @@
       "issewerage": false
     },
     {
-  "code": "pb.kotfatta",
-  "name": "Kot Fatta",
-  "iswater": false,
-  "issewerage": false
-},
-{
+      "code": "pb.kotfatta",
+      "name": "Kot Fatta",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
       "code": "pb.handiaya",
       "name": "Handiaya",
       "iswater": false,
@@ -614,33 +614,35 @@
       "iswater": false,
       "issewerage": false
     },
-     
-    
-  {
+    {
       "code": "pb.patti",
       "name": "Patti",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
-
-
-  
     {
       "code": "pb.sangatmandi",
       "name": "Sangatmandi",
       "iswater": false,
       "issewerage": false
-       },
-      
-
-
-    
+    },
     {
       "code": "pb.dharamkot",
       "name": "Dharamkot",
       "iswater": false,
       "issewerage": false
+    },
+    {
+      "code": "pb.pathankot",
+      "name": "Pathankot",
+      "iswater": false,
+      "issewerage": true
+    },
+    {
+      "code": "pb.khanauri",
+      "name": "Khanauri",
+      "iswater": true,
+      "issewerage": true
     }
   ]
-  
 }
