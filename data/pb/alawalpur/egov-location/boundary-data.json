@@ -135,8 +135,7 @@
                   }
                 ]
               },
-
-            {
+              {
                 "id": "aa45e6bf-74fc-49be-acd9-8e980d330ebb",
                 "boundaryNum": 1,
                 "name": "WARD-3",
@@ -160,7 +159,6 @@
                   }
                 ]
               },
-
               {
                 "id": "9945e6bf-74fc-49be-acd9-8e980d330eae",
                 "boundaryNum": 1,
@@ -834,6 +832,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "AL16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "018b7f90-5915-4e19-b393-0bb24c3b6c91",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B2 - A2",
+                    "localname": "UNKNOWN - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

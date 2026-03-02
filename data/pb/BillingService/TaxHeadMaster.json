@@ -5891,7 +5891,7 @@
       "code": "WS_BREAKDOWN_PENALTY",
       "isActualDemand": true,
       "IsBillamend": true,
-      "isDebit": false,
+      "isDebit": true,
       "isRequired": false,
       "name": "BreakdownPenalty",
       "order": "3",
@@ -7411,6 +7411,106 @@
 	  "isDebit": false,
 	  "isActualDemand": true,
 	  "order": "1",
+	  "isRequired": false
+	},
+    {
+      "category": "FEE",
+      "service": "Challan_Generation",
+      "name": "Challan Fine",
+      "code": "CH.CHALLAN_FINE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+	{
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC fees",
+	  "code": "NOC_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "obpas_noc",
+	  "name": "NOC Compounding fees",
+	  "code": "NOC_COMPOUNDING_FEES",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "1",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY1",
+	  "name": "CLU PROCESSING FEE",
+	  "code": "CLU_PROCESSING_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU CLU FEE",
+	  "code": "CLU_CLU_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU EDC FEE",
+	  "code": "CLU_EDC_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU OTHER FEE",
+	  "code": "CLU_OTHER1_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU OTHER2 FEE",
+	  "code": "CLU_OTHER2_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU UDC/SIF FEE",
+	  "code": "CLU_UDC_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
+	  "isRequired": false
+	},
+	{
+	  "category": "FEE",
+	  "service": "CLU.PAY2",
+	  "name": "CLU LF FEE",
+	  "code": "CLU_LF_FEE",
+	  "isDebit": false,
+	  "isActualDemand": true,
+	  "order": "0",
 	  "isRequired": false
 	}
   ]

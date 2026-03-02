@@ -779,7 +779,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -1492,6 +1491,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LC49",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e034288a-4dcb-4444-b471-4ff0de762ac5",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B5A - A2",
+                    "localname": "UNKNOWN - B5A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

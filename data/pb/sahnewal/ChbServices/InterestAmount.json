@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.sahnewal",
+  "moduleName": "CHB",
+  "InterestAmount": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 0,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false
+    }
+  ]
+}

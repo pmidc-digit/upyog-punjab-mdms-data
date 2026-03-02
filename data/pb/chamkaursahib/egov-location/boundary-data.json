@@ -732,7 +732,6 @@
                     "code": "LC_46",
                     "area": "",
                     "children": []
-
                   },
                   {
                     "id": "aab44f72-a9d1-41dc-8f58-91cfab8086bb",
@@ -1421,6 +1420,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "LC_46",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "74e6af7f-c970-4c23-b3ee-aa5d24d32243",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B8 - A2",
+                    "localname": "UNKNOWN - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

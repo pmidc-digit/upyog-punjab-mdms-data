@@ -288,8 +288,7 @@
                     "code": "ALC11",
                     "area": "",
                     "children": []
-
-                }
+                  }
                 ]
               },
               {
@@ -605,6 +604,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "ALC11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84c27e41-f328-4a07-a893-110cb84971f3",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Block 11 - A1",
+                    "localname": "UNKNOWN - Block 11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

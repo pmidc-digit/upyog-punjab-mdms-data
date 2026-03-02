@@ -6,6 +6,9 @@
       "active": true,
       "connectionType": "Metered",
       "billingCycle": "quarterly",
+      "isBreakdownPenaltyEnabled": true,
+      "isBreakdownAverageApplicable": true,
+      "breakdownPenaltyRate": 2,
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 1209600000,
       "demandGenerationDateMillis": 345600000
@@ -16,8 +19,8 @@
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 2592000000,
-      "taxPeriodFrom": 1704067200000,
-      "taxPeriodTo": 1711909799000,
+      "taxPeriodFrom": 1751328000000,
+      "taxPeriodTo": 1759256999000,
       "demandGenerationDateMillis": 345600000
     }
   ]

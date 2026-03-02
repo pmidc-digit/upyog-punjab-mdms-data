@@ -1,0 +1,50 @@
+{
+	"tenantId": "pb",
+	"moduleName": "noc",
+	"ChargesType": [
+		{
+			"code": "102",
+			"name": "NOC",
+			"fromFY": "2025-26",
+			"startingDate": 1743465600000,
+			"endingDate": 1775001599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Noc fees",
+					"rate": 0.0,
+					"taxHeadCode": "NOC_FEES",
+					"applicable": true
+				},
+				{
+					"name": "Compounding fees",
+					"rate": 0.0,
+					"taxHeadCode": "NOC_COMPOUNDING_FEES",
+					"applicable": true
+				}
+			]
+		},
+		{
+			"code": "102",
+			"name": "NOC",
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "Noc fees",
+					"rate": 0.0,
+					"taxHeadCode": "NOC_FEES",
+					"applicable": true
+				},
+				{
+					"name": "Compounding fees",
+					"rate": 0.0,
+					"taxHeadCode": "NOC_COMPOUNDING_FEES",
+					"applicable": true
+				}
+			]
+		}
+	]
+}

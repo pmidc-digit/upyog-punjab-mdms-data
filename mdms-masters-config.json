@@ -11,6 +11,11 @@
       "masterName": "roles",
       "isStateLevel": true,
       "uniqueKeys": ["$.code"]
+    },
+    "roleGroups": {
+      "masterName": "roleGroups",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "ACCESSCONTROL-ROLEACTIONS": {
@@ -504,7 +509,12 @@
       "masterName": "Rebate",
       "isStateLevel": true,
       "uniqueKeys": ["$.fromFY"]
-    }
+    },
+	"ReminderPeriods": {
+	  "masterName": "ReminderPeriods",
+	  "isStateLevel": true,
+	  "uniqueKeys": []
+	}
   },
   "egov-hrms": {
     "EmployeeStatus": {
@@ -639,7 +649,7 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": ["$.fromFY"]
     },
     "WCBillingSlab": {
@@ -821,6 +831,38 @@
       "uniqueKeys": []
     }
   },
+  "Challan": {
+       "Acts": {
+      "masterName": "Acts",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "OffenceType": {
+      "masterName": "OffenceType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "Category": {
+      "masterName": "Category",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "SubCategory": {
+      "masterName": "SubCategory",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.id"]
+    },
+    "Rates": {
+      "masterName": "Rates",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.subCategoryId"]
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
   "PAYMENT": {
     "PaymentGateway": {
       "masterName": "PaymentGateway",
@@ -933,6 +975,25 @@
       "masterName": "ApplicationFees",
       "isStateLevel": true,
       "uniqueKeys": []
+    }
+  },
+  "noc": {
+    "NocFee": {
+      "masterName": "NocFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
+    }
+  },
+  "clu": {
+    "ChargesType": {
+      "masterName": "ChargesType",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code", "$name"]
     }
   }
 }

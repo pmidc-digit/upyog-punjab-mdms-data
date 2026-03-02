@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.makhu",
+  "moduleName": "CHB",
+  "CalculationType": [
+    {
+      "1": [
+        {
+          "sector": "Baba_Bathan_Wala_Road",
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 2500,
+          "taxApplicable": false
+        }
+      ]
+    }
+  ]
+}

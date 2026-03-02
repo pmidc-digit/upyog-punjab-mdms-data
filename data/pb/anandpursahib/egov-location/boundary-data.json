@@ -360,6 +360,18 @@
                     "code": "NSR_14",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "df6bc29b-95f9-4da1-9826-c5ac01412860",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B14 - A1",
+                    "localname": "UNKNOWN - B14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
@@ -726,8 +738,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }

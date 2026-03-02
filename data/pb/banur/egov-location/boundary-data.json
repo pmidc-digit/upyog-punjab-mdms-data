@@ -340,7 +340,6 @@
                 ]
               },
               {
-
                 "id": "aaa249e2-2741-4ed4-a6b3-4190e210b0bb",
                 "boundaryNum": 1,
                 "name": "WARD NO 14",
@@ -361,8 +360,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-
-                    
                   }
                 ]
               }
@@ -883,6 +880,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BR_28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d13c8613-cf81-4b6e-a13c-fab984e4eda9",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B13 - A1",
+                    "localname": "UNKNOWN - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

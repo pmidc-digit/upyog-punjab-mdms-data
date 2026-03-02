@@ -1,0 +1,11 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "CHB",
+  "DiscountReason": [
+    {
+      "name": "Category",
+      "code": "CATEGORY",
+      "active": true
+    }
+  ]
+}

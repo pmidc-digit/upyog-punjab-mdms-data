@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.alawalpur",
+  "moduleName": "CHB",
+  "ResidentType": [
+    {
+      "name": "MC Resident",
+      "code": "MC_RESIDENT",
+      "active": true
+    },
+    {
+      "name": "None",
+      "code": "NONE",
+      "active": true
+    }
+  ]
+}

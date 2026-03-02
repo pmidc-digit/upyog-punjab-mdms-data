@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.makhu",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall, Makhu",
+      "code": "COMMUNITY_HALL_MAKHU",
+      "locationCode": "COMMUNITY_HALL_MAKHU",
+      "contactDetails": "011-25695450",
+      "address": "Baba Bathan Wala Road, Makhu",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}

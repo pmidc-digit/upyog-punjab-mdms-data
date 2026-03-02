@@ -1,0 +1,30 @@
+{
+  "tenantId": "pb",
+  "moduleName": "CLU",
+  "BuildingCategory": [
+    {
+      "name": "Residential Plotted",
+      "code": "RESIDENTIAL_PLOTTED",
+      "propertyUsage": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Residential Independent Floors",
+      "code": "RESIDENTIAL_INDEPENDENT_FLOORS",
+      "propertyUsage": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "propertyUsage": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Industrial / Warehouse Building",
+      "code": "INDUSTRIAL_WAREHOUSE_BUILDING",
+      "propertyUsage": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    }
+  ]
+}

@@ -26,7 +26,34 @@
           "navigationUrl": "/digit-ui/citizen/all-services"
         },
         "props": [
-        
+          {
+            "code": "CITIZEN_SERVICE_PGR",
+            "name": "Complaints",
+            "label": "ES_PGR_HEADER_COMPLAINT",
+            "enabled": true,
+            "navigationUrl": "/citizen/pgr-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_PT",
+            "name": "Property Tax",
+            "label": "MODULE_PT",
+            "enabled": true,
+            "navigationUrl": "/citizen/property-tax"
+          },
+          {
+            "code": "CITIZEN_SERVICE_TL",
+            "name": "Trade Licence",
+            "label": "MODULE_TL",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/tl-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
+            "name": "Community Hall Booking",
+            "label": "ACTION_TEST_CHB",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/chb-home"
+          },
           {
             "code": "CITIZEN_SERVICE_ENGAGEMENT",
             "name": "Engagement",
@@ -42,13 +69,6 @@
             "navigationUrl": "/digit-ui/citizen/ptr-home"
           },
           {
-            "code": "CITIZEN_SERVICE_SWACH",
-            "name": "Swach",
-            "label": "ACTION_TEST_SWACH_SERVICES",
-            "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/swach-home"
-          },
-          {
             "code": "CITIZEN_SERVICE_NDC",
             "name": "No Due Cretificate",
             "label": "ACTION_TEST_NDC",
@@ -56,11 +76,11 @@
             "navigationUrl": "/digit-ui/citizen/ndc-home"
           },
           {
-            "code": "CITIZEN_SERVICE_COMMUNITY_HALL_BOOKING",
-            "name": "Community Hall Booking",
-            "label": "ACTION_TEST_CHB",
+            "code": "CITIZEN_SERVICE_SWACH",
+            "name": "Swach",
+            "label": "ACTION_TEST_SWACH_SERVICES",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/chb-home"
+            "navigationUrl": "/digit-ui/citizen/swach-home"
           },
           {
             "code": "OBPAS",
@@ -68,6 +88,27 @@
             "label": "ACTION_TEST_BUILDING_PLAN_APPROVAL",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/obps-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_WS",
+            "name": "Water & Sewerage",
+            "label": "ACTION_TEST_WATER_AND_SEWERAGE",
+            "enabled": true,
+            "navigationUrl": "/citizen/wns-citizen/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_FIRE_NOC",
+            "name": "Fire NOC",
+            "label": "ACTION_TEST_FIRE_NOC",
+            "enabled": true,
+            "navigationUrl": "/citizen/fire-noc/home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_CHALLANGENERATION",
+            "name": "Challan Generation",
+            "label": "ACTION_TEST_CHALLANGENERATION",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/challangeneration-home"
           }
         ]
       },

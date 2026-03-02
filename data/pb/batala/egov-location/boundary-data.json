@@ -4268,6 +4268,18 @@
                     "code": "LC-286",
                     "area": "AREA2",
                     "children": []
+                  },
+                  {
+                    "id": "60072156-33fc-499f-a1e7-13374d1ce1b5",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Block 67 - A2",
+                    "localname": "UNKNOWN - Block 67 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
                   }
                 ]
               }
@@ -7464,7 +7476,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }

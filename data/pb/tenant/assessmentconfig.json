@@ -4515,43 +4515,103 @@
       "financialyear": "2025-26",
       "isRented": false
     },
-	{
-      "tenant": "pb.jalandhar",
+	  {
+      "tenant": "pb.gurdaspur",
       "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
-      "tenant": "pb.gurdaspur",
-      "enabled": true,
-      "financialyear": "2025-26",
-      "isRented": false
-    },
-	  {
       "tenant": "pb.ajnala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.amloh",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.kiratpur",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2025-26",
       "isRented": false
     },
 	  {
       "tenant": "pb.kurali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.mohali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.sultanpurlodhi",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.malout",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	  {
+      "tenant": "pb.faridkot",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kapurthala",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.phagwara",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.ajnala",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.zirakpur",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.kurali",
+      "enabled": false,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.derabassi",
+      "enabled": true,
+      "financialyear": "2025-26",
+      "isRented": false
+    },
+	{
+      "tenant": "pb.banur",
       "enabled": true,
       "financialyear": "2025-26",
       "isRented": false
     }
-	  
+
 	  
   ]
 }

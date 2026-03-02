@@ -1,0 +1,19 @@
+{
+	"tenantId": "pb",
+	"moduleName": "NOC",
+	"WorkflowConfig": [
+		{
+			"businessService": "NOC_MC",
+			"ulbType": [
+				"Municipal Corporation"
+			]
+		},
+		{
+			"businessService": "NOC_NP",
+			"ulbType": [
+				"Nagar Panchayat",
+				"Municipal Council"
+			]
+		}
+	]
+}

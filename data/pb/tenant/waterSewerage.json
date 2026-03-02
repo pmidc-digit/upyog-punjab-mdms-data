@@ -3,474 +3,646 @@
   "moduleName": "tenant",
   "waterSewerage": [
     {
+      "code": "pb.abohar",
+      "name": "Abohar",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
       "code": "pb.adampur",
       "name": "Adampur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "isautodemand": "false"
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.ahmedpur",
       "name": "Ahmedpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ajnala",
       "name": "Ajnala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.alawalpur",
       "name": "Alawalpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amargarh",
       "name": "Amargarh",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amloh",
       "name": "Amloh",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.amritsar",
       "name": "Amritsar",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.anandpursahib",
       "name": "Anandpursahib",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.arniwala",
       "name": "Arniwala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.badhnikalan",
       "name": "Badhni Kalan",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.baghapurana",
+      "name": "Baghapurana",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.balachaur",
       "name": "Balachaur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.banga",
       "name": "Banga",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.banur",
       "name": "Banur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.barnala",
       "name": "Barnala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bareta",
       "name": "Bareta",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bariwala",
       "name": "Bariwala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bathinda",
       "name": "Bathinda",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.batala",
       "name": "Batala",
-      "isautodemand": "false"
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadaur",
       "name": "Bhadaur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhadson",
       "name": "Bhadson",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhawanigarh",
       "name": "Bhawanigarh",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhikhi",
       "name": "Bhikhi",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhikhiwind",
       "name": "Bhikhiwind",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhogpur",
       "name": "Bhogpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhuchomandi",
       "name": "Bhuchomandi",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bhulath",
       "name": "Bhulath",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.boha",
       "name": "Boha",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.chamkaursahib",
       "name": "Chamkaur Sahib",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.cheema",
       "name": "Cheema",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.dasuya",
       "name": "Dasuya",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.dhariwal",
-      "name": "Dhariwal",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.dhilwan",
-      "name": "Dhilwan",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.dirba",
-      "name": "Dirba",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.doraha",
-      "name": "Doraha",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.derabassi",
       "name": "Derabassi",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.dhariwal",
+      "name": "Dhariwal",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.dhilwan",
+      "name": "Dhilwan",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.dirba",
+      "name": "Dirba",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.doraha",
+      "name": "Doraha",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.fazilka",
       "name": "Fazilka",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ferozepur",
       "name": "Ferozepur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
-      "code": "pb.ghagga",
-      "name": "Ghagga",
-      "isautodemand": "false"
+      "code": "pb.faridkot",
+      "name": "Faridkot",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.garhdiwala",
       "name": "Garhdiwala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.ghanaur",
+      "name": "Ghanaur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.ghagga",
+      "name": "Ghagga",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.gidderbaha",
+      "name": "Gidderbaha",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.goraya",
+      "name": "Goraya",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.gurdaspur",
       "name": "Gurdaspur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.hariana",
       "name": "Hariana",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.hoshiarpur",
+      "name": "Hoshiarpur",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.itpatiala",
       "name": "Improvement Trust Patiala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.jaitu",
+      "name": "Jaitu",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.jagraon",
+      "name": "Jagraon",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jalalabad",
       "name": "Jalalabad",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jandialaguru",
-      "name": "Jandiala guru",
-      "isautodemand": "false"
+      "name": "Jandiala Guru",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jalandhar",
       "name": "Jalandhar",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.joga",
       "name": "Joga",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kapurthala",
       "name": "Kapurthala",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kartarpur",
       "name": "Kartarpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.khamano",
       "name": "Khamano",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.khanna",
       "name": "Khanna",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kharar",
       "name": "Kharar",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.kurali",
       "name": "Kurali",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.lehragaga",
       "name": "Lehragaga",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.longowal",
+      "name": "Longowal",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.machhiwara",
       "name": "Machhiwara",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.malerkotla",
       "name": "Malerkotla",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.maloud",
+      "name": "Maloud",
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.malout",
       "name": "Malout",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.mahilpur",
-      "name": "Mahilpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.mandigobindgarh",
       "name": "Mandigobindgarh",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.mamdot",
-      "name": "Mamdot",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.moga",
       "name": "Moga",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.morinda",
-      "name": "Morinda",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.mudki",
-      "name": "Mudki",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.nadala",
-      "name": "Nadala",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.nabha",
-      "name": "Nabha",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.nangal",
-      "name": "Nangal",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.nihalsinghwala",
-      "name": "Nihalsinghwala",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.nurmahal",
-      "name": "Nurmahal",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.patiala",
-      "name": "Patiala",
-      "isautodemand": "true"
-    },
-    {
-      "code": "pb.payal",
-      "name": "Payal",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.phagwara",
-      "name": "Phagwara",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.phillaur",
-      "name": "Phillaur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.quadian",
-      "name": "Quadian",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.raikot",
-      "name": "Raikot",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.ramdass",
-      "name": "Ramdass",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.rampuraphul",
-      "name": "Rampuraphul",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.rayya",
-      "name": "Rayya",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.ropar",
-      "name": "Ropar",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sahnewal",
-      "name": "Sahnewal",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.samrala",
-      "name": "Samrala",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sanaur",
-      "name": "Sanaur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.shahkot",
-      "name": "Shahkot",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sirhind",
-      "name": "Sirhind",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.srihargobindpur",
-      "name": "Srihargobindpur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sujanpur",
-      "name": "Sujanpur",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.sultanpurlodhi",
-      "name": "Sultanpurlodhi",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.talwara",
-      "name": "Talwara",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.tapa",
-      "name": "Tapa",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.tarntaran",
-      "name": "Tarn Taran",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.zira",
-      "name": "Zira",
-      "isautodemand": "false"
-    },
-    {
-      "code": "pb.zirakpur",
-      "name": "Zirakpur",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.moonak",
       "name": "Moonak",
-      "isautodemand": "false"
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.morinda",
+      "name": "Morinda",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.mudki",
+      "name": "Mudki",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.mullanpur",
+      "name": "Mullanpur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.nabha",
+      "name": "Nabha",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.nadala",
+      "name": "Nadala",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.nangal",
+      "name": "Nangal",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.nihalsinghwala",
+      "name": "Nihalsinghwala",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.nurmahal",
+      "name": "Nurmahal",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.payal",
+      "name": "Payal",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.patiala",
+      "name": "Patiala",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.patran",
+      "name": "Patran",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.phagwara",
+      "name": "Phagwara",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.phillaur",
+      "name": "Phillaur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.raikot",
+      "name": "Raikot",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.rajpura",
+      "name": "Rajpura",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.ropar",
+      "name": "Ropar",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.samrala",
+      "name": "Samrala",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.samana",
+      "name": "Samana",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.sangrur",
+      "name": "Sangrur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.sardulgarh",
+      "name": "Sardulgarh",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.sirhind",
+      "name": "Sirhind",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.talwandibhai",
+      "name": "Talwandi Bhai",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.tarntaran",
+      "name": "Tarn Taran",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.zira",
+      "name": "Zira",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.zirakpur",
+      "name": "Zirakpur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.kotfatta",
+      "name": "Kot Fatta",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.handiaya",
+      "name": "Handiaya",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.mamdot",
+      "name": "Mamdot",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.maur",
+      "name": "Maur",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.patti",
+      "name": "Patti",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.sangatmandi",
+      "name": "Sangatmandi",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.dharamkot",
+      "name": "Dharamkot",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.pathankot",
+      "name": "Pathankot",
+      "iswater": false,
+      "issewerage": false
+    },
+    {
+      "code": "pb.khanauri",
+      "name": "Khanauri",
+      "iswater": false,
+      "issewerage": false
     }
   ]
 }

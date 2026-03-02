@@ -4141,7 +4141,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "498dd40f-ca82-41e2-bd7f-f9346dc0qaz3",
                     "boundaryNum": 1,
                     "name": "Gurudwara Singh Sabha - B26 - A2",
@@ -4153,7 +4153,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "498dd40f-ca82-41e2-bd7f-f9346dc0gfj3",
                     "boundaryNum": 1,
                     "name": "Panjiri Plant - B26 - A2",
@@ -4165,7 +4165,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "498dd40f-ca82-41e2-bd7f-f9346dc0mnj3",
                     "boundaryNum": 1,
                     "name": "Mahavir Mandir - B26 - A2",
@@ -4177,7 +4177,7 @@
                     "area": "AREA2",
                     "children": []
                   },
-				  {
+                  {
                     "id": "498dd40f-ca82-41e2-bd7f-f9346dc0xcf3",
                     "boundaryNum": 1,
                     "name": "Bhogla Road - B26 - A2",
@@ -4186,6 +4186,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "RJ322",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2a48b4fe-a718-423f-bea4-b63a01227788",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B26 - A2",
+                    "localname": "UNKNOWN - B26 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA2",
                     "children": []
                   }

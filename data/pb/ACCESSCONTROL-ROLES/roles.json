@@ -2,6 +2,24 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
+	{
+      "code": "CHALLAN REPORTS",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports ",
+      "groupId": "011"
+    },
+	{
+      "code": "OBPAS REPORTS",
+      "name": "OBPAS REPORTS",
+      "description": "Access to all OBPAS Reports",
+      "groupId": "025"
+     },
+     {
+      "code": "OUTSOURCE_SMS",
+      "name": "Outsource SMS Role",
+      "description": "Outsource SMS Role",
+      "groupId": "030"
+    },
     {
       "code": "SURVEY_ADMIN",
       "name": "Survey Admin",
@@ -290,6 +308,12 @@
       "description": "HRMS Administrator which can create new employees",
       "groupId": "023"
     },
+	{
+      "code": "VIEW_HRMS_CARD",
+      "name": "View HRMS Card",
+      "description": "For HRMS Card Display in Dashboard",
+      "groupId": "023"
+    },
     {
       "code": "GIS_USER",
       "name": "GIS USER",
@@ -346,7 +370,7 @@
     },
     {
       "code": "NOC_APPROVER",
-      "name": "NoC counter Approver",
+      "name": "NoC Approver",
       "description": "Fire NOC Approver",
       "groupId": "004"
     },
@@ -757,6 +781,168 @@
       "code": "SASKI",
       "name": "SASKI EMPLOYEE",
       "description": "SASKI employee",
+      "groupId": "014"
+    },
+    {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard",
+      "groupId": "011"
+    },
+    {
+      "code": "CHALLAN_ADMIN",
+      "name": "Challan Admin",
+      "description": "Challan Generator",
+      "groupId": "011"
+    },
+	{
+	  "code": "OBPAS_NOC_JE",
+	  "name": "NOC JE verifier",
+	  "description": "NOC JE verifier",
+	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_NOC_DM",
+	  "name": "NOC DM verifier",
+	  "description": "NOC DM verifier",
+	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_NOC_ATP",
+	  "name": "NOC ATP verifier",
+	  "description": "NOC ATP verifier",
+	  "groupId": "004"
+	},{
+	  "code": "OBPAS_NOC_MTP",
+	  "name": "NOC MTP verifier",
+	  "description": "NOC MTP verifier",
+	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_NOC_JC",
+	  "name": "NOC JC verifier",
+	  "description": "NOC JC verifier",
+	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_NOC_EO",
+	  "name": "NOC EO verifier",
+	  "description": "NOC EO verifier",
+	  "groupId": "004"
+	},
+	{
+	  "code": "VIEW_NOC_CARD",
+	  "name": "View NOC Card",
+	  "description": "For NOC Card Display in Dashboard",
+	  "groupId": "004"
+	},
+	{
+	  "code": "OBPAS_CLU_JE",
+	  "name": "OBPAS_CLU_JE",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_STP",
+	  "name": "OBPAS_CLU_STP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ATP_HQ",
+	  "name": "OBPAS_CLU_ATP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_MTP_HQ",
+	  "name": "OBPAS_CLU_MTP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_STP_HQ",
+	  "name": "OBPAS_CLU_STP_HQ",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+
+	{
+	  "code": "OBPAS_CLU_BI",
+	  "name": "OBPAS_CLU_BI",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ATP",
+	  "name": "OBPAS_CLU_ATP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_AME",
+	  "name": "OBPAS_CLU_AME",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_MTP",
+	  "name": "OBPAS_CLU_MTP",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ME",
+	  "name": "OBPAS_CLU_ME",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_JC",
+	  "name": "OBPAS_CLU_JC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_CMC",
+	  "name": "OBPAS_CLU_CMC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_EO",
+	  "name": "OBPAS_CLU_EO",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_ADC",
+	  "name": "OBPAS_CLU_ADC",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_DM",
+	  "name": "OBPAS_CLU_DM",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "VIEW_CLU_CARD",
+	  "name": "View CLU Card",
+	  "description": "For CLU Card Display in Dashboard",
+	  "groupId": "013"
+	},
+    {
+      "code": "REV_CEMP",
+      "name": "REVENUE COUNTER EMPLOYEE",
+      "description": "Revenue Counter Employee",
+      "groupId": "014"
+    },
+    {
+      "code": "REV_APPROVER",
+      "name": "REVENUE APPROVER",
+      "description": "Revenue Approver",
       "groupId": "014"
     }
   ]

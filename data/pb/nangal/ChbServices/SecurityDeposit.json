@@ -3,12 +3,76 @@
   "moduleName": "CHB",
   "SecurityDeposit": [
     {
-      "flatAmount": 0,
+      "1":[
+           {
+      "flatAmount": 5000,
       "fromFY": "2025-26",
       "applicableAfterDays": "0",
       "active": true,
       "taxApplicable": false,
       "refundable": true
+      }
+      ]
+    },
+      {
+      "2":[
+           {
+      "flatAmount": 10000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+      }
+      ]
+    },
+      {
+      "3":[
+           {
+      "flatAmount": 2000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+      }
+      ]
+    },
+  {
+      "4":[
+           {
+      "flatAmount": 3000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+      }
+      ]
+    },
+  {
+      "5":[
+           {
+      "flatAmount": 2000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+      }
+      ]
+    },
+    {
+      "6":[
+           {
+      "flatAmount": 2000,
+      "fromFY": "2025-26",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": false,
+      "refundable": true
+      }
+      ]
     }
   ]
 }

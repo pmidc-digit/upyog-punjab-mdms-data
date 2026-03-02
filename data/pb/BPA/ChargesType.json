@@ -151,6 +151,12 @@
 					"rate": 0.0,
 					"taxHeadCode": "BPA_PURCHASABLE_FAR_CHARGES",
 					"applicable": true
+				},
+				{
+					"name": "Other Charges",
+					"rate": 0.0,
+					"taxHeadCode": "BPA_OTHER_CHARGES",
+					"applicable": true
 				}
 			]
 		},

@@ -1,0 +1,78 @@
+{
+  "tenantId": "pb.mohali",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Community Centre, Phase-01",
+      "code": "COMMUNITY_CENTRE_PH_01",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7046,
+        "longitude": 76.7179
+      }
+    },
+    {
+      "name": "Community Centre, Phase-02",
+      "code": "COMMUNITY_CENTRE_PH_02",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7100,
+        "longitude": 76.7250
+      }
+    },
+    {
+      "name": "Community Centre, Phase-05",
+      "code": "COMMUNITY_CENTRE_PH_05",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.6950,
+        "longitude": 76.7300
+      }
+    },
+    {
+      "name": "Community Centre, Phase-07",
+      "code": "COMMUNITY_CENTRE_PH_07",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7200,
+        "longitude": 76.7400
+      }
+    },
+    {
+      "name": "Community Centre, Phase-11",
+      "code": "COMMUNITY_CENTRE_PH_11",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7350,
+        "longitude": 76.7500
+      }
+    },
+    {
+      "name": "Community Centre, Sector-70",
+      "code": "COMMUNITY_CENTRE_SEC_70",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7080,
+        "longitude": 76.6950
+      }
+    },
+    {
+      "name": "Community Centre, Sector-71",
+      "code": "COMMUNITY_CENTRE_SEC_71",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7120,
+        "longitude": 76.7020
+      }
+    },
+    {
+      "name": "Community Centre, Sector-69",
+      "code": "COMMUNITY_CENTRE_SEC_69",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.7050,
+        "longitude": 76.6900
+      }
+    }
+  ]
+}

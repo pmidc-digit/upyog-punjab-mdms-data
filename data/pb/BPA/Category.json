@@ -1,0 +1,31 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "Category": [
+    {
+      "categoryId": "A",
+      "categoryName": "Residential",
+      "active": true
+    },
+    {
+      "categoryId": "F",
+      "categoryName": "Commercial",
+      "active": true
+    },
+    {
+      "categoryId": "G",
+      "categoryName": "Industrial",
+      "active": true
+    },
+    {
+      "categoryId": "P",
+      "categoryName": "Public‐Semi Public/ Institutional and Educational Buildings",
+      "active": true
+    },
+    {
+      "categoryId": "Q",
+      "categoryName": "Mixed land",
+      "active": true
+    }
+  ]
+}

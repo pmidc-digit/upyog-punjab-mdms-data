@@ -1,0 +1,368 @@
+{
+  "tenantId": "pb.zirakpur",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HALLCODE-SBH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "hallId": "2",
+      "HallCode": "HALLCODE-SCH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "3",
+      "hallId": "3",
+      "HallCode": "HALLCODE-LPH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "4",
+      "hallId": "4",
+      "HallCode": "HALLCODE-NBH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "5",
+      "hallId": "5",
+      "HallCode": "HALLCODE-GMBH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "6",
+      "hallId": "6",
+      "HallCode": "HALLCODE-MCHBH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "7",
+      "hallId": "7",
+      "HallCode": "HALLCODE-JEH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "8",
+      "hallId": "8",
+      "HallCode": "HALLCODE-OMOH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "9",
+      "hallId": "9",
+      "HallCode": "HALLCODE-MEH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "10",
+      "hallId": "10",
+      "HallCode": "HALLCODE-LEH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+
+    {
+      "communityHallId": "11",
+      "hallId": "11",
+      "HallCode": "HALLCODE-MSEH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "12",
+      "hallId": "12",
+      "HallCode": "HALLCODE-GTH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "13",
+      "hallId": "13",
+      "HallCode": "HALLCODE-DEH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "14",
+      "hallId": "14",
+      "HallCode": "HALLCODE-NH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "15",
+      "hallId": "15",
+      "HallCode": "HALLCODE-NKH",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+
+    {
+      "communityHallId": "16",
+      "hallId": "16",
+      "HallCode": "HALLCODE-SBS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "17",
+      "hallId": "17",
+      "HallCode": "HALLCODE-SCS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "18",
+      "hallId": "18",
+      "HallCode": "HALLCODE-LPS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "19",
+      "hallId": "19",
+      "HallCode": "HALLCODE-NSS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "20",
+      "hallId": "20",
+      "HallCode": "HALLCODE-GMBS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "21",
+      "hallId": "21",
+      "HallCode": "HALLCODE-MCHBS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "22",
+      "hallId": "22",
+      "HallCode": "HALLCODE-JES",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "23",
+      "hallId": "23",
+      "HallCode": "HALLCODE-OMOS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "24",
+      "hallId": "24",
+      "HallCode": "HALLCODE-MES",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "25",
+      "hallId": "25",
+      "HallCode": "HALLCODE-LES",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "26",
+      "hallId": "26",
+      "HallCode": "HALLCODE-MSES",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "27",
+      "hallId": "27",
+      "HallCode": "HALLCODE-GTS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "28",
+      "hallId": "28",
+      "HallCode": "HALLCODE-DES",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "29",
+      "hallId": "29",
+      "HallCode": "HALLCODE-NS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "30",
+      "hallId": "30",
+      "HallCode": "HALLCODE-NKS",
+      "capacity": "300",
+      "timeSlots": [
+        { "id": "1", "from": "10:00", "duration": "23:59" },
+        { "id": "2", "from": "10:00", "duration": "47:59" },
+        { "id": "3", "from": "10:00", "duration": "71:59" }
+      ],
+      "active": true
+    }
+  ]
+}

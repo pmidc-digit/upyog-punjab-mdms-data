@@ -4476,7 +4476,6 @@
                     "code": "UNKNOWNAD",
                     "area": "",
                     "children": []
-                    
                   }
                 ]
               }
@@ -8945,6 +8944,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BL87",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ed7b9182-8d6a-4267-8d8d-00cbbd44e27e",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - BW14 - A1",
+                    "localname": "UNKNOWN - BW14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }

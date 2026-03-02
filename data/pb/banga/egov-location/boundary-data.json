@@ -388,7 +388,6 @@
                 ]
               },
               {
-
                 "id": "aacc7518-0fe1-43af-8517-852d21de69bb",
                 "boundaryNum": 1,
                 "name": "WARD_16",
@@ -1541,6 +1540,18 @@
                     "latitude": null,
                     "label": "Locality",
                     "code": "BG_78",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8b27b22a-9e76-4d8b-955e-e67ef193adc0",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B15 - A1",
+                    "localname": "UNKNOWN - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
                     "area": "AREA1",
                     "children": []
                   }
