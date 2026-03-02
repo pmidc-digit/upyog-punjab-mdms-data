@@ -832,6 +832,14 @@
       "format": "PB-LAYOUT-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_LAYOUT_APPLICATION]",
       "idname": "layout.application.number"
     },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "idname": "layout.pay1.receipt.id"
+    },
+    {
+      "format": "LT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_LT_RECEIPT_ID]",
+      "idname": "layout.pay2.receipt.id"
+    },
 
     {
       "format": "PB-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION]",
