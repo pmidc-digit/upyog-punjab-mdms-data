@@ -109,6 +109,13 @@
             "label": "ACTION_TEST_CHALLANGENERATION",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/challangeneration-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_NOC",
+            "name": "No Objection Cretificate",
+            "label": "ACTION_TEST_NOC",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/noc-home"
           }
         ]
       },
