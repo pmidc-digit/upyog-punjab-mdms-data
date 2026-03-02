@@ -2641,6 +2641,14 @@
 	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
 	  "financialYear": "2025-26"
 	},
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_APP_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2026-27"
+    },
 	{
 	  "fromDate": 1743445800000,
 	  "toDate": 1774981799000,
@@ -2649,6 +2657,14 @@
 	  "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
 	  "financialYear": "2025-26"
 	},
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_SAN_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2026-27"
+    },
   {
     "fromDate": 1112313601000,
     "toDate": 1120156199000,
@@ -3361,6 +3377,197 @@
 	  "service": "CLU.PAY2",
 	  "code": "CLU_LF_FEE",
 	  "financialYear": "2026-27"
-	}
+	},
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_OC_APP_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_OC_APP_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774981799000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+      "financialYear": "2026-27"
+    },{
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY1",
+      "code": "LAYOUT_SCRUTINY_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY1",
+      "code": "LAYOUT_SCRUTINY_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY1",
+      "code": "LAYOUT_PROCESSING_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY1",
+      "code": "LAYOUT_PROCESSING_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_LAYOUT_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_LAYOUT_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_EDC_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_EDC_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_CLU_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_CLU_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_OTHERCHARGES2_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_OTHERCHARGES2_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_PF_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_PF_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_UDC_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_UDC_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_OTHERCHARGES1_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_OTHERCHARGES1_FEE",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_TOTAL_FEE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "LAYOUT.PAY2",
+      "code": "LAYOUT_TOTAL_FEE",
+      "financialYear": "2026-27"
+    }
   ]
 }

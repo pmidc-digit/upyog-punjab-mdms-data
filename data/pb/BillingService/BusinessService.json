@@ -2486,6 +2486,50 @@
 	  "isAdvanceAllowed": false,
 	  "isVoucherCreationEnabled": true,
 	  "isActive": true
-	}
+	},
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_OC_APP_FEE",
+      "code": "BPA.NC_OC_APP_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_OC_SANC_FEE",
+      "code": "BPA.NC_OC_SAN_FEE",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "LAYOUT.PAY1",
+      "code": "LAYOUT.PAY1",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "LAYOUT.PAY2",
+      "code": "LAYOUT.PAY2",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    }
   ]
 }
