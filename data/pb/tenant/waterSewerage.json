@@ -17,8 +17,8 @@
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.ahmedpur",
@@ -131,8 +131,8 @@
     {
       "code": "pb.batala",
       "name": "Batala",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.begowal",
@@ -636,13 +636,13 @@
       "code": "pb.pathankot",
       "name": "Pathankot",
       "iswater": false,
-      "issewerage": true
+      "issewerage": false
     },
     {
       "code": "pb.khanauri",
       "name": "Khanauri",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     }
   ]
 }
