@@ -4993,6 +4993,150 @@
                     "children": []
                   }
                 ]
+              },
+			  {
+                "id": "c214649b-f421-894b-386a-9972625fe8c2",
+                "boundaryNum": 1,
+                "name": "Ward_OL",
+                "localname": "Ward_OL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WOL",
+                "children": [
+                  {
+                    "id": "da327282-0d30-42b8-99c8-87de1280ebda",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 1",
+                    "localname": "Urban Estate Phase 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_355",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5a1177da-ef03-49ef-aa8d-286e1095135a",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 2",
+                    "localname": "Urban Estate Phase 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_356",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd5e4086-dae4-4260-b2cf-834897150ccd",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 3",
+                    "localname": "Urban Estate Phase 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_357",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ac045685-ccd7-f186-e8da-b1620d7a64ac",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 4",
+                    "localname": "Urban Estate Phase 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_358",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "be37e7f9-cd03-dc6d-25e1-d58dc4f6c4be",
+                    "boundaryNum": 1,
+                    "name": "Water Supply and Sewer",
+                    "localname": "Water Supply and Sewer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_359",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "4f9aea67-3197-1295-bb84-0d7a3465834f",
+                    "boundaryNum": 1,
+                    "name": "Road Work",
+                    "localname": "Road Work",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_360",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "a9c995bc-a9e5-a025-557b-e39681a92aa9",
+                    "boundaryNum": 1,
+                    "name": "Phulkian Enclave",
+                    "localname": "Phulkian Enclave",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_361",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "3925f5ed-997e-c937-da56-477d078fc139",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-1",
+                    "localname": "PUDA Enclave-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_362",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "9c74e9dc-2024-7356-c8b0-f2eb487dc59c",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-2",
+                    "localname": "PUDA Enclave-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_363",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "1e91d1bc-c125-414d-a325-d1bd67441f1e",
+                    "boundaryNum": 1,
+                    "name": "Lehal Mandal Site",
+                    "localname": "Lehal Mandal Site",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_364",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "48e9ec23-0b37-14a7-eea3-8217dfb28c48",
+                    "boundaryNum": 1,
+                    "name": "Hira Enclave-Nabha",
+                    "localname": "Hira Enclave-Nabha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_365",
+                    "area": "",
+                    "children": []
+                  }
+                ]
               }
             ]
           }
@@ -10780,6 +10924,150 @@
                     "label": "Locality",
                     "code": "PTA958",
                     "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+			  {
+                "id": "3fd39987-e72b-baf3-5ef0-c839136f143f",
+                "boundaryNum": 1,
+                "name": "Ward_OL",
+                "localname": "Ward_OL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WOL",
+                "children": [
+                  {
+                    "id": "270e6b19-7291-a83e-4218-eab103463f27",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 1",
+                    "localname": "Urban Estate Phase 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_366",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d98bba15-2f6d-7c5d-de33-bb77071878d9",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 2",
+                    "localname": "Urban Estate Phase 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_367",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eecd6bf4-53d8-d91f-4807-1797a4afa9ee",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 3",
+                    "localname": "Urban Estate Phase 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_368",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "123a67d2-8afa-c88e-1329-23620cd23812",
+                    "boundaryNum": 1,
+                    "name": "Urban Estate Phase 4",
+                    "localname": "Urban Estate Phase 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_369",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dec0770b-cf87-ebec-e1b7-68b89235c2de",
+                    "boundaryNum": 1,
+                    "name": "Water Supply and Sewer",
+                    "localname": "Water Supply and Sewer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_370",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "b84d66ca-435b-f21f-6134-b2569d6f7cb8",
+                    "boundaryNum": 1,
+                    "name": "Road Work",
+                    "localname": "Road Work",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_371",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "d04b2f47-c183-8a8d-4d82-3b4736e629d0",
+                    "boundaryNum": 1,
+                    "name": "Phulkian Enclave",
+                    "localname": "Phulkian Enclave",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_372",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "b198d089-4312-5ce1-c127-830c9b7612b1",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-1",
+                    "localname": "PUDA Enclave-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_373",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "83ebf256-91b2-e720-d2a0-171430d7bf83",
+                    "boundaryNum": 1,
+                    "name": "PUDA Enclave-2",
+                    "localname": "PUDA Enclave-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_374",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "be8f60e0-fc2b-729d-8e85-934ab2c368be",
+                    "boundaryNum": 1,
+                    "name": "Lehal Mandal Site",
+                    "localname": "Lehal Mandal Site",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_375",
+                    "area": "",
+                    "children": []
+                  },
+				  {
+                    "id": "5221c96b-be59-e6a7-9fb4-70c870898552",
+                    "boundaryNum": 1,
+                    "name": "Hira Enclave-Nabha",
+                    "localname": "Hira Enclave-Nabha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTA_376",
+                    "area": "",
                     "children": []
                   }
                 ]
