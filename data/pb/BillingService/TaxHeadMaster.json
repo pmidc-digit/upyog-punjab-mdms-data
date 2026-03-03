@@ -7512,6 +7512,126 @@
 	  "isActualDemand": true,
 	  "order": "0",
 	  "isRequired": false
-	}
+	},
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY1",
+      "name": "LAYOUT SCRUTINY FEE",
+      "code": "LAYOUT_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY1",
+      "name": "LAYOUT PROCESSING FEE",
+      "code": "LAYOUT_PROCESSING_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT LAYOUT FEE",
+      "code": "LAYOUT_LAYOUT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT EDC FEE",
+      "code": "LAYOUT_EDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT CLU FEE",
+      "code": "LAYOUT_CLU_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES2 FEE",
+      "code": "LAYOUT_OTHERCHARGES2_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT UDC/SIF FEE",
+      "code": "LAYOUT_UDC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT PF/LF FEE",
+      "code": "LAYOUT_PF_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT OTHERCHARGES1 FEE",
+      "code": "LAYOUT_OTHERCHARGES1_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "LAYOUT.PAY2",
+      "name": "LAYOUT TOTAL FEE",
+      "code": "LAYOUT_TOTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
