@@ -17,8 +17,8 @@
     {
       "code": "pb.ahmedgarh",
       "name": "Ahmedgarh",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ahmedpur",
@@ -119,8 +119,8 @@
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bathinda",
@@ -131,8 +131,8 @@
     {
       "code": "pb.batala",
       "name": "Batala",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.begowal",
@@ -269,8 +269,8 @@
     {
       "code": "pb.ghanaur",
       "name": "Ghanaur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.ghagga",
@@ -293,8 +293,8 @@
     {
       "code": "pb.gurdaspur",
       "name": "Gurdaspur",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.hariana",
