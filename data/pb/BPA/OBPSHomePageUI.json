@@ -1,0 +1,91 @@
+{
+    "tenantId": "pb",
+    "moduleName": "BPA",
+    "OBPSHomePageUI": [
+        {
+            "moduleName": "ACTION_TEST_BPA_STAKE_HOLDER_HOME",
+            "name": "employeeCard",
+            "isCitizen": true,
+            "kpis": [],
+            "links": [
+                {
+                    "label": "ES_COMMON_OBPS_INBOX_LABEL",
+                    "link": "/digit-ui/citizen/obps/bpa/inbox"
+                },
+                {
+                    "label": "ES_COMMON_EDCR_INBOX_LABEL",
+                    "link": "/digit-ui/citizen/obps/edcr/inbox"
+                }
+            ],
+            "className": "CitizenHomeCard"
+        },
+        {
+            "title": "ACTION_TEST_EDCR_SCRUTINY",
+            "links": [
+                {
+                    "link": "edcrscrutiny/apply",
+                    "i18nKey": "BPA_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
+                },
+                {
+                    "link": "edcrscrutiny/oc-apply",
+                    "i18nKey": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
+                }
+            ]
+        },
+        {
+            "title": "ACTION_TEST_BPA_STAKE_HOLDER_HOME",
+            "links": []
+        },
+        {
+            "title": "ACTION_TEST_LAYOUT_HOME",
+            "links": [
+                {
+                    "link": "layout/apply",
+                    "i18nKey": "BPA_LAYOUT_LABEL"
+                },
+                {
+                    "link": "layout/my-applications",
+                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
+                },
+                {
+                    "link": "layout/search-application",
+                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
+                }
+            ]
+        },
+        {
+            "title": "ACTION_TEST_CLU_HOME",
+            "links": [
+                {
+                    "link": "clu/apply",
+                    "i18nKey": "BPA_CHANGE_OF_LAND_USE_LABEL"
+                },
+                {
+                    "link": "clu/my-applications",
+                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
+                },
+                {
+                    "link": "search/clu-application",
+                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
+                }
+            ]
+        },
+        {
+            "title": "ACTION_TEST_NOC",
+            "links": [
+                {
+                    "link": "/digit-ui/citizen/noc/new-application",
+                    "i18nKey": "NOC_NEW_APPLICATION"
+                },
+                {
+                    "link": "/digit-ui/citizen/noc/my-application",
+                    "i18nKey": "BPA_MY_APPLICATIONS_LABEL"
+                },
+                {
+                    "link": "/digit-ui/citizen/noc/search-application",
+                    "i18nKey": "BPA_SEARCH_APPLICATIONS_LABEL"
+                }
+            ]
+        }
+    ]
+}
