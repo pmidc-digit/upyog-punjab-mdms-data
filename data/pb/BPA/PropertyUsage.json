@@ -1,0 +1,133 @@
+{
+  "tenantId": "pb",
+  "moduleName": "BPA",
+  "PropertyUsage": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "OccupancyType": "A",
+      "SubOccupancyType": [
+        "A-A",
+        "A-R",
+        "A-AF",
+        "A-AIF",
+        "A-AF"
+      ]
+    },
+    {
+      "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-F",
+        "F-CA",
+        "F-VGP",
+        "F-BU",
+        "F-PFSF",
+        "F-PFST",
+        "F-PFSS",
+        "F-PS",
+        "F-CNGS"
+      ]
+    },
+    {
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true,
+      "OccupancyType": "G",
+      "SubOccupancyType": [
+        "G-G",
+        "G-F",
+        "G-IT",
+        "G-GTKS",
+        "G-GTKS",
+        "G-GTKS"
+      ]
+    },
+    {
+      "name": "Institutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "active": true,
+      "OccupancyType": "L",
+      "SubOccupancyType": [
+        "L-GO",
+        "L-GPB"
+      ]
+    },
+    {
+      "name": "Hotels/Motels",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-HM"
+      ]
+    },
+    {
+      "name": "Restaurants/ Banquet Halls",
+      "code": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-RB"
+      ]
+    },
+    {
+      "name": "Non AC Restaurant",
+      "code": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.NONACRESTAURANT",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-D"
+      ]
+    },
+    {
+      "name": "School",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
+      "active": true,
+      "OccupancyType": "L",
+      "SubOccupancyType": [
+        "L-EB-NS",
+        "L-EB-PS"
+      ]
+    },
+    {
+      "name": "Social Club",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.SOCIALCLUB",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-LB"
+      ]
+    },
+    {
+      "name": "Office Space",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACE.OFFICESPACE",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-PO"
+      ]
+    },
+    {
+      "name": "Shop/Showroom",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.SHOWROOM",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-SCC"
+      ]
+    },
+    {
+      "name": "Bank",
+      "code": "NONRESIDENTIAL.COMMERCIAL.BANK",
+      "active": true,
+      "OccupancyType": "F",
+      "SubOccupancyType": [
+        "F-B"
+      ]
+    }
+  ]
+}

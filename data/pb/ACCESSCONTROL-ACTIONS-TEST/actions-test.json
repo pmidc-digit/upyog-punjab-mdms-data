@@ -21240,6 +21240,170 @@
       "serviceCode": "CHALLANREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+	  "id": 883358,
+	  "name": "Layout Calculator",
+	  "url": "/layout-calculator/v1/_calculate",
+	  "parentModule": "",
+	  "displayName": "Layout Calculator",
+	  "orderNumber": 0,
+	  "enabled": false,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883359,
+	  "name": "create Layout application",
+	  "url": "/layout-services/v1/layout/_create",
+	  "displayName": "create Layout application",
+	  "orderNumber": 1,
+	  "enabled": true,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883360,
+	  "name": "update Layout application",
+	  "url": "/layout-services/v1/layout/_update",
+	  "displayName": "update layout application",
+	  "orderNumber": 2,
+	  "enabled": true,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883361,
+	  "name": "Search Layout Applications",
+	  "url": "/layout-services/v1/layout/_search",
+	  "parentModule": "",
+	  "displayName": "Search Layout Applications",
+	  "orderNumber": 3,
+	  "enabled": true,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883362,
+	  "name": "Layout document CheckList Create",
+	  "url": "/layout-services/v1/checklist/_create",
+	  "displayName": "CheckList Create",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883363,
+	  "name": "Layout document CheckList Update",
+	  "url": "/layout-services/v1/checklist/_update",
+	  "displayName": "CheckList update",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883364,
+	  "name": "Layout document CheckList Search",
+	  "url": "/layout-services/v1/checklist/_search",
+	  "displayName": "CheckList search",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "layout-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883365,
+	  "name": "Layout Collection Search Reciept",
+	  "url": "/collection-services/payments/LAYOUT.PAY1/_search",
+	  "displayName": "Search Payment",
+	  "orderNumber": 0,
+	  "enabled": false,
+	  "serviceCode": "COLLECTION",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883366,
+	  "name": "Layout Collection Search Reciept",
+	  "url": "/collection-services/payments/LAYOUT.PAY2/_search",
+	  "displayName": "Search Payment",
+	  "orderNumber": 0,
+	  "enabled": false,
+	  "serviceCode": "COLLECTION",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883367,
+	  "name": "BPA document CheckList Create",
+	  "url": "/bpa-services/v1/checklist/_create",
+	  "displayName": "CheckList Create",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "bpa-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883368,
+	  "name": "BPA document CheckList Update",
+	  "url": "/bpa-services/v1/checklist/_update",
+	  "displayName": "CheckList update",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "bpa-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883369,
+	  "name": "BPA document CheckList Search",
+	  "url": "/bpa-services/v1/checklist/_search",
+	  "displayName": "CheckList search",
+	  "orderNumber": 0,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "bpa-services",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883370,
+	  "name": "BPA OC Application Payment search",
+	  "url": "/collection-services/payments/BPA.OC_APP_FEE/_search",
+	  "displayName": "BPA Application Payment search",
+	  "orderNumber": 1,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "",
+	  "code": "null",
+	  "path": ""
+	},
+	{
+	  "id": 883371,
+	  "name": "BPA OC San Payment search",
+	  "url": "/collection-services/payments/BPA.OC_SAN_FEE/_search",
+	  "displayName": "BPA San Payment search",
+	  "orderNumber": 1,
+	  "parentModule": "",
+	  "enabled": false,
+	  "serviceCode": "",
+	  "code": "null",
+	  "path": ""
+	}
   ]
 }

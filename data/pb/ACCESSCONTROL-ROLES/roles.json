@@ -746,6 +746,60 @@
       "description": "BPA Services workflow Approver",
       "groupId": "025"
     },
+	{
+	  "code": "OBPAS_BPA_ATP",
+	  "name": "BPA Services ATP",
+	  "description": "BPA Services workflow ATP",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_ATPHQ",
+	  "name": "BPA Services ATPHQ",
+	  "description": "BPA Services workflow ATPHQ",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_DM",
+	  "name": "BPA Services DM",
+	  "description": "BPA Services workflow DM",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_JC",
+	  "name": "BPA Services JC",
+	  "description": "BPA Services workflow JC",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_MTP",
+	  "name": "BPA Services MTP",
+	  "description": "BPA Services workflow MTP",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_MTPHQ",
+	  "name": "BPA Services MTPHQ",
+	  "description": "BPA Services workflow MTPHQ",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_STP",
+	  "name": "BPA Services STP",
+	  "description": "BPA Services workflow STP",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_BPA_STPHQ",
+	  "name": "BPA Services STPHQ",
+	  "description": "BPA Services workflow STPHQ",
+	  "groupId": "025"
+	},
+	{
+	  "code": "OBPAS_UPDATE_ZONE",
+	  "name": "BPA Services Update Zone",
+	  "description": "BPA Services workflow Update Zone",
+	  "groupId": "025"
+	},
     {
       "code": "BPA_DOC_VERIFIER",
       "name": "BPA Doc verifier",
@@ -924,6 +978,12 @@
 	{
 	  "code": "OBPAS_CLU_DM",
 	  "name": "OBPAS_CLU_DM",
+	  "description": "OBPAS CLU workflow Approver",
+	  "groupId": "013"
+	},
+	{
+	  "code": "OBPAS_CLU_CTP_HQ",
+	  "name": "OBPAS_CLU_CTP_HQ",
 	  "description": "OBPAS CLU workflow Approver",
 	  "groupId": "013"
 	},

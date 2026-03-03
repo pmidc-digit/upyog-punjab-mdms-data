@@ -7,140 +7,160 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHONE.SITEPHOTOGRAPHONE_DESCRIPTION",
+      "order": 1
     },
     {
       "code": "OWNER.SITEPHOTOGRAPHTWO",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION"
+      "description": "OWNER.SITEPHOTOGRAPHTWO.SITEPHOTOGRAPHTWO_DESCRIPTION",
+      "order": 2
     },
     {
       "code": "OWNER.OWNERSHIPDOCUMENT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERSHIPDOCUMENT.OWNERSHIPDOCUMENT_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPDOCUMENT.OWNERSHIPDOCUMENT_DESCRIPTION",
+      "order": 3
     },
     {
       "code": "OWNER.FIRMDOCUMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.FIRMDOCUMENT.FIRMDOCUMENT_DESCRIPTION"
+      "description": "OWNER.FIRMDOCUMENT.FIRMDOCUMENT_DESCRIPTION",
+      "order": 4
     },
     {
       "code": "OWNER.DETAILEDLOCATIONPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION"
+      "description": "OWNER.DETAILEDLOCATIONPLAN.DETAILEDLOCATIONPLAN_DESCRIPTION",
+      "order": 5
     },
     {
       "code": "OWNER.REVENUEPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.REVENUEPLAN.REVENUEPLAN_DESCRIPTION"
+      "description": "OWNER.REVENUEPLAN.REVENUEPLAN_DESCRIPTION",
+      "order": 6
     },
     {
       "code": "OWNER.SITEMARKEDONLATHAPARTPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONLATHAPARTPLAN.SITEMARKEDONLATHAPARTPLAN_DESCRIPTION",
+      "order": 7
     },
     {
       "code": "OWNER.SITEMARKEDONMASTERPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEMARKEDONMASTERPLAN.SITEMARKEDONMASTERPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONMASTERPLAN.SITEMARKEDONMASTERPLAN_DESCRIPTION",
+      "order": 8
     },
     {
       "code": "OWNER.SITEMARKEDONSATELLITEPLAN",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.SITEMARKEDONSATELLITEPLAN.SITEMARKEDONSATELLITEPLAN_DESCRIPTION"
+      "description": "OWNER.SITEMARKEDONSATELLITEPLAN.SITEMARKEDONSATELLITEPLAN_DESCRIPTION",
+      "order": 9
     },
     {
       "code": "OWNER.MUSTARKALAND",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.MUSTARKALAND.MUSTARKALAND_DESCRIPTION"
+      "description": "OWNER.MUSTARKALAND.MUSTARKALAND_DESCRIPTION",
+      "order": 10
     },
     {
       "code": "OWNER.NOCFROMNHAIORPWD",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.NOCFROMNHAIORPWD.NOCFROMNHAIORPWD_DESCRIPTION"
+      "description": "OWNER.NOCFROMNHAIORPWD.NOCFROMNHAIORPWD_DESCRIPTION",
+      "order": 11
     },
     {
       "code": "OWNER.AIRPORTAUTHORITY",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.AIRPORTAUTHORITY.AIRPORTAUTHORITY_DESCRIPTION"
+      "description": "OWNER.AIRPORTAUTHORITY.AIRPORTAUTHORITY_DESCRIPTION",
+      "order": 12
     },
     {
       "code": "OWNER.NOCFROMFORESTDEPARTMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.NOCFROMFORESTDEPARTMENT.NOCFROMFORESTDEPARTMENT_DESCRIPTION"
+      "description": "OWNER.NOCFROMFORESTDEPARTMENT.NOCFROMFORESTDEPARTMENT_DESCRIPTION",
+      "order": 13
     },
     {
       "code": "OWNER.ANYOTHERNOC",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERNOC.ANYOTHERNOC_DESCRIPTION"
+      "description": "OWNER.ANYOTHERNOC.ANYOTHERNOC_DESCRIPTION",
+      "order": 14
     },
     {
       "code": "OWNER.CIRCLEREVENUEOFFICERREPORT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.CIRCLEREVENUEOFFICERREPORT.CIRCLEREVENUEOFFICERREPORT_DESCRIPTION"
+      "description": "OWNER.CIRCLEREVENUEOFFICERREPORT.CIRCLEREVENUEOFFICERREPORT_DESCRIPTION",
+      "order": 15
     },
     {
       "code": "OWNER.NONENCUMBRANCECERTIFICATE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.NONENCUMBRANCECERTIFICATE.NONENCUMBRANCECERTIFICATE_DESCRIPTION"
+      "description": "OWNER.NONENCUMBRANCECERTIFICATE.NONENCUMBRANCECERTIFICATE_DESCRIPTION",
+      "order": 16
     },
     {
       "code": "OWNER.OWNERSHIPSTATEMENT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.OWNERSHIPSTATEMENT.OWNERSHIPSTATEMENT_DESCRIPTION"
+      "description": "OWNER.OWNERSHIPSTATEMENT.OWNERSHIPSTATEMENT_DESCRIPTION",
+      "order": 17
     },
     {
       "code": "OWNER.GOOGLEMARKEDSITE",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION"
+      "description": "OWNER.GOOGLEMARKEDSITE.GOOGLEMARKEDSITE_DESCRIPTION",
+      "order": 18
     },
     {
       "code": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT",
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "description": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT.INDUSTRYCATEGORYSUPPORTINGDOCUMENT_DESCRIPTION"
+      "description": "OWNER.INDUSTRYCATEGORYSUPPORTINGDOCUMENT.INDUSTRYCATEGORYSUPPORTINGDOCUMENT_DESCRIPTION",
+      "order": 19
     },
     {
       "code": "OWNER.ANYOTHERSUPPORTINGDOCUMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION"
+      "description": "OWNER.ANYOTHERSUPPORTINGDOCUMENT.ANYOTHERSUPPORTINGDOCUMENT_DESCRIPTION",
+      "order": 20
     }
   ]
 }
