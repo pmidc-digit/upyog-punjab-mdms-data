@@ -4,6 +4,54 @@
   "roleactions": [
     {
       "rolecode": "STADMIN",
+      "actionid": 194110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 194111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 22999,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 22998,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN REPORTS",
+      "actionid": 22997,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23002,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23001,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 23000,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
       "actionid": 22993,
       "actioncode": "",
       "tenantId": "pb"
