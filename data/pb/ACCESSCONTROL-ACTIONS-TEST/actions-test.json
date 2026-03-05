@@ -27323,4 +27323,20 @@
       "path": ""
     }
   ]
-}
+},
+{
+      "id": 3017,
+      "name": "PT Data Dump",
+      "url": "url",
+      "displayName": "PT Data Dump",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Property Data.PT_Dump_Report",
+      "navigationURL": "report/rainmaker-pt/PT_Dump_Report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
+
