@@ -1,0 +1,469 @@
+{
+  "tenantId": "pb",
+  "moduleName": "EDCR",
+  "OccupancyMaster": [
+    {
+      "code": "A",
+      "name": "Residential",
+      "orderNumber": 1,
+      "colorCode": 25,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "A_RP",
+          "name": "Residential Plotted",
+          "colorCode": 25,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "A_GH",
+          "name": "Group Housing, Multi-storeyed building & Apartments",
+          "colorCode": 20,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "A_IF",
+          "name": "Independent Floors",
+          "colorCode": 21,
+          "orderNumber": 3,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "A",
+      "name": "Farm House",
+      "orderNumber": 2,
+      "colorCode": 22,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "A_FH",
+          "name": "NA",
+          "colorCode": 22,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Commercial",
+      "orderNumber": 3,
+      "colorCode": 7,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_SC",
+          "name": "Shopping Complex/Center",
+          "colorCode": 35,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "F_RS",
+          "name": "Retail Shops Restaurants Food Plazas Fitness Center Call center Corporate Offices Bank Departmental Store Bank Services Business Office IT office Office Shop Super Market Wholesale Stores Mercantile Showroom SCO/SCF",
+          "colorCode": 36,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "F_B",
+          "name": "Booth",
+          "colorCode": 37,
+          "orderNumber": 3,
+          "isActive": true
+        },
+        {
+          "code": "F_DSB",
+          "name": "Double storey Booth",
+          "colorCode": 38,
+          "orderNumber": 4,
+          "isActive": true
+        },
+        {
+          "code": "F_S123",
+          "name": "Shops (1/2/3 Storey)",
+          "colorCode": 39,
+          "orderNumber": 5,
+          "isActive": true
+        },
+        {
+          "code": "F_GBA",
+          "name": "Goods Booking Agencies",
+          "colorCode": 40,
+          "orderNumber": 6,
+          "isActive": true
+        },
+        {
+          "code": "F_SCH",
+          "name": "Scheme Commercial",
+          "colorCode": 41,
+          "orderNumber": 7,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Petrol Pumps",
+      "orderNumber": 4,
+      "colorCode": 13,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_OFS",
+          "name": "Only filling Station",
+          "colorCode": 42,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "F_TTW",
+          "name": "For two-three Wheelers",
+          "colorCode": 43,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "F_FCS",
+          "name": "Filling-cum-service station",
+          "colorCode": 44,
+          "orderNumber": 3,
+          "isActive": true
+        },
+        {
+          "code": "F_CMS",
+          "name": "CNG Mother Station",
+          "colorCode": 45,
+          "orderNumber": 4,
+          "isActive": true
+        },
+        {
+          "code": "F_CDS",
+          "name": "CNG Daughter Station",
+          "colorCode": 46,
+          "orderNumber": 5,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "name": "Industrial",
+      "orderNumber": 5,
+      "colorCode": 14,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "G_IP",
+          "name": "Industrial Plotted (General Industry/Factory)",
+          "colorCode": 47,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "G_IT",
+          "name": "Industrial Plotted (IT)",
+          "colorCode": 48,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "G_IF",
+          "name": "Industrial Flatted",
+          "colorCode": 49,
+          "orderNumber": 3,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "H",
+      "name": "Wholesale Trade/ Ware house/ Integrated Freight Complex (Standalone)",
+      "orderNumber": 6,
+      "colorCode": 15,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "H_WH",
+          "name": "NA",
+          "colorCode": 15,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Miniplex",
+      "orderNumber": 7,
+      "colorCode": 16,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_MINI",
+          "name": "NA",
+          "colorCode": 16,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Multiplex",
+      "orderNumber": 8,
+      "colorCode": 17,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_MX",
+          "name": "NA",
+          "colorCode": 17,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Hotel or Motel",
+      "orderNumber": 9,
+      "colorCode": 18,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_HM",
+          "name": "NA",
+          "colorCode": 18,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Mix Land Use",
+      "orderNumber": 10,
+      "colorCode": 19,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_MLU",
+          "name": "NA",
+          "colorCode": 19,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "name": "Club / Community center",
+      "orderNumber": 11,
+      "colorCode": 23,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "D_CC",
+          "name": "NA",
+          "colorCode": 23,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "A",
+      "name": "Guest house / Lodging & Boarding / Service Apartments",
+      "orderNumber": 12,
+      "colorCode": 24,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "A_GHST",
+          "name": "NA",
+          "colorCode": 24,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Dhaba",
+      "orderNumber": 13,
+      "colorCode": 26,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_DH",
+          "name": "NA",
+          "colorCode": 26,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "name": "Educational Buildings",
+      "orderNumber": 14,
+      "colorCode": 27,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "B_CD",
+          "name": "Creche / Day Care facilities",
+          "colorCode": 50,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "B_PN",
+          "name": "Pre Nursery/ Nursery School",
+          "colorCode": 51,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "B_PS",
+          "name": "Primary School",
+          "colorCode": 52,
+          "orderNumber": 3,
+          "isActive": true
+        },
+        {
+          "code": "B_HSC",
+          "name": "Higher Secondary School/College",
+          "colorCode": 53,
+          "orderNumber": 4,
+          "isActive": true
+        },
+        {
+          "code": "B_ERC",
+          "name": "Education and Research Centre",
+          "colorCode": 54,
+          "orderNumber": 5,
+          "isActive": true
+        },
+        {
+          "code": "B_MCH",
+          "name": "Medical College/Nursing College with Hospital, Hostel",
+          "colorCode": 55,
+          "orderNumber": 6,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "C",
+      "name": "Institutional",
+      "orderNumber": 15,
+      "colorCode": 28,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "C_NH",
+          "name": "Nursing home/Hospital",
+          "colorCode": 56,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "C_OAC",
+          "name": "Orphanage Home, Old Age Home, Children's Centre / Care Centre / School",
+          "colorCode": 57,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "C_IMP",
+          "name": "Institute for Mentally challenged or Physically Handicapped Person/Hostel",
+          "colorCode": 58,
+          "orderNumber": 3,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "name": "Public Building",
+      "orderNumber": 16,
+      "colorCode": 29,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "D_AME",
+          "name": "Public Concert Hall or Auditorium, Museum, Gymnasium or Public Exhibition",
+          "colorCode": 59,
+          "orderNumber": 1,
+          "isActive": true
+        },
+        {
+          "code": "D_PO",
+          "name": "Public Offices",
+          "colorCode": 60,
+          "orderNumber": 2,
+          "isActive": true
+        },
+        {
+          "code": "D_RB",
+          "name": "Religious Buildings",
+          "colorCode": 61,
+          "orderNumber": 3,
+          "isActive": true
+        },
+        {
+          "code": "D_CVC",
+          "name": "Convention Centre",
+          "colorCode": 62,
+          "orderNumber": 4,
+          "isActive": true
+        },
+        {
+          "code": "D_MICE",
+          "name": "Meetings, Incentives, Conferences, and Exhibitions (MICE)",
+          "colorCode": 63,
+          "orderNumber": 5,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "D",
+      "name": "Marriage Palace",
+      "orderNumber": 17,
+      "colorCode": 30,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "D_MP",
+          "name": "NA",
+          "colorCode": 30,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "name": "Multi level Car Parking (Standalone)",
+      "orderNumber": 18,
+      "colorCode": 31,
+      "isActive": true,
+      "subOccupancies": [
+        {
+          "code": "F_MLCP",
+          "name": "NA",
+          "colorCode": 31,
+          "orderNumber": 1,
+          "isActive": true
+        }
+      ]
+    }
+  ]
+}

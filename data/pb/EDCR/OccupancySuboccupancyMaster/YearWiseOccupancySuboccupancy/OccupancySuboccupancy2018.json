@@ -1,0 +1,588 @@
+{
+  "tenantId": "pb",
+  "moduleName": "EDCR",
+  "OccupancySuboccupancy2018": [
+    {
+      "code": "A",
+      "occupancy": "Residential",
+      "colorCode": "25",
+      "isActive": "True",
+      "description": "Residential",
+      "subOccupanciesTypes": [
+        {
+          "code": "A-AR",
+          "subOccupancy": "Residential Plotted",
+          "colorCode": "25",
+          "isActive": "True",
+          "description": "Residential Plotted"
+        },
+        {
+          "code": "A-AF",
+          "subOccupancy": "Group Housing, Multi-storeyed building & Apartments",
+          "colorCode": "20",
+          "isActive": "True",
+          "description": "Group Housing, Multi-storeyed building & Apartments"
+        },
+        {
+          "code": "A-AIF",
+          "subOccupancy": "Independent Floors",
+          "colorCode": "21",
+          "isActive": "True",
+          "description": "Independent Floors"
+        }
+      ]
+    },
+    {
+      "code": "N",
+      "occupancy": "Farm House",
+      "colorCode": "22",
+      "isActive": "True",
+      "description": "Farm House",
+      "subOccupanciesTypes": [
+        {
+          "code": "N",
+          "subOccupancy": "Farm House",
+          "colorCode": "22",
+          "isActive": "True",
+          "description": "Farm House"
+        }
+      ]
+    },
+    {
+      "code": "F",
+      "occupancy": "Commercial",
+      "colorCode": "7",
+      "isActive": "True",
+      "description": "Commercial",
+      "subOccupanciesTypes": [
+        {
+          "code": "F-SCC",
+          "subOccupancy": "Shopping Complex/Center",
+          "colorCode": "35",
+          "isActive": "True",
+          "description": "Shopping Complex/Center"
+        },
+        {
+          "code": "F-RS",
+          "subOccupancy": "Retail Shops",
+          "colorCode": "64",
+          "isActive": "True",
+          "description": "Retail Shops"
+        },
+        {
+          "code": "F-R",
+          "subOccupancy": "Restaurants",
+          "colorCode": "65",
+          "isActive": "True",
+          "description": "Restaurants"
+        },
+        {
+          "code": "F-FP",
+          "subOccupancy": "Food Plazas",
+          "colorCode": "66",
+          "isActive": "True",
+          "description": "Food Plazas"
+        },
+        {
+          "code": "F-FC",
+          "subOccupancy": "Fitness Center",
+          "colorCode": "67",
+          "isActive": "True",
+          "description": "Fitness Center"
+        },
+        {
+          "code": "F-CC",
+          "subOccupancy": "Call center",
+          "colorCode": "68",
+          "isActive": "True",
+          "description": "Call center"
+        },
+        {
+          "code": "F-CO",
+          "subOccupancy": "Corporate Offices",
+          "colorCode": "69",
+          "isActive": "True",
+          "description": "Corporate Offices"
+        },
+        {
+          "code": "F-B",
+          "subOccupancy": "Bank",
+          "colorCode": "70",
+          "isActive": "True",
+          "description": "Bank"
+        },
+        {
+          "code": "F-DS",
+          "subOccupancy": "Departmental Store",
+          "colorCode": "71",
+          "isActive": "True",
+          "description": "Departmental Store"
+        },
+        {
+          "code": "F-BS",
+          "subOccupancy": "Bank Services",
+          "colorCode": "72",
+          "isActive": "True",
+          "description": "Bank Services"
+        },
+        {
+          "code": "F-BO",
+          "subOccupancy": "Business Office",
+          "colorCode": "73",
+          "isActive": "True",
+          "description": "Business Office"
+        },
+        {
+          "code": "F-IT",
+          "subOccupancy": "IT office",
+          "colorCode": "74",
+          "isActive": "True",
+          "description": "IT office"
+        },
+        {
+          "code": "F-O",
+          "subOccupancy": "Office",
+          "colorCode": "75",
+          "isActive": "True",
+          "description": "Office"
+        },
+        {
+          "code": "F-S",
+          "subOccupancy": "Shop",
+          "colorCode": "76",
+          "isActive": "True",
+          "description": "Shop"
+        },
+        {
+          "code": "F-SM",
+          "subOccupancy": "Super Market",
+          "colorCode": "77",
+          "isActive": "True",
+          "description": "Super Market"
+        },
+        {
+          "code": "F-WS",
+          "subOccupancy": "Wholesale Stores",
+          "colorCode": "78",
+          "isActive": "True",
+          "description": "Wholesale Stores"
+        },
+        {
+          "code": "F-M",
+          "subOccupancy": "Mercantile",
+          "colorCode": "79",
+          "isActive": "True",
+          "description": "Mercantile"
+        },
+        {
+          "code": "F-SRM",
+          "subOccupancy": "Showroom",
+          "colorCode": "80",
+          "isActive": "True",
+          "description": "Showroom"
+        },
+        {
+          "code": "F-SCO",
+          "subOccupancy": "SCO/SCF",
+          "colorCode": "36",
+          "isActive": "True",
+          "description": "SCO/SCF"
+        },
+        {
+          "code": "F-BTH",
+          "subOccupancy": "Booth",
+          "colorCode": "37",
+          "isActive": "True",
+          "description": "Booth"
+        },
+        {
+          "code": "F-DBTH",
+          "subOccupancy": "Double storey Booth",
+          "colorCode": "38",
+          "isActive": "True",
+          "description": "Double storey Booth"
+        },
+        {
+          "code": "F-SSTY",
+          "subOccupancy": "Shops (1/2/3 Storey)",
+          "colorCode": "39",
+          "isActive": "True",
+          "description": "Shops (1/2/3 Storey)"
+        },
+        {
+          "code": "F-GBA",
+          "subOccupancy": "Goods Booking Agencies",
+          "colorCode": "40",
+          "isActive": "True",
+          "description": "Goods Booking Agencies"
+        },
+        {
+          "code": "F-SC",
+          "subOccupancy": "Scheme Commercial",
+          "colorCode": "41",
+          "isActive": "True",
+          "description": "Scheme Commercial"
+        }
+      ]
+    },
+    {
+      "code": "J",
+      "occupancy": "Petrol Pumps",
+      "colorCode": "13",
+      "isActive": "True",
+      "description": "Petrol Pumps",
+      "subOccupanciesTypes": [
+        {
+          "code": "J-FS",
+          "subOccupancy": "Only filling Station",
+          "colorCode": "42",
+          "isActive": "True",
+          "description": "Only filling Station"
+        },
+        {
+          "code": "J-TW",
+          "subOccupancy": "For two-three Wheelers",
+          "colorCode": "43",
+          "isActive": "True",
+          "description": "For two-three Wheelers"
+        },
+        {
+          "code": "J-FCSS",
+          "subOccupancy": "Filling-cum-service station",
+          "colorCode": "44",
+          "isActive": "True",
+          "description": "Filling-cum-service station"
+        },
+        {
+          "code": "J-CNG",
+          "subOccupancy": "CNG Mother Station",
+          "colorCode": "45",
+          "isActive": "True",
+          "description": "CNG Mother Station"
+        },
+        {
+          "code": "J-CNGD",
+          "subOccupancy": "CNG Daughter Station",
+          "colorCode": "46",
+          "isActive": "True",
+          "description": "CNG Daughter Station"
+        }
+      ]
+    },
+    {
+      "code": "G",
+      "occupancy": "Industrial",
+      "colorCode": "14",
+      "isActive": "True",
+      "description": "Industrial",
+      "subOccupanciesTypes": [
+        {
+          "code": "G-GTKS",
+          "subOccupancy": "Industrial Plotted (General Industry/Factory)",
+          "colorCode": "47",
+          "isActive": "True",
+          "description": "Industrial"
+        },
+        {
+          "code": "G-IT",
+          "subOccupancy": "Industrial Plotted (IT)",
+          "colorCode": "48",
+          "isActive": "True",
+          "description": "Industrial Plotted (IT)"
+        },
+        {
+          "code": "G-F",
+          "subOccupancy": "Industrial Flatted",
+          "colorCode": "49",
+          "isActive": "True",
+          "description": "Industrial Flatted"
+        }
+      ]
+    },
+    {
+      "code": "O",
+      "occupancy": "Wholesale Trade/ Ware house/ Integrated Freight Complex",
+      "colorCode": "15",
+      "isActive": "True",
+      "description": "Wholesale Trade/ Ware house/ Integrated Freight Complex",
+      "subOccupanciesTypes": [
+        {
+          "code": "O",
+          "subOccupancy": "Wholesale Trade/ Ware house/ Integrated Freight Complex",
+          "colorCode": "15",
+          "isActive": "True",
+          "description": "Wholesale Trade/ Ware house/ Integrated Freight Complex"
+        }
+      ]
+    },
+    {
+      "code": "P",
+      "occupancy": "Miniplex",
+      "colorCode": "16",
+      "isActive": "True",
+      "description": "Miniplex",
+      "subOccupanciesTypes": [
+        {
+          "code": "P",
+          "subOccupancy": "Miniplex",
+          "colorCode": "16",
+          "isActive": "True",
+          "description": "Miniplex"
+        }
+      ]
+    },
+    {
+      "code": "Q",
+      "occupancy": "Multiplex",
+      "colorCode": "17",
+      "isActive": "True",
+      "description": "Multiplex",
+      "subOccupanciesTypes": [
+        {
+          "code": "Q",
+          "subOccupancy": "Multiplex",
+          "colorCode": "17",
+          "isActive": "True",
+          "description": "Multiplex"
+        }
+      ]
+    },
+    {
+      "code": "K",
+      "occupancy": "Hotel or Motel",
+      "colorCode": "18",
+      "isActive": "True",
+      "description": "Hotel or Motel",
+      "subOccupanciesTypes": [
+        {
+          "code": "K",
+          "subOccupancy": "Hotel or Motel",
+          "colorCode": "18",
+          "isActive": "True",
+          "description": "Hotel or Motel"
+        }
+      ]
+    },
+    {
+      "code": "R",
+      "occupancy": "Mix Land Use",
+      "colorCode": "19",
+      "isActive": "True",
+      "description": "Mix Land Use",
+      "subOccupanciesTypes": [
+        {
+          "code": "R",
+          "subOccupancy": "Mix Land Use",
+          "colorCode": "19",
+          "isActive": "True",
+          "description": "Mix Land Use"
+        }
+      ]
+    },
+    {
+      "code": "S",
+      "occupancy": "Club / Community center",
+      "colorCode": "23",
+      "isActive": "True",
+      "description": "Club / Community center",
+      "subOccupanciesTypes": [
+        {
+          "code": "S",
+          "subOccupancy": "Club / Community center",
+          "colorCode": "23",
+          "isActive": "True",
+          "description": "Club / Community center"
+        }
+      ]
+    },
+    {
+      "code": "T",
+      "occupancy": "Guest house / Lodging & Boarding / Service Apartments",
+      "colorCode": "24",
+      "isActive": "True",
+      "description": "Guest house / Lodging & Boarding / Service Apartments",
+      "subOccupanciesTypes": [
+        {
+          "code": "T",
+          "subOccupancy": "Guest house / Lodging & Boarding / Service Apartments",
+          "colorCode": "24",
+          "isActive": "True",
+          "description": "Guest house / Lodging & Boarding / Service Apartments"
+        }
+      ]
+    },
+    {
+      "code": "U",
+      "occupancy": "Dhaba",
+      "colorCode": "26",
+      "isActive": "True",
+      "description": "Dhaba",
+      "subOccupanciesTypes": [
+        {
+          "code": "U",
+          "subOccupancy": "Dhaba",
+          "colorCode": "26",
+          "isActive": "True",
+          "description": "Dhaba"
+        }
+      ]
+    },
+    {
+      "code": "B",
+      "occupancy": "Educational Buildings",
+      "colorCode": "27",
+      "isActive": "True",
+      "description": "Educational Buildings",
+      "subOccupanciesTypes": [
+        {
+          "code": "B-DCF",
+          "subOccupancy": "Creche / Day Care facilities",
+          "colorCode": "50",
+          "isActive": "True",
+          "description": "Creche / Day Care facilities"
+        },
+        {
+          "code": "B-NS",
+          "subOccupancy": "Pre Nursery/ Nursery School",
+          "colorCode": "51",
+          "isActive": "True",
+          "description": "Pre Nursery/ Nursery School"
+        },
+        {
+          "code": "B-PS",
+          "subOccupancy": "Primary School",
+          "colorCode": "52",
+          "isActive": "True",
+          "description": "Primary School"
+        },
+        {
+          "code": "B-HSS",
+          "subOccupancy": "Higher Secondary School/College",
+          "colorCode": "53",
+          "isActive": "True",
+          "description": "Higher Secondary School/College"
+        },
+        {
+          "code": "B-ERC",
+          "subOccupancy": "Education and Research Centre",
+          "colorCode": "54",
+          "isActive": "True",
+          "description": "Education and Research Centre"
+        },
+        {
+          "code": "B-MNH",
+          "subOccupancy": "Medical College/Nursing College with Hospital, Hostel",
+          "colorCode": "54",
+          "isActive": "True",
+          "description": "Medical College/Nursing College with Hospital, Hostel"
+        }
+      ]
+    },
+    {
+      "code": "W",
+      "occupancy": "Institutional",
+      "colorCode": "28",
+      "isActive": "True",
+      "description": "Institutional",
+      "subOccupanciesTypes": [
+        {
+          "code": "W-MA",
+          "subOccupancy": "Nursing home/Hospital",
+          "colorCode": "56",
+          "isActive": "True",
+          "description": "Institutional"
+        },
+        {
+          "code": "W-OH",
+          "subOccupancy": "Orphanage Home, Old Age Home, Children's Centre / Care Centre / School",
+          "colorCode": "57",
+          "isActive": "True",
+          "description": "Orphanage Home, Old Age Home, Children's Centre / Care Centre / School"
+        },
+        {
+          "code": "W-PHP",
+          "subOccupancy": "Institute for Mentally challenged or Physically Handicapped Person/Hostel",
+          "colorCode": "58",
+          "isActive": "True",
+          "description": "Institute for Mentally challenged or Physically Handicapped Person/Hostel"
+        }
+      ]
+    },
+    {
+      "code": "L",
+      "occupancy": "Public Building",
+      "colorCode": "29",
+      "isActive": "True",
+      "description": "Public Building",
+      "subOccupanciesTypes": [
+        {
+          "code": "L-PCH",
+          "subOccupancy": "Public Concert Hall or Auditorium, Museum, Gymnasium or Public Exhibition",
+          "colorCode": "59",
+          "isActive": "True",
+          "description": "Public Concert Hall or Auditorium, Museum, Gymnasium or Public Exhibition"
+        },
+        {
+          "code": "L-PO",
+          "subOccupancy": "Public Offices",
+          "colorCode": "60",
+          "isActive": "True",
+          "description": "Public Offices"
+        },
+        {
+          "code": "L-RB",
+          "subOccupancy": "Religious Buildings",
+          "colorCode": "61",
+          "isActive": "True",
+          "description": "Religious Buildings"
+        },
+        {
+          "code": "L-CC",
+          "subOccupancy": "Convention Centre",
+          "colorCode": "62",
+          "isActive": "True",
+          "description": "Convention Centre"
+        },
+        {
+          "code": "L-MICE",
+          "subOccupancy": "Meetings, Incentives, Conferences, and Exhibitions",
+          "colorCode": "63",
+          "isActive": "True",
+          "description": "Meetings, Incentives, Conferences, and Exhibitions"
+        }
+      ]
+    },
+    {
+      "code": "M",
+      "occupancy": "Marriage Palace",
+      "colorCode": "30",
+      "isActive": "True",
+      "description": "Marriage Palace",
+      "subOccupanciesTypes": [
+        {
+          "code": "M",
+          "subOccupancy": "Marriage Palace",
+          "colorCode": "30",
+          "isActive": "True",
+          "description": "Marriage Palace"
+        }
+      ]
+    },
+    {
+      "code": "V",
+      "occupancy": "Multi level Car Parking",
+      "colorCode": "31",
+      "isActive": "True",
+      "description": "Multi level Car Parking",
+      "subCategories": [
+        {
+          "code": "V",
+          "subOccupancy": "Multi level Car Parking",
+          "colorCode": "31",
+          "isActive": "True",
+          "description": "Multi level Car Parking"
+        }
+      ]
+    }
+  ]
+}
