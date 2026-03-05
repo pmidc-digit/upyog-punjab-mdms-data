@@ -3,6 +3,24 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
+      "rolecode": "STADMIN",
+      "actionid": 194110,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 194111,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PDC",
+      "actionid": 22981,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "PTSTADMIN",
       "actionid": 22981,
       "actioncode": "",
