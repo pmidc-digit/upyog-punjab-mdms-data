@@ -119,8 +119,8 @@
     {
       "code": "pb.bassipathana",
       "name": "Bassipathana",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.bathinda",
@@ -209,8 +209,8 @@
     {
       "code": "pb.dasuya",
       "name": "Dasuya",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.derabassi",
@@ -269,8 +269,8 @@
     {
       "code": "pb.ghanaur",
       "name": "Ghanaur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.ghagga",
@@ -293,8 +293,8 @@
     {
       "code": "pb.gurdaspur",
       "name": "Gurdaspur",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.hariana",
@@ -317,8 +317,8 @@
     {
       "code": "pb.jaitu",
       "name": "Jaitu",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.jagraon",
