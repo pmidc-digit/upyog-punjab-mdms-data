@@ -62,6 +62,12 @@
           "attributeAccessList": [
             {
               "attribute": {
+                "jsonPath": "*/collector_name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
