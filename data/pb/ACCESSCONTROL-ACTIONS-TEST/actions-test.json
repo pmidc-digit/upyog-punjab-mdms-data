@@ -5204,7 +5204,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -5267,7 +5267,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
