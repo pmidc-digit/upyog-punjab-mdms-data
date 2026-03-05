@@ -21049,9 +21049,9 @@
       "orderNumber": 4,
       "queryParams": "",
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Revenue Property Summary",
+      "path": "State Reports.PT.Revenue Property Summary",
       "navigationURL": "report/rainmaker-pt/Revenuepropertysummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
