@@ -27321,10 +27321,8 @@
       "serviceCode": "CHALLANREPORTS",
       "code": "null",
       "path": ""
-    }
-  ]
-},
-   {
+    },
+    {
       "id": 3017,
       "name": "PT Data Dump",
       "url": "url",
@@ -27338,5 +27336,6 @@
       "navigationURL": "report/rainmaker-pt/PT_Dump_Report",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
-
+    }	  
+  ]
+}
