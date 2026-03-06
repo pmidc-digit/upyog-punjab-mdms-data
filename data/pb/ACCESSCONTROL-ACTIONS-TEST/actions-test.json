@@ -6510,7 +6510,7 @@
     {
       "id": 1800019,
       "name": "Firenoc Plain Search",
-      "url": "/firenoc-services/v1/_search",
+      "url": "/firenoc-services/v1/_plainsearch",
       "parentModule": "",
       "displayName": "Plain Search Api ",
       "orderNumber": 0,
