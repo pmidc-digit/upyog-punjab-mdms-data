@@ -137,8 +137,8 @@
     {
       "code": "pb.begowal",
       "name": "Begowal",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.bhadaur",
@@ -209,8 +209,8 @@
     {
       "code": "pb.dasuya",
       "name": "Dasuya",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.derabassi",
@@ -317,8 +317,8 @@
     {
       "code": "pb.jaitu",
       "name": "Jaitu",
-      "iswater": true,
-      "issewerage": true
+      "iswater": false,
+      "issewerage": false
     },
     {
       "code": "pb.jagraon",
@@ -437,8 +437,8 @@
     {
       "code": "pb.moonak",
       "name": "Moonak",
-      "iswater": false,
-      "issewerage": false
+      "iswater": true,
+      "issewerage": true
     },
     {
       "code": "pb.morinda",
@@ -600,7 +600,7 @@
       "code": "pb.handiaya",
       "name": "Handiaya",
       "iswater": false,
-      "issewerage": false
+      "issewerage": true
     },
     {
       "code": "pb.mamdot",
@@ -638,11 +638,27 @@
       "iswater": false,
       "issewerage": false
     },
-    {
+     {  
       "code": "pb.khanauri",
       "name": "Khanauri",
       "iswater": false,
       "issewerage": false
+    },
+    {
+      "code": "pb.sunam",
+      "name": "Sunam",
+      "iswater": true,
+      "issewerage": true
+    },
+    {
+      "code": "pb.tapa",
+      "name": "Tapa",
+      "iswater": true,
+      "issewerage": true
     }
   ]
 }
+    
+  
+
+
