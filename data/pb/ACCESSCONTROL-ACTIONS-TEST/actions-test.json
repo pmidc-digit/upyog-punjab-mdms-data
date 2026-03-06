@@ -21452,7 +21452,7 @@
       "parentModule": "CHALLAN REPORTS",
       "enabled": true,
       "serviceCode": "",
-      "path": "CHALLAN Reports.State Challan Summary Report",
+      "path": "State Reports.CHALLAN.State Challan Summary Report",
       "navigationURL": "report/rainmaker-ch/StateChallanSummaryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -21478,6 +21478,80 @@
       "serviceCode": "CHALLANREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 22988,
+      "name": "WS Total Bill Generate Report",
+      "url": "url",
+      "displayName": "WS Total Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.WSQuaterly_Bill_Generate",
+      "navigationURL": "report/rainmaker-ws/WSQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22989,
+      "name": "WS Total Bill Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/metadata/_get",
+      "displayName": "WS Total Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22990,
+      "name": "WS Total Bill Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/_get",
+      "displayName": "WS Total Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22991,
+      "name": "SW Total Bill Generate Report",
+      "url": "url",
+      "displayName": "SW Total Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "w_s.WS Reports.Demands and Bills.SWTotal_Bill_Generate",
+      "navigationURL": "report/rainmaker-ws/SWTotal_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 22992,
+      "name": "SW Total Bill Generate Report",
+      "url": "/report/rainmaker-ws/SWTotal_Bill_Generate/metadata/_get",
+      "displayName": "SW Total Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 22993,
+      "name": "SW Total Bill Generate Report",
+      "url": "/report/rainmaker-ws/SWTotal_Bill_Generate/_get",
+      "displayName": "SW Total Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }      
   ]
 }
