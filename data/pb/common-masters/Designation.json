@@ -847,6 +847,12 @@
 	  "description": "Additional Deputy Commissioner",
 	  "code": "DESIG_142",
 	  "active": true
-	}
+	},
+  {
+     "name": "Registry Clerk",
+     "description": "Revenue Registry Clerk",
+     "code": "DESIG_143",
+     "active": true
+   }
   ]
 }
