@@ -817,6 +817,36 @@
       "description": "Revenue Patwari officer",
       "code": "DESIG_137",
       "active": true
-    }
+    },
+	{
+	  "name": "Chief Town Planner",
+	  "description": "Chief Town Planner",
+	  "code": "DESIG_138",
+	  "active": true
+	},
+	{
+	  "name": "Assistant Town Planner (Head Quater)",
+	  "description": "Assistant Town Planner (Head Quater)",
+	  "code": "DESIG_139",
+	  "active": true
+	},
+	{
+	  "name": "Municipal Town Planner  (Head Quater)",
+	  "description": "Municipal Town Planner (Head Quater)",
+	  "code": "DESIG_140",
+	  "active": true
+	},
+	{
+	  "name": "Senior Town Planner  (Head Quater)",
+	  "description": "Senior Town Planner  (Head Quater)",
+	  "code": "DESIG_141",
+	  "active": true
+	},
+	{
+	  "name": "Additional Deputy Commissioner",
+	  "description": "Additional Deputy Commissioner",
+	  "code": "DESIG_142",
+	  "active": true
+	}
   ]
 }
