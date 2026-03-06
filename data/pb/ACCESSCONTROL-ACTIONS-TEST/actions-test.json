@@ -6508,6 +6508,18 @@
       "path": ""
     },
     {
+      "id": 1800019,
+      "name": "Firenoc Plain Search",
+      "url": "/firenoc-services/v1/_search",
+      "parentModule": "",
+      "displayName": "Plain Search Api ",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "firenoc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 1820,
       "name": "Firenoc billing slab create",
       "url": "/firenoc-calculator/billingslab/_create",
