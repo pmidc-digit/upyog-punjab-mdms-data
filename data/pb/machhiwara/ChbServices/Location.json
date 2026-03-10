@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.machhiwara",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Royal Resort (Marriage)",
+      "code": "ROYAL_RESORT_MARRIAGE",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "name": "Royal Resort (Bhog)",
+      "code": "ROYAL_RESORT_BHOG",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    }
+  ]
+}

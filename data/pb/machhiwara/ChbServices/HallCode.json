@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb.machhiwara",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HallCode-RRMA",
+      "capacity": "150",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "communityHallId": "2",
+      "hallId": "2",
+      "HallCode": "HallCode-RRBH",
+      "capacity": "150",
+      "timeSlots": [
+        {
+          "id": "1",
+          "from": "10:00",
+          "duration": "23:59"
+        },
+        {
+          "id": "2",
+          "from": "10:00",
+          "duration": "47:59"
+        },
+        {
+          "id": "3",
+          "from": "10:00",
+          "duration": "71:59"
+        }
+      ],
+      "active": true
+    }
+  ]
+}
