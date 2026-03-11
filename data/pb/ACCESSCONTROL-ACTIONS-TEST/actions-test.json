@@ -27454,6 +27454,22 @@
       "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 23005,
+      "name": "Search Application",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "obpas_noc",
+      "code": "null",
+      "path": "NOC.Search",
+      "navigationURL": "/digit-ui/employee/noc/search/application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
