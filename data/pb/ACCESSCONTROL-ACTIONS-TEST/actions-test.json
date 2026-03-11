@@ -25445,6 +25445,28 @@
       "code": "RNL",
       "path": ""
     },
+        {
+      "id": 8910973,
+      "name": "Rent and LEase BillGenie",
+      "url": "/egov-searcher/bill-genie/rentandleasebills/_get",
+      "displayName": "Rent and Lease BillGenie",
+      "orderNumber": 8,
+      "enabled": true,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
+    {
+      "id": 8910974,
+      "name": "Rent and LEase BillGenie",
+      "url": "/rl-calculator/v1/_generateBill",
+      "displayName": "Rent and Lease Generate Bill",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "RENT_N_LEASE",
+      "code": "RNL",
+      "path": ""
+    },
     {
       "id": 8900099,
       "name": "RLCalculatorCalculate",
