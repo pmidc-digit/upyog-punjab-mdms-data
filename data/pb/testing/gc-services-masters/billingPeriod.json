@@ -18,8 +18,8 @@
       "connectionType": "Non Metered",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 0,
-      "taxPeriodFrom": 1759276800000,
-      "taxPeriodTo": 1761868799000,
+      "taxPeriodFrom": 1772409600000,
+      "taxPeriodTo": 1775087999000,
       "demandGenerationDateMillis": 345600000
     }
   ],
@@ -35,8 +35,8 @@
       "active": true,
       "billingCycle": "monthly",
       "connectionType": "Non Metered",
-      "taxPeriodFrom": 1737407400000,
-      "taxPeriodTo": 1740085799999
+      "taxPeriodFrom": 1772409600000,
+      "taxPeriodTo": 1775087999000
     }
   ]
 }
