@@ -8663,6 +8663,16 @@
       "order": "9",
       "isRequired": false
     },
+       {
+      "category": "ADVANCE_COLLECTION",
+      "service": "rl-services",
+      "name": "Fee Arrear",
+      "code": "RL_ARREAR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false     
+    },
     {
       "category": "FEE",
       "service": "LAYOUT.PAY1",
