@@ -3521,6 +3521,116 @@
       "refundApplicableOnDiscontinuation": true,
       "cowCessApplicable": true,
       "penaltyType": "Daily"
+    },
+    {
+      "propertyId": "PB-RL-PT2025000161",
+      "propertyName": "Deed Ownership Villa",
+      "allotmentType": "deed",
+      "propertySizeOrArea": "15000",
+      "address": "Plot No 1, Model Town, Ludhiana",
+      "geoLocation": {
+        "latitude": "30.9010",
+        "longitude": "75.8573"
+      },
+      "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
+      "propertyType": "Residential",
+      "locationType": "Prime",
+      "baseRent": "5000",
+      "securityDeposit": "25000",
+      "financialYear": "2025-26",
+      "feesPeriodCycle": "ANNUAL",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": false,
+      "cowCessApplicable": true,
+      "penaltyType": "Daily"
+    },
+    {
+      "propertyId": "PB-RL-PT2025000162",
+      "propertyName": "Deed Commercial Plaza",
+      "allotmentType": "deed",
+      "propertySizeOrArea": "20000",
+      "address": "Plot No 2, Industrial Area Phase 1, Mohali",
+      "geoLocation": {
+        "latitude": "30.7046",
+        "longitude": "76.7179"
+      },
+      "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
+      "propertyType": "Commercial",
+      "locationType": "Prime",
+      "baseRent": "8000",
+      "securityDeposit": "40000",
+      "financialYear": "2025-26",
+      "feesPeriodCycle": "ANNUAL",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": false,
+      "cowCessApplicable": true,
+      "penaltyType": "Daily"
+    },
+    {
+      "propertyId": "PB-RL-PT2025000163",
+      "propertyName": "Deed Industrial Plot",
+      "allotmentType": "deed",
+      "propertySizeOrArea": "50000",
+      "address": "Plot No 3, Focal Point, Jalandhar",
+      "geoLocation": {
+        "latitude": "31.3260",
+        "longitude": "75.5762"
+      },
+      "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
+      "propertyType": "Industrial",
+      "locationType": "Non-Prime",
+      "baseRent": "12000",
+      "securityDeposit": "60000",
+      "financialYear": "2025-26",
+      "feesPeriodCycle": "ANNUAL",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": false,
+      "cowCessApplicable": true,
+      "penaltyType": "Daily"
+    },
+    {
+      "propertyId": "PB-RL-PT2025000164",
+      "propertyName": "Deed Heritage Bungalow",
+      "allotmentType": "deed",
+      "propertySizeOrArea": "12000",
+      "address": "Plot No 4, Civil Lines, Amritsar",
+      "geoLocation": {
+        "latitude": "31.6340",
+        "longitude": "74.8723"
+      },
+      "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
+      "propertyType": "Residential",
+      "locationType": "Prime",
+      "baseRent": "6000",
+      "securityDeposit": "30000",
+      "financialYear": "2025-26",
+      "feesPeriodCycle": "BIANNUAL",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": false,
+      "cowCessApplicable": true,
+      "penaltyType": "Daily"
+    },
+    {
+      "propertyId": "PB-RL-PT2025000165",
+      "propertyName": "Deed Shopping Complex",
+      "allotmentType": "deed",
+      "propertySizeOrArea": "35000",
+      "address": "Plot No 5, Mall Road, Patiala",
+      "geoLocation": {
+        "latitude": "30.3398",
+        "longitude": "76.3869"
+      },
+      "propertyImage": "https://img.sanishtech.com/u/9a3e3ebc7151fbd0c8ed7c6033cbe208.png",
+      "propertyType": "Commercial",
+      "locationType": "Prime",
+      "baseRent": "15000",
+      "securityDeposit": "75000",
+      "financialYear": "2025-26",
+      "feesPeriodCycle": "ANNUAL",
+      "taxApplicable": true,
+      "refundApplicableOnDiscontinuation": false,
+      "cowCessApplicable": true,
+      "penaltyType": "Daily"
     }
   ]
 }
