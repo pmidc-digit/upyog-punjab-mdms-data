@@ -3921,6 +3921,54 @@
       "code": "GC-2025-26-Q4",
       "financialYear": "2025-26"
     },
+        {
+      "fromDate": 1774982400000,
+      "toDate": 1806517799000,
+      "periodCycle": "ANNUAL",
+      "service": "GC",
+      "code": "GC-2026-27",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1774982400000,
+      "toDate": 1782844199000,
+      "periodCycle": "QUATERLY",
+      "service": "GC",
+      "code": "GC-2026-27-Q1",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1782864000000,
+      "toDate": 1790792999000,
+      "periodCycle": "QUATERLY",
+      "service": "GC",
+      "code": "GC-2026-27-Q2",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1790812800000,
+      "toDate": 1798741799000,
+      "periodCycle": "QUATERLY",
+      "service": "GC",
+      "code": "GC-2026-27-Q3",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1798761600000,
+      "toDate": 1806517799000,
+      "periodCycle": "QUATERLY",
+      "service": "GC",
+      "code": "GC-2026-27-Q4",
+      "financialYear": "2026-27"
+    },
+    {
+      "fromDate": 1772409600000,
+      "toDate": 1775087999000,
+      "periodCycle": "MONTHLY",
+      "service": "GC",
+      "code": "GC-2025-26-MAR",
+      "financialYear": "2025-26"
+    },
     {
       "fromDate": 1735669800000,
       "toDate": 1798741799999,
@@ -3949,6 +3997,128 @@
       "fromDate": 1735669800000,
       "toDate": 1798741799999,
       "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q4",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1746057600000,
+      "toDate": 1748706599000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-MAY",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1748736000000,
+      "toDate": 1751298599000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-JUN",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1751328000000,
+      "toDate": 1753976999000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-JUL",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1754006400000,
+      "toDate": 1756655399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-AUG",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1756684800000,
+      "toDate": 1759247399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-SEP",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1759276800000,
+      "toDate": 1761935399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-OCT",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1761955200000,
+      "toDate": 1764527399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-NOV",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1764547200000,
+      "toDate": 1767215399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-DEC",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1767225600000,
+      "toDate": 1769903399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-JAN",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1769923200000,
+      "toDate": 1772581399000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-FEB",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1772601600000,
+      "toDate": 1774981799000,
+      "periodCycle": "MONTHLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-MAR",
+      "financialYear": "2025-26"
+    },
+
+
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1751308199000,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q1",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1751328000000,
+      "toDate": 1759256999000,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q2",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1759276800000,
+      "toDate": 1767205799000,
+      "periodCycle": "QUATERLY",
+      "service": "rl-services",
+      "code": "RL-2025-26-Q3",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1767225600000,
+      "toDate": 1774981799000,
+      "periodCycle": "QUATERLY",
       "service": "rl-services",
       "code": "RL-2025-26-Q4",
       "financialYear": "2025-26"
