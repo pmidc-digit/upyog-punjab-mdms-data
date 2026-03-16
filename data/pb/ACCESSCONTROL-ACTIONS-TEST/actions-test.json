@@ -24606,9 +24606,9 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8700957,
-      "name": "search Garbage connection",
+      "name": "validate Garbage connection",
       "url": "/gc-services/gc/_validateConnection",
       "displayName": "val Garbage connection",
       "orderNumber": 4,
