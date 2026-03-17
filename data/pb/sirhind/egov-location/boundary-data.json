@@ -2688,6 +2688,18 @@
                     "code": "SIR200",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "e0294740-d20d-43c6-86e0-e36e0e0760d3",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - B15 - A1",
+                    "localname": "UNKNOWN - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               }
