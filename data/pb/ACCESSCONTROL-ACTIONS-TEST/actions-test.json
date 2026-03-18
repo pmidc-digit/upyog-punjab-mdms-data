@@ -27487,24 +27487,6 @@
       "rightIcon": ""
     },
     {
-      "id": 882464,
-      "name": "BPA_CITIZEN_HOME_EMPLOYEE_USER_MANUAL_LABEL",
-      "url": "digit-ui-card",
-      "displayName": "User Manuals",
-      "orderNumber": 9,
-      "parentModule": "OBPS",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FBPA%2FMarch%2F13%2F1773381614243uFJyzhFqyR.pdf",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
       "id": 882465,
       "name": "BPA_CITIZEN_HOME_SCRUTINY_USER_MANUAL_LABEL",
       "url": "digit-ui-card",
