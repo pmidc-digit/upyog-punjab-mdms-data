@@ -4,7 +4,7 @@
   "CommunityHalls": [
     {
       "communityHallId": "1",
-      "name": "Naya Nangal Community Centre",
+      "name": "Naya Nangal Community Centre - (Non AC)",
       "code": "NAYA_NANGAL_COMMUNITY_CENTRE",
       "locationCode": "NAYA_NANGAL_COMMUNITY_CENTRE",
       "contactDetails": "011-25695450",
@@ -21,6 +21,23 @@
     },
     {
       "communityHallId": "2",
+      "name": "Naya Nangal Community Centre - (AC)",
+      "code": "NAYA_NANGAL_COMMUNITY_CENTRE_AC",
+      "locationCode": "NAYA_NANGAL_COMMUNITY_CENTRE_AC",
+      "contactDetails": "011-25695450",
+      "address": "Naya Nangal Sector 5",
+      "type": "HALL",
+      "hallDescription": "Community centre facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    },
+    {
+      "communityHallId": "3",
       "name": "Nehru Bhawan Community Centre",
       "code": "NEHRU_BHAWAN_COMMUNITY_CENTRE",
       "locationCode": "NEHRU_BHAWAN_COMMUNITY_CENTRE",
@@ -37,7 +54,7 @@
       "active": true
     },
     {
-      "communityHallId": "3",
+      "communityHallId": "4",
       "name": "Indra Nagar Community Centre",
       "code": "INDRA_NAGAR_COMMUNITY_CENTRE",
       "locationCode": "INDRA_NAGAR_COMMUNITY_CENTRE",
@@ -54,7 +71,7 @@
       "active": true
     },
     {
-      "communityHallId": "4",
+      "communityHallId": "5",
       "name": "Parshu Ram Bhawan Community Centre",
       "code": "PARSHU_RAM_BHAWAN_COMMUNITY_CENTRE",
       "locationCode": "PARSHU_RAM_BHAWAN_COMMUNITY_CENTRE",
@@ -71,7 +88,7 @@
       "active": true
     },
     {
-      "communityHallId": "5",
+      "communityHallId": "6",
       "name": "Jawahar Market Community Centre",
       "code": "JAWAHAR_MARKET_COMMUNITY_CENTRE",
       "locationCode": "JAWAHAR_MARKET_COMMUNITY_CENTRE",
@@ -88,7 +105,7 @@
       "active": true
     },
     {
-      "communityHallId": "6",
+      "communityHallId": "7",
       "name": "Mojowal Community Centre",
       "code": "MOJOWAL_COMMUNITY_CENTRE",
       "locationCode": "MOJOWAL_COMMUNITY_CENTRE",
