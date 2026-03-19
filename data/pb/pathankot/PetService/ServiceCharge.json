@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.pathankot",
+  "moduleName": "PetService",
+  "ServiceCharge": [
+    {
+      "rate": 0,
+      "minAmount": null,
+      "flatAmount": 0,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}
