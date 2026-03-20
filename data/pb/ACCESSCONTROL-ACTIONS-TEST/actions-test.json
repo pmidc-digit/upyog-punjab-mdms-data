@@ -20121,24 +20121,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/citizen/death-citizen/home"
     },
-    {
-      "id": 882437,
-      "name": "PT_MY_PAYMENTS",
-      "url": "digit-ui-card",
-      "displayName": "My Payments",
-      "orderNumber": 7,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-payments",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
@@ -20625,60 +20608,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ws-home"
     },
-    {
-      "id": 882470,
-      "name": "PT_MY_APPLICATION",
-      "url": "digit-ui-card",
-      "displayName": "My Applications",
-      "orderNumber": 5,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-applications",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882477,
-      "name": "PT_MY_PROPERTIES",
-      "url": "digit-ui-card",
-      "displayName": "My Properties",
-      "orderNumber": 4,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/my-properties",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882472,
-      "name": "PT_PROPERTY_MUTATION",
-      "url": "digit-ui-card",
-      "displayName": "Transfer Property Ownership/Mutation",
-      "orderNumber": 6,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/property-mutation/search-property",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882473,
       "name": "OBPS_FAQ_S",
@@ -20715,42 +20645,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-    {
-      "id": 882350,
-      "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
-      "displayName": "Search and Pay",
-      "orderNumber": 1,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/citizen-search",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882351,
-      "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
-      "displayName": "Register Property",
-      "orderNumber": 3,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/new-application/info",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882611,
       "name": "PTR_CREATE_PET_APPLICATION",
@@ -24640,7 +24535,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 8900877,
       "name": "GC Calculator",
       "url": "/gc-calculator/garbagecharges/scheduler/_create",
@@ -24652,7 +24547,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900878,
       "name": "GC Calculator",
       "url": "/gc-calculator/garbagecharges/scheduler/_search",
@@ -24664,7 +24559,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 8900879,
       "name": "GC Calculator",
       "url": "/egov-searcher/bill-genie/garbagecollectionbills/_get",
@@ -25438,7 +25333,7 @@
       "code": "RNL",
       "path": ""
     },
-        {
+    {
       "id": 8910973,
       "name": "Rent and LEase BillGenie",
       "url": "/egov-searcher/bill-genie/rentandleasebills/_get",
@@ -25565,7 +25460,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-     {
+    {
       "id": 8900911,
       "name": "Bill Genie",
       "url": "url",
@@ -26988,7 +26883,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-	{
+    {
       "id": 1479,
       "name": "HRMS",
       "url": "url",
@@ -27004,7 +26899,7 @@
       "leftIcon": "social:people",
       "rightIcon": ""
     },
-	 {
+    {
       "id": 1483,
       "name": "HRMS",
       "url": "url",
@@ -27020,7 +26915,7 @@
       "leftIcon": "social:people",
       "rightIcon": ""
     },
-	{
+    {
       "id": 1481,
       "name": "TL",
       "url": "url",
@@ -27083,7 +26978,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-	  {
+    {
       "id": 8900139,
       "name": "Pdf Generator getBulkPdfRecordsDetails",
       "url": "/pdf-service/v1/_getBulkPdfRecordsDetails",
@@ -27094,7 +26989,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2200017,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/revenue/_missing",
@@ -27105,7 +27000,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 2200018,
       "name": "Revenue Search ",
       "url": "/egov-property-rate/property-rate/_search",
@@ -27438,7 +27333,7 @@
       "code": "null",
       "path": ""
     },
-     {
+    {
       "id": 23003,
       "name": "Create Application",
       "url": "url",
@@ -27611,6 +27506,42 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
+      "id": 882351,
+      "name": "PT_CREATE_PROPERTY",
+      "url": "digit-ui-card",
+      "displayName": "Register Property",
+      "orderNumber": 3,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/create-application",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+    },
+    {
+      "id": 882470,
+      "name": "PT_MY_APPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 5,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/my-applications",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
     }
   ]
 }
