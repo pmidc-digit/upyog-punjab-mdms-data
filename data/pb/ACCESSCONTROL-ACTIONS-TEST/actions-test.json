@@ -20031,42 +20031,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/tl-home"
     },
-    {
-      "id": 882423,
-      "name": "PT_HOW_IT_WORKS",
-      "url": "digit-ui-card",
-      "displayName": "How It Works",
-      "orderNumber": 9,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-how-it-works",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 882424,
-      "name": "PT_FAQ_S",
-      "url": "digit-ui-card",
-      "displayName": "FAQs",
-      "orderNumber": 8,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt-faq",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
+
     {
       "id": 882425,
       "name": "Firenoc Citizen Home",
@@ -20626,24 +20591,6 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
-    },
-    {
-      "id": 882474,
-      "name": "CS_TITLE_MY_BILLS",
-      "url": "digit-ui-card",
-      "displayName": "My Bills",
-      "orderNumber": 2,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/payment/my-bills/PT",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
     },
 
     {
