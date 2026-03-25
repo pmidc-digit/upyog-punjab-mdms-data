@@ -1,10 +1,11 @@
 {
-  "tenantId": "pb.moga",
+  "tenantId": "pb.fazilka",
   "moduleName": "PetService",
-  "ServiceCharge": [
+  "InterestAmount": [
     {
       "rate": null,
       "minAmount": null,
+      "applicableAfterDays":0,
       "flatAmount": 0,
       "maxAmount": null,
       "fromFY": "2025-26",

@@ -3,10 +3,10 @@
   "moduleName": "PetService",
   "InterestAmount": [
     {
-      "rate": 0,
+      "rate": null,
       "minAmount": null,
       "applicableAfterDays":0,
-      "flatAmount": null,
+      "flatAmount": 0,
       "maxAmount": null,
       "fromFY": "2025-26",
       "startingDay": "1743465600000",

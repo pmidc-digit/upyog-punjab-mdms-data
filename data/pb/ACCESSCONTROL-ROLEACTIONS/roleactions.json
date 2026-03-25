@@ -650,7 +650,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CHALLAN REPORTS",
       "actionid": 22994,
       "actioncode": "",
@@ -44182,8 +44182,6 @@
       "tenantId": "pb"
     },
 
-
-
     {
       "rolecode": "NOC_CEMP",
       "actionid": 1980,
@@ -59192,12 +59190,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 882470,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
-    {
-      "rolecode": "CITIZEN",
       "actionid": 882471,
       "actioncode": "",
       "tenantId": "pb"
@@ -59226,12 +59218,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 882351,
-      "actioncode": "",
-      "tenantId": "pb"
-    },
+
     {
       "rolecode": "CITIZEN",
       "actionid": 882611,
@@ -65172,12 +65159,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 5024,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5024,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 5024,
@@ -67419,7 +67406,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "GC_CEMP",
       "actionid": 8900879,
       "actioncode": "",
@@ -68061,7 +68048,7 @@
       "actioncode": "RNL",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "RL_CEMP",
       "actionid": 8910974,
       "actioncode": "",
@@ -68259,7 +68246,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-      {
+    {
       "rolecode": "RL_CEMP",
       "actionid": 8900911,
       "actioncode": "",
@@ -68361,13 +68348,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 8900142,
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "EGF_BILL_CREATOR",
       "actionid": 8900142,
       "actioncode": "",
@@ -68475,31 +68462,32 @@
       "actionid": 1478,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1479,
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1483,
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1485,
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1481,
       "actioncode": "",
       "tenantId": "pb"
-    },	
-	  {
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1482,
       "actioncode": "",
@@ -68511,7 +68499,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 5024,
       "actioncode": "",
@@ -68571,7 +68559,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 5010,
       "actioncode": "",
@@ -68631,13 +68619,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	   {
+    {
       "rolecode": "WS_CLERK",
       "actionid": 8900139,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "REV_CEMP",
       "actionid": 2200018,
       "actioncode": "",
@@ -68660,7 +68648,7 @@
       "actionid": 2200021,
       "actioncode": "",
       "tenantId": "pb"
-    }, 
+    },
     {
       "rolecode": "REV_CEMP",
       "actionid": 2200019,
@@ -68702,13 +68690,13 @@
       "actionid": 8900903,
       "actioncode": "",
       "tenantId": "pb"
-    } ,
+    },
     {
       "rolecode": "OBPAS_UPDATE_ZONE",
       "actionid": 8900904,
       "actioncode": "",
       "tenantId": "pb"
-    } ,
+    },
     {
       "rolecode": "OBPAS_UPDATE_ZONE",
       "actionid": 5009,
@@ -68733,7 +68721,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	    {
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 3017,
       "actioncode": "",
@@ -68769,13 +68757,13 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 23003,
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 23004,
       "actioncode": "",
@@ -68820,6 +68808,18 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 882476,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882470,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882351,
       "actioncode": "",
       "tenantId": "pb"
     }
