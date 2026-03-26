@@ -25424,6 +25424,22 @@
       "rightIcon": ""
     },
     {
+      "id": 229820,
+      "name": "Bill Generate",
+      "url": "url",
+      "displayName": "Bill Generate",
+      "orderNumber": 3,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "RentAndLease",
+      "code": "null",
+      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/rentandlease/bill-generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 8900108,
       "name": "Amritsar Summary Employee Report",
       "url": "url",
