@@ -1496,6 +1496,12 @@
       "name": "OBPAS_READ_ONLY",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_TEHSILDAR",
+      "name": "OBPAS_TEHSILDAR",
+      "description": "OBPAS NOC workflow Approver",
+      "groupId": "025"
     }
   ]
 }
