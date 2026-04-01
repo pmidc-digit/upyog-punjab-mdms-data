@@ -115,6 +115,12 @@
           "required": true,
           "allow": true,
           "order": 18
+        },
+        {
+          "code": "SITEPHOTOGRAPH_TWO",
+          "required": true,
+          "allow": true,
+          "order": 19
         }
       ]
     },
@@ -231,6 +237,12 @@
           "required": true,
           "allow": true,
           "order": 18
+        },
+        {
+          "code": "SITEPHOTOGRAPH_TWO",
+          "required": true,
+          "allow": true,
+          "order": 19
         }
       ]
     },
@@ -795,7 +807,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+            },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -1353,7 +1371,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -2605,7 +2629,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -2721,7 +2751,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -4063,7 +4099,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -4807,7 +4849,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -5551,7 +5599,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -5667,7 +5721,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -5783,7 +5843,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -6633,7 +6699,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -7861,7 +7933,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -8605,7 +8683,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -9349,7 +9433,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -10093,7 +10183,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     },
     {
@@ -10837,7 +10933,13 @@
 	            "required": true,
 	            "allow": true,
 	            "order": 18
-	          }
+	          },
+            {
+              "code": "SITEPHOTOGRAPH_TWO",
+              "required": true,
+              "allow": true,
+              "order": 19
+            }
 	        ]
     }
   ]
