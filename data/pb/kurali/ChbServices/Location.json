@@ -1,0 +1,33 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "CHB",
+  "Location": [
+    {
+      "name": "Community Center, Kurali(Happy)",
+      "code": "COMMUNITY_CENTER_KURALI_HAPPY",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+     {
+      "name": "Community Center, Kurali(Sad)",
+      "code": "COMMUNITY_CENTER_KURALI_SAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+      {
+        "name": "Community Center, Kurali ShahpurPatti",
+        "code": "COMMUNITY_CENTER_KURALI_SHAHPURPATTI",
+        "active": true,
+        "geo_tag": {
+          "latitude": null,
+          "longitude": null
+        }
+      }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "CHB",
+  "CowCess": [
+    {
+      "1": [
+        {
+          "feeType": "CHB_COW_CESS",
+          "rate": 0,
+          "flatAmount": 0,
+          "minAmount": null,
+          "maxAmount": null,
+          "fromFY": "2026-27",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": false
+        }
+      ]
+    },
+    {
+      "2": [
+        {
+          "feeType": "CHB_COW_CESS",
+          "rate": 0,
+          "flatAmount": 0,
+          "minAmount": null,
+          "maxAmount": null,
+          "fromFY": "2026-27",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": false
+        }
+      ]
+    } ,
+    {
+      "3": [
+        {
+          "feeType": "CHB_COW_CESS",
+          "rate": 0,
+          "flatAmount": 0,
+          "minAmount": null,
+          "maxAmount": null,
+          "fromFY": "2026-27",
+          "applicableAfterDays": "0",
+          "active": true,
+          "taxApplicable": false,
+          "refundable": false
+        }
+      ]
+    }
+  ]
+}
