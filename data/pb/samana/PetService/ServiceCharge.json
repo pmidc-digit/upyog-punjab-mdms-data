@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.samana",
+  "moduleName": "PetService",
+  "ServiceCharge": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 200,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}
