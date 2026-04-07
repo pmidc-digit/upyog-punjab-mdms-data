@@ -58973,6 +58973,30 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+	  {
+      "rolecode": "TL_CEMP",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_REPORT_VIEWER",
+      "actionid": 3015,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 882422,
       "actioncode": "",
