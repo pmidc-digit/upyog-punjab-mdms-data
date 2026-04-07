@@ -20014,6 +20014,17 @@
       "path": ""
     },
     {
+      "id": 3015,
+      "name": "Search Meter Reading",
+      "url": "/ws-calculator/meterConnection/_searchV2",
+      "displayName": "Search Meter Reading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 882422,
       "name": "TL_FAQ_S",
       "url": "digit-ui-card",
