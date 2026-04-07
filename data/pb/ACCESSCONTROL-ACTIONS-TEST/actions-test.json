@@ -21552,6 +21552,43 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }      
+    },
+	{
+      "id": 882509,
+      "name": "User Login Session Report",
+      "url": "url",
+      "displayName": "User Login Session Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "OBPAS REPORTS.BUILDING PLAN REPORTS.Application Detail Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/UserLoginDetailReportBPA",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882510,
+      "name": "User Login Session Report",
+      "url": "/report/rainmaker-obpas_bpa/UserLoginDetailReportBPA/metadata/_get",
+      "displayName": "User Login Session Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882511,
+      "name": "User Login Session Report",
+      "url": "/report/rainmaker-obpas_bpa/UserLoginDetailReportBPA/_get",
+      "displayName": "User Login Session Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    }  
   ]
 } 
