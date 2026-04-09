@@ -70,7 +70,7 @@
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 300,
+         "minimumCharge": 45,
          "slabs": [
            {
              "from": 0,
@@ -89,7 +89,7 @@
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute": "Water consumption",
          "connectionType": "Metered",
-         "minimumCharge": 300,
+         "minimumCharge": 45,
          "slabs": [
            {
              "from": 0,
