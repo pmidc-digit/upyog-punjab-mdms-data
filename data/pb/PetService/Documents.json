@@ -155,7 +155,7 @@
     {
       "code": "PET.FITNESSCERTIFICATE",
       "documentType": "PET.FITNESSCERTIFICATE",
-      "required": true,
+      "required": false,
       "active": true,
       "hasDropdown": false,
       "additionalDetails": {
@@ -203,6 +203,32 @@
         }
       ],
       "description": "PET.ANTI-RABIESCERTIFICATE.CERTIFICATE_DESCRIPTION"
+    },
+    {
+      "code": "PET.OTHERDOCUMENTS",
+      "documentType": "PET.OTHERDOCUMENTS",
+      "required": false,
+      "active": true,
+      "hasDropdown": false,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "PET.OTHERDOCUMENTS",
+          "active": true
+        }
+      ],
+      "description": "PET.OTHERDOCUMENTS_DESCRIPTION"
     }
   ]
 }

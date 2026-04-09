@@ -24,6 +24,11 @@
       "masterName": "InterestAmount",
       "isStateLevel": false,
       "uniqueKeys": ["$.fromFY"]
+    },
+     "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
     }
   },
   "EDCR": {
