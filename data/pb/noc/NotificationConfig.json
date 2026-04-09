@@ -1,0 +1,260 @@
+{
+  "tenantId": "pb",
+  "moduleName": "NOC",
+  "NotificationConfig": [
+    {
+      "state": ["APPROVED"],
+	  "action": ["PAY"],
+	  "messageCode": "noc.en.payment.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.paymentDetails.[0].bill.consumerCode"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.totalAmountPaid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Payment.transactionNumber"
+		}
+	  ]
+    },
+	{
+	  "state": ["REJECTED"],
+	  "action": ["REJECT"],
+	  "messageCode": "noc.en.reject.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		}
+	  ]
+	},
+	{
+	  "state": ["CITIZENACTIONREQUIRED"],
+	  "action": ["SENDBACKTOCITIZEN"],
+	  "messageCode": "noc.en.return.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		}
+	  ]
+	},
+	{
+	  "state": ["E-SIGNED"],
+	  "action": ["ESIGN"],
+	  "messageCode": "noc.en.final.approval.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"FIELDINSPECTION_INPROGRESS",
+		"DOCUMENTVERIFY",
+		"ATP_VERIFICATION_PENDING",
+		"MTP_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING"
+	  ],
+	  "action": ["INTERNAL_QUERY"],
+	  "messageCode": "noc.en.internal.query.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.Noc.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"DOCUMENTVERIFY",
+		"ATP_VERIFICATION_PENDING",
+		"MTP_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"PENDINGAPPROVAL"
+	  ],
+	  "action": ["OBSERVATION"],
+	  "messageCode": "noc.en.objection.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.Noc.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"ATP_VERIFICATION_PENDING",
+		"MTP_VERIFICATION_PENDING",
+		"EO_VERIFICATION_PENDING",
+		"JC_VERIFICATION_PENDING",
+		"PENDINGAPPROVAL",
+		"PENDINGPAYMENT"
+	  ],
+	  "action": [
+		"FORWARD",
+		"APPROVE"
+	  ],
+	  "messageCode": "noc.en.approval.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		},
+		{
+			"variable": "{3}",
+			"isFixed": false,
+			"value": "UPDATED_BY",
+			"filter": "$.RequestInfo.userInfo.uuid"
+		},
+		{
+			"variable": "{4}",
+			"isFixed": false,
+			"value": "PENDING_WITH",
+			"filter": "$.Noc.workflow.assignes.[0]"
+		}
+	  ]
+	},
+	{
+	  "state": [
+		"DOCUMENTVERIFY"
+	  ],
+	  "action": [
+		"FORWARD"
+	  ],
+	  "messageCode": "noc.en.inspection.sms",
+	  "active": true,
+	  "variables": [
+		{
+			"variable": "{1}",
+			"isFixed": true,
+			"value": "Professional/Citizen",
+			"filter": ""
+		},
+		{
+			"variable": "{2}",
+			"isFixed": false,
+			"value": "",
+			"filter": "$.Noc.applicationNo"
+		}
+	  ]
+	}
+  ]
+}
