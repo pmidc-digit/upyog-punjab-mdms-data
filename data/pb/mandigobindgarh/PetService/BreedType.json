@@ -147,6 +147,15 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Indian Spitz",
+      "code": "INDIAN_SPITZ",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 1000,
+      "renewapplication": 1000,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Indian Billi (Desi)",
       "code": "INDIAN_BILLI_DESI",
       "active": true,
