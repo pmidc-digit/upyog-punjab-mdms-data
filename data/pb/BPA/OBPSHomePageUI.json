@@ -3,15 +3,11 @@
     "moduleName": "BPA",
     "OBPSHomePageUI": [
         {
-            "moduleName": "ACTION_TEST_BPA_STAKE_HOLDER_HOME",
+            "moduleName": "ACTION_TEST_EDCR_SCRUTINY",
             "name": "employeeCard",
             "isCitizen": true,
             "kpis": [],
-            "links": [
-                {
-                    "label": "ES_COMMON_OBPS_INBOX_LABEL",
-                    "link": "/digit-ui/citizen/obps/bpa/inbox"
-                },
+            "links": [                
                 {
                     "label": "ES_COMMON_EDCR_INBOX_LABEL",
                     "link": "/digit-ui/citizen/obps/edcr/inbox"
@@ -21,23 +17,45 @@
         },
         {
             "title": "ACTION_TEST_EDCR_SCRUTINY",
+            "name": "citizenCard",
+            "isCitizen": true,
+            "kpis": [],
             "links": [
                 {
                     "link": "edcrscrutiny/apply",
                     "i18nKey": "BPA_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
                 },
                 {
-                    "link": "edcrscrutiny/oc-apply",
-                    "i18nKey": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
+                    "link": "bpa/building_plan_scrutiny/new_construction/",
+                    "i18nKey": "BPA_HOME_BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL"
+                },
+                {
+                    "link": "bpa/inbox",
+                    "i18nKey": "ES_COMMON_OBPS_INBOX_LABEL"
                 }
             ]
         },
         {
             "title": "ACTION_TEST_BPA_STAKE_HOLDER_HOME",
-            "links": []
+            "name": "citizenCard",
+            "isCitizen": true,
+            "kpis": [],
+            "links": [                
+                {
+                    "link": "edcrscrutiny/oc-apply",
+                    "i18nKey": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL"
+                },
+                {
+                    "link": "ocbpa/building_oc_plan_scrutiny/new_construction",
+                    "i18nKey": "BPA_HOME_BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL"
+                }
+            ]
         },
         {
             "title": "ACTION_TEST_LAYOUT_HOME",
+            "name": "citizenCard",
+            "isCitizen": true,
+            "kpis": [],
             "links": [
                 {
                     "link": "layout/apply",
@@ -55,6 +73,9 @@
         },
         {
             "title": "ACTION_TEST_CLU_HOME",
+            "name": "citizenCard",
+            "isCitizen": true,
+            "kpis": [],
             "links": [
                 {
                     "link": "clu/apply",
@@ -72,6 +93,9 @@
         },
         {
             "title": "ACTION_TEST_NOC",
+            "name": "citizenCard",
+            "isCitizen": true,
+            "kpis": [],
             "links": [
                 {
                     "link": "/digit-ui/citizen/noc/new-application",
