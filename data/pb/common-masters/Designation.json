@@ -811,6 +811,36 @@
       "description": "Trust engineer",
       "code": "DESIG_130",
       "active": true
+    },
+    {
+      "name": "Local Government Minister",
+      "description": "Local Government Minister",
+      "code": "LGM",
+      "active": true
+    },
+    {
+      "name": "Principal Secretry Local Government",
+      "description": "Principal Secretry Local Government",
+      "code": "PSLG",
+      "active": true
+    },
+    {
+      "name": "Director Local Government",
+      "description": "Director Local Government",
+      "code": "DLG",
+      "active": true
+    },
+    {
+      "name": "HelpDesk",
+      "description": "HelpDesk",
+      "code": "HELPDESK",
+      "active": true
+    },
+    {
+      "name": "Project Manager",
+      "description": "Project Manager",
+      "code": "PM",
+      "active": true
     }
   ]
 }
