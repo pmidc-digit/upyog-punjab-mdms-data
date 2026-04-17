@@ -1098,7 +1098,7 @@
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
-      "uniqueKeys": []
+      "uniqueKeys": ["$.code"]
     },
     "GarbageCollectionFrequency": {
       "masterName": "GarbageCollectionFrequency",
