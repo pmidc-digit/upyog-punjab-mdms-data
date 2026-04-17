@@ -1,0 +1,11 @@
+{
+    "tenantId": "pb.kurali",
+    "moduleName": "gc-services-masters",
+    "disconnectionType": [
+      {
+        "name": "Permanent",
+        "code": "Permanent",
+        "active": true
+      }
+    ]
+  }
