@@ -7989,6 +7989,18 @@
     },
 
     {
+      "id": 5550,
+      "name": "SearchBillV2",
+      "url": "/billing-service/bill/v2/_searchv2",
+      "displayName": "Search Bill v2",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.GenerateBill"
+    },
+
+    {
       "id": 1932,
       "name": "mSeva Event Search",
       "url": "/egov-user-event/v1/events/_search",

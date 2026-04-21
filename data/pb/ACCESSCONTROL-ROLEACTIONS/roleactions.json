@@ -68967,6 +68967,138 @@
       "actioncode": "",
       "tenantId": "pb"
     },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_DOC_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "BPA_FIELD_INSPECTOR",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_NOC_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP_FORLEGACY",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_COWCESS_USER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_WS_SW_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "FIRE_NOC_APPROVER",
+      "actionid": 5550,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
 	{
       "rolecode": "WS_CEMP",
       "actionid": 2441,
