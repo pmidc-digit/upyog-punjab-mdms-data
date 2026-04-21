@@ -874,6 +874,10 @@
       "idname": "garbageservice.disconnection.id"
     },
     {
+      "format": "GC/[CITY.CODE]/[seq_gc_receipt_id_[TENANT_ID]]",
+      "idname": "gc.receipt.id"
+    },
+    {
       "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_GC_RECEIPT_ID_[TENANT_ID]]",
       "idname": "gc.one_time_fee.receipt.id"
     },
