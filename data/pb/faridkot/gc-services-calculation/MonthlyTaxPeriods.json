@@ -1,0 +1,126 @@
+{
+  "tenantId": "pb.faridkot",
+  "moduleName": "gc-services-calculation",
+  "MonthlyTaxPeriods": [
+    {
+      "fromDate": 1735689600000,
+      "toDate": 1738367999000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "January 2025"
+    },
+    {
+      "fromDate": 1738368000000,
+      "toDate": 1740787199000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "February 2025"
+    },
+    {
+      "fromDate": 1740787200000,
+      "toDate": 1743465599000,
+      "financialYear": "2024-25",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "March 2025"
+    },
+    {
+      "fromDate": 1743465600000,
+      "toDate": 1746057599000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "April 2025"
+    },
+    {
+      "fromDate": 1746057600000,
+      "toDate": 1748735999000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "May 2025"
+    },
+    {
+      "fromDate": 1748736000000,
+      "toDate": 1751327999000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "June 2025"
+    },
+    {
+      "fromDate": 1751328000000,
+      "toDate": 1754006399000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "July 2025"
+    },
+    {
+      "fromDate": 1754006400000,
+      "toDate": 1756684799000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "August 2025"
+    },
+    {
+      "fromDate": 1756684800000,
+      "toDate": 1759276799000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "September 2025"
+    },
+    {
+      "fromDate": 1759276800000,
+      "toDate": 1761955199000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "October 2025"
+    },
+    {
+      "fromDate": 1761955200000,
+      "toDate": 1764547199000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "November 2025"
+    },
+    {
+      "fromDate": 1764547200000,
+      "toDate": 1767225599000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "December 2025"
+    },
+    {
+      "fromDate": 1767225600000,
+      "toDate": 1769903999000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "January 2026"
+    },
+    {
+      "fromDate": 1769904000000,
+      "toDate": 1772323199000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "February 2026"
+    },
+    {
+      "fromDate": 1772323200000,
+      "toDate": 1774981799000,
+      "financialYear": "2025-26",
+      "service": "GC",
+      "periodCycle": "MONTHLY",
+      "periodName": "March 2026"
+    }
+  ]
+}
