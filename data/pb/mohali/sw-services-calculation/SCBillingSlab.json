@@ -37,7 +37,7 @@
       "id": "4",
       "buildingType": "COMMERCIAL",
       "waterSubUsageType": "USAGE_COMM_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "PLOT_SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -68,7 +68,7 @@
       "id": "7",
       "buildingType": "INSTITUTIONAL",
       "waterSubUsageType": "USAGE_INSTITUTIONAL_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "PLOT_SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -99,7 +99,7 @@
       "id": "10",
       "buildingType": "INDUSTRIAL",
       "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
-      "calculationAttribute": "PLOT_BASED",
+      "calculationAttribute": "PLOT_SEAT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [

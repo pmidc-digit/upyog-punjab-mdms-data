@@ -1828,6 +1828,70 @@
       "code": "WS-2025-26-Q4",
       "financialYear": "2025-26"
     },
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1782844199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2026-27-Q1",
+      "financialYear": "2026-27"
+      },
+	  {
+      "fromDate": 1782864000000,
+      "toDate": 1790792999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2026-27-Q2",
+      "financialYear": "2026-27"
+    },
+	{
+      "fromDate": 1790812800000,
+      "toDate": 1798741799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2026-27-Q3",
+      "financialYear": "2026-27"
+    },
+	  {
+      "fromDate": 1798761600000,
+      "toDate": 1806517799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2026-27-Q4",
+      "financialYear": "2026-27"
+    },
+	      {
+      "fromDate": 1775001600000,
+      "toDate": 1782844199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2026-27-Q1",
+      "financialYear": "2026-27"
+      },
+	  {
+      "fromDate": 1782864000000,
+      "toDate": 1790792999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2026-27-Q2",
+      "financialYear": "2026-27"
+    },
+	{
+      "fromDate": 1790812800000,
+      "toDate": 1798741799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2026-27-Q3",
+      "financialYear": "2026-27"
+    },
+	  {
+      "fromDate": 1798761600000,
+      "toDate": 1806517799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2026-27-Q4",
+      "financialYear": "2026-27"
+    },
 	{ 
       "fromDate": 1743465600000,
       "toDate": 1774981799000,
