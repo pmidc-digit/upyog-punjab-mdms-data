@@ -156,6 +156,15 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Himalayan Sheep Dog",
+      "code": "HIMALAYAN_SHEEP_DOG",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 500,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Indian Billi (Desi)",
       "code": "INDIAN_BILLI_DESI",
       "active": true,
