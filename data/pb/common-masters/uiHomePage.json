@@ -144,6 +144,13 @@
             "label": "ACTION_TEST_GARBAGECOLLECTION",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/garbagecollection-home"
+          },
+          {
+            "code": "CITIZEN_SERVICE_FIRENOC",
+            "name": "FIRENOC",
+            "label": "ACTION_TEST_FIRENOC",
+            "enabled": true,
+            "navigationUrl": "/digit-ui/citizen/firenoc-home"
           }
         ]
       },
