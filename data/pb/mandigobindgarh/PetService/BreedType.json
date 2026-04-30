@@ -165,6 +165,24 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Italian Mastiff",
+      "code": "ITALIAN_MASTIFF",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 1000,
+      "renewapplicatioDn": 1000,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Lhasa Apso",
+      "code": "LHASA_APSO",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 1000,
+      "renewapplication": 1000,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Indian Billi (Desi)",
       "code": "INDIAN_BILLI_DESI",
       "active": true,
