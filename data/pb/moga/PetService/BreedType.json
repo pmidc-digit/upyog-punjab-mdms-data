@@ -12,6 +12,24 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Labrador",
+      "code": "LABRADOR",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 500,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
+      "name": "Bulldog",
+      "code": "BULLDOG",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 500,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "German Shepherd",
       "code": "GERMAN_SHEPHERD",
       "active": true,
