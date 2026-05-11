@@ -24494,6 +24494,17 @@
       "path": ""
     },
     {
+      "id": 8900943,
+      "name": "garbage Collection Search Reciept",
+      "url": "/collection-services/payments/GC/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 8900876,
       "name": "GC Calculator",
       "url": "/gc-calculator/garbageCalculator/_estimate",
