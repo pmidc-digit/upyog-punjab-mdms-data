@@ -10,19 +10,19 @@
         {
           "fromPlotSize": "0",
           "toPlotSize": "12500000",
-          "connectionFee": "100",
+          "connectionFee": "0",
           "usageType": "RESIDENTIAL"
         },
         {
           "fromPlotSize": "0",
           "toPlotSize": "12500000",
-          "connectionFee": "300",
+          "connectionFee": "0",
           "usageType": "COMMERCIAL"
         },
         {
           "fromPlotSize": "0",
           "toPlotSize": "12500000",
-          "connectionFee": "500",
+          "connectionFee": "0",
           "usageType": "INSTITUTIONAL"
         }
       ],

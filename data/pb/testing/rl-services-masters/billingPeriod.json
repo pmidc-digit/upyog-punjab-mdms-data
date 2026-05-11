@@ -5,38 +5,38 @@
     {
       "active": true,
       "billingCycle": "MONTHLY",
-      "taxPeriodFrom": 1772323200000,
-      "taxPeriodTo": 1775001600000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1777583399000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1775001600000,
-      "demandExpiryDate": 1776297600000
+      "demandEndDateMillis": 1777583399000,
+      "demandExpiryDate": 1778879399000
     },
     {
       "active": true,
       "billingCycle": "QUATERLY",
-      "taxPeriodFrom": 1767205800000,
-      "taxPeriodTo": 1774895400000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782853799000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1774895400000,
-      "demandExpiryDate": 1776191400000
+      "demandEndDateMillis": 1782853799000,
+      "demandExpiryDate": 1784149799000
     },
     {
       "active": true,
       "billingCycle": "BIANNUAL",
-      "taxPeriodFrom": 1767205800000,
-      "taxPeriodTo": 1782757800000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1790802599000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1782757800000,
-      "demandExpiryDate": 1784053800000
+      "demandEndDateMillis": 1790802599000,
+      "demandExpiryDate": 1792098599000
     },
     {
       "active": true,
       "billingCycle": "ANNUAL",
-      "taxPeriodFrom": 1767205800000,
-      "taxPeriodTo": 1798655400000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1806527399000,
       "demandGenerationDateMillis": 432000000,
-      "demandEndDateMillis": 1798655400000,
-      "demandExpiryDate": 1799951400000
+      "demandEndDateMillis": 1806527399000,
+      "demandExpiryDate": 1807823399000
     }
   ]
 }

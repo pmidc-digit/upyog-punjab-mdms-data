@@ -1,0 +1,71 @@
+{
+  "tenantId": "pb.testing",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Chandigarh Sector 22A Rent Residential Prime",
+      "code": "CHD_SEC22A_RENT_RES_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22B Rent Residential Non-Prime",
+      "code": "CHD_SEC22B_RENT_RES_NON_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22C Rent Commercial Prime",
+      "code": "CHD_SEC22C_RENT_COM_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22D Rent Commercial Non-Prime",
+      "code": "CHD_SEC22D_RENT_COM_NON_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22A Lease Residential Prime",
+      "code": "CHD_SEC22A_LEASE_RES_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22B Lease Residential Non-Prime",
+      "code": "CHD_SEC22B_LEASE_RES_NON_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22C Lease Commercial Prime",
+      "code": "CHD_SEC22C_LEASE_COM_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Sector 22D Lease Commercial Non-Prime",
+      "code": "CHD_SEC22D_LEASE_COM_NON_PRIME",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Capitol Deed Residential Zone A",
+      "code": "CHD_CAPITOL_DEED_RES_A",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Capitol Deed Commercial Zone A",
+      "code": "CHD_CAPITOL_DEED_COM_A",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Industrial Deed Zone A",
+      "code": "CHD_INDUSTRIAL_DEED_A",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Capitol Deed Residential Zone B",
+      "code": "CHD_CAPITOL_DEED_RES_B",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Capitol Deed Commercial Zone B",
+      "code": "CHD_CAPITOL_DEED_COM_B",
+      "isActive": true
+    }
+  ]
+}
