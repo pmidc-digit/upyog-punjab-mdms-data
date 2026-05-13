@@ -93,6 +93,15 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Husky",
+      "code": "HUSKY",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 500,
+      "renewapplication": 300,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Siberian Husky",
       "code": "SIBERIAN_HUSKY",
       "active": true,
