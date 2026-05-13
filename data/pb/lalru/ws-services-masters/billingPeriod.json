@@ -1,8 +1,15 @@
 {
-  "tenantId": "pb.kapurthala",
-  "moduleName": "sw-services-calculation",
+  "tenantId": "pb.lalru",
+  "moduleName": "ws-services-masters",
   "billingPeriod": [
-   
+    {
+      "active": true,
+      "connectionType": "Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 1209600000,
+      "demandGenerationDateMillis": 345600000
+    },
     {
       "active": true,
       "connectionType": "Non Metered",

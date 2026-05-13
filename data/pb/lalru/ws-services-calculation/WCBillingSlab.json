@@ -1,5 +1,5 @@
 {
-   "tenantId":"pb.kapurthala",
+   "tenantId":"pb.lalru",
    "moduleName":"ws-services-calculation",
    "WCBillingSlab":[
       {
@@ -25,8 +25,8 @@
                "effectiveTo":1901252691000
             },
             {
-               "from":250.01,
-               "to":10000.00,
+               "from":250.00,
+               "to":1000000000.00,
                "charge":150,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
@@ -44,27 +44,27 @@
             {
                "from":0.00,
                "to":125.00,
-               "charge":600,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":125.01,
                "to":250.00,
-               "charge":630,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":250.01,
-               "to":10000.00,
-               "charge":840,
+               "to":1000000000.00,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             }
          ]
       },
-       {
+      {
          "id":"3",
          "buildingType":"INDUSTRIAL",
          "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
@@ -75,21 +75,21 @@
             {
                "from":0.00,
                "to":125.00,
-               "charge":600,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":125.01,
                "to":250.00,
-               "charge":630,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":250.01,
-               "to":10000.00,
-               "charge":840,
+               "to":1000000000.00,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             }
@@ -106,21 +106,21 @@
             {
                "from":0.00,
                "to":125.00,
-               "charge":600,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":125.01,
                "to":250.00,
-               "charge":630,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":250.01,
-               "to":10000.00,
-               "charge":840,
+               "to":1000000000.00,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             }
@@ -128,7 +128,7 @@
       },
       {
          "id":"5",
-         "buildingType":"MIXED",
+         "buildingType":"RESIDENTIAL",
          "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -149,8 +149,8 @@
                "effectiveTo":1901252691000
             },
             {
-               "from":250.01,
-               "to":10000.00,
+               "from":250.00,
+               "to":1000000000.00,
                "charge":150,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
@@ -159,7 +159,7 @@
       },
       {
          "id":"6",
-         "buildingType":"MIXED",
+         "buildingType":"COMMERCIAL",
          "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
@@ -168,21 +168,21 @@
             {
                "from":0.00,
                "to":125.00,
-               "charge":600,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":125.01,
                "to":250.00,
-               "charge":630,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":250.01,
-               "to":10000.00,
-               "charge":840,
+               "to":1000000000.00,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             }
@@ -199,21 +199,21 @@
             {
                "from":0.00,
                "to":125.00,
-               "charge":600,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":125.01,
                "to":250.00,
-               "charge":630,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             },
             {
                "from":250.01,
-               "to":10000.00,
-               "charge":840,
+               "to":1000000000.00,
+               "charge":500,
                "effectiveFrom":917523271000,
                "effectiveTo":1901252691000
             }
