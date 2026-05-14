@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.raikot",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Shaheed Bhagat Singh Community Centre",
+      "code": "SHAHEED_BHAGAT_SINGH_COMMUNITY_CENTRE",
+      "locationCode": "SHAHEED_BHAGAT_SINGH_COMMUNITY_CENTRE",
+      "contactDetails": "011-25695450",
+      "address": "Raikot, Punjab",
+      "type": "HALL",
+      "hallDescription": "Auditorium facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Note : Proposed 50% discount on rent based on special category...",
+      "active": true
+    }
+  ]
+}
