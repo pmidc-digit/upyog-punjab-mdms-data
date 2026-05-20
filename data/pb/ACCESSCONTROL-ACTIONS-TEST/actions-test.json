@@ -27893,9 +27893,10 @@
       "serviceCode": "rainmaker",
       "code": "null",
       "path": "Dashboard.Overview Kibana",
-      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards#/view/7fb3a8cc-ab28-43e0-9a10-79b98c47067c",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards#/view/3c78ecc9-c1f4-42c5-8e16-a4f0474c5976",
       "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "rightIcon": "",
+	  "sidebarURL": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards#/view/3c78ecc9-c1f4-42c5-8e16-a4f0474c5976"
     }	  
   ]
 }
