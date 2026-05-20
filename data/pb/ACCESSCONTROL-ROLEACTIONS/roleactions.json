@@ -69284,6 +69284,24 @@
     "actionid": 882493,
     "actioncode": "",
     "tenantId": "pb"
-  }
+  },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 882596,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 882596,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 882596,
+      "actioncode": "",
+      "tenantId": "pb"
+    }	  
   ]
 }
