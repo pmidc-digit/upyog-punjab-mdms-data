@@ -27881,6 +27881,21 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
-    }
+    },
+    {
+      "id": 882596,
+      "name": "Overview Kibana",
+      "url": "url",
+      "displayName": "Overview Kibana",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.Overview Kibana",
+      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards#/view/3c78ecc9-c1f4-42c5-8e16-a4f0474c5976",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }	  
   ]
 }
