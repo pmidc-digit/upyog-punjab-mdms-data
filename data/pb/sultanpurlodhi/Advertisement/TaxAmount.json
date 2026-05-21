@@ -6,13 +6,13 @@
         "applicationType": "ADVERTISEMENT_BOOKING",
         "serviceType": "NEW_BOOKING",
         "feeType": "ADV_CGST",
-        "rate": 9
+        "rate": 0
       },
       {
         "applicationType": "ADVERTISEMENT_BOOKING",
         "serviceType": "NEW_BOOKING",
         "feeType": "ADV_SGST",
-        "rate": 9
+        "rate": 0
       }
   ]
 }
