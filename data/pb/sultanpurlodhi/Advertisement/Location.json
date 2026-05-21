@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.sultanpurlodhi",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Udhom Singh Chowk",
+      "code": "UDHOM_SINGH_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.558899,
+        "longitude": 77.202805
+      }
+    },
+    {
+      "name": "Bus Stand",
+      "code": "BUS_STAND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 28.549507,
+        "longitude": 77.203613
+      }
+    }
+  ]
+}
