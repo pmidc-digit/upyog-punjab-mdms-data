@@ -1,0 +1,51 @@
+{
+  "tenantId": "pb.sultanpurlodhi",
+  "moduleName": "Advertisement",
+  "Advertisements": [
+    {
+      "id": 1,
+      "poleNo": "1",
+      "name": "Udhom Singh Chowk",
+      "adType": "UNIPOLAR",
+      "width": 16,
+      "height": 8,
+      "imageSrc": "https://advertisement.mcbathinda.com/Uploads/Unipole/18X8_1.jpg",
+      "light": "With Light",
+      "amount": 6144.0,
+      "available": true,
+      "locationCode": "UDHOM_SINGH_CHOWK",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true
+    },
+    {
+      "id": 2,
+      "poleNo": "2",
+      "name": "Udhom Singh Chowk",
+      "adType": "UNIPOLAR",
+      "width": 16,
+      "height": 8,
+      "imageSrc": "https://advertisement.mcbathinda.com/Uploads/Unipole/18X8_1.jpg",
+      "light": "With Light",
+      "amount": 6144.0,
+      "available": true,
+      "locationCode": "UDHOM_SINGH_CHOWK",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true
+    },
+    {
+      "id": 3,
+      "poleNo": "3",
+      "name": "Bus Stand",
+      "adType": "UNIPOLAR",
+      "width": 16,
+      "height": 8,
+      "imageSrc": "https://advertisement.mcbathinda.com/Uploads/Unipole/18X8_1.jpg",
+      "light": "With Light",
+      "amount": 6144.0,
+      "available": true,
+      "locationCode": "BUS_STAND",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true
+    }
+  ]
+}

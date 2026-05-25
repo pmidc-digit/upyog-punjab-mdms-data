@@ -27881,6 +27881,21 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
-    }
+    },
+    {
+      "id": 882596,
+      "name": "Overview Kibana",
+      "url": "https://sdc-uat.lgpunjab.gov.in/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/389a13c6-ae5e-45b2-99ac-2ae4a431b50f?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "displayName": "Overview Kibana",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.Overview Kibana",
+      "navigationURL": "newTab",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }	  
   ]
 }
