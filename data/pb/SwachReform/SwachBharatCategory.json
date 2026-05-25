@@ -103,6 +103,266 @@
         "order": 10
       },
       {
+        "serviceCode": "YellowSpots",
+        "name": "Yellow Spots",
+        "active": true,
+        "keywords": "yellow spots, stains, road markings",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 11
+      },
+      {
+        "serviceCode": "CattleonRoad",
+        "name": "Cattle on Road",
+        "active": true,
+        "keywords": "stray cattle, road obstruction, traffic hazard",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 12
+      },
+      {
+        "serviceCode": "WaterLogging",
+        "name": "Water Logging",
+        "active": true,
+        "keywords": "water logging, stagnant water, drainage issue",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 13
+      },
+      {
+        "serviceCode": "RoadCrack",
+        "name": "Road Crack",
+        "active": true,
+        "keywords": "road crack, damaged road, surface issue",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 14
+      },
+      {
+        "serviceCode": "Sculpture",
+        "name": "Sculpture",
+        "active": true,
+        "keywords": "sculpture damage, monument maintenance, public artwork",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 15
+      },
+      {
+        "serviceCode": "FireSmoke",
+        "name": "Fire & Smoke",
+        "active": true,
+        "keywords": "fire, smoke, burning waste, pollution",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 16
+      },
+      {
+        "serviceCode": "DirtyRoad",
+        "name": "Dirty Road",
+        "active": true,
+        "keywords": "dirty road, road cleanliness, litter",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 17
+      },
+      {
+        "serviceCode": "OpenDrains",
+        "name": "Open Drains",
+        "active": true,
+        "keywords": "open drains, drainage issue, unsafe drains",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 18
+      },
+      {
+        "serviceCode": "DarkRoad",
+        "name": "Dark Road",
+        "active": true,
+        "keywords": "dark road, poor visibility, lighting issue",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 19
+      },
+      {
+        "serviceCode": "Dustbin",
+        "name": "Dustbin",
+        "active": true,
+        "keywords": "dustbin, garbage bin, waste container",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 20
+      },
+      {
+        "serviceCode": "Kerbstone",
+        "name": "Kerbstone",
+        "active": true,
+        "keywords": "kerbstone damage, roadside maintenance",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 21
+      },
+      {
+        "serviceCode": "NoStreetLight",
+        "name": "No Street Light",
+        "active": true,
+        "keywords": "no street light, lighting issue, dark area",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 22
+      },
+      {
+        "serviceCode": "CarriagewayFaded",
+        "name": "Carriageway Faded",
+        "active": true,
+        "keywords": "faded carriageway, road markings, lane markings",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 23
+      },
+      {
+        "serviceCode": "RoadEdgeBroken",
+        "name": "Road Edge Broken",
+        "active": true,
+        "keywords": "broken road edge, damaged roadside",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 24
+      },
+      {
+        "serviceCode": "Garbage",
+        "name": "Garbage",
+        "active": true,
+        "keywords": "garbage, waste dumping, littering",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 25
+      },
+      {
+        "serviceCode": "NonilluminatedStreetLight",
+        "name": "Non-illuminated Street Light",
+        "active": true,
+        "keywords": "street light not working, lighting issue",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 26
+      },
+      {
+        "serviceCode": "Paver",
+        "name": "Paver",
+        "active": true,
+        "keywords": "paver damage, broken paver blocks",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 27
+      },
+      {
+        "serviceCode": "RedSpots",
+        "name": "Red Spots",
+        "active": true,
+        "keywords": "red spots, stains, road markings",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 28
+      },
+      {
+        "serviceCode": "SpeedBreaker",
+        "name": "Speed Breaker",
+        "active": true,
+        "keywords": "speed breaker damage, traffic calming",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 29
+      },
+      {
+        "serviceCode": "DamagedGantry",
+        "name": "Damaged Gantry",
+        "active": true,
+        "keywords": "damaged gantry, roadside structure",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 30
+      },
+      {
+        "serviceCode": "Pothole",
+        "name": "Pothole",
+        "active": true,
+        "keywords": "pothole, road damage, unsafe road",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 31
+      },
+      {
+        "serviceCode": "Manhole",
+        "name": "Manhole",
+        "active": true,
+        "keywords": "manhole issue, open manhole, drainage cover",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 32
+      },
+      {
+        "serviceCode": "RoadSurfaceDamage",
+        "name": "Road Surface Damage",
+        "active": true,
+        "keywords": "road surface damage, pavement issue",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 33
+      },
+      {
+        "serviceCode": "RustyGantry",
+        "name": "Rusty Gantry",
+        "active": true,
+        "keywords": "rusty gantry, corroded structure",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 34
+      },
+      {
+        "serviceCode": "CND",
+        "name": "CND",
+        "active": true,
+        "keywords": "construction and demolition waste, debris",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 35
+      },
+      {
+        "serviceCode": "TiltedGantry",
+        "name": "Tilted Gantry",
+        "active": true,
+        "keywords": "tilted gantry, unstable structure",
+        "department": "DEPT_3",
+        "slaHours": 72,
+        "menuPath": "SwachCategory",
+        "order": 36
+      },
+      {
         "serviceCode": "Others",
         "name": "Others",
         "active": true,
@@ -110,7 +370,7 @@
         "department": "DEPT_3",
         "slaHours": 72,
         "menuPath": "SwachCategory",
-        "order": 11
+        "order": 37
       }
     ]
   }
