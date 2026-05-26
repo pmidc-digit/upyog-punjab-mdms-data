@@ -108,7 +108,7 @@
     {
       "businessService": "BPA_MC",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -120,7 +120,7 @@
     {
       "businessService": "BPA_MC",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -132,7 +132,7 @@
     {
       "businessService": "BPA_MC",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -168,7 +168,7 @@
     {
       "businessService": "BPA_MC_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -180,7 +180,7 @@
     {
       "businessService": "BPA_MC_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -192,7 +192,7 @@
     {
       "businessService": "BPA_MC_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -228,7 +228,7 @@
     {
       "businessService": "BPA_MC_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -240,7 +240,7 @@
     {
       "businessService": "BPA_MC_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -252,7 +252,7 @@
     {
       "businessService": "BPA_MC_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -288,7 +288,7 @@
     {
       "businessService": "BPA_NP",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -300,7 +300,7 @@
     {
       "businessService": "BPA_NP",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -312,7 +312,7 @@
     {
       "businessService": "BPA_NP",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -348,7 +348,7 @@
     {
       "businessService": "BPA_NP_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -360,7 +360,7 @@
     {
       "businessService": "BPA_NP_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -372,7 +372,7 @@
     {
       "businessService": "BPA_NP_HIGH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -408,7 +408,7 @@
     {
       "businessService": "BPA_NP_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "DOC_VERIFICATION_PENDING",
       "state": "DOC_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -420,7 +420,7 @@
     {
       "businessService": "BPA_NP_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL3_VERIFICATION_PENDING",
       "state": "LEVEL3_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
@@ -432,7 +432,7 @@
     {
       "businessService": "BPA_NP_OTH",
       "module": "bpa-service",
-      "startSlaState": "FIELDINSPECTION_INPROGRESS",
+      "startSlaState": "LEVEL4_VERIFICATION_PENDING",
       "state": "LEVEL4_VERIFICATION_PENDING",
       "action": "FORWARD",
       "active": "true",
