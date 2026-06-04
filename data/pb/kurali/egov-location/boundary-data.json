@@ -932,7 +932,31 @@
                     "children": []
                   }
                 ]
-              }
+              },
+			  {
+			    "id": "1eb88e83-cd03-477c-86af-5099d1c36brc",
+			    "boundaryNum": 1,
+			    "name": "Block 17",
+			    "localname": "Block 17",
+			    "longitude": null,
+			    "latitude": null,
+			    "label": "Block",
+			    "code": "B17",
+			    "children": [
+			      {
+			        "id": "dcc63dcf-6184-48aa-aceb-d9cf79cde526",
+			        "boundaryNum": 1,
+			        "name": "LOC_WARD17 - B17 - A1",
+			        "localname": "LOC_WARD17 - B17 - A1",
+			        "longitude": null,
+			        "latitude": null,
+			        "label": "Locality",
+			        "code": "KL27",
+			        "area": "AREA1",
+			        "children": []
+			      }
+			    ]
+			  }
             ]
           }
         ]
