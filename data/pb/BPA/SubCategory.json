@@ -9,13 +9,13 @@
       "active": true
     },
     {
-      "subCategoryId": "A-GH",
+      "subCategoryId": "A-AF",
       "subCategoryName": "Group Housing/Apartment/Flat",
       "categoryId": "A",
       "active": true
     },
     {
-      "subCategoryId": "A-AF",
+      "subCategoryId": "A-AIF",
       "subCategoryName": "Independent Floors",
       "categoryId": "A",
       "active": true
@@ -33,19 +33,19 @@
       "active": true
     },
     {
-      "subCategoryId": "F-R",
+      "subCategoryId": "F-RB",
       "subCategoryName": "Restaurants/Banquet Halls",
       "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": "F-H",
+      "subCategoryId": "F-HM",
       "subCategoryName": "Hotels/Motels",
       "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": "F-S",
+      "subCategoryId": "F-SCC",
       "subCategoryName": "Shop/Showrooms/Commercial Complexes etc",
       "categoryId": "F",
       "active": true
@@ -75,19 +75,19 @@
       "active": true
     },
     {
-      "subCategoryId": "F-B",
+      "subCategoryId": "F-BU",
       "subCategoryName": "Boutiques",
       "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": "F-M",
+      "subCategoryId": "F-MPMT",
       "subCategoryName": "Multiplex/Miniplex",
       "categoryId": "F",
       "active": true
     },
     {
-      "subCategoryId": "F-CGH",
+      "subCategoryId": "F-LB",
       "subCategoryName": "Club/Guest House/Lodging & Boarding/Service Apartments",
       "categoryId": "F",
       "active": true
@@ -105,7 +105,7 @@
       "active": true
     },
     {
-      "subCategoryId": "F-FPST",
+      "subCategoryId": "F-PFST",
       "subCategoryName": "Petrol Filling Station – Two Wheeler",
       "categoryId": "F",
       "active": true
@@ -153,7 +153,7 @@
       "active": true
     },
     {
-      "subCategoryId": "G-W",
+      "subCategoryId": "G-WT",
       "subCategoryName": "Wholesale Trade/Ware House/Integrated Freight complex (Standalone)",
       "categoryId": "G",
       "active": true
@@ -165,25 +165,25 @@
       "active": true
     },
     {
-      "subCategoryId": "G-GI",
+      "subCategoryId": "G-GIP",
       "subCategoryName": "General Industry-Industry Plotted",
       "categoryId": "G",
       "active": true
     },
     {
-      "subCategoryId": "G-GI",
+      "subCategoryId": "G-GIF",
       "subCategoryName": "General Industry-Flatted",
       "categoryId": "G",
       "active": true
     },
     {
-      "subCategoryId": "G-IT",
+      "subCategoryId": "G-ITP",
       "subCategoryName": "Information Technology-Industry Plotted",
       "categoryId": "G",
       "active": true
     },
     {
-      "subCategoryId": "G-IT",
+      "subCategoryId": "G-ITF",
       "subCategoryName": "Information Technology-Flatted",
       "categoryId": "G",
       "active": true
@@ -207,61 +207,61 @@
       "active": true
     },
     {
-      "subCategoryId": "P-GP",
+      "subCategoryId": "L-GP",
       "subCategoryName": "General Public/Semi-public buildings",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-GO",
+      "subCategoryId": "L-GO",
       "subCategoryName": "Government offices-integrated office complex buildings",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-EN",
+      "subCategoryId": "L-NS",
       "subCategoryName": "Educational(Nursery School)",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-EP",
+      "subCategoryId": "L-PS",
       "subCategoryName": "Educational(Primary School)",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-EH",
+      "subCategoryId": "L-HSS",
       "subCategoryName": "Educational(Higher Secondary School)",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-E",
+      "subCategoryId": "L-CO",
       "subCategoryName": "Educational(College)",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-ER",
+      "subCategoryId": "L-ERC",
       "subCategoryName": "Education and Research Centre (large campus i.e. above 8 Ha./ 19.75 acres)",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-MP",
+      "subCategoryId": "L-MP",
       "subCategoryName": "Marriage Palace",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-NH",
+      "subCategoryId": "L-NH",
       "subCategoryName": "Nursing Home/Hospitals",
       "categoryId": "P",
       "active": true
     },
     {
-      "subCategoryId": "P-NH",
+      "subCategoryId": "L-C",
       "subCategoryName": "Creche/Day Care facilities",
       "categoryId": "P",
       "active": true
