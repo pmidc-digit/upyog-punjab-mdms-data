@@ -1,0 +1,121 @@
+{
+  "tenantId": "pb.mansa",
+  "moduleName": "ws-services-masters",
+  "groups": [
+     { 
+      "name":"BL1", 
+      "code":"BL1",
+      "active": true 
+    },
+    {
+      "name": "BL1A",
+      "code": "BL1A",
+      "active": true
+    },
+    {
+      "name": "BL1B",
+      "code": "BL1B",
+      "active": true
+    },
+    {
+      "name": "BL1C",
+      "code": "BL1C",
+      "active": true
+    },
+    {
+      "name": "BL2",
+      "code": "BL2",
+      "active": true
+    },
+    {
+      "name": "BL2A",
+      "code": "BL2A",
+      "active": true
+    },
+    {
+      "name": "BL2B",
+      "code": "BL2B",
+      "active": true
+    },
+    {
+      "name": "BL2C",
+      "code": "BL2C",
+      "active": true
+    },
+    {
+      "name": "BL2D",
+      "code": "BL2D",
+      "active": true
+    },
+    {
+      "name": "BL2E",
+      "code": "BL2E",
+      "active": true
+    },
+    {
+      "name": "BL3",
+      "code": "BL3",
+      "active": true
+    },
+    {
+      "name": "BL3A",
+      "code": "BL3A",
+      "active": true
+    },
+    {
+      "name": "BL3B",
+      "code": "BL3B",
+      "active": true
+    },
+    {
+      "name": "BL3C",
+      "code": "BL3C",
+      "active": true
+    },
+    {
+      "name": "BL4",
+      "code": "BL4",
+      "active": true
+    },
+    {
+      "name": "BL4A",
+      "code": "BL4A",
+      "active": true
+    },
+    {
+      "name": "BL4B",
+      "code": "BL4B",
+      "active": true
+    },
+    {
+      "name": "BL4C",
+      "code": "BL4C",
+      "active": true
+    },
+    {
+      "name": "BL4D",
+      "code": "BL4D",
+      "active": true
+    },
+    {
+      "name": "BL4E",
+      "code": "BL4E",
+      "active": true
+    },
+    {
+      "name": "BL5",
+      "code": "BL5",
+      "active": true
+    },
+    {
+      "name": "BL6",
+      "code": "BL6",
+      "active": true
+    },
+    {
+      "name": "BL7",
+      "code": "BL7",
+      "active": true
+    }
+  ]
+}

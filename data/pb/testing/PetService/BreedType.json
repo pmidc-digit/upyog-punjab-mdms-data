@@ -210,6 +210,15 @@
       "feeType": "PET_REGISTRATION_FEE"
     },
     {
+      "name": "Dobermann",
+      "code": "DOBERMANN",
+      "active": true,
+      "petType": "DOG",
+      "feeType": "PET_REGISTRATION_FEE",
+      "newapplication": 500,
+      "renewapplication": 400
+    },
+    {
       "name": "Indian Billi (Desi)",
       "code": "INDIAN_BILLI_DESI",
       "active": true,
