@@ -28078,6 +28078,17 @@
       "quickAction": true,
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 89001476,
+      "name": "Update BPA Details in Plan Scrutiny",
+      "url": "/edcr/rest/dcr/updateBPADetails",
+      "displayName": "Building Plan Scrutiny",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": ""
     }
   ]
 }
