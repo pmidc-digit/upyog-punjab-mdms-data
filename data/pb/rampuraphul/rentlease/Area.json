@@ -1,0 +1,241 @@
+{
+  "tenantId": "pb.rampuraphul",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Rampura Phul - 1 Shop Bus Stand Main Gate near",
+      "code": "RP_SHOP_BUS_STAND_MAIN_GATE_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 1 Shop Bus Stand Outside",
+      "code": "RP_SHOP_BUS_STAND_OUTSIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 1 Shop Water Works near",
+      "code": "RP_SHOP_WATER_WORKS_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 10 Shops Phul Town Fort Right Side",
+      "code": "RP_SHOPS_PHUL_TOWN_FORT_RIGHT_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 10 Shops Phul Town Water Works near",
+      "code": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 11 Shops Rehri Market",
+      "code": "RP_SHOPS_REHRI_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 13 Shops 28 The Bek Side",
+      "code": "RP_SHOPS_28_THE_BEK_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 13 Shops Civil Hospital Small Gate near",
+      "code": "RP_SHOPS_CIVIL_HOSPITAL_SMALL_GATE_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 13 Shops Park Bagh Road",
+      "code": "RP_SHOPS_PARK_BAGH_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 13 Shops Phul Town Rest House near",
+      "code": "RP_SHOPS_PHUL_TOWN_REST_HOUSE_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 14 SHOPS HANUMANN MANDIR PHUL",
+      "code": "RP_SHOPS_HANUMANN_MANDIR_PHUL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 14 Shops Phul Town Water Works near",
+      "code": "RP_SHOPS_PHUL_TOWN_WATER_WORKS_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 14 Shops Shaheed Samarak College Road",
+      "code": "RP_SHOPS_SHAHEED_SAMARAK_COLLEGE_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 19 SHOPS PARK BAGH VALI SIDE PHUL DI BACK SIDE",
+      "code": "RP_SHOPS_PARK_BAGH_VALI_SIDE_PHUL_DI_BACK_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 19 Shops Phul Town Park Bagh",
+      "code": "RP_SHOPS_PHUL_TOWN_PARK_BAGH_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 1dukaan Akalgarh Gurudwara near Phul",
+      "code": "RP_DUKAAN_AKALGARH_GURUDWARA_NEAR_PHUL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 2 Shops Bus Stand Small Gate near",
+      "code": "RP_SHOPS_BUS_STAND_SMALL_GATE_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 2 Shops Nagar Council Office behind",
+      "code": "RP_SHOPS_NAGAR_COUNCIL_OFFICE_BEHIND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 2 Shops Vridh Ashram near Tanki behind",
+      "code": "RP_SHOPS_VRIDH_ASHRAM_NEAR_TANKI_BEHIND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 21 SHOPS TOBHE VALI Market",
+      "code": "RP_SHOPS_TOBHE_VALI_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 22 Shops Temple Wali Side",
+      "code": "RP_SHOPS_TEMPLE_WALI_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 23 SHOPS Grover VALI SIIDE",
+      "code": "RP_SHOPS_GROVER_VALI_SIIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 23 Shops Gol Market",
+      "code": "RP_SHOPS_GOL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 23 Shops Gurdware De Kol Phul Town",
+      "code": "RP_SHOPS_GURDWARE_DE_KOL_PHUL_TOWN_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 24 Shops PO Wali Side",
+      "code": "RP_SHOPS_PO_WALI_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 25 Shops Shaheed Bhagat Singh Market",
+      "code": "RP_SHOPS_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 28 Shops Park Bagh Bus Stand Road",
+      "code": "RP_SHOPS_PARK_BAGH_BUS_STAND_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 30 Shops Nagar Council De Kol",
+      "code": "RP_SHOPS_NAGAR_COUNCIL_DE_KOL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 32 Shops Swami Ram Tirath Market",
+      "code": "RP_SHOPS_SWAMI_RAM_TIRATH_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 4 Shops Bhagat Singh Colony Wali Side",
+      "code": "RP_SHOPS_BHAGAT_SINGH_COLONY_WALI_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 4 Shops Mini Bus Stand Office The Donon Side",
+      "code": "RP_SHOPS_MINI_BUS_STAND_OFFICE_THE_DONON_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 4 Shops Office Nagar Council Gate near",
+      "code": "RP_SHOPS_OFFICE_NAGAR_COUNCIL_GATE_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 4 Shops Sewa Bharti near",
+      "code": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 5 Chubare Main Chowk",
+      "code": "RP_CHUBARE_MAIN_CHOWK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 5 Chubare OBC Bank opposite",
+      "code": "RP_CHUBARE_OBC_BANK_OPPOSITE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 5 Shops Chowk OBC Bank opposite",
+      "code": "RP_SHOPS_CHOWK_OBC_BANK_OPPOSITE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 6 Shops Gol Market",
+      "code": "RP_SHOPS_GOL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 6 Shops Zenana Hospital Ground opposite",
+      "code": "RP_SHOPS_ZENANA_HOSPITAL_GROUND_OPPOSITE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 7 Shops Dr. Gyan Singh Wali Side Main Chowk",
+      "code": "RP_SHOPS_DR_GYAN_SINGH_WALI_SIDE_MAIN_CHOWK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 8 Shops Phul Town Fort Left Side",
+      "code": "RP_SHOPS_PHUL_TOWN_FORT_LEFT_SIDE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 8 Shops Sewa Bharti near",
+      "code": "RP_SHOPS_SEWA_BHARTI_NEAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 9 Shops Dhobighat behind",
+      "code": "RP_SHOPS_DHOBIGHAT_BEHIND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - 9 Shops Teen Koni Ground opposite",
+      "code": "RP_SHOPS_TEEN_KONI_GROUND_OPPOSITE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - Ais.aim. Colony",
+      "code": "RP_AISAIM_COLONY_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - Do Varande Main Chowk",
+      "code": "RP_DO_VARANDE_MAIN_CHOWK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - Leasemani",
+      "code": "RP_LEASEMANI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Rampura Phul - Various -vkkh Shops",
+      "code": "RP_VARIOUS_VKKH_SHOPS_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
