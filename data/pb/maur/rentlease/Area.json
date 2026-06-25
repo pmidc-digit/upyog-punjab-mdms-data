@@ -1,0 +1,61 @@
+{
+  "tenantId": "pb.maur",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Maur - BACK SIDE GURDWARA",
+      "code": "MAUR_BACK_SIDE_GURDWARA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - BALMIK MOHALA",
+      "code": "MAUR_BALMIK_MOHALA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - DARSHAB PHOTO GRAPHER AREA",
+      "code": "MAUR_DARSHAB_PHOTO_GRAPHER_AREA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - FACTORY ROAD",
+      "code": "MAUR_FACTORY_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - HOSPITAL BAJAR",
+      "code": "MAUR_HOSPITAL_BAJAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - MAIN BAJAR",
+      "code": "MAUR_MAIN_BAJAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - MALL GODAM ROAD",
+      "code": "MAUR_MALL_GODAM_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - MITHU HALWAI ALA AREA",
+      "code": "MAUR_MITHU_HALWAI_ALA_AREA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - NAGAR COUNCIL AREA",
+      "code": "MAUR_NAGAR_COUNCIL_AREA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - NEAR MITHOD BANK",
+      "code": "MAUR_NEAR_MITHOD_BANK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maur - PURANI SABJI MANDI",
+      "code": "MAUR_PURANI_SABJI_MANDI_RENT_COM",
+      "isActive": true
+    }
+  ]
+}

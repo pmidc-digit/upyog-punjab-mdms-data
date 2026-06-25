@@ -1,0 +1,45 @@
+{
+  "tenantId": "pb.maur",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "rate": 12.5,
+      "minAmount": 100,
+      "applicableAfterDays": 15,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "rate": 12.5,
+      "minAmount": 100,
+      "applicableAfterDays": 30,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "rate": 12.5,
+      "minAmount": 100,
+      "applicableAfterDays": 45,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "rate": 18,
+      "minAmount": 100,
+      "applicableAfterDays": 60,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    }
+  ]
+}
