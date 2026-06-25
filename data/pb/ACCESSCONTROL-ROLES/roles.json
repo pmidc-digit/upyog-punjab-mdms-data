@@ -2,13 +2,13 @@
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
-	{
+    {
       "code": "CHALLAN REPORTS",
       "name": "Challan Reports",
       "description": "Who can see challan reports ",
       "groupId": "011"
     },
-	{
+    {
       "code": "OBPAS REPORTS",
       "name": "OBPAS REPORTS",
       "description": "Access to all OBPAS Reports",
@@ -355,7 +355,8 @@
       "name": "NOC ATP verifier",
       "description": "NOC ATP verifier",
       "groupId": "004"
-    },{
+    },
+    {
       "code": "OBPAS_NOC_MTP",
       "name": "NOC MTP verifier",
       "description": "NOC MTP verifier",
@@ -1339,64 +1340,65 @@
       "description": "OBPAS CLU workflow Approver",
       "groupId": "025"
     },
-	{ "code": "OBPAS_BPA_STP",
-	  "name": "BPA STP",
-	  "description": "BPA STP workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_MC",
-	  "name": "BPA MC",
-	  "description": "BPA MC workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_JC",
-	  "name": "BPA JC",
-	  "description": "BPA JC workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_STPHQ",
-	  "name": "BPA STP HQ",
-	  "description": "BPA STP HQ workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_MTPHQ",
-	  "name": "BPA MTP HQ",
-	  "description": "BPA MTP HQ workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_MTP",
-	  "name": "BPA MTP",
-	  "description": "BPA MTP workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_ATPHQ",
-	  "name": "BPA ATP HQ",
-	  "description": "BPA ATP HQ workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_ATP",
-	  "name": "BPA ATP",
-	  "description": "BPA ATP workflow Approver",
-    "groupId": "025"
-	},
-	{
-	  "code": "OBPAS_BPA_DM",
-	  "name": "BPA DM",
-	  "description": "BPA DM workflow Approver",
-    "groupId": "025"
-	},
+    {
+      "code": "OBPAS_BPA_STP",
+      "name": "BPA STP",
+      "description": "BPA STP workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_MC",
+      "name": "BPA MC",
+      "description": "BPA MC workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_JC",
+      "name": "BPA JC",
+      "description": "BPA JC workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_STPHQ",
+      "name": "BPA STP HQ",
+      "description": "BPA STP HQ workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_MTPHQ",
+      "name": "BPA MTP HQ",
+      "description": "BPA MTP HQ workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_MTP",
+      "name": "BPA MTP",
+      "description": "BPA MTP workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_ATPHQ",
+      "name": "BPA ATP HQ",
+      "description": "BPA ATP HQ workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_ATP",
+      "name": "BPA ATP",
+      "description": "BPA ATP workflow Approver",
+      "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_DM",
+      "name": "BPA DM",
+      "description": "BPA DM workflow Approver",
+      "groupId": "025"
+    },
     {
       "code": "CLERK",
       "name": "Clerk",
-      "description": "Clerk"    },
-
+      "description": "Clerk"
+    },
 
     {
       "code": "VIEW_GARBAGE_COLLECTION_CARD",
@@ -1506,11 +1508,17 @@
       "description": "OBPAS NOC workflow Approver",
       "groupId": "025"
     },
-	  {
+    {
       "code": "Rent And Lease Reports",
       "name": "Rent And Lease Reports",
       "description": "For Rent and Lease Reports",
       "groupId": "006"
+    },
+    {
+      "code": "VIEW_KIBANA_DASHBOARD",
+      "name": "Kibana Dashboard",
+      "description": "Kibana Dashboard",
+      "groupId": "014"
     }
   ]
 }

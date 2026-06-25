@@ -27641,7 +27641,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/firenoc-home"
     },
-	{
+    {
       "id": 882564,
       "name": "File Submission Summary Report",
       "url": "url",
@@ -27678,7 +27678,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882579,
       "name": "PROFESSIONAL REGISTRATION REPORTS",
       "url": "/report/rainmaker-prof_reg/_get",
@@ -27700,7 +27700,7 @@
       "code": "null",
       "path": "PROFESSIONAL REGISTRATION REPORTS"
     },
-	{
+    {
       "id": 882567,
       "name": "Professional Registration Collection Report",
       "url": "url",
@@ -27737,7 +27737,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882570,
       "name": "Receipt Register Professional Registration Report",
       "url": "url",
@@ -27774,7 +27774,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882573,
       "name": "Highest Pendency – Professional Registration Report",
       "url": "url",
@@ -27811,7 +27811,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 882576,
       "name": "Officers Pendency – Professional Registration Report",
       "url": "url",
@@ -28223,7 +28223,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 89009991,
       "name": "State Rent & Lease Detail Report",
       "url": "url",
@@ -28333,6 +28333,22 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 89009990,
+      "name": "Kibana Dashboard",
+      "url": "url",
+      "displayName": "KibanaDashboard",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "Kibana Dashboard",
+      "code": "null",
+      "path": "KibanaDashboard.Search",
+      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/e5ec2ebd-660c-4d95-90f2-1353c1849b4d?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
