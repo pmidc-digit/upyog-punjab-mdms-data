@@ -1505,6 +1505,12 @@
       "name": "OBPAS_READ_ONLY",
       "description": "OBPAS NOC workflow Approver",
       "groupId": "025"
+    },
+	  {
+      "code": "Rent And Lease Reports",
+      "name": "Rent And Lease Reports",
+      "description": "For Rent and Lease Reports",
+      "groupId": "006"
     }
   ]
 }
