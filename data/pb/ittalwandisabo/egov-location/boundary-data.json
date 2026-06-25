@@ -1,0 +1,1158 @@
+{
+  "tenantId": "pb.ittalwandisabo",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talwandisabo",
+        "localname": "Talwandisabo",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ittalwandisabo",
+        "children": [
+          {
+            "id": "1b6881d5-ad8b-4594-ace9-4c19bf780270",
+            "boundaryNum": 1,
+            "name": "TALWANDI SABO",
+            "localname": "TALWANDI SABO",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "TSZN1",
+            "children": [
+              {
+                "id": "f3746cd1-a2c1-4f04-9f34-d25e78907504",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "972236d8-fb5f-42a5-a72e-8697a8ef0d31",
+                    "boundaryNum": 1,
+                    "name": "PATWARI COLONY - WARD1",
+                    "localname": "PATWARI COLONY - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "317cf852-3339-413e-9554-418de8d2d091",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "f2e8228d-cf49-4e7c-ac14-5f8b50dbf528",
+                    "boundaryNum": 1,
+                    "name": "NATT ROAD - WARD2",
+                    "localname": "NATT ROAD - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a7e9260-3a31-4951-9581-f3f695e9947c",
+                "boundaryNum": 1,
+                "name": "WARD3",
+                "localname": "WARD3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "133d2d7a-8fd1-426c-a12b-24c9c62afbb6",
+                    "boundaryNum": 1,
+                    "name": "KOTHIWALA RAH - WARD3",
+                    "localname": "KOTHIWALA RAH - WARD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ff307ea-af89-46a8-86de-5c2cc8ed5076",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f2f7172d-9e44-4905-b215-a07458eaf9a6",
+                    "boundaryNum": 1,
+                    "name": "MAISER MOHALA - WARD4",
+                    "localname": "MAISER MOHALA - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2469ddfa-c7c6-4a36-95f3-0ec4896f2f99",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "95e94391-4381-4eeb-a793-4d86a040e4cb",
+                    "boundaryNum": 1,
+                    "name": "PROF. COLONY - WARD5",
+                    "localname": "PROF. COLONY - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "222f3e22-3252-4b9d-a823-fc90d567e26d",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "9aa21873-763f-466d-b8ea-c3ceb168640e",
+                    "boundaryNum": 1,
+                    "name": "BERIYAWALA MOHALAL - WARD6",
+                    "localname": "BERIYAWALA MOHALAL - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f449db7d-f2c9-4ffe-9893-f4488b3faf14",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6ba2bfa8-7702-4b5f-aa37-c936965af097",
+                    "boundaryNum": 1,
+                    "name": "NEAR GOVT. SEN. SEC SCHOOL - WARD7",
+                    "localname": "NEAR GOVT. SEN. SEC SCHOOL - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aef04711-6e14-4138-ac0d-6cd626018a43",
+                "boundaryNum": 1,
+                "name": "WARD8",
+                "localname": "WARD8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "f5094994-16e2-4cd9-9d67-bfcd4eb36c02",
+                    "boundaryNum": 1,
+                    "name": "GILL KHOO - WARD8",
+                    "localname": "GILL KHOO - WARD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "007ecbc5-0f14-46ca-a14b-8ed8283bd38e",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "5adbd20d-66fc-4f17-85d8-f6f8a293ccf1",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZAR - WARD9",
+                    "localname": "MAIN BAZAR - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e4514cf-dbe1-4aed-a5ae-55c0b11d2907",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f0fe95df-1f99-49d5-9a9e-0198fa18b394",
+                    "boundaryNum": 1,
+                    "name": "BABA DALL SINGH PARK - WARD10",
+                    "localname": "BABA DALL SINGH PARK - WARD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34f3e21a-6069-430e-9ec7-7336b408f2cc",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "35706001-10ba-4e96-8f35-6e6fa755042f",
+                    "boundaryNum": 1,
+                    "name": "NEAR S.C. KHOOHI - WARD11",
+                    "localname": "NEAR S.C. KHOOHI - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab413a0c-8a2d-4250-a213-8c4981544bd8",
+                "boundaryNum": 1,
+                "name": "WARD12",
+                "localname": "WARD12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "3331f87c-8d7f-4466-a29b-8cad34c01838",
+                    "boundaryNum": 1,
+                    "name": "PATIALA BANK ROAD - WARD12",
+                    "localname": "PATIALA BANK ROAD - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ecd79d01-5d26-443f-92a9-f6acd13ac99c",
+                "boundaryNum": 1,
+                "name": "WARD13",
+                "localname": "WARD13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "6224edf3-9c81-4d48-990c-bce1aee5a6b2",
+                    "boundaryNum": 1,
+                    "name": "BABA ATTAR SINGH NAGAR - WARD13",
+                    "localname": "BABA ATTAR SINGH NAGAR - WARD13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "019971aa-dc3a-4a1c-a360-d7b2988cd90f",
+                "boundaryNum": 1,
+                "name": "WARD14",
+                "localname": "WARD14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "0ab0041f-56cf-4f10-9145-3313fdd6498d",
+                    "boundaryNum": 1,
+                    "name": "CHATHA MOHALA - WARD14",
+                    "localname": "CHATHA MOHALA - WARD14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b53c776-7e55-4cdd-a71f-571268f04f94",
+                "boundaryNum": 1,
+                "name": "WARD15",
+                "localname": "WARD15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "4d6f7980-1690-42c6-8778-4b2159508246",
+                    "boundaryNum": 1,
+                    "name": "DIKH MOHALA - WARD15",
+                    "localname": "DIKH MOHALA - WARD15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aa6f7980-1690-42c6-8778-4b21595082bb",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWNAD - WARD15",
+                    "localname": "UNKNOWNAD - WARD15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWNAD",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "talwandisabo",
+        "localname": "talwandisabo",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ittalwandisabo",
+        "children": [
+          {
+            "id": "230e3a41-e859-4e4e-bfe7-36874859b27e",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "485552e7-2c04-4ef5-a519-e3cdc611a57f",
+                "boundaryNum": 1,
+                "name": "Block 1A",
+                "localname": "Block 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 1A",
+                "children": [
+                  {
+                    "id": "ce3e2e22-13b4-466d-8152-50895bfde665",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh School to Khanda Chowk - Block 1A - A1",
+                    "localname": "Dasmesh School to Khanda Chowk - Block 1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 1A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "abf5d5ca-442d-49a2-a63d-2397791cf72d",
+                "boundaryNum": 1,
+                "name": "Block 2A",
+                "localname": "Block 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 2A",
+                "children": [
+                  {
+                    "id": "c42213e9-1883-4efa-ae07-75ad8ef9742d",
+                    "boundaryNum": 1,
+                    "name": "Rori Road - Block 2A - A1",
+                    "localname": "Rori Road - Block 2A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 2A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "de33503e-3938-4667-8543-2a8a3cab8574",
+                "boundaryNum": 1,
+                "name": "Block 3A",
+                "localname": "Block 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 3A",
+                "children": [
+                  {
+                    "id": "4c19fbe4-2c4b-4638-979c-1c9b00271273",
+                    "boundaryNum": 1,
+                    "name": "Court Complex - Block 3A - A1",
+                    "localname": "Court Complex - Block 3A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 3A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fdee651a-1a24-4996-b4f2-17bd4c41a64e",
+                "boundaryNum": 1,
+                "name": "Block 4A",
+                "localname": "Block 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 4A",
+                "children": [
+                  {
+                    "id": "bee71f14-17f0-4e49-b1f1-20b22820c3a0",
+                    "boundaryNum": 1,
+                    "name": "FCI Office Road - Block 4A - A1",
+                    "localname": "FCI Office Road - Block 4A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 4A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dbb9cfa-d35e-41a6-b321-8dc2cdda9a2a",
+                "boundaryNum": 1,
+                "name": "Block 5A",
+                "localname": "Block 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 5A",
+                "children": [
+                  {
+                    "id": "0cbebb26-3b9f-4a2a-b700-717707ae6f11",
+                    "boundaryNum": 1,
+                    "name": "Maur Road - Block 5A - A1",
+                    "localname": "Maur Road - Block 5A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 5A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58b764e0-7101-42d1-af0f-3a6bd5b94b9a",
+                "boundaryNum": 1,
+                "name": "Block 6A",
+                "localname": "Block 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 6A",
+                "children": [
+                  {
+                    "id": "b3d13cf9-a40c-47d2-aa72-3f1ec9869719",
+                    "boundaryNum": 1,
+                    "name": "Raman Road - Block 6A - A1",
+                    "localname": "Raman Road - Block 6A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 6A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "374829b0-6af0-4996-b6cf-7a8763d119a6",
+                "boundaryNum": 1,
+                "name": "Block 7A",
+                "localname": "Block 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 7A",
+                "children": [
+                  {
+                    "id": "33fddc53-0df6-4983-932a-afe6689b230c",
+                    "boundaryNum": 1,
+                    "name": "Guru Kashi College Road - Block 7A - A1",
+                    "localname": "Guru Kashi College Road - Block 7A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 7A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b9cbc706-d18c-41ac-bac5-af5648441f60",
+                "boundaryNum": 1,
+                "name": "Block 9A",
+                "localname": "Block 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 9A",
+                "children": [
+                  {
+                    "id": "ca37baf6-fe29-4a03-aba9-814c731b74f2",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - Block 9A - A1",
+                    "localname": "Main Bazar - Block 9A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 9A",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ff823cca-42ca-49e5-bbd6-21aec1ae211c",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "5ab0ce45-b362-42c1-83a5-633601776b08",
+                "boundaryNum": 1,
+                "name": "Block 1B",
+                "localname": "Block 1B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 1B",
+                "children": [
+                  {
+                    "id": "327a678f-c820-4cc5-94c3-a062e77e0fdf",
+                    "boundaryNum": 1,
+                    "name": "Patwari Colony - Block 1B - A2",
+                    "localname": "Patwari Colony - Block 1B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 1B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c07ae2a2-d7b3-4b37-93ed-941e2ec26c34",
+                "boundaryNum": 1,
+                "name": "Block 2B",
+                "localname": "Block 2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 2B",
+                "children": [
+                  {
+                    "id": "ca9ee63f-c250-4e06-a2f5-e7b730f64e9a",
+                    "boundaryNum": 1,
+                    "name": "Natt Road - Block 2B - A2",
+                    "localname": "Natt Road - Block 2B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 2B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d0bedce2-b5f6-4fda-a79b-97a945126103",
+                "boundaryNum": 1,
+                "name": "Block 3B",
+                "localname": "Block 3B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 3B",
+                "children": [
+                  {
+                    "id": "245f42c6-0485-42c2-a16e-9184cb54d2b5",
+                    "boundaryNum": 1,
+                    "name": "Kothi Wala Road - Block 3B - A2",
+                    "localname": "Kothi Wala Road - Block 3B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 3B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "09043d65-0a28-4d1d-b5ea-b1ca028111b8",
+                "boundaryNum": 1,
+                "name": "Block 4B",
+                "localname": "Block 4B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 4B",
+                "children": [
+                  {
+                    "id": "fd9545b9-536d-46a7-9ede-1e59bee31c6c",
+                    "boundaryNum": 1,
+                    "name": "Maisar Mohhala - Block 4B - A2",
+                    "localname": "Maisar Mohhala - Block 4B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 4B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b71033ef-589d-452a-9c4c-51ccdf3ddd9d",
+                "boundaryNum": 1,
+                "name": "Block 5B",
+                "localname": "Block 5B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 5B",
+                "children": [
+                  {
+                    "id": "592e8192-7088-47a9-8265-d50724dcf0b5",
+                    "boundaryNum": 1,
+                    "name": "Profesor Colony - Block 5B - A2",
+                    "localname": "Profesor Colony - Block 5B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 5B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc9eb3ef-1fc5-43ec-8874-c4f58f1019a5",
+                "boundaryNum": 1,
+                "name": "Block 6B",
+                "localname": "Block 6B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 6B",
+                "children": [
+                  {
+                    "id": "83bf8fb0-68a0-40a4-8799-d775778c26bc",
+                    "boundaryNum": 1,
+                    "name": "Bearian Wala Mohala - Block 6B - A2",
+                    "localname": "Bearian Wala Mohala - Block 6B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 6B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c2b5603-8edc-4bf7-a3b2-7e065928a4c9",
+                "boundaryNum": 1,
+                "name": "Block 7B",
+                "localname": "Block 7B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 7B",
+                "children": [
+                  {
+                    "id": "06b97cf7-3b0e-4c45-9907-37da4dcd7250",
+                    "boundaryNum": 1,
+                    "name": "Govt. School Road - Block 7B - A2",
+                    "localname": "Govt. School Road - Block 7B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 7B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccb2ccee-3c7d-443f-a205-5f9ba70cff5c",
+                "boundaryNum": 1,
+                "name": "Block 8B",
+                "localname": "Block 8B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 8B",
+                "children": [
+                  {
+                    "id": "8b693702-12ad-42f9-9215-25938b17893d",
+                    "boundaryNum": 1,
+                    "name": "Ramdasi Sikh Dharmshala - Block 8B - A2",
+                    "localname": "Ramdasi Sikh Dharmshala - Block 8B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 8B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b676944b-3dea-4788-a3b0-20208b509459",
+                "boundaryNum": 1,
+                "name": "Block 10B",
+                "localname": "Block 10B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 10B",
+                "children": [
+                  {
+                    "id": "a1400585-3abf-419b-a947-b810518ceceb",
+                    "boundaryNum": 1,
+                    "name": "Dall Singh Newas - Block 10B - A2",
+                    "localname": "Dall Singh Newas - Block 10B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 10B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6beedcc9-888c-474a-b2ee-f0ffb3ee5a89",
+                "boundaryNum": 1,
+                "name": "Block 11B",
+                "localname": "Block 11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 11B",
+                "children": [
+                  {
+                    "id": "8098d902-6903-478c-86e2-dc464f14f996",
+                    "boundaryNum": 1,
+                    "name": "Near S.C Khuhi - Block 11B - A2",
+                    "localname": "Near S.C Khuhi - Block 11B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 11B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3980adf8-784a-4743-83cb-05468bbb9aec",
+                "boundaryNum": 1,
+                "name": "Block 12B",
+                "localname": "Block 12B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 12B",
+                "children": [
+                  {
+                    "id": "c0d766c1-9f0b-4f03-b1d3-b7c6b2c95faa",
+                    "boundaryNum": 1,
+                    "name": "SBOP Bank Road - Block 12B - A2",
+                    "localname": "SBOP Bank Road - Block 12B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 12B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e93e29ca-6a81-48d8-a04f-236af3db4ad7",
+                "boundaryNum": 1,
+                "name": "Block 13B",
+                "localname": "Block 13B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 13B",
+                "children": [
+                  {
+                    "id": "bf2aff03-2c7c-4f1f-a275-97bd0c4e8300",
+                    "boundaryNum": 1,
+                    "name": "Attar Singh Nagar - Block 13B - A2",
+                    "localname": "Attar Singh Nagar - Block 13B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 13B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b058edb-8ced-400c-b031-c8b74cb43843",
+                "boundaryNum": 1,
+                "name": "Block 14B",
+                "localname": "Block 14B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 14B",
+                "children": [
+                  {
+                    "id": "c57ec72a-81c3-4f1e-b7a5-8b117acd6a35",
+                    "boundaryNum": 1,
+                    "name": "Chatha Mohala - Block 14B - A2",
+                    "localname": "Chatha Mohala - Block 14B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 14B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc5b2c81-fb41-4b46-a231-a52b19addf52",
+                "boundaryNum": 1,
+                "name": "Block 15B",
+                "localname": "Block 15B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 15B",
+                "children": [
+                  {
+                    "id": "acf81078-c127-451a-9677-2bb672452e3b",
+                    "boundaryNum": 1,
+                    "name": "Dikh Mohala - Block 15B - A2",
+                    "localname": "Dikh Mohala - Block 15B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 15B",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47bba290-c226-4b36-9e44-6f76befc0025",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 5",
+                "children": [
+                  {
+                    "id": "5e9607c1-23c9-4eaf-8563-f8faf00497ab",
+                    "boundaryNum": 1,
+                    "name": "Maur Road - Block 5 - A2",
+                    "localname": "Maur Road - Block 5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86b73af8-9373-4754-ab4d-c7db7ed6a1ca",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 15",
+                "children": [
+                  {
+                    "id": "d951610e-d948-4018-955d-5e9d23014e5c",
+                    "boundaryNum": 1,
+                    "name": "Raman Road - Block 15 - A2",
+                    "localname": "Raman Road - Block 15 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 17",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6835bd9-37a3-4f9f-a7fa-356cdf1b528f",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "0e9aee09-7df2-4834-afcf-1edb20b1374a",
+                    "boundaryNum": 1,
+                    "name": "Mastuana Road - Block 16 - A2",
+                    "localname": "Mastuana Road - Block 16 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12271718-00f0-47b1-80b0-a1990a05f6f7",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "761877db-9efc-4904-b93c-44d5bd5bc9dc",
+                    "boundaryNum": 1,
+                    "name": "B D O Black road - Block 17 - A2",
+                    "localname": "B D O Black road - Block 17 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce2ec80c-f6d5-46a8-81ab-3abc14e39459",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "aa4bea5b-97c0-48c3-8120-26bf51bbd488",
+                    "boundaryNum": 1,
+                    "name": "bittu pardana di gali - Block 18 - A2",
+                    "localname": "bittu pardana di gali - Block 18 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2809ee27-8fe4-49f5-9376-c2e7b5455f36",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "160b3e11-5d02-4c61-9d4e-2beba902e22c",
+                    "boundaryNum": 1,
+                    "name": "Exchange road - Block 19 - A2",
+                    "localname": "Exchange road - Block 19 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "174b9215-90c1-4b1c-806b-04aa3c0c170b",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "1a3bccd8-2aaa-4f99-a97e-fb1bd05a7229",
+                    "boundaryNum": 1,
+                    "name": "Malkana road - Block 20 - A2",
+                    "localname": "Malkana road - Block 20 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TS 22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a9c019e1-849e-4354-a8cf-0d8c3f580d90",
+                    "boundaryNum": 1,
+                    "name": "UNKNOWN - Block 20 - A2",
+                    "localname": "UNKNOWN - Block 20 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "UNKNOWN",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

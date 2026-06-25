@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.itkurali",
+  "moduleName": "gc-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "billingCycle": "quarterly",
+      "connectionType": "Non Metered",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 2592000000,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782853799000,
+      "demandGenerationDateMillis": 345600000
+    },
+    {
+      "active": true,
+      "billingCycle": "monthly",
+      "connectionType": "Non Metered",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1777583399000,
+      "demandGenerationDateMillis": 345600000
+    }
+  ],
+  "schedulerBillingPeriod": [
+    {
+      "active": true,
+      "billingCycle": "quarterly",
+      "connectionType": "Non Metered",
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782853799000
+    },
+    {
+      "active": true,
+      "billingCycle": "monthly",
+      "connectionType": "Non Metered",
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1777583399000
+    }
+  ]
+}

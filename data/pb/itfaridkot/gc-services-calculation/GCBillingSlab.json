@@ -1,0 +1,474 @@
+{
+  "tenantId": "pb.itfaridkot",
+  "moduleName": "gc-services-calculation",
+  "GCBillingSlab": [
+    {
+      "id": "1-monthly",
+      "buildingType": "RESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 50,
+      "slabs": []
+    },
+    {
+      "id": "1-quarterly",
+      "buildingType": "RESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 150,
+      "slabs": []
+    },
+    {
+      "id": "2-monthly",
+      "buildingType": "MIXED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "2-quarterly",
+      "buildingType": "MIXED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "3-monthly",
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "3-quarterly",
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "4-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "4-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "5-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "5-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "6-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "6-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "7-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "7-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 6000,
+      "slabs": []
+    },
+    {
+      "id": "8-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "8-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 6000,
+      "slabs": []
+    },
+    {
+      "id": "9-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.ENTERTAINMENT.MULTIPLEX",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "9-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.ENTERTAINMENT.MULTIPLEX",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "10-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "10-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.ACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 6000,
+      "slabs": []
+    },
+    {
+      "id": "11-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE.MARRIAGEPALACE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 3000,
+      "slabs": []
+    },
+    {
+      "id": "11-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE.MARRIAGEPALACE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 9000,
+      "slabs": []
+    },
+    {
+      "id": "12-monthly",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "12-quarterly",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 3000,
+      "slabs": []
+    },
+    {
+      "id": "13-monthly",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "13-quarterly",
+      "buildingType": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 3000,
+      "slabs": []
+    },
+    {
+      "id": "14-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "14-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 900,
+      "slabs": []
+    },
+    {
+      "id": "15-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "15-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 900,
+      "slabs": []
+    },
+    {
+      "id": "16-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 300,
+      "slabs": []
+    },
+    {
+      "id": "16-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 900,
+      "slabs": []
+    },
+    {
+      "id": "17-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "17-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "18-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "18-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "19-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.GOLFCLUB",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "19-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.GOLFCLUB",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "20-monthly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "20-quarterly",
+      "buildingType": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "21-monthly",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "21-quarterly",
+      "buildingType": "NONRESIDENTIAL.OTHERS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "22-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "22-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "23-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.MEDICALFACILITY.PVTHOSPITAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 500,
+      "slabs": []
+    },
+    {
+      "id": "23-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.MEDICALFACILITY.PVTHOSPITAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 1500,
+      "slabs": []
+    },
+    {
+      "id": "24-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.BANK",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "24-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.BANK",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "25-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.GROCERY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 200,
+      "slabs": []
+    },
+    {
+      "id": "25-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.RETAIL.GROCERY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "26-monthly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.NONACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Monthly",
+      "minimumCharge": 2000,
+      "slabs": []
+    },
+    {
+      "id": "26-quarterly",
+      "buildingType": "NONRESIDENTIAL.COMMERCIAL.FOODJOINTS.NONACRESTAURANT",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "billingCycle": "Quarterly",
+      "minimumCharge": 6000,
+      "slabs": []
+    }
+  ]
+}

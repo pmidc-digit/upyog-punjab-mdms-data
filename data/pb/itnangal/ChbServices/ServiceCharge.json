@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.itnangal",
+  "moduleName": "CHB",
+  "ServiceCharge": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 0,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": true
+    }
+  ]
+}

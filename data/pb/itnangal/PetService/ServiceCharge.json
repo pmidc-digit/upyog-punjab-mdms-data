@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.itnangal",
+  "moduleName": "PetService",
+  "ServiceCharge": [
+    {
+      "rate": 0,
+      "minAmount": null,
+      "flatAmount": 200,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.itkurali",
+  "moduleName": "gc-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}

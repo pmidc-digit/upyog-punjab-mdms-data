@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.itzirakpur",
+  "moduleName": "ws-services-masters",
+  "connectionType": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "description": "Non-Metered Connection",
+      "active": true
+    }
+  ]
+}

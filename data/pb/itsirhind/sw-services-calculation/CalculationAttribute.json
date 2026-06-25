@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.itsirhind",
+  "moduleName": "sw-services-calculation",
+  "CalculationAttribute": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "attribute": "PLOT_SEAT_BASED",
+      "active": true
+    }
+  ]
+}
