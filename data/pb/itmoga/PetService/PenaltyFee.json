@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.itmoga",
+  "moduleName": "PetService",
+  "PenaltyFee": [
+    {
+      "startingDay": "1",
+      "flatAmount": 100,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "31",
+      "flatAmount": 200,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "61",
+      "flatAmount": 500,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.itpatiala",
+  "moduleName": "PetService",
+  "PenaltyFee": [
+    {
+      "startingDay": "1",
+      "flatAmount": 500,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "31",
+      "flatAmount": 1000,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "61",
+      "flatAmount": 1500,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    }
+  ]
+}

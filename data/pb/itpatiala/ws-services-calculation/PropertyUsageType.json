@@ -19,6 +19,24 @@
       "code": "NONRESIDENTIAL.INDUSTRIAL",
       "unitCost" : 15,
       "isActive": true
+    },
+    {
+      "name": "Intitutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Others",
+      "code": "NONRESIDENTIAL.OTHERS",
+      "unitCost" : 15,
+      "isActive": true
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "unitCost" : 15,
+      "isActive": true
     }
   ]
 }

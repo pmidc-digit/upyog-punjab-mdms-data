@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.itsamana",
+  "moduleName": "PetService",
+  "PenaltyFee": [
+    {
+      "startingDay": "1",
+      "flatAmount": 2000,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "31",
+      "flatAmount": 2000,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    },
+    {
+      "startingDay": "61",
+      "flatAmount": 2000,
+      "active": "true",
+      "fromFY": "2026-27",
+      "feeType": "PenaltyFee"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+   "tenantId":"pb.itnangal",
+   "moduleName":"ws-services-calculation",
+   "WCBillingSlab":[
+      {
+         "id":"1",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType": "USAGE_DOM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":125.00,
+               "charge":0,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":125.01,
+               "to":250.00,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":250.01,
+               "to":1000000000.00,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"2",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType": "USAGE_DOM_NA",
+         "calculationAttribute":"TAP_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":1.00,
+               "to":2.00,
+               "charge":1000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":3.00,
+               "to":5.00,
+               "charge":2000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":6.00,
+               "to":10.00,
+               "charge":3000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"3",
+         "buildingType":"COMMERCIAL",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0.00,
+               "to":125.00,
+               "charge":600,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":125.01,
+               "to":250.00,
+               "charge":630,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":250.01,
+               "to":1000000000.00,
+               "charge":840,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+      {
+         "id":"4",
+         "buildingType":"COMMERCIAL",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"TAP_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":1.00,
+               "to":2.00,
+               "charge":4000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":3.00,
+               "to":5.00,
+               "charge":5000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            },
+            {
+               "from":6.00,
+               "to":10.00,
+               "charge":6000,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1774929282000
+            }
+         ]
+      },
+	 {
+       "id": 5,
+       "buildingType": "COMMERCIAL",
+       "waterSubUsageType": "USAGE_COMM_NA",
+       "calculationAttribute": "Water consumption",
+       "connectionType": "Metered",
+       "minimumCharge": 280,
+       "slabs": [
+         {
+           "from": 0.00,
+           "to": 1774988093000.00,
+           "charge": 7.60,
+           "meterCharge": 0,
+           "effectiveFrom":1522584000000,
+           "effectiveTo":1736058973000
+ 
+         }
+	   ]
+   },
+    {
+       "id": 6,
+       "buildingType": "RESIDENTIAL",
+       "waterSubUsageType": "USAGE_DOM_NA",
+       "calculationAttribute": "Water consumption",
+       "connectionType": "Metered",
+       "minimumCharge": 315,
+       "slabs": [
+         {
+           "from": 0.00,
+           "to": 10000.00,
+           "charge": 3.80,
+           "meterCharge": 0,
+           "effectiveFrom":1522584000000,
+           "effectiveTo":1736058973000
+ 
+         }
+	   ]
+    }
+   
+  ]
+}

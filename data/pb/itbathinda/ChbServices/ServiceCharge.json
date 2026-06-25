@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.itbathinda",
+  "moduleName": "CHB",
+  "ServiceCharge": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 500,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "applicableAfterDays": "0",
+      "active": true,
+      "taxApplicable": true
+    }
+  ]
+}
