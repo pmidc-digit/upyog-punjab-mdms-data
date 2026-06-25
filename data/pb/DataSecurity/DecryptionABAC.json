@@ -3,6 +3,46 @@
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
+      "key": "RLREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "Rent And Lease Reports",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/payername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername1"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "CHALLANREPORTS",
       "roleAttributeAccessList": [
         {
