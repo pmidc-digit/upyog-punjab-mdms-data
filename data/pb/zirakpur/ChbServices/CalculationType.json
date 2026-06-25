@@ -4,362 +4,92 @@
   "CalculationType": [
     {
       "1": [
-        {
-          "sector": "SAINI_BHAWAN_LOHAGARH",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "SAINI_BHAWAN_LOHAGARH", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "SAINI_BHAWAN_LOHAGARH", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "2": [
-        {
-          "sector": "SPORT_COMPLEX_CHHAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "SPORT_COMPLEX_CHHAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "SPORT_COMPLEX_CHHAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "3": [
-        {
-          "sector": "LOHAGARH_PARK",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "LOHAGARH_PARK", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "LOHAGARH_PARK", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "4": [
-        {
-          "sector": "NABHA_SAHIB",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "NABHA_SAHIB", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "NABHA_SAHIB", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "5": [
-        {
-          "sector": "GUGGA_MARI_BHABAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "GUGGA_MARI_BHABAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "GUGGA_MARI_BHABAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "6": [
-        {
-          "sector": "MC_HOUSE_BHABAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "MC_HOUSE_BHABAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "MC_HOUSE_BHABAT", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "7": [
-        {
-          "sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "8": [
-        {
-          "sector": "OLD_MC_OFFICE_ZIRAKPUR",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "OLD_MC_OFFICE_ZIRAKPUR", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "OLD_MC_OFFICE_ZIRAKPUR", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "9": [
-        {
-          "sector": "MAMTA_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "MAMTA_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "MAMTA_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "10": [
-        {
-          "sector": "LUXMI_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "LUXMI_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "LUXMI_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "11": [
-        {
-          "sector": "MS_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "MS_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "MS_ENCLAVE_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "12": [
-        {
-          "sector": "GULMOHAR_TRAND_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "GULMOHAR_TRAND_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "GULMOHAR_TRAND_DHAKOLI", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "13": [
-        {
-          "sector": "DASMESH_ENCLAVE_HIMMAGARTH",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "DASMESH_ENCLAVE_HIMMAGARTH", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "DASMESH_ENCLAVE_HIMMAGARTH", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "14": [
-        {
-          "sector": "NADLA",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
+        {"sector": "NADLA", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "NADLA", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     },
     {
       "15": [
-        {
-          "sector": "NAGAR_KHARA_BISHANPURA",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 5100,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "16": [
-        {
-          "sector": "SAINI_BHAWAN_LOHAGARH",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "17": [
-        {
-          "sector": "SPORT_COMPLEX_CHHAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "18": [
-        {
-          "sector": "LOHAGARH_PARK",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "19": [
-        {
-          "sector": "NABHA_SAHIB",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "20": [
-        {
-          "sector": "GUGGA_MARI_BHABAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "21": [
-        {
-          "sector": "MC_HOUSE_BHABAT",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "22": [
-        {
-          "sector": "JARNAIL_ENCLAVE_2_ZIRAKPUR",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "23": [
-        {
-          "sector": "OLD_MC_OFFICE_ZIRAKPUR",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "24": [
-        {
-          "sector": "MAMTA_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "25": [
-        {
-          "sector": "LUXMI_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "26": [
-        {
-          "sector": "MS_ENCLAVE_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "27": [
-        {
-          "sector": "GULMOHAR_TRAND_DHAKOLI",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "28": [
-        {
-          "sector": "DASMESH_ENCLAVE_HIMMAGARTH",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "29": [
-        {
-          "sector": "NADLA",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
-      ]
-    },
-    {
-      "30": [
-        {
-          "sector": "NAGAR_KHARA_BISHANPURA",
-          "applicationType": "COMMUNITY_HALL_BOOKING",
-          "serviceType": "NEW_BOOKING",
-          "feeType": "BOOKING_FEES",
-          "amount": 1000,
-          "taxApplicable": true
-        }
+        {"sector": "NAGAR_KHARA_BISHANPURA", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "HAPPY", "amount": 5100, "taxApplicable": true},
+        {"sector": "NAGAR_KHARA_BISHANPURA", "applicationType": "COMMUNITY_HALL_BOOKING", "serviceType": "NEW_BOOKING", "feeType": "BOOKING_FEES", "functionType": "SAD", "amount": 1000, "taxApplicable": true}
       ]
     }
   ]

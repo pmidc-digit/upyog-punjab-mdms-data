@@ -1,14 +1,14 @@
 {
-  "tenantId": "pb.kurali",
+  "tenantId": "pb.morinda",
   "moduleName": "CHB",
   "CommunityHalls": [
     {
       "communityHallId": "1",
-      "name": "Community Center, Kurali",
-      "code": "COMMUNITY_CENTER_KURALI",
-      "locationCode": "COMMUNITY_CENTER_KURALI",
+      "name": "Dr. Bheem Rao Ambedkar Community Center",
+      "code": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER",
+      "locationCode": "DR_BHEEM_RAO_AMBEDKAR_COMMUNITY_CENTER",
       "contactDetails": "011-25695450",
-      "address": "Community center W.No.5, Ropar Road, Kurali",
+      "address": "Ward No 08 Near Nagar Kheda Morinda",
       "type": "HALL",
       "hallDescription": "Community centre facility.",
       "termsAndCondition": "...",

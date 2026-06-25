@@ -1,25 +1,25 @@
 {
-  "tenantId": "pb.machhiwara",
+  "tenantId": "pb.morinda",
   "moduleName": "CHB",
   "CalculationType": [
     {
       "1": [
         {
-          "sector": "Near_Bus_Stand_Rattipur_Road_Machhiwara",
+          "sector": "Ward_No_08_Near_Nagar_Kheda_Morinda",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
           "functionType": "HAPPY",
-          "amount": 8500,
+          "amount": 6100,
           "taxApplicable": true
         },
         {
-          "sector": "Near_Bus_Stand_Rattipur_Road_Machhiwara",
+          "sector": "Ward_No_08_Near_Nagar_Kheda_Morinda",
           "applicationType": "COMMUNITY_HALL_BOOKING",
           "serviceType": "NEW_BOOKING",
           "feeType": "BOOKING_FEES",
           "functionType": "SAD",
-          "amount": 4000,
+          "amount": 2600,
           "taxApplicable": true
         }
       ]
