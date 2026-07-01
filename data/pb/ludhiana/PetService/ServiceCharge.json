@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.ludhiana",
+  "moduleName": "PetService",
+  "ServiceCharge": [
+    {
+      "rate": null,
+      "minAmount": null,
+      "flatAmount": 0,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}

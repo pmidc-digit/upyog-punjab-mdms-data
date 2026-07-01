@@ -1,0 +1,36 @@
+{
+  "tenantId": "pb.ludhiana",
+  "moduleName": "PetService",
+  "PetType": [
+    {
+      "name": "Dog",
+      "code": "DOG",
+      "active": true
+    },
+    {
+      "name": "Cat",
+      "code": "CAT",
+      "active": true
+    },
+    {
+      "name": "Bird",
+      "code": "BIRD",
+      "active": true
+    },
+    {
+      "name": "Lizard",
+      "code": "LIZARD",
+      "active": true
+    },
+    {
+      "name": "Horse",
+      "code": "HORSE",
+      "active": true
+    },
+    {
+      "name": "Fish",
+      "code": "FISH",
+      "active": true
+    }
+  ]
+}
