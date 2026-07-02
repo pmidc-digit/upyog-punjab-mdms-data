@@ -1519,6 +1519,12 @@
       "name": "Kibana Dashboard",
       "description": "Kibana Dashboard",
       "groupId": "014"
-    }
+    },
+	{
+	  "code": "API_ONLY",
+	  "name": "API Only",
+	  "description": "Default role for API only access",
+	  "groupId": "030"
+	}
   ]
 }
