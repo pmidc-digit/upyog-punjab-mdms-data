@@ -4,7 +4,7 @@
     "AutoSkipSteps": [
         {
             "moduleName": "bpa-service",
-            "comment": "Auto Skip Stete",
+            "comment": "Auto Skip State",
             "active": true,
             "businessService": [
                 "BPA_MC",
@@ -20,7 +20,7 @@
         },
         {
             "moduleName": "clu-service",
-            "comment": "Auto Skip Stete",
+            "comment": "Auto Skip State",
             "active": true,
             "businessService": [
                 "CLU_MC",
@@ -36,7 +36,7 @@
         },
         {
             "moduleName": "noc-service",
-            "comment": "Auto Skip Stete",
+            "comment": "Auto Skip State",
             "active": true,
             "businessService": [
                 "NOC_MC",
