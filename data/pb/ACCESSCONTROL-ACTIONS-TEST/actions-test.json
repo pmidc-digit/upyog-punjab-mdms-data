@@ -28349,6 +28349,66 @@
       "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/e5ec2ebd-660c-4d95-90f2-1353c1849b4d?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 89010000,
+      "name": "Property Inbox",
+      "url": "url",
+      "displayName": "Property Inbox",
+      "orderNumber": 14,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.Property Inbox",
+      "navigationURL": "digit-ui/employee/pt/inbox",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010001,
+      "name": "Create Property",
+      "url": "url",
+      "displayName": "Create Property",
+      "orderNumber": 17,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.Create Property",
+      "navigationURL": "digit-ui/employee/pt/new-application",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010002,
+      "name": "Search Application",
+      "url": "url",
+      "displayName": "Search Application",
+      "orderNumber": 18,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.Search Property",
+      "navigationURL": "digit-ui/employee/pt/application-search",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010003,
+      "name": "Search Property",
+      "url": "url",
+      "displayName": "Search Property",
+      "orderNumber": 18,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "Property Tax.Search Property",
+      "navigationURL": "digit-ui/employee/pt/search",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
