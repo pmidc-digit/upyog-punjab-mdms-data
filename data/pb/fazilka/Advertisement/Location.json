@@ -1,0 +1,150 @@
+{
+  "tenantId": "pb.fazilka",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Bus Stand",
+      "code": "BUS_STAND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.3095,
+        "longitude": 74.0267
+      }
+    },
+    {
+      "name": "Malout Chownk",
+      "code": "MALOUT_CHOWNK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.31,
+        "longitude": 74.03
+      }
+    },
+    {
+      "name": "Ferozepur Road",
+      "code": "FEROZEPUR_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.315,
+        "longitude": 74.02
+      }
+    },
+    {
+      "name": "Abohar Road",
+      "code": "ABOHAR_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.305,
+        "longitude": 74.035
+      }
+    },
+    {
+      "name": "Cycle Bazar Chownk",
+      "code": "CYCLE_BAZAR_CHOWNK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.308,
+        "longitude": 74.028
+      }
+    },
+    {
+      "name": "Railway Road",
+      "code": "RAILWAY_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.312,
+        "longitude": 74.025
+      }
+    },
+    {
+      "name": "Gaushala Road",
+      "code": "GAUSHALA_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.307,
+        "longitude": 74.032
+      }
+    },
+    {
+      "name": "Border Road",
+      "code": "BORDER_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.32,
+        "longitude": 74.022
+      }
+    },
+    {
+      "name": "College Road",
+      "code": "COLLEGE_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.306,
+        "longitude": 74.029
+      }
+    },
+    {
+      "name": "Bikaneri Road",
+      "code": "BIKANERI_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.313,
+        "longitude": 74.018
+      }
+    },
+    {
+      "name": "Freedom Fighter Road",
+      "code": "FREEDOM_FIGHTER_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.311,
+        "longitude": 74.027
+      }
+    },
+    {
+      "name": "Dead House Road",
+      "code": "DEAD_HOUSE_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.304,
+        "longitude": 74.033
+      }
+    },
+    {
+      "name": "Arya Samaj Road",
+      "code": "ARYA_SAMAJ_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.3085,
+        "longitude": 74.026
+      }
+    },
+    {
+      "name": "Old Abohari Road",
+      "code": "OLD_ABOHARI_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.303,
+        "longitude": 74.036
+      }
+    },
+    {
+      "name": "Wan Bazar",
+      "code": "WAN_BAZAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.3105,
+        "longitude": 74.024
+      }
+    },
+    {
+      "name": "Anaj Mandi",
+      "code": "ANAJ_MANDI",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.3065,
+        "longitude": 74.031
+      }
+    }
+  ]
+}

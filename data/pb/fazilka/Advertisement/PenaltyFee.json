@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.fazilka",
+  "moduleName": "Advertisement",
+  "PenaltyFee": [
+    {
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1743465600000",
+      "active": true
+    }
+  ]
+}
