@@ -28409,6 +28409,28 @@
       "navigationURL": "/digit-ui/employee/pt/search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 89010004,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010005,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }

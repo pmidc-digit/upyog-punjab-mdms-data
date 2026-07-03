@@ -70040,6 +70040,66 @@
       "actionid": 89010003,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 89010004,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+{
+      "rolecode": "CITIZEN",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 89010005,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
