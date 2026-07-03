@@ -28361,7 +28361,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Property Inbox",
-      "navigationURL": "digit-ui/employee/pt/inbox",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -28376,7 +28376,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Create Property",
-      "navigationURL": "digit-ui/employee/pt/new-application",
+      "navigationURL": "/digit-ui/employee/pt/new-application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -28391,7 +28391,7 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Search Property",
-      "navigationURL": "digit-ui/employee/pt/application-search",
+      "navigationURL": "/digit-ui/employee/pt/application-search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -28406,9 +28406,31 @@
       "serviceCode": "PT",
       "code": "null",
       "path": "Property Tax.Search Property",
-      "navigationURL": "digit-ui/employee/pt/search",
+      "navigationURL": "/digit-ui/employee/pt/search",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 89010004,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY1/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010005,
+      "name": "Clu Collection Search Reciept",
+      "url": "/collection-services/payments/LAYOUT.PAY2/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
