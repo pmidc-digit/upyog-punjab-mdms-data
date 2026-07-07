@@ -219,6 +219,15 @@
       "renewapplication": 100
     },
     {
+      "name": "Dachshund",
+      "code": "DACHSHUND",
+      "active": true,
+      "petType": "DOG",
+      "newapplication": 200,
+      "renewapplication": 100,
+      "feeType": "PET_REGISTRATION_FEE"
+    },
+    {
       "name": "Indian Billi (Desi)",
       "code": "INDIAN_BILLI_DESI",
       "active": true,
