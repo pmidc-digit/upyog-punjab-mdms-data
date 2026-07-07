@@ -1,0 +1,4528 @@
+{
+  "tenantId": "pb.fazilka",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-PT2026000001",
+      "propertyName": "Shop No. 1 - Jagtaar Singh s/o Nirmal Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10822",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000002",
+      "propertyName": "Shop No. 1A - Baldev Singh s/o Sardool Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11851",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000003",
+      "propertyName": "Shop No. 2 - Raghuveer Singh s/o Inder Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11851",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000004",
+      "propertyName": "Shop No. 3 - Gopal Singh s/o Ujaagar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10322",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000005",
+      "propertyName": "Shop No. 4 - Hukam Chand s/o Nadar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11851",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000006",
+      "propertyName": "Shop No. 5 - Bhagwan Dass s/o Hansh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "12948",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000007",
+      "propertyName": "Shop No. 6 - Bhagwan Dass s/o Hansh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11321",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000008",
+      "propertyName": "Shop No. 7 - Mahinder Singh, Pritam Singh s/o Harnaam Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000009",
+      "propertyName": "Shop No. 8 - Ved Parkash s/o Sharan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "16198",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000010",
+      "propertyName": "Shop No. 9 - Kamlesh Rani w/o Raj Kumar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "BUS STAND SHED ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11851",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_BUS_STAND_SHED_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000011",
+      "propertyName": "Shop No. 1^2 - Bhagwan Dass s/o Ganga Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "ABHORI BUS STAND SHED ROOM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7655",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_BUS_STAND_SHED_ROOM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000012",
+      "propertyName": "Shop No. 3 - Jasraaj s/o Ganga Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "ABHORI BUS STAND SHED ROOM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4051",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_BUS_STAND_SHED_ROOM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000013",
+      "propertyName": "Shop No. 4 - Om Parkash s/o Narian Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 77.0,
+      "address": "ABHORI BUS STAND SHED ROOM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5585",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_BUS_STAND_SHED_ROOM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000014",
+      "propertyName": "Shop No. 5^6 - Anil Kumar s/o Shanker Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 272.0,
+      "address": "ABHORI BUS STAND SHED ROOM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5585",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_BUS_STAND_SHED_ROOM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000015",
+      "propertyName": "Shop No. 2 - Mohan Lal s/o Bhudh Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 237.0,
+      "address": "MEET MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3852",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEET_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000016",
+      "propertyName": "Shop No. 3 - Raj Kumar s/o Roshan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 237.0,
+      "address": "MEET MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2151",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEET_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000017",
+      "propertyName": "Shop No. 4 - Sudaagar Singh s/o Santa Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 237.0,
+      "address": "MEET MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "683",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEET_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000018",
+      "propertyName": "Shop No. 5 - Alla Singh s/o Fatta Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 211.0,
+      "address": "MEET MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1268",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEET_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000019",
+      "propertyName": "Shop No. 6 - Sudaagar Singh s/o Santa Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 294.0,
+      "address": "MEET MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "683",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEET_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000020",
+      "propertyName": "Shop No. 2 - Bhagwan Dass, Hakam Rai s/o Kalu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 368.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2975",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000021",
+      "propertyName": "Shop No. 4 - Mahant Ram s/o Mohllu  Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 938.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2392",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000022",
+      "propertyName": "Shop No. 6 - Mahant Ram s/o Mohllu  Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 223.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4087",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000023",
+      "propertyName": "Shop No. 6A - Sham Lal s/o Bnarsi Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 132.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3142",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000024",
+      "propertyName": "Shop No. 8 - Niranjan Singh s/o Mohan Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2011",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000025",
+      "propertyName": "Shop No. 11 - Ghordhan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 164.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6842",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000026",
+      "propertyName": "Shop No. 11A - Jattu Ram s/o Giyan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 207.0,
+      "address": "FEROZEPUR BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6842",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FEROZEPUR_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000027",
+      "propertyName": "Shop No. 9 - Raman Kumar, Chiman Lal s/o Irlal Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 310.0,
+      "address": "AATA MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5184",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_AATA_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000028",
+      "propertyName": "Shop No. 1 - Bihari Lal  s/o Butta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 312.0,
+      "address": "RADIO HALL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6989",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RADIO_HALL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000029",
+      "propertyName": "Shop No. 2 - Roshan Lal S/o Gopi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "RADIO HALL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6989",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RADIO_HALL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000030",
+      "propertyName": "Shop No. 3 - Chiman Lal s/o Nihal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "RADIO HALL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2090",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RADIO_HALL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000031",
+      "propertyName": "Shop No. 3A - Chiman Lal s/o Nihal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 84.0,
+      "address": "RADIO HALL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1079",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RADIO_HALL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000032",
+      "propertyName": "Shop No. 3 - Kanwersian  s/o Barru Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 307.0,
+      "address": "GRAIN MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11491",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_GRAIN_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000033",
+      "propertyName": "Shop No. 4 - Shubash Chander S/o Kanwersian",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 307.0,
+      "address": "GRAIN MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11491",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_GRAIN_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000034",
+      "propertyName": "Shop No. 1 - Narain  Dass s/o Ram Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 312.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4147",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000035",
+      "propertyName": "Shop No. 5 - Chandgi Ram s/o Shaddi Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 260.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7025",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000036",
+      "propertyName": "Shop No. 10 - Sham Lal s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 127.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5777",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000037",
+      "propertyName": "Shop No. 10A - Mohan Lal s/o Milakh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1318",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000038",
+      "propertyName": "Shop No. 10B - Ashok Kumar s/o Milakh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 74.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3684",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000039",
+      "propertyName": "Shop No. 11 - Gurdiyal Chand s/o Amar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 518.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000040",
+      "propertyName": "Shop No. 12^14 - Hzari Lal s/o Sham Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 700.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1508",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000041",
+      "propertyName": "Shop No. 15 - Shubash Chander S/o Kundan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8098",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000042",
+      "propertyName": "Shop No. 16B - Hansh Raj s/o Bhojja Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 700.0,
+      "address": "Tambacco Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2273",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_TAMBACCO_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000043",
+      "propertyName": "Shop No. 1 - Bali Ram s/o Dunni Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 276.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5018",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000044",
+      "propertyName": "Shop No. 2 - Hansh Raj s/o Shanker Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 253.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14239",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000045",
+      "propertyName": "Shop No. 4 - Chiman Lal s/o Gurditta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 162.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2773",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000046",
+      "propertyName": "Shop No. 5 - Amar Lal, Puran Chand s/o Guljari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2773",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000047",
+      "propertyName": "Shop No. 7 - Ascharaj Lal s/o Niyamat Rai",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 162.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4397",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000048",
+      "propertyName": "Shop No. 8A - Madan Lal s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4110",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000049",
+      "propertyName": "Shop No. 3C - Hansh Raj s/o Pokhar Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6802",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000050",
+      "propertyName": "Shop No. 12A - Tara Chand s/o Mohan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5052",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000051",
+      "propertyName": "Shop No. 19 - Prem Kumar s/o Nand Gopal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4789",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000052",
+      "propertyName": "Shop No. 20 - Nrinder Kumar s/o Ram Niwas",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1477",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000053",
+      "propertyName": "Shop No. 23C - Nett Ram s/o Machla Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 85.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2618",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000054",
+      "propertyName": "Shop No. 27B - Bharoo Ram s/o Mansukh Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 36.0,
+      "address": "OLIVAR GANJ-1",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "838",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ1_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000055",
+      "propertyName": "Shop No. 2 - Gopi Ram s/o Dinna Nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 162.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4051",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000056",
+      "propertyName": "Shop No. 3 - Sagariya Ram s/o Nanak Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 162.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1578",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000057",
+      "propertyName": "Shop No. 5A - Ram ji Lal s/o Devi sahaye",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "899",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000058",
+      "propertyName": "Shop No. 5B - Pardhu Ram s/o Devi sahaye",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "899",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000059",
+      "propertyName": "Shop No. 7 - Ram Lal s/o Tirath Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 128.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1780",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000060",
+      "propertyName": "Shop No. 11 - Hukam Chand s/o Ganpat Maal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 208.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2419",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000061",
+      "propertyName": "Shop No. 16 - Manish Kumar, Bhupinder Kumar, Dharam Chand s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 224.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1715",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000062",
+      "propertyName": "Shop No. 17B - Ram ji Lal s/o Devi sahaye",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7170",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000063",
+      "propertyName": "Shop No. 19 - Shubash Chander s/o Mangat Ram s/o Bhali Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 470.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "751",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000064",
+      "propertyName": "Shop No. 20 - Hukam Chand s/o Ganpat Maal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1078",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000065",
+      "propertyName": "Shop No. 20A - Hukam Chand s/o Ganpat Maal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 128.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2152",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000066",
+      "propertyName": "Shop No. 21A - Murari Lal s/o Peeru Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 128.0,
+      "address": "OLIVAR GANJ-2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "395",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_OLIVAR_GANJ2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000067",
+      "propertyName": "Shop No. 2 - Babu Lal s/o Natha Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 314.0,
+      "address": "GHASS MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "253",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_GHASS_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000068",
+      "propertyName": "Shop No. 2A - Ashok Kumar s/o Hansh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 296.0,
+      "address": "GHASS MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "300",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_GHASS_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000069",
+      "propertyName": "Shop No. 3 - Mohan Lal s/o Matadeen",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "GHASS MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2497",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_GHASS_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000070",
+      "propertyName": "Shop No. 1 - Niyamat Rai s/o Roshan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 33.6,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1138",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000071",
+      "propertyName": "Shop No. 1B - Hansh Raj s/o Pokhar Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 325.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1721",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000072",
+      "propertyName": "Shop No. 2 - Lal Chand s/o Ghissa Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 500.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000073",
+      "propertyName": "Shop No. 3A - Tulsi Ram s/o Chodhry Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5062",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000074",
+      "propertyName": "Shop No. 3B/4A - Sonath s/o Narain Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "985",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000075",
+      "propertyName": "Shop No. 4B/5 - Khiyali Ram s/o Sonath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 375.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "907",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000076",
+      "propertyName": "Shop No. 6 - Ram Lal s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 450.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "492",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000077",
+      "propertyName": "Shop No. 7^8 - Ashok Kumar s/o Basant Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 550.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1232",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000078",
+      "propertyName": "Shop No. 9 - Rameshvar Dass s/o Ghissa Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 500.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "492",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000079",
+      "propertyName": "Shop No. 10 - Hukam Chand s/o Ganpat Maal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 312.0,
+      "address": "B-2 KHATIYA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "691",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_B2_KHATIYA_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000080",
+      "propertyName": "Shop No. 1 - Sher Singh s/o Jagan Nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 96.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000081",
+      "propertyName": "Shop No. 2 - Nihal Singh s/o Jhanda Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "632",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000082",
+      "propertyName": "Shop No. 3 - Gurditta Ram s/o Gulab Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "778",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000083",
+      "propertyName": "Shop No. 4 - Ami Chand s/o Gulab Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "778",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000084",
+      "propertyName": "Shop No. 5 - Banwari Lal S/o Milakh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1685",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000085",
+      "propertyName": "Shop No. 6 - Lal Chand s/o Mohla Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "632",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000086",
+      "propertyName": "Shop No. 7 - Mohla Ram s/o Ghela Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "632",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000087",
+      "propertyName": "Shop No. 8 - Nadar Chand s/o Ghela Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "777",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000088",
+      "propertyName": "Shop No. 9 - Gulab Ram s/o Mohar singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000089",
+      "propertyName": "Shop No. 10 - Khem Chand, Bhadhar Ram s/o Jagan Nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000090",
+      "propertyName": "Shop No. 11 - Pehalwan Chand s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000091",
+      "propertyName": "Shop No. 12 - Nadar Chand s/o Bhadar Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000092",
+      "propertyName": "Shop No. 13 - Karam Chand, Dharam Chand s/o Tara Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "632",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000093",
+      "propertyName": "Shop No. 14 - Gulab Chand s/o Sawan Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 117.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000094",
+      "propertyName": "Shop No. 15 - Heera Lal s/o Nadar Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 117.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000095",
+      "propertyName": "Shop No. 16 - Mahla Ram s/o Karam Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 78.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000096",
+      "propertyName": "Shop No. 17 - Sudaagar Ram s/o Kallu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 104.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "768",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000097",
+      "propertyName": "Shop No. 18 - Bhadar Ram s/o Gehla Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 117.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1111",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000098",
+      "propertyName": "Shop No. 19^20 - Chiman Lal s/o Mool Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 221.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1111",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000099",
+      "propertyName": "Shop No. 21 - Joginder singh s/o Bhal Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 108.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1725",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000100",
+      "propertyName": "Shop No. 22 - Balvir Singh s/o Karishan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2759",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000101",
+      "propertyName": "Shop No. 23 - Mamraj s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 78.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "728",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000102",
+      "propertyName": "Shop No. 24 - Alla Singh s/o Fatta Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 91.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "728",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000103",
+      "propertyName": "Shop No. 25 - Amreek Singh s/o Ajit Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 84.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "728",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000104",
+      "propertyName": "Shop No. 26 - Ajit Singh s/o Diwan Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 84.0,
+      "address": "ABHORI ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2126",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_ABHORI_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000105",
+      "propertyName": "Shop No. 1 - Desh Raj s/o Diyal Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 66.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1020",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000106",
+      "propertyName": "Shop No. 2 - Hansh Raj s/o Diyal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1020",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000107",
+      "propertyName": "Shop No. 3^4 - Amar Singh s/o Bankka Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1927",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000108",
+      "propertyName": "Shop No. 5^6 - Milakh Raj s/o Shanker Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1792",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000109",
+      "propertyName": "Shop No. 7 - Prem Pal s/o Kesar Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1020",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000110",
+      "propertyName": "Shop No. 8 - Om Parkash s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1020",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000111",
+      "propertyName": "Shop No. 9 - Ram Lal s/o Bhagwan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 99.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "884",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000112",
+      "propertyName": "Shop No. 11 - Munshi Ram s/o Chandgi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 66.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "884",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000113",
+      "propertyName": "Shop No. 13 - Munsha Singh s/o Sudagaar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 66.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000114",
+      "propertyName": "Shop No. 16^17$   112 - Ram Lal S/o Shanker Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 216.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1650",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000115",
+      "propertyName": "Shop No. 17^18 - Labh Chand s/o Mudad lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1279",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000116",
+      "propertyName": "Shop No. 19^20 - Hari Chand s/o Hari Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2152",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000117",
+      "propertyName": "Shop No. 21 - Darshan Lal s/o Haddi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 66.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "886",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000118",
+      "propertyName": "Shop No. 22 - Chiman Lal s/o Haddi  Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 66.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "886",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000119",
+      "propertyName": "Shop No. 23 - Kesar Ram s/o sudagar Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 48.0,
+      "address": "MEHARIYA SHED",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "886",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MEHARIYA_SHED_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000120",
+      "propertyName": "Shop No. 1 - Choth Maal S/o Ram Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 320.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000121",
+      "propertyName": "Shop No. 2^3 - Johari Ram s/o Jaisukh Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 576.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1003",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000122",
+      "propertyName": "Shop No. 4 - Sita Ram s/o Look Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 160.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "622",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000123",
+      "propertyName": "Shop No. 5 - Mehar Singh s/o Ganesh Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000124",
+      "propertyName": "Shop No. 6 - Lekh Raj s/o Ram Ratan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000125",
+      "propertyName": "Shop No. 7 - Janne s/o Bihari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000126",
+      "propertyName": "Shop No. 8 - Ram Chand s/o Dulla Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "MOTAR ADDA SHOP",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_MOTAR_ADDA_SHOP_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000127",
+      "propertyName": "Shop No. 5 - Ramesh Kumar s/oOm Parkash",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "26959",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000128",
+      "propertyName": "Shop No. 14 - Kewal Karishan S/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21585",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000129",
+      "propertyName": "Shop No. 18A - Ram Kumar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 161.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11434",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000130",
+      "propertyName": "Shop No. 19 - Jagmaal Ram s/o Khiwa Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "25082",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000131",
+      "propertyName": "Shop No. 20 - Lekh Raj s/o Ram Kishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "18886",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000132",
+      "propertyName": "Shop No. 24 - Harbans lal s/o Tirlok Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "23457",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000133",
+      "propertyName": "Shop No. 27 - Shubash Chander, Norang Lal s/o bihari  Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "25298",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000134",
+      "propertyName": "Shop No. 28 - Bihari Lal s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20224",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000135",
+      "propertyName": "Shop No. 30A - Om Parkash S/o Shubash Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 78.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6472",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000136",
+      "propertyName": "Shop No. 32 - Bihari Lal s/o Ram Kishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "25298",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000137",
+      "propertyName": "Shop No. 34 - Rajinder Kumar s/o Labhu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "18890",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000138",
+      "propertyName": "Shop No. 35 - Ravi Kumar s/o Rajinder",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 230.0,
+      "address": "INDRA MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "25298",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_INDRA_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000139",
+      "propertyName": "Shop No. 2 - Mohan Lal s/o Jhangi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000140",
+      "propertyName": "Shop No. 4 - Banwari Lal S/o Jhangi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000141",
+      "propertyName": "Shop No. 5 - Kashmiri Lal s/o Hansh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000142",
+      "propertyName": "Shop No. 10 - Raj Kumar s/o Kashmiri Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000143",
+      "propertyName": "Shop No. 11 - Birbal s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000144",
+      "propertyName": "Shop No. 13 - Om Parkash s/o Mukand Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 184.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000145",
+      "propertyName": "Shop No. 21 - Ghissa Ram s/o Ganga Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 184.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000146",
+      "propertyName": "Shop No. 28 - Mohan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SCHOOL NO.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6428",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SCHOOL_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000147",
+      "propertyName": "Shop No. 3 - Sandeep Kumar s/o kewal Karishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000148",
+      "propertyName": "Shop No. 4 - Raj Karishan s/o Jagan Nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000149",
+      "propertyName": "Shop No. 6 - Jagjevan Singh s/o giyan Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000150",
+      "propertyName": "Shop No. 10 - Murari Lal peyar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000151",
+      "propertyName": "Shop No. 15 - Naresh Kumar s/o Mohan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000152",
+      "propertyName": "Shop No. 17 - Sham Lal s/o Banwari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9289",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000153",
+      "propertyName": "Shop No. 20 - Mahesh Chander s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9289",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000154",
+      "propertyName": "Shop No. 27 - Ruldu Ram s/o Jaimaal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000155",
+      "propertyName": "Shop No. 31 - Nand Lal s/o Bhali Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000156",
+      "propertyName": "Shop No. 32 - Ramsharan Dass s/o Bhali Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000157",
+      "propertyName": "Shop No. 37 - Tulsi Ram s/o Uttam Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "CYCALE BAZAAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_CYCALE_BAZAAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000158",
+      "propertyName": "Shop No. 1 - Kashmiri Singh s/o Sudagar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000159",
+      "propertyName": "Shop No. 3 - Vallu Ram s/o Gurditta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000160",
+      "propertyName": "Shop No. 4 - Surinder Kumar s/o karam Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000161",
+      "propertyName": "Shop No. 5 - Puaran Chand s/o Gopi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000162",
+      "propertyName": "Shop No. 6 - Ram kishan s/o Sardari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000163",
+      "propertyName": "Shop No. 7 - Laxmi Chand s/o Ram Kishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000164",
+      "propertyName": "Shop No. 8 - Chunni Lal s/o Hansh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000165",
+      "propertyName": "Shop No. 10 - Chanan Ram s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000166",
+      "propertyName": "Shop No. 11 - Shumesh Kumar s/o Chanan Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000167",
+      "propertyName": "Shop No. 12 - Ashok Kumar s/o Chanan Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000168",
+      "propertyName": "Shop No. 13 - Madan Lal s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000169",
+      "propertyName": "Shop No. 18 - Prem Kumar s/o Ram Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000170",
+      "propertyName": "Shop No. 19 - Desh Raj s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5788",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000171",
+      "propertyName": "Shop No. 20 - Ram Chand s/o Jaimaal Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000172",
+      "propertyName": "Shop No. 23 - Diwan Chand s/o Gurditta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000173",
+      "propertyName": "Shop No. 27 - Kishore Chand s/o Visakhi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5789",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000174",
+      "propertyName": "Shop No. 28 - Kamaljeet Avnash Chander",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000175",
+      "propertyName": "Shop No. 29 - Ram Chand s/o Blaki Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.0,
+      "address": "SHRI GURU TEGH BAHADUR MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SHRI_GURU_TEGH_BAHADUR_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000176",
+      "propertyName": "Shop No. 12- C.C - Puran Chand s/o Mehtaab Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6000",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000177",
+      "propertyName": "Shop No. 14 - Kashmiri Lal s/o Jattu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000178",
+      "propertyName": "Shop No. 15 - Chiman Lal s/o Kashmiri Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000179",
+      "propertyName": "Shop No. 16 - Milakh Raj s/oJaimaal Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000180",
+      "propertyName": "Shop No. 17 - Sukhdarshan Lal s/o Fhool Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000181",
+      "propertyName": "Shop No. 18-C.C - Vijay Kumar s/o Gurditta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4840",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000182",
+      "propertyName": "Shop No. 22 - Jai Ram s/o Nand Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000183",
+      "propertyName": "Shop No. 32 - Satanaam Chand s/o Hari Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000184",
+      "propertyName": "Shop No. 34 - Balkishan s/o Nibahu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8364",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000185",
+      "propertyName": "Shop No. 33 - Desh Raj s/o Savan Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000186",
+      "propertyName": "Shop No. 36-C.C - Om Parkash s/o Gurditta Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5857",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000187",
+      "propertyName": "Shop No. 37 - K.B Lal s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000188",
+      "propertyName": "Shop No. 38 - Hansh Raj s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000189",
+      "propertyName": "Shop No. 41 - Gopi Ram s/o Mangal Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000190",
+      "propertyName": "Shop No. 42 - Diwan Chand s/o Mehtaab Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8364",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000191",
+      "propertyName": "Shop No. 43 - Niranjan Dass s/o Bishbhar Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000192",
+      "propertyName": "Shop No. 45 - Chottu Ram s/o Sukh Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000193",
+      "propertyName": "Shop No. 46 - Santu lal s/o Mangli Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000194",
+      "propertyName": "Shop No. 47 - Moti Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000195",
+      "propertyName": "Shop No. 48 - Nathu Ram s/o Bhudh Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000196",
+      "propertyName": "Shop No. 49 - Chajju Ram s/o Nathu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000197",
+      "propertyName": "Shop No. 50-C.C - Kewal Karishan S/o Milakh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000198",
+      "propertyName": "Shop No. 51-C.C - Pardeep kumar s/o Chiman Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000199",
+      "propertyName": "Shop No. 52 - Mohan Singh s/o Kundan Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000200",
+      "propertyName": "Shop No. 53-C.C - Darshan Singh s/o Darbar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8364",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000201",
+      "propertyName": "Shop No. 54 - Ashok Kumar s/o Milakh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000202",
+      "propertyName": "Shop No. 55 - Pawan Kumar s/o Hazoor Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000203",
+      "propertyName": "Shop No. 56 - Satish Kumar s/o Desh Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000204",
+      "propertyName": "Shop No. 57-C.C - Sarwan Kumar s/o Ram Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000205",
+      "propertyName": "Shop No. 58 - Sham Lal s/o Mahitaab Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8364",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000206",
+      "propertyName": "Shop No. 59 - Vedparkash S/o Bhagwan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000207",
+      "propertyName": "Shop No. 60 - Vedparkash S/o Bhagwan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000208",
+      "propertyName": "Shop No. 61 - Om Parkash s/o Nand Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000209",
+      "propertyName": "Shop No. 62-C.C - Jagdish Kumar s/o Ram Rakha",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000210",
+      "propertyName": "Shop No. 63 - Bhagwan Dass S/o Munshi Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000211",
+      "propertyName": "Shop No. 64 - Kulbhushan s/o Murari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000212",
+      "propertyName": "Shop No. 65 - Amrit Lal s/o Hari Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000213",
+      "propertyName": "Shop No. 66-C.C - Rajinder Kumar s/o Gopal Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000214",
+      "propertyName": "Shop No. 67-C.C - Raj Singh s/o Inder Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000215",
+      "propertyName": "Shop No. 68 - Sandeep Kumar s/o kewal Karishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000216",
+      "propertyName": "Shop No. 69 - Omparkash s/o Bhagwan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000217",
+      "propertyName": "Shop No. 70 - Omparkash s/o Bhagwan Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000218",
+      "propertyName": "Shop No. 71 - Pawan Kumar s/o Kishore Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000219",
+      "propertyName": "Shop No. 72 - Manhor Lal Hans Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000220",
+      "propertyName": "Shop No. 73 - Shubash Chander s/o Kharati Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000221",
+      "propertyName": "Shop No. 74 - Shubash Chander s/o Kharati Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000222",
+      "propertyName": "Shop No. 75 - Harbans lal s/o Chanan Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000223",
+      "propertyName": "Shop No. 76 - Kirpal Singh s/o Maan Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000224",
+      "propertyName": "Shop No. 77 - Avnash Chander s/o Khan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000225",
+      "propertyName": "Shop No. 78-C.C - Pritam Singh s/o Sumer Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000226",
+      "propertyName": "Shop No. 79-C.C - Jatinder Kumar s/o Devi Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8369",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000227",
+      "propertyName": "Shop No. 80-C.C - Kewal Krishan s/o Harbans Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000228",
+      "propertyName": "Shop No. 81-C.C - Kewal Krishan s/o Harbans Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000229",
+      "propertyName": "Shop No. 82-C.C - jaswinder Singh s/o Amar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000230",
+      "propertyName": "Shop No. 83-C.C - Bhupinder Singh s/o Amar Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8364",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000231",
+      "propertyName": "Shop No. 84 - Pritpal Singh s/o Har singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000232",
+      "propertyName": "Shop No. 85-C.C - Pritpal Singh s/o Har singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000233",
+      "propertyName": "Shop No. 86-C.C - Pritpal Singh s/o Har singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000234",
+      "propertyName": "Shop No. 87 - Diwan Chand s/o Sunder Dass",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000235",
+      "propertyName": "Shop No. 88 - Omparkash s/o Dulla Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000236",
+      "propertyName": "Shop No. 89-C.C - Hari Ram s/o Bihari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000237",
+      "propertyName": "Shop No. 90 - Mahavir Parshad Mattu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000238",
+      "propertyName": "Shop No. 91 - Shagan Lal s/o Madan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000239",
+      "propertyName": "Shop No. 92 - Prithvi Raj s/o Bhudh Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000240",
+      "propertyName": "Shop No. 93 - Kamaljeet s/o Ganpat Rai",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000241",
+      "propertyName": "Shop No. 94 - Paramjeet Singh s/o Pritam Singh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "12058",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000242",
+      "propertyName": "Shop No. 95 - Mohan Lal s/o Bankka Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000243",
+      "propertyName": "Shop No. 96 - Sadda Lal s/o Ram Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000244",
+      "propertyName": "Shop No. 97 - Jagdish Rai s/o Girdhari Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000245",
+      "propertyName": "Shop No. 98-C.C - Sudesh Kumar s/o Raj kishan",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000246",
+      "propertyName": "Shop No. 101 - Parveen Kumar s/o Giyan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000247",
+      "propertyName": "Shop No. 102 - Ram Chand s/o Ganga Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000248",
+      "propertyName": "Shop No. 103 - Jasraj s/o Ganga Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000249",
+      "propertyName": "Shop No. 104 - Birla Lal s/o Giyan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5786",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000250",
+      "propertyName": "Shop No. 105-C.C - Shatish kumar s/o Dal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000251",
+      "propertyName": "Shop No. 106-C.C - Shatish kumar s/o Dal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000252",
+      "propertyName": "Shop No. 107 - Shivdutt s/o Kesar Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "SAHEED UDHAM SINGH MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6940",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_SAHEED_UDHAM_SINGH_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000253",
+      "propertyName": "Shop No. 1 - Hans Raj s/o Diwan Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 49.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5112",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000254",
+      "propertyName": "Shop No. 2 - Nand Lal s/o Satpal s/o Roshan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 71.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7718",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000255",
+      "propertyName": "Shop No. 3 - Sagariya maal s/o Har narain",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3213",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000256",
+      "propertyName": "Shop No. 5 - Ram Chand s/o Chandu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 36.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3233",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000257",
+      "propertyName": "Shop No. 6 - Ram Niwas s/o Lal Chand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 36.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3214",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000258",
+      "propertyName": "Shop No. 8 - Parbhatti Lal s/o Rashpal Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 31.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3113",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000259",
+      "propertyName": "Shop No. 9 - Nathu Ram s/o Jugata Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6194",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000260",
+      "propertyName": "Shop No. 10 - Satpal s/o Mohan Lal",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3213",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000261",
+      "propertyName": "Shop No. 11 - Roshan Lal S/o Hans Raj",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 64.0,
+      "address": "FARSH NO.14",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3213",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_FARSH_NO14_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000262",
+      "propertyName": "Shop No. 1 - Munshi Ram So Kirpa Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 119.0,
+      "address": "Raja Cinema Road Plot no 1, Near Arorvash Gate",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2522",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RAJA_CINEMA_ROAD_PLOT_NO_1_NEAR_ARORVASH_GATE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000263",
+      "propertyName": "Shop No. 1 - Arpit Sharma So Rakesh Sharma",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 396.0,
+      "address": "Railway Road Shop no 1, Near Partap Bagh Gate",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "59719",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_RAILWAY_ROAD_SHOP_NO_1_NEAR_PARTAP_BAGH_GATE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000264",
+      "propertyName": "Shop No. 1 - Mahant Ram So Pohlu Ram",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 3040.0,
+      "address": "PWD Rest House Plot No1, Near Shaheed Udham Singh Chowk",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11347",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_PWD_REST_HOUSE_PLOT_NO1_NEAR_SHAHEED_UDHAM_SINGH_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000265",
+      "propertyName": "Shop No. 1 - Bhagwan Dass Amar Nath",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 8043.0,
+      "address": "Petrol Pump Abohar Road,",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_PETROL_PUMP_ABOHAR_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-PT2026000266",
+      "propertyName": "Shop No. 1 - Barma Shell",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 2700.0,
+      "address": "Petrol Pump Old Abohari Road, Opposite Old Market Commettie office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": null,
+      "feesPeriodCycle": "ANNUAL",
+      "penaltyType": "Annual",
+      "areaCode": "FZK_PETROL_PUMP_OLD_ABOHARI_ROAD_OPPOSITE_OLD_MARKET_COMMETTIE_OFFICE_RENT_COM"
+    }
+  ]
+}
