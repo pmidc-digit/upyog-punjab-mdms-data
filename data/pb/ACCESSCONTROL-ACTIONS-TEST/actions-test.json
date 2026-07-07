@@ -28431,6 +28431,43 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89010000,
+      "name": "Transactions Summary OBPS Report",
+      "url": "url",
+      "displayName": "Transactions Summary OBPS Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.Transactions Summary OBPS Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/Transactions_Summary_OBPS_Report",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89010001,
+      "name": "Transactions Summary OBPS Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_OBPS_Report/metadata/_get",
+      "displayName": "Transactions Summary OBPS Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89010002,
+      "name": "Transactions Summary OBPS Report",
+      "url": "/report/rainmaker-obpas_bpa/Transactions_Summary_OBPS_Report/_get",
+      "displayName": "Transactions Summary OBPS Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
