@@ -15232,6 +15232,18 @@
     },
     {
       "rolecode": "EMPLOYEE",
+      "actionid": 19202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 19202,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
       "actionid": 1911,
       "actioncode": "",
       "tenantId": "pb"

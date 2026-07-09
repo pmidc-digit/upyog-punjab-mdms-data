@@ -27557,6 +27557,17 @@
       "rightIcon": "",
       "queryParams": ""
     },
+     {
+      "id": 19202,
+      "name": "Search metered connections",
+      "url": "/egov-searcher/meter-search/meteredconnections/_get",
+      "displayName": "Search Metered Connections",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 89001471,
       "name": "Search Challan",
