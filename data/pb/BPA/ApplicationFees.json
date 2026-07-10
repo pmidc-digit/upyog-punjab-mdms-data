@@ -7,7 +7,8 @@
 			"rate": 45.0,
 			"taxHeadCode": "BPA_BUILDING_APPLICATION_FEES",
 			"siteType": [
-				"PROPOSED"
+				"PROPOSED",
+				"ADDITION/ALTERATION"
 			],
 			"occupancyTypes": [
 				"A"
@@ -39,7 +40,8 @@
 			"rate": 90.0,
 			"taxHeadCode": "BPA_BUILDING_APPLICATION_FEES",
 			"siteType": [
-				"PROPOSED"
+				"PROPOSED",
+				"ADDITION/ALTERATION"
 			],
 			"occupancyTypes": [
 				"F",
@@ -82,7 +84,8 @@
 			"rate": 90.0,
 			"taxHeadCode": "BPA_BOUNDARY_WALL_FEES",
 			"siteType": [
-				"PROPOSED"
+				"PROPOSED",
+				"ADDITION/ALTERATION"
 			],
 			"occupancyTypes": [
 				"F",
@@ -126,7 +129,6 @@
 			"taxHeadCode": "BPA_BUILDING_APPLICATION_FEES",
 			"siteType": [
 				"RE-VALIDATION",
-				"ADDITION/ALTERATION",
 				"REVISED"
 			],
 			"occupancyTypes": [
@@ -144,7 +146,6 @@
 			"taxHeadCode": "BPA_BOUNDARY_WALL_FEES",
 			"siteType": [
 				"RE-VALIDATION",
-				"ADDITION/ALTERATION",
 				"REVISED"
 			],
 			"occupancyTypes": [
@@ -162,7 +163,6 @@
 			"taxHeadCode": "BPA_BUILDING_APPLICATION_FEES",
 			"siteType": [
 				"RE-VALIDATION",
-				"ADDITION/ALTERATION",
 				"REVISED"
 			],
 			"occupancyTypes": [
@@ -207,7 +207,6 @@
 			"taxHeadCode": "BPA_BOUNDARY_WALL_FEES",
 			"siteType": [
 				"RE-VALIDATION",
-				"ADDITION/ALTERATION",
 				"REVISED"
 			],
 			"occupancyTypes": [
