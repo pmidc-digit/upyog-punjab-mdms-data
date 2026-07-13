@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.pathankot",
+  "moduleName": "rentAndLease",
+  "TaxRates": [
+    {
+      "id": "1",
+      "taxType": "RL_CGST_FEE",
+      "type": "%",
+      "isActive": true,
+      "amount": 9
+    },
+    {
+      "id": "2",
+      "taxType": "RL_SGST_FEE",
+      "type": "%",
+      "isActive": true,
+      "amount": 9
+    },
+    {
+      "id": "3",
+      "taxType": "RL_COWCESS_FEE",
+      "type": "value",
+      "isActive": true,
+      "amount": 0
+    }
+  ]
+}

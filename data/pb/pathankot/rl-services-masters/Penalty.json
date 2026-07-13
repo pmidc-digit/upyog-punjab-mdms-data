@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.pathankot",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "MONTHLY",
+      "rate": 10,
+      "minAmount": 0,
+      "applicableAfterDays": 10,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    }
+  ]
+}
