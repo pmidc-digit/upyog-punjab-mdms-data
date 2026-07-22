@@ -8782,6 +8782,48 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+	 {
+      "category": "TAX",
+      "service": "RT.Use_Of_Land_And_Occupation_Charges",
+      "name": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_TAX",
+      "code": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.Use_Of_Land_And_Occupation_Charges",
+      "name": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_FEE",
+      "code": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+
+
+  {
+      "category": "TAX",
+      "service": "RT.Use_Of_Land_And_Occupation_Charges",
+      "name": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_CGST",
+      "code": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.Use_Of_Land_And_Occupation_Charges",
+      "name": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_SGST",
+      "code": "RT.USE_OF_LAND_AND_OCCUPATION_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
