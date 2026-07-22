@@ -892,6 +892,10 @@
     {
       "format": "PB-REC-RL-[fy:yyyy-yy]-[SEQ_EG_RL_RECEIPT_NUMBER_[TENANT_ID]]",
       "idname": "rl-services.receipt.id"
+    },
+	{
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "rt.use_Of_Land_And_Occupation_Charges.receipt.id"
     }
   ]
 }
