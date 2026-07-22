@@ -70400,6 +70400,31 @@
       "actionid": 89010000,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 237812,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 237812,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 237812,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+
+   {
+      "rolecode": "MISC_REC_CANCEL",
+      "actionid": 237812,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
