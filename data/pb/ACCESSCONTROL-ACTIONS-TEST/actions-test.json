@@ -28627,6 +28627,33 @@
       "serviceCode": "OBPASLAYOUTREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 237811,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/RT.Use_Of_Land_And_Occupation_Charges/_workflow",
+      "displayName": "Use Of Land And Occupation Charges workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+
+
+
+   {
+      "id": 237812,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Use_Of_Land_And_Occupation_Charges/_search",
+      "displayName": "Use Of Land And Occupation Charges search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
