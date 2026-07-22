@@ -244,9 +244,25 @@
 		"code": "SITEPHOTOGRAPH_ONE",
 		"active": true
 	},
-  {
+    {
 		"code": "SITEPHOTOGRAPH_TWO",
 		"active": true
-	}
+	},
+      {
+        "code": "APPL.IDENTITYPROOF",
+        "active": true
+      },
+      {
+        "code": "APPL.ADDRESSPROOF",
+        "active": true
+      },
+      {
+        "code": "APPL.LTR",
+        "active": true
+      },
+      {
+        "code": "APPL.TDP",
+        "active": true
+      }
   ]
 }
