@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.urmartanda",
+  "moduleName": "rentAndLease",
+  "AllotmentType": [
+    {
+      "id": "1",
+      "code": "RL_RENT",
+      "name": "rent",
+      "isActive": true
+    }
+  ]
+}

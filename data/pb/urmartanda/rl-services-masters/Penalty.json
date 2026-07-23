@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.urmartanda",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "MONTHLY",
+      "rate": 18,
+      "minAmount": 100,
+      "applicableAfterDays": 15,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    }
+  ]
+}

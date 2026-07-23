@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.urmartanda",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Urmar Tanda - Near Bus Stand Tanda",
+      "code": "UR_NEAR_BUS_STAND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Near MC Office",
+      "code": "UR_NEAR_MC_OFFICE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Near Main Bazar Urmar",
+      "code": "UR_NEAR_MAIN_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Near MC Tubewell Darapur",
+      "code": "UR_NEAR_MC_TUBEWELL_DARAPUR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Main Bazar Urmar",
+      "code": "UR_MAIN_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Mani Bazar Tanda",
+      "code": "UR_MANI_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Urmar Tanda - Near Railway Station Tanda",
+      "code": "UR_NEAR_RAILWAY_STATION_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
