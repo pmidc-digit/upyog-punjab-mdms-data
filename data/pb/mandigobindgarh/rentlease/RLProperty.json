@@ -1,0 +1,5231 @@
+{
+  "tenantId": "pb.mandigobindgarh",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-MG20260000001",
+      "propertyName": "Unit 1 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3721",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000002",
+      "propertyName": "Unit 2 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 31.17,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3721",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000003",
+      "propertyName": "Unit 3 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2702",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000004",
+      "propertyName": "Unit 4 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2238",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000005",
+      "propertyName": "Unit 5 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2686",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000006",
+      "propertyName": "Unit 6 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 30.24,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2945",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000007",
+      "propertyName": "Unit 19 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1478",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000008",
+      "propertyName": "Unit 20 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1428",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000009",
+      "propertyName": "Unit 21 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1195",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000010",
+      "propertyName": "Unit 11 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "770",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000011",
+      "propertyName": "Unit 12 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 42.61,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5885",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000012",
+      "propertyName": "Unit 13 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 42.61,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "966",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000013",
+      "propertyName": "Unit 14/15 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 84.0,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3208",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000014",
+      "propertyName": "Unit 17 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 35.72,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "800",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000015",
+      "propertyName": "Unit 18 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "672",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000016",
+      "propertyName": "Unit 19 - OPP GIRLS COLLAGE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 22.3,
+      "address": "OPP GIRLS COLLAGE",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "642",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_GIRLS_COLLAGE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000017",
+      "propertyName": "Unit 20 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 34.87,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1453",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000018",
+      "propertyName": "Unit 21 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 37.84,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "642",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000019",
+      "propertyName": "Unit 22 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 36.14,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1288",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000020",
+      "propertyName": "Unit 23 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "642",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000021",
+      "propertyName": "Unit 24 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 35.87,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "642",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000022",
+      "propertyName": "Unit 25 - OPP DR KAUSHAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 35.87,
+      "address": "OPP DR KAUSHAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "822",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_DR_KAUSHAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000023",
+      "propertyName": "Unit 1 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000024",
+      "propertyName": "Unit 2 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000025",
+      "propertyName": "Unit 3 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1236",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000026",
+      "propertyName": "Unit 4 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1778",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000027",
+      "propertyName": "Unit 5 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1146",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000028",
+      "propertyName": "Unit 6 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000029",
+      "propertyName": "Unit 7 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000030",
+      "propertyName": "Unit 8 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000031",
+      "propertyName": "Unit 9 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000032",
+      "propertyName": "Unit 10 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000033",
+      "propertyName": "Unit 11 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1478",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000034",
+      "propertyName": "Unit 12 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "964",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000035",
+      "propertyName": "Unit 13 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "964",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000036",
+      "propertyName": "Unit 14 - OUT SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "OUT SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OUT_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000037",
+      "propertyName": "Unit 37 - NEAR HOSPITAL",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "NEAR HOSPITAL",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3286",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_NEAR_HOSPITAL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000038",
+      "propertyName": "Unit 38 - LIGHT CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0,
+      "address": "LIGHT CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1608",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_LIGHT_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000039",
+      "propertyName": "Unit 1 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1344",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000040",
+      "propertyName": "Unit 2 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1121",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000041",
+      "propertyName": "Unit 4 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3612",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000042",
+      "propertyName": "Unit 5 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7344",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000043",
+      "propertyName": "Unit 6 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1219",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000044",
+      "propertyName": "Unit 7 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1159",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000045",
+      "propertyName": "Unit 8 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1159",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000046",
+      "propertyName": "Unit 9 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1159",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000047",
+      "propertyName": "Unit 10 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1159",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000048",
+      "propertyName": "Unit 11 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1996",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000049",
+      "propertyName": "Unit 12 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1670",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000050",
+      "propertyName": "Unit 13 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1609",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000051",
+      "propertyName": "Unit 14 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1706",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000052",
+      "propertyName": "Unit 15 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1882",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000053",
+      "propertyName": "Unit 16 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1166",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000054",
+      "propertyName": "Unit 17 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1416",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000055",
+      "propertyName": "Unit 18 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1480",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000056",
+      "propertyName": "Unit 19 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2189",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000057",
+      "propertyName": "Unit 20 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3004",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000058",
+      "propertyName": "Unit 21 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1555",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000059",
+      "propertyName": "Unit 22 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1775",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000060",
+      "propertyName": "Unit 23 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1916",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000061",
+      "propertyName": "Unit 24 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2498",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000062",
+      "propertyName": "Unit 25 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1608",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000063",
+      "propertyName": "Unit 26 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1994",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000064",
+      "propertyName": "Unit 27 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000065",
+      "propertyName": "Unit 28 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1117",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000066",
+      "propertyName": "Unit 29 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000067",
+      "propertyName": "Unit 30 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000068",
+      "propertyName": "Unit 31 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000069",
+      "propertyName": "Unit 32 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1296",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000070",
+      "propertyName": "Unit 33 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1117",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000071",
+      "propertyName": "Unit 34 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1142",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000072",
+      "propertyName": "Unit 35 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000073",
+      "propertyName": "Unit 36 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1117",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000074",
+      "propertyName": "Unit 37 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4032",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000075",
+      "propertyName": "Unit 38 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 54.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3287",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000076",
+      "propertyName": "Unit 39 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 28.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3944",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000077",
+      "propertyName": "Unit 40 - IN SIDE GOAL MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 28.0,
+      "address": "IN SIDE GOAL MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3658",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_SIDE_GOAL_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000078",
+      "propertyName": "Unit 1 - OPP KRISHNA MANDIR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 24.0,
+      "address": "OPP KRISHNA MANDIR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1927",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_KRISHNA_MANDIR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000079",
+      "propertyName": "Unit 2 - OPP KRISHNA MANDIR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 24.0,
+      "address": "OPP KRISHNA MANDIR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2822",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_KRISHNA_MANDIR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000080",
+      "propertyName": "Unit 3 - OPP KRISHNA MANDIR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 24.0,
+      "address": "OPP KRISHNA MANDIR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2255",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_KRISHNA_MANDIR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000081",
+      "propertyName": "Unit 4 - OPP KRISHNA MANDIR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 24.0,
+      "address": "OPP KRISHNA MANDIR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2256",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_KRISHNA_MANDIR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000082",
+      "propertyName": "Unit 5 - OPP KRISHNA MANDIR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 24.0,
+      "address": "OPP KRISHNA MANDIR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1415",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPP_KRISHNA_MANDIR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000083",
+      "propertyName": "Unit 1 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000084",
+      "propertyName": "Unit 2 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000085",
+      "propertyName": "Unit 3 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1548",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000086",
+      "propertyName": "Unit 4 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "984",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000087",
+      "propertyName": "Unit 5 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1175",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000088",
+      "propertyName": "Unit 7 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000089",
+      "propertyName": "Unit 8 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000090",
+      "propertyName": "Unit 9 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1548",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000091",
+      "propertyName": "Unit 10 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000092",
+      "propertyName": "Unit 11 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000093",
+      "propertyName": "Unit 12 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000094",
+      "propertyName": "Unit 13 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000095",
+      "propertyName": "Unit 14 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.6,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000096",
+      "propertyName": "Unit 15 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1553",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000097",
+      "propertyName": "Unit 16 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1142",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000098",
+      "propertyName": "Unit 17 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1142",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000099",
+      "propertyName": "Unit 18 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000100",
+      "propertyName": "Unit 19 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000101",
+      "propertyName": "Unit 20 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000102",
+      "propertyName": "Unit 21 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1550",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000103",
+      "propertyName": "Unit 22 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1550",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000104",
+      "propertyName": "Unit 23 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000105",
+      "propertyName": "Unit 24 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1181",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000106",
+      "propertyName": "Unit 25 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000107",
+      "propertyName": "Unit 26 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000108",
+      "propertyName": "Unit 27 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000109",
+      "propertyName": "Unit 28 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1340",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000110",
+      "propertyName": "Unit 29 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000111",
+      "propertyName": "Unit 30 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1708",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000112",
+      "propertyName": "Unit 31 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1621",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000113",
+      "propertyName": "Unit 32 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 21.1,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000114",
+      "propertyName": "Unit 33 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000115",
+      "propertyName": "Unit 34 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000116",
+      "propertyName": "Unit 36 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1708",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000117",
+      "propertyName": "Unit 37 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1417",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000118",
+      "propertyName": "Unit 38 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000119",
+      "propertyName": "Unit 39 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1616",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000120",
+      "propertyName": "Unit 40 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000121",
+      "propertyName": "Unit 41 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000122",
+      "propertyName": "Unit 42 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 19.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000123",
+      "propertyName": "Unit 43 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 18.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1426",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000124",
+      "propertyName": "Unit 44 - RAILWAY ROAD",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 18.0,
+      "address": "RAILWAY ROAD",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10034",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_RAILWAY_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000125",
+      "propertyName": "Unit 1 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 5.11,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000126",
+      "propertyName": "Unit 2 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 5.66,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000127",
+      "propertyName": "Unit 3 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 6.22,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000128",
+      "propertyName": "Unit 4 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 6.77,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000129",
+      "propertyName": "Unit 5 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 7.33,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000130",
+      "propertyName": "Unit 6 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 7.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000131",
+      "propertyName": "Unit 7 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 8.66,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000132",
+      "propertyName": "Unit 8 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 8.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000133",
+      "propertyName": "Unit 9 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.44,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1031",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000134",
+      "propertyName": "Unit 10 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 89.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1373",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000135",
+      "propertyName": "Unit 11 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 89.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000136",
+      "propertyName": "Unit 12 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 10.44,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000137",
+      "propertyName": "Unit 13 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 10.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2573",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000138",
+      "propertyName": "Unit 14 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.33,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000139",
+      "propertyName": "Unit 15 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.88,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000140",
+      "propertyName": "Unit 16 - MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 8.44,
+      "address": "MAIN BAZAR OPP CHUHAR RAM HALWAI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "900",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MAIN_BAZAR_OPP_CHUHAR_RAM_HALWAI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000141",
+      "propertyName": "Unit 1 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2197",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000142",
+      "propertyName": "Unit 4 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2255",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000143",
+      "propertyName": "Unit 5 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2891",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000144",
+      "propertyName": "Unit 6 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3107",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000145",
+      "propertyName": "Unit 8 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3481",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000146",
+      "propertyName": "Unit 10 - MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.5,
+      "address": "MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2765",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000147",
+      "propertyName": "Unit 1 - OPP.ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1930",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_OPPROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000148",
+      "propertyName": "Unit 2 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2510",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000149",
+      "propertyName": "Unit 3 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.63,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2509",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000150",
+      "propertyName": "Unit 4 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2093",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000151",
+      "propertyName": "Unit 5 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2125",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000152",
+      "propertyName": "Unit 6 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2455",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000153",
+      "propertyName": "Unit 7 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2455",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000154",
+      "propertyName": "Unit 8 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2521",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000155",
+      "propertyName": "Unit 9 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2256",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000156",
+      "propertyName": "Unit 10 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.9,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2256",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000157",
+      "propertyName": "Unit 11 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2299",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000158",
+      "propertyName": "Unit 12 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2454",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000159",
+      "propertyName": "Unit 13 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 27.3,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2512",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000160",
+      "propertyName": "Unit 14 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8400",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000161",
+      "propertyName": "Unit 15 - ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6048",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000162",
+      "propertyName": "Unit 14 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1450",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000163",
+      "propertyName": "Unit 15 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1366",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000164",
+      "propertyName": "Unit 16 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1365",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000165",
+      "propertyName": "Unit 17 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1450",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000166",
+      "propertyName": "Unit 18 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1366",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000167",
+      "propertyName": "Unit 19 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1391",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000168",
+      "propertyName": "Unit 20 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1453",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000169",
+      "propertyName": "Unit 21 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1618",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000170",
+      "propertyName": "Unit 22 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "960",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000171",
+      "propertyName": "Unit 23 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5676",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000172",
+      "propertyName": "Unit 24 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3348",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000173",
+      "propertyName": "Unit 25 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3566",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000174",
+      "propertyName": "Unit 28 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3787",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000175",
+      "propertyName": "Unit 29 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3787",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000176",
+      "propertyName": "Unit 30 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3744",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000177",
+      "propertyName": "Unit 31 - BEHIND OUT DOOR STUDIUM",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "BEHIND OUT DOOR STUDIUM",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3874",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OUT_DOOR_STUDIUM_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000178",
+      "propertyName": "Unit 1 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2858",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000179",
+      "propertyName": "Unit 2 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1972",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000180",
+      "propertyName": "Unit 3 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1972",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000181",
+      "propertyName": "Unit 4 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2497",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000182",
+      "propertyName": "Unit 5 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4478",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000183",
+      "propertyName": "Unit 6 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2672",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000184",
+      "propertyName": "Unit 7 - MINI MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 29.0,
+      "address": "MINI MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4628",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_MINI_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000185",
+      "propertyName": "Unit 16 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2987",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000186",
+      "propertyName": "Unit 17 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2239",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000187",
+      "propertyName": "Unit 18 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2239",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000188",
+      "propertyName": "Unit 19 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2239",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000189",
+      "propertyName": "Unit 20 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000190",
+      "propertyName": "Unit 22 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2239",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000191",
+      "propertyName": "Unit 24 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2539",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000192",
+      "propertyName": "Unit 26 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3629",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000193",
+      "propertyName": "Unit 27 - FIRST FLOOR OPP ROTARY BHAWAN",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "FIRST FLOOR OPP ROTARY BHAWAN",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2448",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_FIRST_FLOOR_OPP_ROTARY_BHAWAN_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000194",
+      "propertyName": "Unit 1 - BEHIND BUS STAND NEAR MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND NEAR MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5270",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_NEAR_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000195",
+      "propertyName": "Unit 2 - BEHIND BUS STAND NEAR MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND NEAR MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4832",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_NEAR_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000196",
+      "propertyName": "Unit 3 - BEHIND BUS STAND NEAR MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND NEAR MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4832",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_NEAR_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000197",
+      "propertyName": "Unit 4 - BEHIND BUS STAND NEAR MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND NEAR MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4678",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_NEAR_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000198",
+      "propertyName": "Unit 4 - CANTEEN LADIES  & HEALTH BEAUTY PARLOR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 50.0,
+      "address": "CANTEEN LADIES  & HEALTH BEAUTY PARLOR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3882",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_CANTEEN_LADIES_HEALTH_BEAUTY_PARLOR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000199",
+      "propertyName": "Unit 1 - IN FRONT BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "IN FRONT BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2599",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_FRONT_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000200",
+      "propertyName": "Unit 2 - IN FRONT BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "IN FRONT BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2508",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_FRONT_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000201",
+      "propertyName": "Unit 3 - IN FRONT BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "IN FRONT BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2436",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_FRONT_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000202",
+      "propertyName": "Unit 2 - IN FRONT OF OLD BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.5,
+      "address": "IN FRONT OF OLD BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4927",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_FRONT_OF_OLD_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000203",
+      "propertyName": "Unit 3 - IN FRONT OF OLD BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.5,
+      "address": "IN FRONT OF OLD BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4927",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_IN_FRONT_OF_OLD_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000204",
+      "propertyName": "Unit 1 - BEHIND OLD BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND OLD BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1940",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_OLD_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000205",
+      "propertyName": "Unit 2 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1940",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000206",
+      "propertyName": "Unit 3 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1940",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000207",
+      "propertyName": "Unit 4 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1943",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000208",
+      "propertyName": "Unit 5 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1772",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000209",
+      "propertyName": "Unit 6 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1866",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000210",
+      "propertyName": "Unit 7 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1940",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000211",
+      "propertyName": "Unit 8 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6420",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000212",
+      "propertyName": "Unit 10 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5077",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000213",
+      "propertyName": "Unit 11 - BEHIND BUS STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "BEHIND BUS STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6271",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BEHIND_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000214",
+      "propertyName": "Unit 1 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 11.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000215",
+      "propertyName": "Unit 2 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000216",
+      "propertyName": "Unit 3 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10930",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000217",
+      "propertyName": "Unit 4 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000218",
+      "propertyName": "Unit 6 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4032",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000219",
+      "propertyName": "Unit 7 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000220",
+      "propertyName": "Unit 8 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000221",
+      "propertyName": "Unit 9 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000222",
+      "propertyName": "Unit 10 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000223",
+      "propertyName": "Unit 11 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000224",
+      "propertyName": "Unit 12 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000225",
+      "propertyName": "Unit 13 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000226",
+      "propertyName": "Unit 14 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000227",
+      "propertyName": "Unit 15 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000228",
+      "propertyName": "Unit 16 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000229",
+      "propertyName": "Unit 17 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000230",
+      "propertyName": "Unit 18 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000231",
+      "propertyName": "Unit 19 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000232",
+      "propertyName": "Unit 20 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000233",
+      "propertyName": "Unit 21 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000234",
+      "propertyName": "Unit 22 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000235",
+      "propertyName": "Unit 23 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000236",
+      "propertyName": "Unit 24 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000237",
+      "propertyName": "Unit 25 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000238",
+      "propertyName": "Unit 26 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000239",
+      "propertyName": "Unit 27 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000240",
+      "propertyName": "Unit 28 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000241",
+      "propertyName": "Unit 29 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000242",
+      "propertyName": "Unit 30 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000243",
+      "propertyName": "Unit 31 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000244",
+      "propertyName": "Unit 32 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000245",
+      "propertyName": "Unit 33 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000246",
+      "propertyName": "Unit 34 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000247",
+      "propertyName": "Unit 35 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000248",
+      "propertyName": "Unit 36 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000249",
+      "propertyName": "Unit 37 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000250",
+      "propertyName": "Unit 38 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000251",
+      "propertyName": "Unit 39 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000252",
+      "propertyName": "Unit 40 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000253",
+      "propertyName": "Unit 41 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000254",
+      "propertyName": "Unit 42 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000255",
+      "propertyName": "Unit 43 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000256",
+      "propertyName": "Unit 44 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000257",
+      "propertyName": "Unit 45 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000258",
+      "propertyName": "Unit 46 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000259",
+      "propertyName": "Unit 47 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000260",
+      "propertyName": "Unit 48 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000261",
+      "propertyName": "Unit 49 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000262",
+      "propertyName": "Unit 50 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "719",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000263",
+      "propertyName": "Unit 51 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2511",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000264",
+      "propertyName": "Unit 53 - BOOTH SABZI MANDI",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 9.0,
+      "address": "BOOTH SABZI MANDI",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1943",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_BOOTH_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000265",
+      "propertyName": "Unit 3 - TRUCK STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "TRUCK STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_TRUCK_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000266",
+      "propertyName": "Unit 4 - TRUCK STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "TRUCK STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_TRUCK_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000267",
+      "propertyName": "Unit 5 - TRUCK STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "TRUCK STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_TRUCK_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000268",
+      "propertyName": "Unit 15 - TRUCK STAND",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.0,
+      "address": "TRUCK STAND",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3508",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_TRUCK_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000269",
+      "propertyName": "Unit 15 - NEW MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.66,
+      "address": "NEW MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5760",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_NEW_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000270",
+      "propertyName": "Unit 17 - NEW MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.66,
+      "address": "NEW MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6048",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_NEW_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000271",
+      "propertyName": "Unit 18 - NEW MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.66,
+      "address": "NEW MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5760",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_NEW_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000272",
+      "propertyName": "Unit 21 - NEW MEAT MARKIT",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 26.66,
+      "address": "NEW MEAT MARKIT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5760",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_NEW_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000273",
+      "propertyName": "Unit 1 - LAND RENT/PROPERTIES",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 3002.0,
+      "address": "LAND RENT/PROPERTIES",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "370261",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_LAND_RENT_PROPERTIES_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000274",
+      "propertyName": "Unit 2 - LAND RENT/PROPERTIES",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 467.8,
+      "address": "LAND RENT/PROPERTIES",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "33953",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_LAND_RENT_PROPERTIES_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MG20260000275",
+      "propertyName": "Unit 3 - LAND RENT/PROPERTIES",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 3750.0,
+      "address": "LAND RENT/PROPERTIES",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "62208",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MG_LAND_RENT_PROPERTIES_RENT_COM"
+    }
+  ]
+}
