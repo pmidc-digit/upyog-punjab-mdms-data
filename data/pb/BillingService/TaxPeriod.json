@@ -2846,7 +2846,7 @@
     "toDate": 1522540799000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2017-18"
   },
   {
@@ -2854,7 +2854,7 @@
     "toDate": 1554076799000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2018-19"
   },
   {
@@ -2862,7 +2862,7 @@
     "toDate": 1585699199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2019-20"
   },
   {
@@ -2870,7 +2870,7 @@
     "toDate": 1617235199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2020-21"
   },
   {
@@ -2878,7 +2878,7 @@
     "toDate": 1648771199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2021-22"
   },
   {
@@ -2886,7 +2886,7 @@
     "toDate": 1680307199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2022-23"
   },
   {
@@ -2894,7 +2894,7 @@
     "toDate": 1711929599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2023-24"
   },
   {
@@ -2902,15 +2902,15 @@
     "toDate": 1743465599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2024-25"
   },
-    {
+  {
     "fromDate": 1743465600000,
     "toDate": 1775001599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY1",
-    "code": "PAY1_LUM_SUM",
+    "code": "CLU_PAY1_LUM_SUM",
     "financialYear": "2025-26"
   },
    {
@@ -2918,7 +2918,7 @@
     "toDate": 1522540799000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2017-18"
   },
   {
@@ -2926,7 +2926,7 @@
     "toDate": 1554076799000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2018-19"
   },
   {
@@ -2934,7 +2934,7 @@
     "toDate": 1585699199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2019-20"
   },
   {
@@ -2942,7 +2942,7 @@
     "toDate": 1617235199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2020-21"
   },
   {
@@ -2950,7 +2950,7 @@
     "toDate": 1648771199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2021-22"
   },
   {
@@ -2958,7 +2958,7 @@
     "toDate": 1680307199000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2022-23"
   },
   {
@@ -2966,7 +2966,7 @@
     "toDate": 1711929599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2023-24"
   },
   {
@@ -2974,7 +2974,7 @@
     "toDate": 1743465599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2024-25"
   },
   {
@@ -2982,7 +2982,7 @@
     "toDate": 1775001599000,
     "periodCycle": "ANNUAL",
     "service": "CLU.PAY2",
-    "code": "PAY2_LUM_SUM",
+    "code": "CLU_PAY2_LUM_SUM",
     "financialYear": "2025-26"
   },
     {
@@ -4411,6 +4411,150 @@
       "code": "RL-2025-26-Q4",
       "financialYear": "2025-26"
     },
+    {
+    "fromDate": 1491004800000,
+    "toDate": 1522540799000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2017-18"
+  },
+  {
+    "fromDate": 1522540800000,
+    "toDate": 1554076799000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2018-19"
+  },
+  {
+    "fromDate": 1554076800000,
+    "toDate": 1585699199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2019-20"
+  },
+  {
+    "fromDate": 1585699200000,
+    "toDate": 1617235199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2020-21"
+  },
+  {
+    "fromDate": 1617235200000,
+    "toDate": 1648771199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2021-22"
+  },
+  {
+    "fromDate": 1648771200000,
+    "toDate": 1680307199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2022-23"
+  },
+  {
+    "fromDate": 1680307200000,
+    "toDate": 1711929599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2023-24"
+  },
+  {
+    "fromDate": 1711929600000,
+    "toDate": 1743465599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2024-25"
+  },
+  {
+    "fromDate": 1743465600000,
+    "toDate": 1775001599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY1",
+    "code": "LAYOUT_PAY1_LUM_SUM",
+    "financialYear": "2025-26"
+  },
+   {
+    "fromDate": 1491004800000,
+    "toDate": 1522540799000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2017-18"
+  },
+  {
+    "fromDate": 1522540800000,
+    "toDate": 1554076799000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2018-19"
+  },
+  {
+    "fromDate": 1554076800000,
+    "toDate": 1585699199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2019-20"
+  },
+  {
+    "fromDate": 1585699200000,
+    "toDate": 1617235199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2020-21"
+  },
+  {
+    "fromDate": 1617235200000,
+    "toDate": 1648771199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2021-22"
+  },
+  {
+    "fromDate": 1648771200000,
+    "toDate": 1680307199000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2022-23"
+  },
+  {
+    "fromDate": 1680307200000,
+    "toDate": 1711929599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2023-24"
+  },
+  {
+    "fromDate": 1711929600000,
+    "toDate": 1743465599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2024-25"
+  },
+  {
+    "fromDate": 1743465600000,
+    "toDate": 1775001599000,
+    "periodCycle": "ANNUAL",
+    "service": "LAYOUT.PAY2",
+    "code": "LAYOUT_PAY2_LUM_SUM",
+    "financialYear": "2025-26"
+  },
     {
       "fromDate": 1743465600000,
       "toDate": 1775001599000,

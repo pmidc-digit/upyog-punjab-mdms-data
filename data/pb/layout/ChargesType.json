@@ -201,6 +201,166 @@
 
 				}
 			]
-		}
+		},
+        {
+          "code": "105",
+          "name": "LAYOUT",
+          "type": "PAY1",
+          "businessService": "LAYOUT.PAY1",
+          "fromFY": "2017-18",
+          "startingDate": 1491004800000,
+          "endingDate": 1522540799000,
+          "active": true,
+          "Charges": [
+             {
+               "name": "LAYOUT PAY 1 LUM SUM",
+               "fee": 0.00,
+               "rate": 0.00,
+               "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+               "applicable": true
+
+             }
+          ]
+        },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2018-19",
+      "startingDate": 1522540800000,
+      "endingDate": 1554076799000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2019-20",
+      "startingDate": 1554076800000,
+      "endingDate": 1585699199000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2020-21",
+      "startingDate": 1585699200000,
+      "endingDate": 1617235199000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2021-22",
+      "startingDate": 1617235200000,
+      "endingDate": 1648771199000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2022-23",
+      "startingDate": 1648771200000,
+      "endingDate": 1680307199000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2023-24",
+      "startingDate": 1680307200000,
+      "endingDate": 1711929599000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    },
+    {
+      "code": "105",
+      "name": "LAYOUT",
+      "type": "PAY1",
+      "businessService": "LAYOUT.PAY1",
+      "fromFY": "2024-25",
+      "startingDate": 1711929600000,
+      "endingDate": 1743465599000,
+      "active": true,
+      "Charges": [
+        {
+          "name": "LAYOUT PAY 1 LUM SUM",
+          "fee": 0.00,
+          "rate": 0.00,
+          "taxHeadCode": "LAYOUT_PAY_1_LUM_SUM",
+          "applicable": true
+
+        }
+      ]
+    }
 	]
 }
