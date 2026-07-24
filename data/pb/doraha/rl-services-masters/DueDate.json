@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb.doraha",
+  "moduleName": "rl-services-masters",
+  "DueDate": [
+    {
+      "billingCycle": "MONTHLY",
+      "dueDay": 15
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "dueDay": 30
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "dueDay": 45
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "dueDay": 60
+    }
+  ]
+}
