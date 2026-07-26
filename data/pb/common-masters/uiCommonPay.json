@@ -567,7 +567,7 @@
     {
       "code": "LAYOUT.PAY2",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
-      "receiptKey": "layout-receiptsecond",
+      "receiptKey": "layoutreceipt-second",
       "billKey": "consolidatedbill",
       "arrears": true,
       "buttons": [
