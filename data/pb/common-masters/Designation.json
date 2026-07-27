@@ -841,6 +841,18 @@
       "description": "Project Manager",
       "code": "PM",
       "active": true
-    }
+    },
+	{
+	  "name": "Chief Town Planner",
+	  "description": "Chief Town Planner",
+	  "code": "DESIG_134",
+	  "active": true
+	},
+	{
+	  "name": "Additional Deputy Commissioner",
+	  "description": "Additional Deputy Commissioner",
+	  "code": "DESIG_137",
+	  "active": true
+	}
   ]
 }
