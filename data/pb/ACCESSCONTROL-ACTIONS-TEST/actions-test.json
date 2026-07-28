@@ -24590,6 +24590,24 @@
       "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
     },
     {
+      "id": 2338290,
+      "name": "Search and Pay",
+      "url": "digit-ui-card",
+      "displayName": "Garbage Collection",
+      "orderNumber": 3,
+      "parentModule": "GarbageCollection",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/garbagecollection/bill-genie",
+      "leftIcon": "MCollectIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/garbagecollection-home"
+    },
+    {
       "id": 89008923,
       "name": "GarbageCollection Inbox",
       "url": "url",
@@ -27557,7 +27575,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-     {
+    {
       "id": 19202,
       "name": "Search metered connections",
       "url": "/egov-searcher/meter-search/meteredconnections/_get",
@@ -28641,9 +28659,7 @@
       "path": ""
     },
 
-
-
-   {
+    {
       "id": 237812,
       "name": "DEFAULT Payment search",
       "url": "/collection-services/payments/RT.Use_Of_Land_And_Occupation_Charges/_search",

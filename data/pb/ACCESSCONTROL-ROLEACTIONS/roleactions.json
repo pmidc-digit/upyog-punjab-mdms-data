@@ -67605,6 +67605,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2338290,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 89008923,
       "actioncode": "",
@@ -70173,7 +70179,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-{
+    {
       "rolecode": "CITIZEN",
       "actionid": 89010005,
       "actioncode": "",
@@ -70420,7 +70426,7 @@
       "tenantId": "pb"
     },
 
-   {
+    {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 237812,
       "actioncode": "",
