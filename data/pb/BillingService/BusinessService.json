@@ -9,7 +9,7 @@
         ""
       ],
       "partPaymentAllowed": true,
-      "isAdvanceAllowed": false,
+      "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "cancelReceipt": true,
