@@ -28706,6 +28706,41 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 237813,
+      "name": "UC_SEARCHANDPAY_LABEL",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 4,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/search",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+    },
+    {
+      "id": 237814,
+      "name": "Search and Pay",
+      "url": "digit-ui-card",
+      "displayName": "Search and Pay",
+      "orderNumber": 18,
+      "parentModule": "PT_SIDEBAR",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/search",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt/search"
     }
   ]
 }
