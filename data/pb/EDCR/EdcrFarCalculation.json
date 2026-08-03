@@ -1792,7 +1792,56 @@
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 4.5,
-					"frontSetBack": 3.0,
+					"frontSetBack": [
+						{
+							"height": 10,
+							"setback": 3
+						},
+						{
+							"height": 15,
+							"setback": 5
+						},
+						{
+							"height": 18,
+							"setback": 6
+						},
+						{
+							"height": 21,
+							"setback": 7
+						},
+						{
+							"height": 24,
+							"setback": 8
+						},
+						{
+							"height": 27,
+							"setback": 9
+						},
+						{
+							"height": 30,
+							"setback": 10
+						},
+						{
+							"height": 35,
+							"setback": 11
+						},
+						{
+							"height": 40,
+							"setback": 12
+						},
+						{
+							"height": 45,
+							"setback": 13
+						},
+						{
+							"height": 50,
+							"setback": 14
+						},
+						{
+							"height": 55,
+							"setback": 16
+						}
+					],
 					"rearSetBack": 3.0,
 					"sideSetBack1": 2.0,
 					"sideSetBack2": 2.0,
