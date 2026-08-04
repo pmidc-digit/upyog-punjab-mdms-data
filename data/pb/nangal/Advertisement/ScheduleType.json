@@ -1,0 +1,12 @@
+{
+    "tenantId": "pb.nangal",
+    "moduleName": "Advertisement",
+    "ScheduleType": [
+      {
+        "frequency": "Weekly"
+      },
+      {
+        "frequency": "Monthly"
+      }  
+    ]
+  }

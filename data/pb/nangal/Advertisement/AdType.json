@@ -1,0 +1,11 @@
+{
+    "tenantId": "pb.nangal",
+    "moduleName": "Advertisement",
+    "AdType": [
+      {
+        "name": "Hoarding Board",
+        "code": "HOARDING_BOARD",
+        "active": true
+      }
+    ]
+  }

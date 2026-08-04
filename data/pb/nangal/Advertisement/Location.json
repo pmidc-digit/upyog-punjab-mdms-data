@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.nangal",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Anywhere",
+      "code": "ANYWHERE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.386,
+        "longitude": 76.373
+      }
+    }
+  ]
+}
