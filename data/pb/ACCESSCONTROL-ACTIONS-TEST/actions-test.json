@@ -21593,7 +21593,7 @@
 	{
       "id": 8900097,
       "name": "Search Water Bill",
-      "url": "/egov-searcher/bill-genie/wsbatchbilling_summary/_get?",
+      "url": "/egov-searcher/bill-genie/wsbatchbilling_summary/_get",
       "displayName": "Search Batch Water Bill",
       "orderNumber": 1,
       "enabled": false,
