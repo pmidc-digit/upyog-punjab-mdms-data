@@ -70617,6 +70617,54 @@
       "actionid": 89000922,
       "actioncode": "",
       "tenantId": "pb"
+    },
+     {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 89000919,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
