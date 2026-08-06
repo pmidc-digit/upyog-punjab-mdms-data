@@ -33,7 +33,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 101,
+					"minPlotArea": 100,
 					"maxPlotArea": 150,
 					"NormalFAR": 1.90,
 					"PurchasableFAR": 1.00,
@@ -52,7 +52,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 151,
+					"minPlotArea": 150,
 					"maxPlotArea": 200,
 					"NormalFAR": 1.75,
 					"PurchasableFAR": 1.00,
@@ -71,7 +71,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 201,
+					"minPlotArea": 200,
 					"maxPlotArea": 300,
 					"NormalFAR": 1.65,
 					"PurchasableFAR": 1.00,
@@ -90,7 +90,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 301,
+					"minPlotArea": 300,
 					"maxPlotArea": 500,
 					"NormalFAR": 1.50,
 					"PurchasableFAR": 1.00,
@@ -109,7 +109,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 501,
+					"minPlotArea": 500,
 					"maxPlotArea": 1000,
 					"NormalFAR": 1.50,
 					"PurchasableFAR": 1.00,
@@ -128,7 +128,7 @@
 				{
 					"OccupancyType": "A-R",
 					"OccupancyName": "Residential",
-					"minPlotArea": 1001,
+					"minPlotArea": 1000,
 					"maxPlotArea": 2147483647,
 					"NormalFAR": 1.25,
 					"PurchasableFAR": 1.00,
@@ -365,7 +365,7 @@
 					"PurchasableFAR": 1.0,
 					"isActive": true,
 					"minRoad": 18,
-					"maxRoad": 2147483647,
+					"maxRoad": 999,
 					"minHeight": 10,
 					"maxHeight": 2147483647,
 					"frontSetBack": [
