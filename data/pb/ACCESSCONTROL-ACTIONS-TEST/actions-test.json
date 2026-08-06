@@ -28772,6 +28772,58 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89000923,
+      "name": "SW Quaterly Bill Generate Report",
+      "url": "url",
+      "displayName": "SW Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Finance Reports.SWQuaterly_Bill_Generate",
+      "navigationURL": "/report/rainmaker-ws/SWQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89000924,
+      "name": "SW Quaterly Bill Generate Report",
+      "url": "/report/rainmaker-ws/SWQuaterly_Bill_Generate/metadata/_get",
+      "displayName": "SW Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89000925,
+      "name": "WS Quaterly Bill Generate Report",
+      "url": "url",
+      "displayName": "WS Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Finance Reports.WSQuaterly_Bill_Generate",
+      "navigationURL": "/report/rainmaker-ws/WSQuaterly_Bill_Generate",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89000926,
+      "name": "WS Quaterly Bill Generate Report",
+      "url": "/report/rainmaker-ws/WSQuaterly_Bill_Generate/metadata/_get",
+      "displayName": "WS Quaterly Bill Generate Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
