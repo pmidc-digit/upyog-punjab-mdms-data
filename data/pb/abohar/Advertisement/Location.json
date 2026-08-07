@@ -1,0 +1,132 @@
+{
+  "tenantId": "pb.abohar",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Near Sunil Cinema",
+      "code": "SUNIL_CINEMA",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.207
+      }
+    },
+    {
+      "name": "Near Bus Stand",
+      "code": "BUS_STAND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.147,
+        "longitude": 74.212
+      }
+    },
+    {
+      "name": "Old Nehru Stadium",
+      "code": "NEHRU_STADIUM",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.142,
+        "longitude": 74.205
+      }
+    },
+    {
+      "name": "Near Verma Petrol Pump",
+      "code": "VERMA_PETROL_PUMP",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.140,
+        "longitude": 74.210
+      }
+    },
+    {
+      "name": "Thana Road Malout Chowk",
+      "code": "THANA_ROAD_MALOUT_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.143,
+        "longitude": 74.208
+      }
+    },
+    {
+      "name": "Near Vishal Mega Mart",
+      "code": "VISHAL_MEGA_MART",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.145,
+        "longitude": 74.206
+      }
+    },
+    {
+      "name": "Fazilika Chungi",
+      "code": "FAZILIKA_CHUNGI",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.146,
+        "longitude": 74.209
+      }
+    },
+    {
+      "name": "Gobindgarh Road",
+      "code": "GOBINDGARH_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.141,
+        "longitude": 74.211
+      }
+    },
+    {
+      "name": "Namdev Chowk Sito Road",
+      "code": "NAMDEV_CHOWK_SITO_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.143,
+        "longitude": 74.207
+      }
+    },
+    {
+      "name": "Rotary Chowk",
+      "code": "ROTARY_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.208
+      }
+    },
+    {
+      "name": "Near City Walk Mall",
+      "code": "CITY_WALK_MALL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.145,
+        "longitude": 74.205
+      }
+    },
+    {
+      "name": "Near Dav College",
+      "code": "DAV_COLLEGE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.142,
+        "longitude": 74.204
+      }
+    },
+    {
+      "name": "Ajimgarh Chowk",
+      "code": "AJIMGARH_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.143,
+        "longitude": 74.209
+      }
+    },
+    {
+      "name": "Near BSNL Office",
+      "code": "BSNL_OFFICE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.144,
+        "longitude": 74.207
+      }
+    }
+  ]
+}
