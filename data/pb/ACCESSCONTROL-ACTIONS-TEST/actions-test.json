@@ -28824,6 +28824,21 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 3040,
+      "name": "Test_Receipt_Register",
+      "url": "url",
+      "displayName": "Test Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.Test Receipt Register",
+      "navigationURL": "report/rainmaker-pt/Test",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    } 
   ]
 }
