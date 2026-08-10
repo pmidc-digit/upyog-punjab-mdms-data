@@ -70820,6 +70820,24 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
+    },
+        {
+      "rolecode": "SUPERUSER",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB Operator",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
