@@ -1,0 +1,206 @@
+{
+	"tenantId": "pb.bhuchomandi",
+	"moduleName": "layout",
+	"ChargesType": [
+		{
+			"code": "105",
+			"name": "LAYOUT",
+			"fromFY": "2025-26",
+			"type": "PAY1",
+			"businessService": "LAYOUT.PAY1",
+			"startingDate": 1743465600000,
+			"endingDate": 1774981799000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "LAYOUT PROCESSING FEE",
+					"fee": 7500.00,
+					"rate": 1500.0,
+					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT SCRUTINY FEE",
+					"taxHeadCode": "LAYOUT_SCRUTINY_FEE",
+					"applicable": true,
+					"slabs": [
+						{
+							"applicationType": "PROPOSED",
+							"rate": 7.5,
+							"note": "Scrutiny fee for Proposed layout @7.5 per sqmt"
+						},
+						{
+							"applicationType": "REVISED",
+							"rate": 5.0,
+							"note": "Scrutiny fee for Revised layout @5 per sqmt"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"code": "105",
+			"name": "LAYOUT",
+			"fromFY": "2025-26",
+			"type": "PAY2",
+			"businessService": "LAYOUT.PAY2",
+			"startingDate": 1743465600000,
+			"endingDate": 1774981799000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "LAYOUT LAYOUT FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_LAYOUT_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT EDC FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_EDC_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT CLU FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_CLU_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT OTHERCHARGES2 FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_OTHERCHARGES2_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT UDC/SIF FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_UDC_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT PF/LF FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_PF_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT OTHERCHARGES1 FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_OTHERCHARGES1_FEE",
+					"applicable": true
+
+				}
+			]
+		},
+		{
+			"code": "105",
+			"name": "LAYOUT",
+			"type": "PAY1",
+			"businessService": "LAYOUT.PAY1",
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "LAYOUT PROCESSING FEE",
+					"fee": 7500.00,
+					"rate": 1500.0,
+					"taxHeadCode": "LAYOUT_PROCESSING_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT SCRUTINY FEE",
+					"taxHeadCode": "LAYOUT_SCRUTINY_FEE",
+					"applicable": true,
+					"slabs": [
+						{
+							"applicationType": "PROPOSED",
+							"rate": 7.5,
+							"note": "Scrutiny fee for Proposed layout @7.5 per sqmt"
+						},
+						{
+							"applicationType": "REVISED",
+							"rate": 5.0,
+							"note": "Scrutiny fee for Revised layout @5 per sqmt"
+						}
+					]
+				}
+
+
+			]
+		},
+		{
+			"code": "105",
+			"name": "LAYOUT",
+			"type": "PAY2",
+			"businessService": "LAYOUT.PAY2",
+			"fromFY": "2026-27",
+			"startingDate": 1775001600000,
+			"endingDate": 1806537599000,
+			"active": true,
+			"Charges": [
+				{
+					"name": "LAYOUT LAYOUT FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_LAYOUT_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT EDC FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_EDC_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT CLU FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_CLU_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT OTHERCHARGES2 FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_OTHERCHARGES2_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT UDC/SIF FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_UDC_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT PF/LF FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_PF_FEE",
+					"applicable": true
+
+				},
+				{
+					"name": "LAYOUT OTHERCHARGES1 FEE",
+					"rate": 0.0,
+					"taxHeadCode": "LAYOUT_OTHERCHARGES1_FEE",
+					"applicable": true
+
+				}
+			]
+		}
+	]
+}
