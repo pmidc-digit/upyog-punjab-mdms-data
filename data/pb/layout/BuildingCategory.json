@@ -1,7 +1,7 @@
 {
-    "tenantId": "pb",
-    "moduleName": "LAYOUT",
-    "BuildingCategory": [
+  "tenantId": "pb",
+  "moduleName": "LAYOUT",
+  "BuildingCategory": [
     {
       "name": "Residential Plotted",
       "code": "RESIDENTIAL_PLOTTED",
@@ -22,5 +22,5 @@
       "code": "INDUSTRIAL_WAREHOUSE_BUILDING",
       "active": true
     }
-    ]
-  }
+  ]
+}
