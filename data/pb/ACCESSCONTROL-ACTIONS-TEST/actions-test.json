@@ -28839,6 +28839,66 @@
       "navigationURL": "report/rainmaker-pt/Test",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+        {
+      "id": 204100,
+      "name": "ReceiptRegister_24_25",
+      "url": "url",
+      "displayName": "Receipt Register 24 25",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegister_24_25",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_24_25",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 204200,
+      "name": "ReceiptRegister_25_26",
+      "url": "url",
+      "displayName": "Receipt Register 25 26",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegister_25_26",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_25_26",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 204300,
+      "name": "ReceiptRegisterSummary_24_25",
+      "url": "url",
+      "displayName": "Summary Receipt Register 24-25",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_24_25",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_24_25",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 204400,
+      "name": "ReceiptRegisterSummary_25_26",
+      "url": "url",
+      "displayName": "Summary Receipt Register 25-26",
+      "orderNumber": 11,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_25_26",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_25_26",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     } 
   ]
 }

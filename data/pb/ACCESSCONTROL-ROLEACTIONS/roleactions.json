@@ -70838,6 +70838,211 @@
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "EMPLOYEE",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 204100,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "PTCEMP",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "EMPLOYEE",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 204200,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT REPORTS",
+      "actionid": 204300,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "CSR",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+        {
+      "rolecode": "ULB_ADMINISTRATOR_REPORTS",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT REPORTS",
+      "actionid": 204400,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
