@@ -4722,6 +4722,134 @@
       "service": "RT.Use_Of_Land_And_Occupation_Charges",
       "code": "USEOFLANDOCUPATION",
       "financialYear": "2000-29"
-    }
+    },
+       {
+    "fromDate": 1491004800000,
+    "toDate": 1522540799000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2017-18"
+  },
+  {
+    "fromDate": 1522540800000,
+    "toDate": 1554076799000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2018-19"
+  },
+  {
+    "fromDate": 1554076800000,
+    "toDate": 1585699199000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2019-20"
+  },
+  {
+    "fromDate": 1585699200000,
+    "toDate": 1617235199000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2020-21"
+  },
+  {
+    "fromDate": 1617235200000,
+    "toDate": 1648771199000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2021-22"
+  },
+  {
+    "fromDate": 1648771200000,
+    "toDate": 1680307199000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2022-23"
+  },
+  {
+    "fromDate": 1680307200000,
+    "toDate": 1711929599000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2023-24"
+  },
+  {
+    "fromDate": 1711929600000,
+    "toDate": 1743465599000,
+    "periodCycle": "ANNUAL",
+    "service": "BPA.NC_APP_FEE",
+    "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+    "financialYear": "2024-25"
+  },
+   {
+       "fromDate": 1491004800000,
+       "toDate": 1522540799000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2017-18"
+   },
+   {
+       "fromDate": 1522540800000,
+       "toDate": 1554076799000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2018-19"
+   },
+   {
+       "fromDate": 1554076800000,
+       "toDate": 1585699199000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2019-20"
+   },
+   {
+       "fromDate": 1585699200000,
+       "toDate": 1617235199000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2020-21"
+   },
+   {
+       "fromDate": 1617235200000,
+       "toDate": 1648771199000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2021-22"
+   },
+   {
+       "fromDate": 1648771200000,
+       "toDate": 1680307199000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2022-23"
+   },
+   {
+       "fromDate": 1680307200000,
+       "toDate": 1711929599000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2023-24"
+   },
+   {
+       "fromDate": 1711929600000,
+       "toDate": 1743465599000,
+       "periodCycle": "ANNUAL",
+       "service": "BPA.NC_SAN_FEE",
+       "code": "EG_BS_TAXPERIODS_BUINESSSERVICE",
+       "financialYear": "2024-25"
+   }
  ]
 }
