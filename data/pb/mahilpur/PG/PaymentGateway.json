@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.mahilpur",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
@@ -42,14 +42,12 @@
                 "CLU.PAY2",
                 "BPA.NC_SAN_FEE",
                 "BPA.NC_OC_SAN_FEE"
-
             ]
         },
         {
             "gateway": "HDFC",
             "active": true,
-            "businessService": [
-            ]
+            "businessService": []
         }
     ]
 }

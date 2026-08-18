@@ -1,9 +1,9 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pb.jalandhar",
     "moduleName": "PAYMENT",
     "PaymentGateway": [
         {
-            "gateway": "RAZORPAY",
+            "gateway": "PAYU",
             "active": true,
             "businessService": [
                 "GC.ONE_TIME_FEE",
@@ -42,14 +42,12 @@
                 "CLU.PAY2",
                 "BPA.NC_SAN_FEE",
                 "BPA.NC_OC_SAN_FEE"
-
             ]
         },
         {
             "gateway": "HDFC",
             "active": true,
-            "businessService": [
-            ]
+            "businessService": []
         }
     ]
 }

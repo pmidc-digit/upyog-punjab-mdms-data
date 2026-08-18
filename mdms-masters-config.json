@@ -918,7 +918,7 @@
   "PAYMENT": {
     "PaymentGateway": {
       "masterName": "PaymentGateway",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
