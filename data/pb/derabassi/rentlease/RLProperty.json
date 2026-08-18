@@ -1,0 +1,1184 @@
+{
+  "tenantId": "pb.derabassi",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-DB20260000001",
+      "propertyName": "Shop No. 01 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6528",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000002",
+      "propertyName": "Shop No. 02 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5016",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000003",
+      "propertyName": "Shop No. 03 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4668",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000004",
+      "propertyName": "Shop No. 04 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8700",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000005",
+      "propertyName": "Shop No. 05 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4668",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000006",
+      "propertyName": "Shop No. 06 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "13704",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000007",
+      "propertyName": "Shop No. 07 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5868",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000008",
+      "propertyName": "Shop No. 08 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4668",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000009",
+      "propertyName": "Shop No. 09 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6528",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000010",
+      "propertyName": "Shop No. 10 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5880",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000011",
+      "propertyName": "Shop No. 11 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4668",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000012",
+      "propertyName": "Shop No. 12 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "11208",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000013",
+      "propertyName": "Shop No. 13 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2736",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000014",
+      "propertyName": "Shop No. 14 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2736",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000015",
+      "propertyName": "Shop No. 15 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3276",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000016",
+      "propertyName": "Shop No. 16 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5064",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000017",
+      "propertyName": "Shop No. 17 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4716",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000018",
+      "propertyName": "Shop No. 18 - Main Bazaar, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Main Bazaar, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5352",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000019",
+      "propertyName": "Shop No. 19 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "10272",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000020",
+      "propertyName": "Shop No. 20 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "24528",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000021",
+      "propertyName": "Shop No. 21 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20544",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000022",
+      "propertyName": "Shop No. 22 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "18972",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000023",
+      "propertyName": "Shop No. 23 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "31608",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000024",
+      "propertyName": "Shop No. 24 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "33984",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000025",
+      "propertyName": "Shop No. 25 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "32028",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000026",
+      "propertyName": "Shop No. 26 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "68",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000027",
+      "propertyName": "Shop No. 27 - G.T. Road, Derabassi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "34524",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000028",
+      "propertyName": "Shop No. 28 - G.T. Road, Derabassi",
+      "allotmentType": "lease",
+      "propertySizeOrArea": 0.0,
+      "address": "G.T. Road, Derabassi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "480",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GT_ROAD_DERABASSI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000029",
+      "propertyName": "Shop No. 29 - Guru Harkrishan School",
+      "allotmentType": "lease",
+      "propertySizeOrArea": 0.0,
+      "address": "Guru Harkrishan School",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6000",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_GURU_HARKRISHAN_SCHOOL_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000030",
+      "propertyName": "Shop No. 01/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "165600",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000031",
+      "propertyName": "Shop No. 02/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "139104",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000032",
+      "propertyName": "Shop No. 03/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "135816",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000033",
+      "propertyName": "Shop No. 04/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "132504",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000034",
+      "propertyName": "Shop No. 05/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "132504",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000035",
+      "propertyName": "Shop No. 06/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "139104",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000036",
+      "propertyName": "Shop No. 07/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "149076",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000037",
+      "propertyName": "Shop No. 08/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "142452",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000038",
+      "propertyName": "Shop No. 09/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "149076",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000039",
+      "propertyName": "Shop No. 10/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "154800",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000040",
+      "propertyName": "Shop No. 11/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "157488",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000041",
+      "propertyName": "Shop No. 12/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "155652",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000042",
+      "propertyName": "Shop No. 13/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "155664",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000043",
+      "propertyName": "Shop No. 14/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "182160",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000044",
+      "propertyName": "Shop No. 15/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "314664",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000045",
+      "propertyName": "Shop No. 16/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "122580",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000046",
+      "propertyName": "Shop No. 17/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "109296",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000047",
+      "propertyName": "Shop No. 18/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "113664",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000048",
+      "propertyName": "Shop No. 19/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "72888",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000049",
+      "propertyName": "Shop No. 20/20 - Ramleela Ground",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ramleela Ground",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "72924",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_RAMLEELA_GROUND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000050",
+      "propertyName": "Shop No. 01/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21576",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000051",
+      "propertyName": "Shop No. 02/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21384",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000052",
+      "propertyName": "Shop No. 03/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21384",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000053",
+      "propertyName": "Shop No. 04/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20352",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000054",
+      "propertyName": "Shop No. 05/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20352",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000055",
+      "propertyName": "Shop No. 06/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20352",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000056",
+      "propertyName": "Shop No. 07/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20352",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000057",
+      "propertyName": "Shop No. 08/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21384",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000058",
+      "propertyName": "Shop No. 09/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21120",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000059",
+      "propertyName": "Shop No. 10/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21084",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000060",
+      "propertyName": "Shop No. 11/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21084",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000061",
+      "propertyName": "Shop No. 12/12 - Meat Markit",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Meat Markit",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "21084",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MEAT_MARKIT_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DB20260000062",
+      "propertyName": "Shop No. 62 - Mubarikpur",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Mubarikpur",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "24888",
+      "securityDeposit": 0.0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DB_MUBARIKPUR_RENT_COM"
+    }
+  ]
+}

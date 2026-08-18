@@ -1,0 +1,46 @@
+{
+  "tenantId": "pb.derabassi",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "MONTHLY",
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "rate": 0,
+      "minAmount": 0,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    }
+  ]
+}

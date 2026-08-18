@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.sirhind",
+  "moduleName": "rl-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "billingCycle": "MONTHLY",
+      "taxPeriodFrom": 1782844200000,
+      "taxPeriodTo": 1785522599000,
+      "demandGenerationDateMillis": 432000000,
+      "demandEndDateMillis": 1785542399000,
+      "demandExpiryDate": 1786838399000
+    },
+    {
+      "active": true,
+      "billingCycle": "QUATERLY",
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1782863999000,
+      "demandGenerationDateMillis": 432000000,
+      "demandEndDateMillis": 1782863999000,
+      "demandExpiryDate": 1784159999000
+    },
+    {
+      "active": true,
+      "billingCycle": "BIANNUAL",
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1790812799000,
+      "demandGenerationDateMillis": 432000000,
+      "demandEndDateMillis": 1790812799000,
+      "demandExpiryDate": 1792108799000
+    },
+    {
+      "active": true,
+      "billingCycle": "ANNUAL",
+      "taxPeriodFrom": 1775001600000,
+      "taxPeriodTo": 1806537599000,
+      "demandGenerationDateMillis": 432000000,
+      "demandEndDateMillis": 1806537599000,
+      "demandExpiryDate": 1807833599000
+    }
+  ]
+}

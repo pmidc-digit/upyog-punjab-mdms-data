@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.moonak",
+  "moduleName": "rentAndLease",
+  "PropertyType": [
+    {
+      "id": "1",
+      "code": "RL_RESIDENTIAL",
+      "name": "Residential",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "code": "RL_COMMERCIAL",
+      "name": "Commercial",
+      "isActive": true
+    }
+  ]
+}

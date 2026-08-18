@@ -1,0 +1,36 @@
+{
+  "tenantId": "pb.derabassi",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Derabassi - G.T. Road, Derabassi",
+      "code": "DB_GT_ROAD_DERABASSI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Derabassi - Main Bazaar, Derabassi",
+      "code": "DB_MAIN_BAZAAR_DERABASSI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Derabassi - Guru Harkrishan School",
+      "code": "DB_GURU_HARKRISHAN_SCHOOL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Derabassi - Ramleela Ground",
+      "code": "DB_RAMLEELA_GROUND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Derabassi - Meat Markit",
+      "code": "DB_MEAT_MARKIT_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Derabassi - Mubarikpur",
+      "code": "DB_MUBARIKPUR_RENT_COM",
+      "isActive": true
+    }
+  ]
+}

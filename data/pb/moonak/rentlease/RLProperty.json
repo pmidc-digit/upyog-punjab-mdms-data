@@ -1,0 +1,2666 @@
+{
+  "tenantId": "pb.moonak",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-MK20260000001",
+      "propertyName": "R- 1 1, R-2 1 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "440",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000002",
+      "propertyName": "R-1 2 R-2 2 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 396.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "440",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000003",
+      "propertyName": "R-1 3, R-2 3 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2244",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000004",
+      "propertyName": "R-1 4, R-2 4 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 170.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "220",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000005",
+      "propertyName": "R-1 5, R-2 5 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 161.5,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "884",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000006",
+      "propertyName": "R-1 6, R-2 6 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 324.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1320",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000007",
+      "propertyName": "R-1 7, R-2 7 - Main Chonk Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 384.0,
+      "address": "Main Chonk Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "681",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000008",
+      "propertyName": "R-1 8, R-2 8 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 384.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1569",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000009",
+      "propertyName": "R-1 9, R-2 9 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 324.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1569",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000010",
+      "propertyName": "R-1 10,R-2 10 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 324.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1562",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000011",
+      "propertyName": "R-1 11, R-2 11 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 630.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9056",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000012",
+      "propertyName": "R-1 12, R-2 12 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 256.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "400",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000013",
+      "propertyName": "R-1 13, R-2 13 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "990",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000014",
+      "propertyName": "R-1 14, R-2 14 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 630.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2090",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000015",
+      "propertyName": "R-1 15, R-2 15 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 476.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000016",
+      "propertyName": "R-1 16, R-2 16 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 792.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "766",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000017",
+      "propertyName": "R-1 17, R-2 17 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "400",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000018",
+      "propertyName": "R-1 18, R-2 18 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "462",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000019",
+      "propertyName": "R-1 19, R-2 19 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "880",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000020",
+      "propertyName": "R-1 20, R-2 20 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1179",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000021",
+      "propertyName": "R-1 21, R-2 21 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 432.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "462",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000022",
+      "propertyName": "R-1 22, R-2 22 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1170.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1623",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000023",
+      "propertyName": "R-1 23, R-2 23 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1170.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1089",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000024",
+      "propertyName": "R-1 24, R-2 24 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1170.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "990",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000025",
+      "propertyName": "R-1 25, R-2 25 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1722.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1056",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000026",
+      "propertyName": "R-1 36, R-2 26 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000027",
+      "propertyName": "R-1 37, R-2 27 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000028",
+      "propertyName": "R-1 38, R-2 28 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 264.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000029",
+      "propertyName": "R-1 39, R-2 29 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 264.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000030",
+      "propertyName": "R-1 40, R-2 30 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 330.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000031",
+      "propertyName": "R-1 41, R-2 31 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 330.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1716",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000032",
+      "propertyName": "R-1 42, R-2 32 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1584",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000033",
+      "propertyName": "R-1 43, R-2 33 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 250.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1014",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000034",
+      "propertyName": "R-1 44, R-2 34 - Near Govt Primary School Boys W.NO. 12 Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 250.0,
+      "address": "Near Govt Primary School Boys W.NO. 12 Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1014",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_GOVT_PRIMARY_SCHOOL_BOYS_WNO_12_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000035",
+      "propertyName": "R-1 48, R-2 35 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2372",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000036",
+      "propertyName": "R-1 49, R-2 36 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "924",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000037",
+      "propertyName": "R-1 50, R-2 37 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1161",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000038",
+      "propertyName": "R-1 51, R-2 38 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1166",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000039",
+      "propertyName": "R-1 52, R-2 39 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2860",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000040",
+      "propertyName": "R-1 53, R-2 40 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2860",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000041",
+      "propertyName": "R-1 54, R-2 41 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 360.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2453",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000042",
+      "propertyName": "R-1 55, R-2 42 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 136.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1496",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000043",
+      "propertyName": "R-1 56, R-2 43 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 136.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5524",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000044",
+      "propertyName": "R-1 57, R-2 44 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 136.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3273",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000045",
+      "propertyName": "R-1 58, R-2 45 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3746",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000046",
+      "propertyName": "R-1 59, R-2 46 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 684.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1742",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000047",
+      "propertyName": "R-1 60, R-2 47 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4505",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000048",
+      "propertyName": "R-1 61, R-2 48 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2574",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000049",
+      "propertyName": "R-1 62, R-2 49 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1782",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000050",
+      "propertyName": "R-1 63, R-2 50 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1034",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000051",
+      "propertyName": "R-1 64, R-2 51 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2658",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000052",
+      "propertyName": "R-1 65, R-2 52 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2223",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000053",
+      "propertyName": "R-1 66, R-2 53 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5546",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000054",
+      "propertyName": "R-1 67, R-2 54 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9662",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000055",
+      "propertyName": "R-1 68, R-2 55 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 110.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5518",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000056",
+      "propertyName": "R-1 69, R-2 56 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 275.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6800",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000057",
+      "propertyName": "R-1 70, R-2 57 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 96.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2904",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000058",
+      "propertyName": "R-1 71, R-2 58 - Near Co-Operative Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 702.0,
+      "address": "Near Co-Operative Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "425",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_COOPERATIVE_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000059",
+      "propertyName": "R-1 72, R-2 59 - Near Co-Operative Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1620.0,
+      "address": "Near Co-Operative Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "275",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_COOPERATIVE_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000060",
+      "propertyName": "R-1 73, R-2 60 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 150.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1030",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000061",
+      "propertyName": "R-1 80, R-2 61 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3674",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000062",
+      "propertyName": "R-1 81, R-2 62 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3994",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000063",
+      "propertyName": "R-1 82, R-2 63 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2519",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000064",
+      "propertyName": "R-1 83, R-2 64 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3702",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000065",
+      "propertyName": "R-1 84, R-2 65 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4397",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000066",
+      "propertyName": "R-1 85, R-2 66 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4961",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000067",
+      "propertyName": "R-1 86, R-2 67 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3509",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000068",
+      "propertyName": "R-1 87, R-2 68 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3509",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000069",
+      "propertyName": "R-1 88, R-2 69 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3892",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000070",
+      "propertyName": "R-1 89, R-2 70 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4307",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000071",
+      "propertyName": "R-1 90, R-2 71 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3509",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000072",
+      "propertyName": "R-1 91, R-2 72 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4087",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000073",
+      "propertyName": "R-1 92, R-2 73 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4089",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000074",
+      "propertyName": "R-1 93, R-2 74 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4089",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000075",
+      "propertyName": "R-1 94, R-2 75 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4908",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000076",
+      "propertyName": "R-1 95, R-2 76 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3180",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000077",
+      "propertyName": "R-1 96, R-2 77 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3284",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000078",
+      "propertyName": "R-1 97, R-2 78 - Opp. SBI Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Opp. SBI Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "356",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OPP_SBI_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000079",
+      "propertyName": "R-1 98, R-2 79 - Opp. SBI Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Opp. SBI Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "396",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OPP_SBI_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000080",
+      "propertyName": "R-1 99, R-2 80 - Opp. SBI Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Opp. SBI Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "304",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OPP_SBI_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000081",
+      "propertyName": "R-1 100, R-2 81 - Opp. SBI Bank",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 364.0,
+      "address": "Opp. SBI Bank",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "277",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OPP_SBI_BANK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000082",
+      "propertyName": "R-1 102, R-2 82 - Main SBI Chonk Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Main SBI Chonk Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2110",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_SBI_CHONK_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000083",
+      "propertyName": "R-1 103, R-2 83 - Main SBI Chonk Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 624.0,
+      "address": "Main SBI Chonk Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_SBI_CHONK_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000084",
+      "propertyName": "R-1 104, R-2 84 - Main SBI Chonk Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 624.0,
+      "address": "Main SBI Chonk Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_SBI_CHONK_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000085",
+      "propertyName": "R-1 105, R-2 85 - Main SBI Chonk Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "Main SBI Chonk Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_SBI_CHONK_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000086",
+      "propertyName": "R-1 106, R-2 86 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000087",
+      "propertyName": "R-1 107, R-2 87 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 600.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000088",
+      "propertyName": "R-1 108, R-2 88 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 540.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000089",
+      "propertyName": "R-1 109, R-2 89 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 540.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000090",
+      "propertyName": "R-1 110, R-2 90 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 702.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3328",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000091",
+      "propertyName": "R-1 111, R-2 91 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 588.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "254",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000092",
+      "propertyName": "R-1 112, R-2 92 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1452",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000093",
+      "propertyName": "R-1 113, R-2 93 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1452",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000094",
+      "propertyName": "R-1 114, R-2 94 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 364.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "770",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000095",
+      "propertyName": "R-1 115, R-2 95 - Talib Chonk Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 300.0,
+      "address": "Talib Chonk Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1403",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_TALIB_CHONK_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000096",
+      "propertyName": "R-1 116, R-2 96 - Main Chonk SBI Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 765.0,
+      "address": "Main Chonk SBI Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "671",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_CHONK_SBI_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000097",
+      "propertyName": "R-1 117, R-2 97 - Near Jain Asthaan Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 320.0,
+      "address": "Near Jain Asthaan Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "440",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_JAIN_ASTHAAN_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000098",
+      "propertyName": "R-1 145, R-2 98 - Near Old killa Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 2250.0,
+      "address": "Near Old Killa Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "737",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_KILLA_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000099",
+      "propertyName": "R-1 146, R-2 99 - Near Old killa Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 2250.0,
+      "address": "Near Old Killa Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1705",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_KILLA_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000100",
+      "propertyName": "R-1 147, R-2 100 - Near Old killa Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 2596.0,
+      "address": "Near Old Killa Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "858",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_KILLA_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000101",
+      "propertyName": "R-1 73, R-2 101 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000102",
+      "propertyName": "R-1 74, R-2 102 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000103",
+      "propertyName": "R-1 75, R-2 103 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000104",
+      "propertyName": "R-1 76, R-2 104 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000105",
+      "propertyName": "R-1 77, R-2 105 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000106",
+      "propertyName": "R-1 78, R-2 106 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8954",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000107",
+      "propertyName": "R-1 30, R-2 107 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 150.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9851",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000108",
+      "propertyName": "R-1 33, R-2 108 - Main Bazar Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 150.0,
+      "address": "Main Bazar Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9851",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_MAIN_BAZAR_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000109",
+      "propertyName": "R-1 45, R-2 109 - Near Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "32645",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000110",
+      "propertyName": "R-1 46, R-2 110 - Near Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "28725",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000111",
+      "propertyName": "R-1 47, R-2 111 - Near Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "28936",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000112",
+      "propertyName": "R-1 144, R-2 112 - Near Old Tehsil Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 420.0,
+      "address": "Near Old Tehsil Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "385",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_OLD_TEHSIL_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000113",
+      "propertyName": "R-1 163, R-2 113 - Balran Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 348480.0,
+      "address": "Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "128840",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_BALRAN_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000114",
+      "propertyName": "R-1 169, R-2 114 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000115",
+      "propertyName": "R-1 170, R-2 115 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000116",
+      "propertyName": "R-1 171, R-2 116 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000117",
+      "propertyName": "R-1 172, R-2 117 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000118",
+      "propertyName": "R-1 173, R-2 118 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000119",
+      "propertyName": "R-1 174, R-2 119 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000120",
+      "propertyName": "R-1 175, R-2 120 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000121",
+      "propertyName": "R-1 176, R-2 121 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000122",
+      "propertyName": "R-1 177, R-2 122 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000123",
+      "propertyName": "R-1 178, R-2 123 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 297.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000124",
+      "propertyName": "R-1 180, R-2 125 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 285.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000125",
+      "propertyName": "R-1 181, R-2 126 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 285.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000126",
+      "propertyName": "R-1 182, R-2 127 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 285.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000127",
+      "propertyName": "R-1 183, R-2 128 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 342.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000128",
+      "propertyName": "R-1 184, R-2 129 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 342.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000129",
+      "propertyName": "R-1 185, R-2 130 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 288.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000130",
+      "propertyName": "R-1 186, R-2 131 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 288.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000131",
+      "propertyName": "R-1 187, R-2 132 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 288.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000132",
+      "propertyName": "R-1 188, R-2 133 - Near Hospital Balran Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 288.0,
+      "address": "Near Hospital Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_HOSPITAL_BALRAN_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000133",
+      "propertyName": "R-1 190, R-2 134 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000134",
+      "propertyName": "R-1 191, R-2 135 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000135",
+      "propertyName": "R-1 192, R-2 136 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 200.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000136",
+      "propertyName": "R-1 193, R-2 137 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 265.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000137",
+      "propertyName": "R-1 194, R-2 138 - Old Bus Stand Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 265.0,
+      "address": "Old Bus Stand Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "14520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_OLD_BUS_STAND_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000138",
+      "propertyName": "R-2 139 - New Bus Stand Tohana Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 87120.0,
+      "address": "New Bus Stand Tohana Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1000",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEW_BUS_STAND_TOHANA_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000139",
+      "propertyName": "R-2 140 - Balran Road Moonak",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 87120.0,
+      "address": "Balran Road Moonak",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "60000",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_BALRAN_ROAD_MOONAK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MK20260000140",
+      "propertyName": "R-2 141 - Near NP Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 285.0,
+      "address": "Near NP office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "20000",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MK_NEAR_NP_OFFICE_RENT_COM"
+    }
+  ]
+}

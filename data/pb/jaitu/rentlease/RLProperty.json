@@ -1,0 +1,4965 @@
+{
+  "tenantId": "pb.jaitu",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-JT20260000001",
+      "propertyName": "DCR No.1 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "491",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000002",
+      "propertyName": "DCR No.2 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "613",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000003",
+      "propertyName": "DCR No.3 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "751",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000004",
+      "propertyName": "DCR No.4 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000005",
+      "propertyName": "DCR No.5 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "754",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000006",
+      "propertyName": "DCR No. 6 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "626",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000007",
+      "propertyName": "DCR No.7 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "574",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000008",
+      "propertyName": "DCR No.8 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "615",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000009",
+      "propertyName": "DCR No.9 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "990",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000010",
+      "propertyName": "DCR No.10 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "523",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000011",
+      "propertyName": "DCR No.11 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "506",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000012",
+      "propertyName": "DCR No.12 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "565",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000013",
+      "propertyName": "DCR No.13 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1279",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000014",
+      "propertyName": "DCR No.14 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1274",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000015",
+      "propertyName": "DCR No.15 - Mall Goudam Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 60.0,
+      "address": "Mall Goudam Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1228",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MALL_GOUDAM_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000016",
+      "propertyName": "DCR No.16 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1298",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000017",
+      "propertyName": "DCR No.17 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1298",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000018",
+      "propertyName": "DCR No.18 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1297",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000019",
+      "propertyName": "DCR No.20 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "695",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000020",
+      "propertyName": "DCR No.21 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 100.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1317",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000021",
+      "propertyName": "DCR No.24 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "377",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000022",
+      "propertyName": "DCR No.25 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "377",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000023",
+      "propertyName": "DCR No.26 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "812",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000024",
+      "propertyName": "DCR No.27 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "430",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000025",
+      "propertyName": "DCR No.28 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "377",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000026",
+      "propertyName": "DCR No.29 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "780",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000027",
+      "propertyName": "DCR No.30 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "377",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000028",
+      "propertyName": "DCR No.31 - Near Old Sabzi Mandi",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 220.0,
+      "address": "Near Old Sabzi Mandi",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "377",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000029",
+      "propertyName": "DCR No.32 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3726",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000030",
+      "propertyName": "DCR No.33 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3237",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000031",
+      "propertyName": "DCR No.34 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2927",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000032",
+      "propertyName": "DCR No.35 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3885",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000033",
+      "propertyName": "DCR No.36 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2546",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000034",
+      "propertyName": "DCR No.37 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4588",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000035",
+      "propertyName": "DCR No.38 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5120",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000036",
+      "propertyName": "DCR No.39 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4155",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000037",
+      "propertyName": "DCR No.40 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2118",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000038",
+      "propertyName": "DCR No.41 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4253",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000039",
+      "propertyName": "DCR No.42 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2661",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000040",
+      "propertyName": "DCR No.43 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2893",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000041",
+      "propertyName": "DCR No.44 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4855",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000042",
+      "propertyName": "DCR No.45 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "9482",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000043",
+      "propertyName": "DCR No.46 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4855",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000044",
+      "propertyName": "DCR No.48 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6281",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000045",
+      "propertyName": "DCR No.49 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4652",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000046",
+      "propertyName": "DCR No.50 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4629",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000047",
+      "propertyName": "DCR No.51 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4210",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000048",
+      "propertyName": "DCR No.52 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4210",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000049",
+      "propertyName": "DCR No.53 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2431",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000050",
+      "propertyName": "DCR No.54 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4221",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000051",
+      "propertyName": "DCR No.55 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5669",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000052",
+      "propertyName": "DCR No.56 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5280",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000053",
+      "propertyName": "DCR No.57 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4859",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000054",
+      "propertyName": "DCR No.58 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2474",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000055",
+      "propertyName": "DCR No.59 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4410",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000056",
+      "propertyName": "DCR No.60 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3847",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000057",
+      "propertyName": "DCR No.61 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2099",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000058",
+      "propertyName": "DCR No.62 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3645",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000059",
+      "propertyName": "DCR No.63 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3643",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000060",
+      "propertyName": "DCR No.64 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3746",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000061",
+      "propertyName": "DCR No.65 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3009",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000062",
+      "propertyName": "DCR No.66 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3597",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000063",
+      "propertyName": "DCR No.67 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3464",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000064",
+      "propertyName": "DCR No.68 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3645",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000065",
+      "propertyName": "DCR No.69 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3645",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000066",
+      "propertyName": "DCR No.70 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4250",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000067",
+      "propertyName": "DCR No.71 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4050",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000068",
+      "propertyName": "DCR No.72 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 180.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4454",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000069",
+      "propertyName": "DCR No.73 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4510",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000070",
+      "propertyName": "DCR No.74 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3633",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000071",
+      "propertyName": "DCR No.75 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3260",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000072",
+      "propertyName": "DCR No.76 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2935",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000073",
+      "propertyName": "DCR No.77 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2295",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000074",
+      "propertyName": "DCR No.78 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2678",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000075",
+      "propertyName": "DCR No.79 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2784",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000076",
+      "propertyName": "DCR No.80 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2784",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000077",
+      "propertyName": "DCR No.81 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2758",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000078",
+      "propertyName": "DCR No.82 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3326",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000079",
+      "propertyName": "DCR No.83 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3054",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000080",
+      "propertyName": "DCR No.84 - Civil Hosipital Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Civil Hosipital Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2998",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000081",
+      "propertyName": "DCR No.85 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 286.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2573",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000082",
+      "propertyName": "DCR No.86 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2410",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000083",
+      "propertyName": "DCR No.87 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2422",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000084",
+      "propertyName": "DCR No.88 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7346",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000085",
+      "propertyName": "DCR No.89 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5437",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000086",
+      "propertyName": "DCR No.90 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5321",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000087",
+      "propertyName": "DCR No.91 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5520",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000088",
+      "propertyName": "DCR No.92 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "367",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000089",
+      "propertyName": "DCR No.93 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "248",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000090",
+      "propertyName": "DCR No.94 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2430",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000091",
+      "propertyName": "DCR No.95 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4656",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000092",
+      "propertyName": "DCR No.96 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000093",
+      "propertyName": "DCR No.97 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3325",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000094",
+      "propertyName": "DCR No.98 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4860",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000095",
+      "propertyName": "DCR No.99 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2796",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000096",
+      "propertyName": "DCR No.100 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2590",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000097",
+      "propertyName": "DCR No.101 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2433",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000098",
+      "propertyName": "DCR No.102 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2819",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000099",
+      "propertyName": "DCR No.103 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2819",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000100",
+      "propertyName": "DCR No.104 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2927",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000101",
+      "propertyName": "DCR No.105 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 153.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2859",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000102",
+      "propertyName": "DCR No.106 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2992",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000103",
+      "propertyName": "DCR No.107 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1561",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000104",
+      "propertyName": "DCR No.108 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2083",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000105",
+      "propertyName": "DCR No.109 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1852",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000106",
+      "propertyName": "DCR No.110 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3008",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000107",
+      "propertyName": "DCR No.111 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5669",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000108",
+      "propertyName": "DCR No.112 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5669",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000109",
+      "propertyName": "DCR No.113 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5669",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000110",
+      "propertyName": "DCR No.118 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1542",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000111",
+      "propertyName": "DCR No.119 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3033",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000112",
+      "propertyName": "DCR No.120 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2556",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000113",
+      "propertyName": "DCR No.121 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3074",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000114",
+      "propertyName": "DCR No.122 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2324",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000115",
+      "propertyName": "DCR No.123 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2324",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000116",
+      "propertyName": "DCR No.125 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2324",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000117",
+      "propertyName": "DCR No.126 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3072",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000118",
+      "propertyName": "DCR No.127 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3168",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000119",
+      "propertyName": "DCR No.128 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3701",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000120",
+      "propertyName": "DCR No.129 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3521",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000121",
+      "propertyName": "DCR No.130 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3701",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000122",
+      "propertyName": "DCR No.131 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3870",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000123",
+      "propertyName": "DCR No.132 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3643",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000124",
+      "propertyName": "DCR No.133 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3180",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000125",
+      "propertyName": "DCR No.134 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3065",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000126",
+      "propertyName": "DCR No.135 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2244",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000127",
+      "propertyName": "DCR No.136 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4615",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000128",
+      "propertyName": "DCR No.137 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4450",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000129",
+      "propertyName": "DCR No.138 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4450",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000130",
+      "propertyName": "DCR No.139 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4250",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000131",
+      "propertyName": "DCR No.140 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000132",
+      "propertyName": "DCR No.141 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000133",
+      "propertyName": "DCR No.142 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000134",
+      "propertyName": "DCR No.143 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000135",
+      "propertyName": "DCR No.144 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000136",
+      "propertyName": "DCR No.145 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000137",
+      "propertyName": "DCR No.146 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 240.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1730",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000138",
+      "propertyName": "DCR No.147 - Park Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Park Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "299",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_PARK_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000139",
+      "propertyName": "DCR No.148 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "299",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000140",
+      "propertyName": "DCR No.149 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1728",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000141",
+      "propertyName": "DCR No.150 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "744",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000142",
+      "propertyName": "DCR No.151 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "582",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000143",
+      "propertyName": "DCR No.152 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "277",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000144",
+      "propertyName": "DCR No.153 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "304",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000145",
+      "propertyName": "DCR No.154 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1237",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000146",
+      "propertyName": "DCR No.155 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "279",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000147",
+      "propertyName": "DCR No.156 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "283",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000148",
+      "propertyName": "DCR No.157 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1129",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000149",
+      "propertyName": "DCR No.158 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "338",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000150",
+      "propertyName": "DCR No.159 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "475",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000151",
+      "propertyName": "DCR No.160 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "322",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000152",
+      "propertyName": "DCR No.161 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "655",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000153",
+      "propertyName": "DCR No.162 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "457",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000154",
+      "propertyName": "DCR No.163 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "704",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000155",
+      "propertyName": "DCR No.164 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "570",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000156",
+      "propertyName": "DCR No.165 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "491",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000157",
+      "propertyName": "DCR No.166 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "319",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000158",
+      "propertyName": "DCR No.167 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "652",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000159",
+      "propertyName": "DCR No.168 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "661",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000160",
+      "propertyName": "DCR No.170 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "529",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000161",
+      "propertyName": "DCR No.171 - Back side Market committee",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Back side Market committee",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "668",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000162",
+      "propertyName": "DCR No.172 - Muktsar Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 160.0,
+      "address": "Muktsar Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6941",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MUKTSAR_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000163",
+      "propertyName": "DCR No.173 - Near Shashtari Mandir Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Near Shashtari Mandir Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3321",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000164",
+      "propertyName": "DCR No.174 - Near Shashtari Mandir Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Near Shashtari Mandir Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1293",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000165",
+      "propertyName": "DCR No.175 - Near Shashtari Mandir Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Near Shashtari Mandir Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2187",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000166",
+      "propertyName": "DCR No.176 - Near Shashtari Mandir Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Near Shashtari Mandir Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2187",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000167",
+      "propertyName": "DCR No.177 - Near Shashtari Mandir Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 144.0,
+      "address": "Near Shashtari Mandir Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2187",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000168",
+      "propertyName": "DCR No.178 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "8033",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000169",
+      "propertyName": "DCR No.179 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6693",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000170",
+      "propertyName": "DCR No.180 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5160",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000171",
+      "propertyName": "DCR No.181 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5901",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000172",
+      "propertyName": "DCR No.182 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5990",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000173",
+      "propertyName": "DCR No.183 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5127",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000174",
+      "propertyName": "DCR No.184 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4179",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000175",
+      "propertyName": "DCR No.185 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3490",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000176",
+      "propertyName": "DCR No.186 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3850",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000177",
+      "propertyName": "DCR No.187 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3854",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000178",
+      "propertyName": "DCR No.188 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4723",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000179",
+      "propertyName": "DCR No.189 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3491",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000180",
+      "propertyName": "DCR No.190 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3913",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000181",
+      "propertyName": "DCR No.191 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6054",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000182",
+      "propertyName": "DCR No.192 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6746",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000183",
+      "propertyName": "DCR No.193 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6658",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000184",
+      "propertyName": "DCR No.194 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6983",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000185",
+      "propertyName": "DCR No.195 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "6980",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000186",
+      "propertyName": "DCR No.196 - Gol Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 506.0,
+      "address": "Gol Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "229",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_GOL_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000187",
+      "propertyName": "DCR No.199 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "759",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000188",
+      "propertyName": "DCR No.200 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "373",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000189",
+      "propertyName": "DCR No.201 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "282",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000190",
+      "propertyName": "DCR No.202 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "230",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000191",
+      "propertyName": "DCR No.203 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "277",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000192",
+      "propertyName": "DCR No.204 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "476",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000193",
+      "propertyName": "DCR No.205 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "283",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000194",
+      "propertyName": "DCR No.206 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "327",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000195",
+      "propertyName": "DCR No.207 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "277",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000196",
+      "propertyName": "DCR No.208 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 120.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "817",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000197",
+      "propertyName": "DCR No.209 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 252.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "952",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000198",
+      "propertyName": "DCR No.210 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7404",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000199",
+      "propertyName": "DCR No.212 - Chownk No.2",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 216.0,
+      "address": "Chownk No.2",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2616",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO2_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000200",
+      "propertyName": "DCR No.213 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 126.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000201",
+      "propertyName": "DCR No.214 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2564",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000202",
+      "propertyName": "DCR No.215 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2777",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000203",
+      "propertyName": "DCR No.216 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000204",
+      "propertyName": "DCR No.217 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3435",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000205",
+      "propertyName": "DCR No.218 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3240",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000206",
+      "propertyName": "DCR No.219 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3123",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000207",
+      "propertyName": "DCR No.220 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3495",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000208",
+      "propertyName": "DCR No.221 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3980",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000209",
+      "propertyName": "DCR No.222 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3702",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000210",
+      "propertyName": "DCR No.223 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "5574",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000211",
+      "propertyName": "DCR No.225 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "7401",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000212",
+      "propertyName": "DCR No.226 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 480.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4562",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000213",
+      "propertyName": "DCR No.227 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1616",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000214",
+      "propertyName": "DCR No.228 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1419",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000215",
+      "propertyName": "DCR No.229 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1419",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000216",
+      "propertyName": "DCR No.230 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1419",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000217",
+      "propertyName": "DCR No.231 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1419",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000218",
+      "propertyName": "DCR No.232 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2186",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000219",
+      "propertyName": "DCR No.235 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2886",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000220",
+      "propertyName": "DCR No.236 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1711",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000221",
+      "propertyName": "DCR No.238 - Meat Market",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 112.0,
+      "address": "Meat Market",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3238",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_MEAT_MARKET_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000222",
+      "propertyName": "DCR No.239 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1574",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000223",
+      "propertyName": "DCR No.240 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1656",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000224",
+      "propertyName": "DCR No.241 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2315",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000225",
+      "propertyName": "DCR No.242 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2313",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000226",
+      "propertyName": "DCR No.243 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2950",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000227",
+      "propertyName": "DCR No.244 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 760.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2948",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000228",
+      "propertyName": "DCR No.245 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2948",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000229",
+      "propertyName": "DCR No.246 - Near PSPCL Office",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 140.0,
+      "address": "Near PSPCL Office",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1855",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_PSPCL_OFFICE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000230",
+      "propertyName": "DCR No.248 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2361",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000231",
+      "propertyName": "DCR No.249 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2250",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000232",
+      "propertyName": "DCR No.250 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2636",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000233",
+      "propertyName": "DCR No.251 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2886",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000234",
+      "propertyName": "DCR No.252 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2591",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000235",
+      "propertyName": "DCR No.253 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2568",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000236",
+      "propertyName": "DCR No.254 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1942",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000237",
+      "propertyName": "DCR No.255 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1107",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000238",
+      "propertyName": "DCR No.256 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "963",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000239",
+      "propertyName": "DCR No.257 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "963",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000240",
+      "propertyName": "DCR No.258 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "963",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000241",
+      "propertyName": "DCR No.259 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "963",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000242",
+      "propertyName": "DCR No.260 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 800.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "805",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000243",
+      "propertyName": "DCR No.261 - Near Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 168.0,
+      "address": "Near Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1006",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000244",
+      "propertyName": "DCR No.262 - Baja Khana Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1750.0,
+      "address": "Baja Khana Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2000",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BAJA_KHANA_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000245",
+      "propertyName": "DCR No.263 - Baja Khana Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1750.0,
+      "address": "Baja Khana Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "682",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BAJA_KHANA_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000246",
+      "propertyName": "DCR No.264 - Baja Khana Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1750.0,
+      "address": "Baja Khana Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "647",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BAJA_KHANA_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000247",
+      "propertyName": "DCR No.265 - Baja Khana Road",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 1750.0,
+      "address": "Baja Khana Road",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "682",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_BAJA_KHANA_ROAD_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000248",
+      "propertyName": "DCR No.266 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3411",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000249",
+      "propertyName": "DCR No.268 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2973",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000250",
+      "propertyName": "DCR No.269 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2973",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000251",
+      "propertyName": "DCR No.270 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2623",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000252",
+      "propertyName": "DCR No.273 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3148",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000253",
+      "propertyName": "DCR No.274 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1837",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000254",
+      "propertyName": "DCR No.275 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1749",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000255",
+      "propertyName": "DCR No.276 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2973",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000256",
+      "propertyName": "DCR No.277 - Near Water Wax",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 280.0,
+      "address": "Near Water Wax",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2623",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_WATER_WAX_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000257",
+      "propertyName": "DCR No.278 - Nera Bus Stand",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 108.0,
+      "address": "Nera Bus Stand",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1312",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NERA_BUS_STAND_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000258",
+      "propertyName": "DCR No.279 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 208.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1137",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000259",
+      "propertyName": "DCR No.280 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 208.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1224",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000260",
+      "propertyName": "DCR No.281 - Near Gurudwara Bhai Jagta Ji",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 208.0,
+      "address": "Near Gurudwara Bhai Jagta Ji",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2187",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-JT20260000261",
+      "propertyName": "DCR No.282 - Chownk No.3",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 208.0,
+      "address": "Chownk No.3",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1311",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 25.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "JT_CHOWNK_NO3_RENT_COM"
+    }
+  ]
+}

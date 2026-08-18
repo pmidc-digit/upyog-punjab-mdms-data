@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb.sirhind",
+  "moduleName": "rentAndLease",
+  "LocationType": [
+    {
+      "id": "1",
+      "code": "RL_PRIME",
+      "name": "Prime",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "code": "RL_NON_PRIME",
+      "name": "Non-Prime",
+      "isActive": true
+    }
+  ]
+}

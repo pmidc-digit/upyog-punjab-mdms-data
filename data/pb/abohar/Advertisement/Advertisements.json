@@ -11,15 +11,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "SUNIL_CINEMA",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+      "rentalType": "DAILY"
     },
     {
       "id": 2,
@@ -30,15 +30,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "SUNIL_CINEMA",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 3,
@@ -49,15 +49,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "SUNIL_CINEMA",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 4,
@@ -68,15 +68,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 5,
@@ -87,15 +87,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 6,
@@ -106,15 +106,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 7,
@@ -125,15 +125,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "BUS_STAND",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+      "rentalType": "DAILY"
     },
     {
       "id": 8,
@@ -144,15 +144,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "NEHRU_STADIUM",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 9,
@@ -163,15 +163,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "VERMA_PETROL_PUMP",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 10,
@@ -182,15 +182,15 @@
       "height": 10,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 600,
       "available": true,
       "locationCode": "VERMA_PETROL_PUMP",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 18000.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 11,
@@ -201,15 +201,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "THANA_ROAD_MALOUT_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 12,
@@ -220,15 +220,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "VISHAL_MEGA_MART",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 13,
@@ -239,15 +239,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "FAZILIKA_CHUNGI",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 14,
@@ -258,15 +258,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "GOBINDGARH_ROAD",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 15,
@@ -277,15 +277,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "NAMDEV_CHOWK_SITO_ROAD",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 16,
@@ -296,15 +296,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "ROTARY_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 17,
@@ -315,15 +315,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "ROTARY_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 18,
@@ -334,15 +334,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "CITY_WALK_MALL",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 19,
@@ -353,15 +353,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "DAV_COLLEGE",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 20,
@@ -372,15 +372,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "DAV_COLLEGE",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 21,
@@ -391,15 +391,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "AJIMGARH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 22,
@@ -410,15 +410,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "AJIMGARH_CHOWK",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     },
     {
       "id": 23,
@@ -429,15 +429,15 @@
       "height": 8,
       "imageSrc": "",
       "light": "With Light",
-      "amount": null,
+      "amount": 432,
       "available": true,
       "locationCode": "BSNL_OFFICE",
       "feeType": "ADV_BOOKING_FEES",
       "taxApplicable": true,
-      "monthlyAmount": 12960.0,
       "weeklyAmount": null,
       "yearlyAmount": null,
-      "biannualAmount": null
+      "biannualAmount": null,
+       "rentalType": "DAILY"
     }
   ]
 }

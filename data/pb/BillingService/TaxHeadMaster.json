@@ -7344,6 +7344,16 @@
       "isRequired": false
     },
     {
+      "category": "FEE",
+      "service": "adv-services",
+      "name": "ADV Round Off",
+      "code": "ADV_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 8,
+      "isRequired": false
+    },
+    {
         "category": "FEE",
         "service": "sv-services",
         "name": "Street Vending registration fee",

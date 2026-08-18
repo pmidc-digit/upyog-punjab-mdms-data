@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.sirhind",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Sirhind - Back Side MC Office",
+      "code": "SH_BACK_SIDE_MC_OFFICE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Post Office Road",
+      "code": "SH_POST_OFFICE_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Bassi Road Sirhind",
+      "code": "SH_BASSI_ROAD_SIRHIND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Old Anaj Mandi",
+      "code": "SH_OLD_ANAJ_MANDI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Hamayunpur Sirhind",
+      "code": "SH_HAMAYUNPUR_SIRHIND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Old Sabji Mandi",
+      "code": "SH_OLD_SABJI_MANDI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Sirhind - Municipal Markeet",
+      "code": "SH_MUNICIPAL_MARKEET_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
