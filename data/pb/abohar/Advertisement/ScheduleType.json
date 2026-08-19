@@ -1,0 +1,12 @@
+{
+    "tenantId": "pb.abohar",
+    "moduleName": "Advertisement",
+    "ScheduleType": [
+      {
+        "frequency": "Weekly"
+      },
+      {
+        "frequency": "Monthly"
+      }
+    ]
+  }
