@@ -1,0 +1,23 @@
+{
+  "tenantId": "pb.maloud",
+  "moduleName": "CHB",
+  "CommunityHalls": [
+    {
+      "communityHallId": "1",
+      "name": "Community Hall, Near bus stand Nagar Panchayat Maloud Ward no",
+      "code": "NEAR_BUS_STAND_NAGAR_PANCHAYAT_MALOUD_WARD_NO",
+      "locationCode": "NEAR_BUS_STAND_NAGAR_PANCHAYAT_MALOUD_WARD_NO",
+      "contactDetails": "",
+      "address": "Near bus stand Nagar Panchayat Maloud Ward no",
+      "type": "HALL",
+      "hallDescription": "Community hall facility.",
+      "termsAndCondition": "...",
+      "disclaimer": "...",
+      "cancellationPolicy": "...",
+      "headerImageUrl": "",
+      "portalUrl": "",
+      "remarks": "Community hall facility.",
+      "active": true
+    }
+  ]
+}

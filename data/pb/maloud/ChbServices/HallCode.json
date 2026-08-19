@@ -1,0 +1,15 @@
+{
+  "tenantId": "pb.maloud",
+  "moduleName": "CHB",
+  "HallCode": [
+    {
+      "communityHallId": "1",
+      "hallId": "1",
+      "HallCode": "HallCode-CHPM",
+      "capacity": "100",
+      "timeSlots": [
+      ],
+      "active": true
+    }
+  ]
+}
