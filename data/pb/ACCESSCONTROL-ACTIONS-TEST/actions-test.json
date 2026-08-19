@@ -25480,12 +25480,11 @@
       "url": "url",
       "displayName": "Search Alloted Properties",
       "orderNumber": 1,
-      "queryParams": "",
-      "parentModule": "rainmaker-hrms",
+      "parentModule": "rainmaker-rl",
       "enabled": true,
       "serviceCode": "RentAndLease",
       "code": "null",
-      "path": "RentAndLease.RentAndLease Reports.HRMSEmployee wise Report",
+      "path": "RentAndLease.RentAndLease Inbox",
       "navigationURL": "/digit-ui/employee/rentandlease/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
@@ -28851,7 +28850,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-        {
+    {
       "id": 204100,
       "name": "ReceiptRegister_24_25",
       "url": "url",
@@ -28910,6 +28909,6 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_25_26",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    } 
+    }
   ]
 }
