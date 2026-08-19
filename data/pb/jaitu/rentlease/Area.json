@@ -3,73 +3,8 @@
   "moduleName": "rentAndLease",
   "Area": [
     {
-      "name": "Jaitu - Mall Goudam Road",
-      "code": "JT_MALL_GOUDAM_ROAD_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near Old Sabzi Mandi",
-      "code": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Civil Hosipital Road",
-      "code": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near Bus Stand",
-      "code": "JT_NEAR_BUS_STAND_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Park Road",
-      "code": "JT_PARK_ROAD_RENT_COM",
-      "isActive": true
-    },
-    {
       "name": "Jaitu - Back side Market committee",
       "code": "JT_BACK_SIDE_MARKET_COMMITTEE_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Muktsar Road",
-      "code": "JT_MUKTSAR_ROAD_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near Shashtari Mandir Market",
-      "code": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Gol Market",
-      "code": "JT_GOL_MARKET_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Chownk No.2",
-      "code": "JT_CHOWNK_NO2_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near Gurudwara Bhai Jagta Ji",
-      "code": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Meat Market",
-      "code": "JT_MEAT_MARKET_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near PSPCL Office",
-      "code": "JT_NEAR_PSPCL_OFFICE_RENT_COM",
-      "isActive": true
-    },
-    {
-      "name": "Jaitu - Near Water Wax",
-      "code": "JT_NEAR_WATER_WAX_RENT_COM",
       "isActive": true
     },
     {
@@ -78,13 +13,93 @@
       "isActive": true
     },
     {
-      "name": "Jaitu - Nera Bus Stand",
-      "code": "JT_NERA_BUS_STAND_RENT_COM",
+      "name": "Jaitu - Chownk No.2",
+      "code": "JT_CHOWNK_NO2_RENT_COM",
       "isActive": true
     },
     {
       "name": "Jaitu - Chownk No.3",
       "code": "JT_CHOWNK_NO3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Civil Hosipital Road",
+      "code": "JT_CIVIL_HOSIPITAL_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Gol Market",
+      "code": "JT_GOL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Inside Bus Stand",
+      "code": "JT_INSIDE_BUS_STAND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Mall Goudam Road",
+      "code": "JT_MALL_GOUDAM_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Meat Market",
+      "code": "JT_MEAT_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Muktsar Road",
+      "code": "JT_MUKTSAR_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Bus Stand",
+      "code": "JT_NEAR_BUS_STAND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Gurudwara Bhai Jagta Ji",
+      "code": "JT_NEAR_GURUDWARA_BHAI_JAGTA_JI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Old Sabzi Mandi",
+      "code": "JT_NEAR_OLD_SABZI_MANDI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near PSPCL Office",
+      "code": "JT_NEAR_PSPCL_OFFICE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near sabji Mandi",
+      "code": "JT_NEAR_SABJI_MANDI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Shashtari Mandir Market",
+      "code": "JT_NEAR_SHASHTARI_MANDIR_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Teshil Complex",
+      "code": "JT_NEAR_TESHIL_COMPLEX_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Near Water Wax",
+      "code": "JT_NEAR_WATER_WAX_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Nera Bus Stand",
+      "code": "JT_NERA_BUS_STAND_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jaitu - Park Road",
+      "code": "JT_PARK_ROAD_RENT_COM",
       "isActive": true
     }
   ]

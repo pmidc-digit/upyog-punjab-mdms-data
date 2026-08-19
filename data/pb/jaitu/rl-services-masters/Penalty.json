@@ -5,9 +5,9 @@
     {
       "billingCycle": "MONTHLY",
       "penaltyType": "FIXED",
-      "flatAmount": 500,
+      "flatAmount": 0,
       "annualRate": 0,
-      "rate": 0,
+      "rate": 25,
       "applicableAfterDays": 0,
       "minAmount": 0,
       "maxAmount": null,
@@ -17,7 +17,7 @@
     {
       "billingCycle": "QUATERLY",
       "penaltyType": "FIXED",
-      "flatAmount": 500,
+      "flatAmount": 0,
       "annualRate": 0,
       "rate": 0,
       "applicableAfterDays": 0,
@@ -29,7 +29,7 @@
     {
       "billingCycle": "BIANNUAL",
       "penaltyType": "FIXED",
-      "flatAmount": 500,
+      "flatAmount": 0,
       "annualRate": 0,
       "rate": 0,
       "applicableAfterDays": 0,
@@ -41,7 +41,7 @@
     {
       "billingCycle": "ANNUAL",
       "penaltyType": "FIXED",
-      "flatAmount": 500,
+      "flatAmount": 0,
       "annualRate": 0,
       "rate": 0,
       "applicableAfterDays": 0,
