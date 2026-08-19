@@ -63270,8 +63270,20 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "ADV_EMPLOYEE",
+      "actionid": 883349,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "ADV_VERIFIER",
       "actionid": 883323,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+     {
+      "rolecode": "ADV_VERIFIER",
+      "actionid": 883349,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -63380,6 +63392,12 @@
     {
       "rolecode": "ADV_EMPLOYEE",
       "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 883349,
       "actioncode": "",
       "tenantId": "pb"
     },
