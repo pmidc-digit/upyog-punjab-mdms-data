@@ -28840,6 +28840,28 @@
       "rightIcon": ""
     },
     {
+      "id": 3041,
+      "name": "PT Report",
+      "url": "/report/rainmaker-pt/Test/metadata/_get",
+      "displayName": "Test Receipt Register Metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "PTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3042,
+      "name": "PT Report",
+      "url": "/report/rainmaker-pt/Test/_get",
+      "displayName": "Test Receipt Register Data",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "PTREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 204100,
       "name": "ReceiptRegister_24_25",
       "url": "url",

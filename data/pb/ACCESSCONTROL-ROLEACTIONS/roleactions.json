@@ -70839,7 +70839,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 3040,
       "actioncode": "",
@@ -70857,7 +70857,42 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB Operator",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ULB Operator",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "pb"
+    },    
     {
       "rolecode": "PTCEMP",
       "actionid": 204100,
