@@ -1,0 +1,171 @@
+{
+  "tenantId": "pb.ludhiana",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Ludhiana - CHAT MARKET",
+      "code": "LDH_CHAT_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - Cinema Road Part-1",
+      "code": "LDH_CINEMA_ROAD_PART1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - cinema road part-2",
+      "code": "LDH_CINEMA_ROAD_PART2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - cinema road part-3",
+      "code": "LDH_CINEMA_ROAD_PART3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - Dairy Complex Haibowal (Part A) (Lease 28)",
+      "code": "LDH_DAIRY_COMPLEX_HAIBOWAL_PART_A_LEASE_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - DCF&CS OFFICE",
+      "code": "LDH_DCFCS_OFFICE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - dresi road",
+      "code": "LDH_DRESI_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - DUBEY MARKET",
+      "code": "LDH_DUBEY_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - ESI ROAD MARKET",
+      "code": "LDH_ESI_ROAD_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - ghatti valmiki",
+      "code": "LDH_GHATTI_VALMIKI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - girja ghar chonk",
+      "code": "LDH_GIRJA_GHAR_CHONK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - gulati wool market",
+      "code": "LDH_GULATI_WOOL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - GURU RAMDAS MARKET",
+      "code": "LDH_GURU_RAMDAS_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - HIRA MARKET",
+      "code": "LDH_HIRA_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - JAWAHAR MARKET",
+      "code": "LDH_JAWAHAR_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - kamla nehru market",
+      "code": "LDH_KAMLA_NEHRU_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - KARTAR SINGH SARABHA MARKET",
+      "code": "LDH_KARTAR_SINGH_SARABHA_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - Lease (33)",
+      "code": "LDH_LEASE_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - mali ganj chonk",
+      "code": "LDH_MALI_GANJ_CHONK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - matta rani comlex",
+      "code": "LDH_MATTA_RANI_COMLEX_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - matta rani road",
+      "code": "LDH_MATTA_RANI_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - neta ji market",
+      "code": "LDH_NETA_JI_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - NIGAM MARKET",
+      "code": "LDH_NIGAM_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - old octroi dv.no 3",
+      "code": "LDH_OLD_OCTROI_DVNO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - R.R. BHARDWAJ MARKET",
+      "code": "LDH_RR_BHARDWAJ_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - SCOOTER MARKET",
+      "code": "LDH_SCOOTER_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - shaheed bhagat singh market",
+      "code": "LDH_SHAHEED_BHAGAT_SINGH_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - SHED NO 196, HDC PART-A",
+      "code": "LDH_SHED_NO_196_HDC_PARTA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - subash nagar",
+      "code": "LDH_SUBASH_NAGAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - SUKHDEV MARKET",
+      "code": "LDH_SUKHDEV_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - Talab Bazar",
+      "code": "LDH_TALAB_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - VERKA BOOTH",
+      "code": "LDH_VERKA_BOOTH_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Ludhiana - wooden stall dresi road",
+      "code": "LDH_WOODEN_STALL_DRESI_ROAD_RENT_COM",
+      "isActive": true
+    }
+  ]
+}

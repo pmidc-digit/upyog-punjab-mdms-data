@@ -1,0 +1,50 @@
+{
+  "tenantId": "pb.ludhiana",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "MONTHLY",
+      "penaltyType": "SIMPLE_INTEREST",
+      "rate": 19,
+      "applicableAfterDays": 0,
+      "minAmount": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "penaltyType": "SIMPLE_INTEREST",
+      "rate": 0,
+      "applicableAfterDays": 0,
+      "minAmount": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "penaltyType": "SIMPLE_INTEREST",
+      "rate": 0,
+      "applicableAfterDays": 0,
+      "minAmount": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "penaltyType": "SIMPLE_INTEREST",
+      "rate": 0,
+      "applicableAfterDays": 0,
+      "minAmount": 0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    }
+  ]
+}
