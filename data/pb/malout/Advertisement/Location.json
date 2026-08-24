@@ -1,0 +1,150 @@
+{
+  "tenantId": "pb.malout",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "New Dana Mandi Gate 1",
+      "code": "DANA_MANDI_GATE_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "New Dana Mandi Gate 2",
+      "code": "DANA_MANDI_GATE_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "In front of Bijli Ghar Office, GT Road",
+      "code": "BIJLI_GHAR_OFFICE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Near Chaudhary Jagdish Petrol Pump",
+      "code": "JAGDISH_PETROL_PUMP",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Near PNB Bank, GT Road",
+      "code": "PNB_BANK_GT_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Near Cairo Road, GT Road",
+      "code": "CAIRO_ROAD_GT_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "In front of Tehsil Road, GT Road",
+      "code": "TEHSIL_ROAD_GT_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Near Bus Stand, GT Road",
+      "code": "BUS_STAND_GT_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Bathinda Chowk, GT Road",
+      "code": "BATHINDA_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Opposite Bus Stand (1)",
+      "code": "OPP_BUS_STAND_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Opposite Bus Stand (2)",
+      "code": "OPP_BUS_STAND_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Opposite Cairo Road (1)",
+      "code": "OPP_CAIRO_ROAD_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Opposite Cairo Road (2)",
+      "code": "OPP_CAIRO_ROAD_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "In front of Main Theka",
+      "code": "MAIN_THEKA",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "Near Makkar Palace",
+      "code": "MAKKAR_PALACE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    },
+    {
+      "name": "In front of Punjab Palace",
+      "code": "PUNJAB_PALACE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.19,
+        "longitude": 74.49
+      }
+    }
+  ]
+}
