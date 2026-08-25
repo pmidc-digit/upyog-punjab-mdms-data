@@ -481,7 +481,7 @@
       "code": "pet-services",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "petservice-receipt",
-      "billKey": "consolidatedbill",
+      "billKey": "pet-receipt-employee",
       "arrears": true,
       "buttons": [
         {
