@@ -1,0 +1,114 @@
+{
+  "tenantId": "pb.gidderbaha",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Bharu Chowk",
+      "code": "BHARU_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Husnar Chowk",
+      "code": "HUSNAR_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Bus Stand",
+      "code": "BUS_STAND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Bhatti Mor",
+      "code": "BHATTI_MOR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Old Market Committee Office",
+      "code": "OLD_MARKET_COMMITTEE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Sua Road near Water Works",
+      "code": "SUA_ROAD_WATER_WORKS",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Piuri Road near Guru Gobind Singh Park",
+      "code": "PIURI_ROAD_PARK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Near SSS Girls School",
+      "code": "SSS_GIRLS_SCHOOL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Lambi Road near Railway Crossing",
+      "code": "LAMBI_ROAD_RAILWAY",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Lambi Road near Power House",
+      "code": "LAMBI_ROAD_POWER_HS",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Malout Road near Pappu Dhaba",
+      "code": "MALOUT_ROAD_PAPPU",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    },
+    {
+      "name": "Gaushala Road near Gaushala Mandir",
+      "code": "GAUSHALA_MANDIR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.21,
+        "longitude": 74.68
+      }
+    }
+  ]
+}
