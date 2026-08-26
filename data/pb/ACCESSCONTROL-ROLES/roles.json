@@ -1532,11 +1532,17 @@
       "description": "Kibana Dashboard",
       "groupId": "014"
     },
-	{
-	  "code": "API_ONLY",
-	  "name": "API Only",
-	  "description": "Default role for API only access",
-	  "groupId": "030"
-	}
+    {
+      "code": "API_ONLY",
+      "name": "API Only",
+      "description": "Default role for API only access",
+      "groupId": "030"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS Admin",
+      "description": "MDMS ADMIN",
+      "groupId": "028"
+    }
   ]
 }

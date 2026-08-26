@@ -1,0 +1,21 @@
+{
+    "tenantId": "pb.gidderbaha",
+    "moduleName": "Advertisement",
+    "ScheduleType": [
+      {
+        "frequency": "Daily"
+      },
+      {
+        "frequency": "Weekly"
+      },
+      {
+        "frequency": "Monthly"
+      },
+      {
+        "frequency": "Yearly"
+      },
+      {
+        "frequency": "Biannual"
+      }
+    ]
+  }
