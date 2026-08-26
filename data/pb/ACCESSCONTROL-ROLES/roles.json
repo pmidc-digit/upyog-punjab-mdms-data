@@ -1543,6 +1543,12 @@
       "name": "MDMS Admin",
       "description": "MDMS ADMIN",
       "groupId": "028"
+    },
+    {
+      "code": "BPA_Labour_Department",
+      "name": "BPA Labour Department",
+      "description": "Role to access by Labour Department",
+      "groupId": "025"
     }
   ]
 }

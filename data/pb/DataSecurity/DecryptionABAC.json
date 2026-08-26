@@ -129,6 +129,12 @@
                 "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/user_address"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
