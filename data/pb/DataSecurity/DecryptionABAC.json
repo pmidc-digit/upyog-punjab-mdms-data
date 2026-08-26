@@ -2307,6 +2307,37 @@
           ]
         }
       ]
+    },
+    {
+      "key": "ADVREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "STADMIN", 
+          "attributeAccessList": [
+            {
+              "attribute": { "jsonPath": "*/name" },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": { "jsonPath": "*/mobilenumber" },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE", 
+          "attributeAccessList": [
+            {
+              "attribute": { "jsonPath": "*/name" },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": { "jsonPath": "*/mobilenumber" },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
