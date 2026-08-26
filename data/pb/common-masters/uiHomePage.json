@@ -151,6 +151,13 @@
             "label": "ACTION_TEST_FIRENOC",
             "enabled": true,
             "navigationUrl": "/digit-ui/citizen/firenoc-home"
+          },
+           {
+            "code": "CITIZEN_SERVICE_PGR_GRABAGE",
+            "name": "Complaints",
+            "label": "ES_PGR_HEADER_COMPLAINT",
+            "enabled": true,
+            "navigationUrl": "/citizen/pgr-home?&type=pdc"
           }
         ]
       },
