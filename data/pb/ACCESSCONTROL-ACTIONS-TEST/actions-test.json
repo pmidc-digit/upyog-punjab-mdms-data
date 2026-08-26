@@ -28920,6 +28920,22 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_25_26",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1942123,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Complaints-PDC",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "pgr-home?&type=pdc",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
