@@ -20454,7 +20454,7 @@
     },
     {
       "id": 882462,
-      "name": "BPA_CITIZEN_HOME_ARCHITECT_USER_MANUAL_LABEL",
+      "name": "BPA_CITIZEN_HOME_REGISTRATION_USER_MANUAL_LABEL",
       "url": "digit-ui-card",
       "displayName": "User Manuals",
       "orderNumber": 5,
@@ -20463,7 +20463,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FCLU%2FAugust%2F24%2F1787563477587KdQCYKmWtM.pdf",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FCLU%2FAugust%2F26%2F1787726613252XlehJUJsHl.pdf",
       "leftIcon": "OBPSIcon",
       "rightIcon": "",
       "queryParams": "",
@@ -27430,6 +27430,24 @@
       "navigationURL": "/digit-ui/employee/noc/search/application",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 882464,
+      "name": "BPA_CITIZEN_HOME_EDCR_USER_MANUAL_LABEL",
+      "url": "digit-ui-card",
+      "displayName": "User Manuals",
+      "orderNumber": 7,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FCLU%2FAugust%2F26%2F1787728067459OQrTjnKJzm.pdf",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
     },
     {
       "id": 882465,
