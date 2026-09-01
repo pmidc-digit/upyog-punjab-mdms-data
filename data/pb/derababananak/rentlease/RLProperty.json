@@ -1,0 +1,120 @@
+{
+  "tenantId": "pb.derababananak",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-DBN20260000001",
+      "propertyName": "Unit 7/13 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 48.0,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "103",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DBN20260000002",
+      "propertyName": "Unit 8/14 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 48.0,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "103",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DBN20260000003",
+      "propertyName": "Unit 9/15 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 175.0,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "275",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DBN20260000004",
+      "propertyName": "Unit 1 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.75,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "852",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DBN20260000005",
+      "propertyName": "Unit 2 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.75,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "888",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-DBN20260000006",
+      "propertyName": "Unit 3 - Main Bazar",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 80.75,
+      "address": "Main Bazar",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "869",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "DBN_MAIN_BAZAR_RENT_COM"
+    }
+  ]
+}
