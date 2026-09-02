@@ -16024,6 +16024,18 @@
           "code": "pb.bababakalasahib"
         }
       ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "order": 31,
+      "active": true,
+      "access": "",
+      "tenants": [
+        {
+          "code": "pb.punjab"
+        }
+      ]
     }
   ]
 }
