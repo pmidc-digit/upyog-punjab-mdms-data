@@ -28965,6 +28965,116 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 89001001,
+      "name": "Update Advertisement Type",
+      "url": "/mdms-v2/v2/_update/Advertisement.AdType",
+      "displayName": "Update Advertisement Type",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001002,
+      "name": "Update Advertisement Documents",
+      "url": "/mdms-v2/v2/_update/Advertisement.Documents",
+      "displayName": "Update Advertisement Update Documents",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001003,
+      "name": "Update Advertisement InterestAmount",
+      "url": "/mdms-v2/v2/_update/Advertisement.InterestAmount",
+      "displayName": "Update Advertisement Update InterestAmount",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001004,
+      "name": "Update Advertisement Location",
+      "url": "/mdms-v2/v2/_update/Advertisement.Location",
+      "displayName": "Update Advertisement Update Location",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001005,
+      "name": "Update Advertisement Penalty Fee",
+      "url": "/mdms-v2/v2/_update/Advertisement.PenaltyFee",
+      "displayName": "Update Advertisement Update Penalty Fee",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001006,
+      "name": "Update Advertisement Schedule Type",
+      "url": "/mdms-v2/v2/_update/Advertisement.ScheduleType",
+      "displayName": "Update Advertisement Update Schedule Type",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001007,
+      "name": "Update Advertisement Security Fee",
+      "url": "/mdms-v2/v2/_update/Advertisement.SecurityFee",
+      "displayName": "Update Advertisement Update Security Fee",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001008,
+      "name": "Update Advertisement Service Charge",
+      "url": "/mdms-v2/v2/_update/Advertisement.ServiceCharge",
+      "displayName": "Update Advertisement Update Service Charges",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001009,
+      "name": "Update Advertisement Tax Amount",
+      "url": "/mdms-v2/v2/_update/Advertisement.TaxAmount",
+      "displayName": "Update Advertisement Update Tax Amount",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001010,
+      "name": "Update Advertisement Advertisements",
+      "url": "/mdms-v2/v2/_update/Advertisement.Advertisements",
+      "displayName": "Update Advertisement Update Advertisements",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
