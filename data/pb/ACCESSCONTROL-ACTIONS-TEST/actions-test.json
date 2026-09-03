@@ -28957,8 +28957,19 @@
     },
     {
       "id": 500701,
-      "name": "BPA Labour Department Details",
-      "url": "/egov-searcher/rainmaker-obpas_bpa/bpaLabourDepartmentSearch/_get",
+      "name": "BPA Labour Department Details MC",
+      "url": "/egov-searcher/rainmaker-obpas_bpa/bpaLabourDepartmentSearchMC/_get",
+      "displayName": "BPA Labour Department",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 500702,
+      "name": "BPA Labour Department Details Others",
+      "url": "/egov-searcher/rainmaker-obpas_bpa/bpaLabourDepartmentSearchOthers/_get",
       "displayName": "BPA Labour Department",
       "orderNumber": 0,
       "enabled": false,
