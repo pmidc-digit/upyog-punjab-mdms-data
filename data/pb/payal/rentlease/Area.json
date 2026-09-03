@@ -1,0 +1,36 @@
+{
+  "tenantId": "pb.payal",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Payal - Old tehsil road payal",
+      "code": "PYL_OLD_TEHSIL_ROAD_PAYAL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Payal - Qila road Payal",
+      "code": "PYL_QILA_ROAD_PAYAL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Payal - Main Bazaar Road Fort Side Payal",
+      "code": "PYL_MAIN_BAZAAR_ROAD_FORT_SIDE_PAYAL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Payal - Beant Singh Market Payal",
+      "code": "PYL_BEANT_SINGH_MARKET_PAYAL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Payal - Near Govt Primary School Payal",
+      "code": "PYL_NEAR_GOVT_PRIMARY_SCHOOL_PAYAL_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Payal - Near Bus Stand Payal",
+      "code": "PYL_NEAR_BUS_STAND_PAYAL_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
