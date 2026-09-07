@@ -1549,6 +1549,12 @@
       "name": "BPA Labour Department",
       "description": "Role to access by Labour Department",
       "groupId": "025"
-    }
+    },
+	{
+	  "code": "DEV_API_ONLY",
+      "name": "DEV API Only",
+      "description": "Default role for DEV API only access",
+	  "groupId": "030"
+	}
   ]
 }

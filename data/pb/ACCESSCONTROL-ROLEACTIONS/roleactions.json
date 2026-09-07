@@ -71198,6 +71198,12 @@
       "actionid": 89001010,
       "actioncode": "",
       "tenantid": "pb"
-    }
+    },
+	{
+	  "rolecode":"DEV_API_ONLY",
+	  "actionid": 500703,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	}
   ]
 }
