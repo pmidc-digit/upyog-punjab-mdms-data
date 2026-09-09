@@ -29097,6 +29097,248 @@
 	  "serviceCode": "COLLECTION",
 	  "code": "null",
 	  "path": ""
-  	}
+  	},
+    {
+      "id": 89001011,
+      "name": "Create Advertisement AdType",
+      "url": "/mdms-v2/v2/_create/Advertisement.AdType",
+      "displayName": "Create Advertisement AdType",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001012,
+      "name": "Create Advertisement Advertisements",
+      "url": "/mdms-v2/v2/_create/Advertisement.Advertisements",
+      "displayName": "Create Advertisement Advertisements",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001013,
+      "name": "Create Advertisement PenaltyFee",
+      "url": "/mdms-v2/v2/_create/Advertisement.PenaltyFee",
+      "displayName": "Create Advertisement PenaltyFee",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001014,
+      "name": "Create Advertisement ScheduleType",
+      "url": "/mdms-v2/v2/_create/Advertisement.ScheduleType",
+      "displayName": "Create Advertisement ScheduleType",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001015,
+      "name": "Create Advertisement SecurityFee",
+      "url": "/mdms-v2/v2/_create/Advertisement.SecurityFee",
+      "displayName": "Create Advertisement SecurityFee",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001016,
+      "name": "Create Advertisement FaceArea",
+      "url": "/mdms-v2/v2/_create/Advertisement.FaceArea",
+      "displayName": "Create Advertisement FaceArea",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001017,
+      "name": "Create Advertisement Location",
+      "url": "/mdms-v2/v2/_create/Advertisement.Location",
+      "displayName": "Create Advertisement Location",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001018,
+      "name": "Create Advertisement CalculationType",
+      "url": "/mdms-v2/v2/_create/Advertisement.CalculationType",
+      "displayName": "Create Advertisement CalculationType",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001019,
+      "name": "Create Advertisement TaxAmount",
+      "url": "/mdms-v2/v2/_create/Advertisement.TaxAmount",
+      "displayName": "Create Advertisement TaxAmount",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001020,
+      "name": "Create Advertisement Documents",
+      "url": "/mdms-v2/v2/_create/Advertisement.Documents",
+      "displayName": "Create Advertisement Documents",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001021,
+      "name": "Create Advertisement InterestAmount",
+      "url": "/mdms-v2/v2/_create/Advertisement.InterestAmount",
+      "displayName": "Create Advertisement InterestAmount",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001022,
+      "name": "Create Advertisement SecurityDeposit",
+      "url": "/mdms-v2/v2/_create/Advertisement.SecurityDeposit",
+      "displayName": "Create Advertisement SecurityDeposit",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001023,
+      "name": "Create Advertisement Unipole_12_8",
+      "url": "/mdms-v2/v2/_create/Advertisement.Unipole_12_8",
+      "displayName": "Create Advertisement Unipole_12_8",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001024,
+      "name": "Create Advertisement ServiceCharge",
+      "url": "/mdms-v2/v2/_create/Advertisement.ServiceCharge",
+      "displayName": "Create Advertisement ServiceCharge",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001025,
+      "name": "Create Advertisement Unipole_18_8",
+      "url": "/mdms-v2/v2/_create/Advertisement.Unipole_18_8",
+      "displayName": "Create Advertisement Unipole_18_8",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001026,
+      "name": "Create Advertisement AdvServices",
+      "url": "/mdms-v2/v2/_create/Advertisement.AdvServices",
+      "displayName": "Create Advertisement AdvServices",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001027,
+      "name": "Update Advertisement FaceArea",
+      "url": "/mdms-v2/v2/_update/Advertisement.FaceArea",
+      "displayName": "Update Advertisement FaceArea",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001028,
+      "name": "Update Advertisement CalculationType",
+      "url": "/mdms-v2/v2/_update/Advertisement.CalculationType",
+      "displayName": "Update Advertisement CalculationType",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001029,
+      "name": "Update Advertisement SecurityDeposit",
+      "url": "/mdms-v2/v2/_update/Advertisement.SecurityDeposit",
+      "displayName": "Update Advertisement SecurityDeposit",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001030,
+      "name": "Update Advertisement Unipole_12_8",
+      "url": "/mdms-v2/v2/_update/Advertisement.Unipole_12_8",
+      "displayName": "Update Advertisement Unipole_12_8",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001031,
+      "name": "Update Advertisement Unipole_18_8",
+      "url": "/mdms-v2/v2/_update/Advertisement.Unipole_18_8",
+      "displayName": "Update Advertisement Unipole_18_8",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89001032,
+      "name": "Update Advertisement AdvServices",
+      "url": "/mdms-v2/v2/_update/Advertisement.AdvServices",
+      "displayName": "Update Advertisement AdvServices",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MDMS-V2",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
