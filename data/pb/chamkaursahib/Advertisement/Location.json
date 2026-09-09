@@ -1,0 +1,60 @@
+{
+  "tenantId": "pb.chamkaursahib",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Near NP Office",
+      "code": "NP_OFFICE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8978832,
+        "longitude": 76.4107806
+      }
+    },
+    {
+      "name": "Guru Gobind Singh Marg",
+      "code": "GURU_GOBIND_MARG",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8945419,
+        "longitude": 76.4130804
+      }
+    },
+    {
+      "name": "Morinda Bela Road",
+      "code": "MORINDA_BELA_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8953826,
+        "longitude": 76.4095145
+      }
+    },
+    {
+      "name": "Near SDM Office",
+      "code": "SDM_OFFICE",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8976265,
+        "longitude": 76.4033318
+      }
+    },
+    {
+      "name": "Bus Stand",
+      "code": "BUS_STAND",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8949448,
+        "longitude": 76.4096868
+      }
+    },
+    {
+      "name": "Bhurare Road",
+      "code": "BHURARE_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.8893553,
+        "longitude": 76.4128786
+      }
+    }
+  ]
+}

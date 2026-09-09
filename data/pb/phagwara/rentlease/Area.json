@@ -1,0 +1,71 @@
+{
+  "tenantId": "pb.phagwara",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Phagwara - Mandi Road",
+      "code": "PHG_MANDI_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Bansa wala Bazar",
+      "code": "PHG_BANSA_WALA_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Guru Nanak Market",
+      "code": "PHG_GURU_NANAK_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Khera Road Market",
+      "code": "PHG_KHERA_ROAD_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - mandi Road Booth Market",
+      "code": "PHG_MANDI_ROAD_BOOTH_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Mal Godam Road Market",
+      "code": "PHG_MAL_GODAM_ROAD_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Guru Nanak Libaray Market",
+      "code": "PHG_GURU_NANAK_LIBARAY_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - JCT Mill Market",
+      "code": "PHG_JCT_MILL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Nimma wala Chowk",
+      "code": "PHG_NIMMA_WALA_CHOWK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Nimma wala Chowk Market",
+      "code": "PHG_NIMMA_WALA_CHOWK_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Footkal Market",
+      "code": "PHG_FOOTKAL_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Loha Mandi Market",
+      "code": "PHG_LOHA_MANDI_MARKET_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Phagwara - Dhobi ghat",
+      "code": "PHG_DHOBI_GHAT_RENT_COM",
+      "isActive": true
+    }
+  ]
+}

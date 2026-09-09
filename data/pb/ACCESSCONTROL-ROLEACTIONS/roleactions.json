@@ -70461,7 +70461,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 237812,
@@ -70636,7 +70635,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "WS_DOC_VERIFIER",
       "actionid": 89000919,
       "actioncode": "",
@@ -70660,7 +70659,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "SW_DOC_VERIFIER",
       "actionid": 89000919,
       "actioncode": "",
@@ -70731,7 +70730,8 @@
       "actionid": 89000926,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SEWERAGE_REPORT_VIEWER",
       "actionid": 89000923,
       "actioncode": "",
@@ -70892,7 +70892,7 @@
       "actionid": 3042,
       "actioncode": "",
       "tenantId": "pb"
-    },    
+    },
     {
       "rolecode": "PTCEMP",
       "actionid": 204100,
@@ -70923,7 +70923,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 204100,
       "actioncode": "",
@@ -70935,7 +70935,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "PTCEMP",
       "actionid": 204200,
       "actioncode": "",
@@ -70965,7 +70965,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 204200,
       "actioncode": "",
@@ -71001,7 +71001,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 204300,
       "actioncode": "",
@@ -71132,6 +71132,210 @@
       "actionid": 500701,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "BPA_Labour_Department",
+      "actionid": 500702,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001001,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001002,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001003,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001004,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001005,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001006,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001007,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001008,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001009,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001010,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+	{
+	  "rolecode":"DEV_API_ONLY",
+	  "actionid": 500703,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001011,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001012,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001013,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001014,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001015,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001016,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001017,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001018,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001019,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001020,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001021,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001022,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001023,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001024,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001025,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001026,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001027,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001028,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001029,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001030,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001031,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 89001032,
+      "actioncode": "",
+      "tenantid": "pb"
     }
   ]
 }

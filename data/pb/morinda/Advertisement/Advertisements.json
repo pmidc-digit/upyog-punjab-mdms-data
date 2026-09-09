@@ -1,0 +1,40 @@
+{
+  "tenantId": "pb.morinda",
+  "moduleName": "Advertisement",
+  "Advertisements": [
+    {
+      "id": 1,
+      "poleNo": "1",
+      "name": "Kainour Bajar (15 Street Light Poles)",
+      "adType": "KIOSK_POLE",
+      "width": 24,
+      "height": 36,
+      "imageSrc": "",
+      "light": "With Light",
+      "amount": 12,
+      "available": true,
+      "locationCode": "KAINAUR_BAJAR",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true,
+      "scheduleType": "DAILY",
+      "rentalType": "FIXED"
+    },
+    {
+      "id": 2,
+      "poleNo": "2",
+      "name": "Old Basi Road (20 Street Light Poles)",
+      "adType": "KIOSK_POLE",
+      "width": 24,
+      "height": 36,
+      "imageSrc": "",
+      "light": "With Light",
+      "amount": 12,
+      "available": true,
+      "locationCode": "OLD_BASI_ROAD",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true,
+      "scheduleType": "DAILY",
+      "rentalType": "FIXED"
+    }
+  ]
+}

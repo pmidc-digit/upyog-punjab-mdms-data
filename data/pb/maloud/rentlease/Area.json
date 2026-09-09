@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.maloud",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Maloud - Chomon Road Maloudh",
+      "code": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maloud - Ward No 1 Bus stand Maloudh",
+      "code": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
