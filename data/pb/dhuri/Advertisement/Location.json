@@ -1,0 +1,69 @@
+{
+  "tenantId": "pb.dhuri",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Bus Stand (1)",
+      "code": "BUS_STAND_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Bus Stand (2)",
+      "code": "BUS_STAND_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Kakarhwal Pull",
+      "code": "KAKARHWAL_PULL",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Bagrhiya Chowk (1)",
+      "code": "BAGRHIYA_CHOWK_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Bagrhiya Chowk (2)",
+      "code": "BAGRHIYA_CHOWK_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Sangrur Bypass",
+      "code": "SANGRUR_BYPASS",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    },
+    {
+      "name": "Near Dhola Phatak",
+      "code": "DHOLA_PHATAK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.37,
+        "longitude": 75.87
+      }
+    }
+  ]
+}

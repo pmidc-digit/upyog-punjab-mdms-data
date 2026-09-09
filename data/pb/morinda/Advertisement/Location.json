@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.morinda",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Kainour Bajar (15 Street Light Poles)",
+      "code": "KAINAUR_BAJAR",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.789819,
+        "longitude": 76.489869
+      }
+    },
+    {
+      "name": "Old Basi Road (20 Street Light Poles)",
+      "code": "OLD_BASI_ROAD",
+      "active": true,
+      "geo_tag": {
+        "latitude": 30.791166,
+        "longitude": 76.497547
+      }
+    }
+  ]
+}

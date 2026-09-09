@@ -1,0 +1,462 @@
+{
+  "tenantId": "pb.maloud",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-MLD20260000001",
+      "propertyName": "Shop 1 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "555",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000002",
+      "propertyName": "Shop 2 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2690",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000003",
+      "propertyName": "Shop 3 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "555",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000004",
+      "propertyName": "Shop 4 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4180",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000005",
+      "propertyName": "Shop 5 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "4615",
+      "securityDeposit": 100000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000006",
+      "propertyName": "Shop 6 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1773",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000007",
+      "propertyName": "Shop 7 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1455",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000008",
+      "propertyName": "Shop 8 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2015",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000009",
+      "propertyName": "Shop 9 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1370",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000010",
+      "propertyName": "Shop 10 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1370",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000011",
+      "propertyName": "Shop 11 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1455",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000012",
+      "propertyName": "Shop 12 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1773",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000013",
+      "propertyName": "Shop 13 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1370",
+      "securityDeposit": 25000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000014",
+      "propertyName": "Shop 14 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1773",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000015",
+      "propertyName": "Shop 15 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2420",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000016",
+      "propertyName": "Shop 16 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "2530",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000017",
+      "propertyName": "Shop 17 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1773",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000018",
+      "propertyName": "Shop 18 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1773",
+      "securityDeposit": 50000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000019",
+      "propertyName": "Shop 19 - Chomon Road Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Chomon Road Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "660",
+      "securityDeposit": 10000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000020",
+      "propertyName": "Shop 20 - Ward No 1 Bus stand Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ward No 1 Bus stand Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1331",
+      "securityDeposit": 20000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000021",
+      "propertyName": "Shop 21 - Ward No 1 Bus stand Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ward No 1 Bus stand Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1855",
+      "securityDeposit": 20000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000022",
+      "propertyName": "Shop 22 - Ward No 1 Bus stand Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ward No 1 Bus stand Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1485",
+      "securityDeposit": 20000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000023",
+      "propertyName": "Shop 23 - Ward No 1 Bus stand Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ward No 1 Bus stand Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 20000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-MLD20260000024",
+      "propertyName": "Shop 24 - Ward No 1 Bus stand Maloudh",
+      "allotmentType": "rent",
+      "propertySizeOrArea": 0.0,
+      "address": "Ward No 1 Bus stand Maloudh",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1290",
+      "securityDeposit": 20000,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Daily",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM"
+    }
+  ]
+}
