@@ -29339,6 +29339,43 @@
       "serviceCode": "MDMS-V2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 882573888,
+      "name": "Rent & Lease New Applications Report",
+      "url": "url",
+      "displayName": "Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "path": "Rent & Lease Reports.Rent & Lease New Applications Report",
+      "navigationURL": "report/rainmaker-rl/RentAndLeaseNewApplicationsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 882574999,
+      "name": "Rent & Lease New Applications Report",
+      "url": "/report/rainmaker-rl/RentAndLeaseNewApplicationsReport/metadata/_get",
+      "displayName": "Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 882575777,
+      "name": "Rent & Lease New Applications Report",
+      "url": "/report/rainmaker-rl/RentAndLeaseNewApplicationsReport/_get",
+      "displayName": "Rent & Lease New Applications Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
