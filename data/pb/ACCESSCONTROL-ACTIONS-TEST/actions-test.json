@@ -29376,6 +29376,43 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 890100170,
+      "name": "Rent And Lease Defaulter Report",
+      "url": "url",
+      "displayName": "Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "Rent & Lease Reports",
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "path": "Rent & Lease Reports.Rent And Lease Defaulter Report",
+      "navigationURL": "report/rainmaker-rl/RentAndLeaseDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 890100180,
+      "name": "Rent And Lease Defaulter Report",
+      "url": "/report/rainmaker-rl/RentAndLeaseDefaulterReport/metadata/_get",
+      "displayName": "Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 890100190,
+      "name": "Rent And Lease Defaulter Report",
+      "url": "/report/rainmaker-rl/RentAndLeaseDefaulterReport/_get",
+      "displayName": "Rent And Lease Defaulter Report",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "RLREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
