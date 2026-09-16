@@ -28433,6 +28433,22 @@
       "rightIcon": ""
     },
     {
+      "id": 890099990,
+      "name": "OBPS Kibana Dashboard",
+      "url": "url",
+      "displayName": "OBPSKibanaDashboard",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "OBPS Kibana Dashboard",
+      "code": "null",
+      "path": "OBPSKibanaDashboard.Search",
+      "navigationURL": "/kibana-v2/s/anonymous-user/app/dashboards?auth_provider_hint=anonymous1#/view/36efa59f-3889-44af-b60e-599838f6250b?embed=true&hide-filter-bar=true&_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 89010000,
       "name": "Property Inbox",
       "url": "url",
@@ -29087,17 +29103,17 @@
       "code": "null",
       "path": ""
     },
-	{	
-	  "id": 500703,
-	  "name": "Collection Reciept file Update Service",
-	  "url": "/collection-services/payments/_update",
-	  "displayName": "File Store Id Update",
-	  "orderNumber": 0,
-	  "enabled": false,
-	  "serviceCode": "COLLECTION",
-	  "code": "null",
-	  "path": ""
-  	},
+    {
+      "id": 500703,
+      "name": "Collection Reciept file Update Service",
+      "url": "/collection-services/payments/_update",
+      "displayName": "File Store Id Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
     {
       "id": 89001011,
       "name": "Create Advertisement AdType",

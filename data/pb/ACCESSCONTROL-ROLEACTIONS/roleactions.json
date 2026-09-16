@@ -63281,7 +63281,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "ADV_VERIFIER",
       "actionid": 883349,
       "actioncode": "",
@@ -70036,8 +70036,14 @@
       "tenantId": "pb"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "VIEW_KIBANA_DASHBOARD",
       "actionid": 89009990,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "VIEW_OBPS_KIBANA_DASHBOARD",
+      "actionid": 890099990,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -71037,7 +71043,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "CSR",
       "actionid": 204400,
       "actioncode": "",
@@ -71061,7 +71067,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-        {
+    {
       "rolecode": "ULB_ADMINISTRATOR_REPORTS",
       "actionid": 204400,
       "actioncode": "",
@@ -71121,7 +71127,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 1942123,
       "actioncode": "",
@@ -71199,12 +71205,12 @@
       "actioncode": "",
       "tenantid": "pb"
     },
-	{
-	  "rolecode":"DEV_API_ONLY",
-	  "actionid": 500703,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
+    {
+      "rolecode": "DEV_API_ONLY",
+      "actionid": 500703,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
     {
       "rolecode": "MDMS_ADMIN",
       "actionid": 89001011,
