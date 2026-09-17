@@ -1437,12 +1437,12 @@
 				{
 					"OccupancyType": "F-PFSF",
 					"OccupancyName": "Petrol Filling Station – Four Wheeler",
-					"minPlotArea": 270,
-					"maxPlotArea": 510,
+					"minPlotArea": 270.0,
+					"maxPlotArea": 2147483647,
 					"NormalFAR": 0.10,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
-					"minRoad": 18,
+					"minRoad": 30,
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 6,
@@ -1452,24 +1452,29 @@
 					"sideSetBack2": 0.0,
 					"siteCoverage": 10,
 					"additionalRules": {
+						"minPlotLength": 30,
+						"minPlotBreadth": 17,
+						"minFrontage": 30,
+						"longerSideMustBeFrontage": true,
 						"minDistanceFromIntersection": {
 							"minorRoadLessThan30m": 50,
 							"majorRoad30mOrMore": 100
 						},
 						"minDistanceFromCenterLine": 15,
-						"minFrontage": 30,
-						"canopyAllowedWithinSetback": true
+						"canopyAllowedWithinSetback": true,
+						"canopyExcludedFromGroundCoverage": true,
+						"mezzanineCountedInFAR": true
 					}
 				},
 				{
 					"OccupancyType": "F-PFST",
 					"OccupancyName": "Petrol Filling Station – Two/Three Wheeler",
-					"minPlotArea": 270,
-					"maxPlotArea": 510,
+					"minPlotArea": 270.0,
+					"maxPlotArea": 2147483647,
 					"NormalFAR": 0.10,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
-					"minRoad": 18,
+					"minRoad": 30,
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 6,
@@ -1479,24 +1484,29 @@
 					"sideSetBack2": 0.0,
 					"siteCoverage": 10,
 					"additionalRules": {
+						"minPlotLength": 18,
+						"minPlotBreadth": 15,
+						"minFrontage": 30,
+						"longerSideMustBeFrontage": true,
 						"minDistanceFromIntersection": {
 							"minorRoadLessThan30m": 50,
 							"majorRoad30mOrMore": 100
 						},
 						"minDistanceFromCenterLine": 15,
-						"minFrontage": 30,
-						"canopyAllowedWithinSetback": true
+						"canopyAllowedWithinSetback": true,
+						"canopyExcludedFromGroundCoverage": true,
+						"mezzanineCountedInFAR": true
 					}
 				},
 				{
 					"OccupancyType": "F-PFSS",
 					"OccupancyName": "Petrol Filling Cum Service Station",
-					"minPlotArea": 1080,
-					"maxPlotArea": 1485,
+					"minPlotArea": 1080.0,
+					"maxPlotArea": 2147483647,
 					"NormalFAR": 0.20,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
-					"minRoad": 18,
+					"minRoad": 30,
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 6,
@@ -1506,23 +1516,31 @@
 					"sideSetBack2": 0.0,
 					"siteCoverage": 20,
 					"additionalRules": {
+						"minPlotLength": 36,
+						"minPlotBreadth": 30,
+						"maxPlotLength": 45,
+						"maxPlotBreadth": 33,
+						"minFrontage": 30,
+						"longerSideMustBeFrontage": true,
 						"minDistanceFromIntersection": {
 							"minorRoadLessThan30m": 50,
 							"majorRoad30mOrMore": 100
 						},
 						"minDistanceFromCenterLine": 15,
-						"minFrontage": 30
+						"canopyAllowedWithinSetback": true,
+						"canopyExcludedFromGroundCoverage": true,
+						"mezzanineCountedInFAR": true
 					}
 				},
 				{
 					"OccupancyType": "F-PS",
 					"OccupancyName": "Petrol Station",
-					"minPlotArea": 270,
-					"maxPlotArea": 1485,
-					"NormalFAR": 0.20,
+					"minPlotArea": 270.0,
+					"maxPlotArea": 2147483647,
+					"NormalFAR": 0.10,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
-					"minRoad": 18,
+					"minRoad": 30,
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 6,
@@ -1530,13 +1548,20 @@
 					"rearSetBack": 0.0,
 					"sideSetBack1": 0.0,
 					"sideSetBack2": 0.0,
-					"siteCoverage": 20,
+					"siteCoverage": 10,
 					"additionalRules": {
+						"minPlotLength": 30,
+						"minPlotBreadth": 17,
+						"minFrontage": 30,
+						"longerSideMustBeFrontage": true,
 						"minDistanceFromIntersection": {
 							"minorRoadLessThan30m": 50,
 							"majorRoad30mOrMore": 100
 						},
-						"minDistanceFromCenterLine": 15
+						"minDistanceFromCenterLine": 15,
+						"canopyAllowedWithinSetback": true,
+						"canopyExcludedFromGroundCoverage": true,
+						"mezzanineCountedInFAR": true
 					}
 				},
 				{
@@ -1544,26 +1569,30 @@
 					"OccupancyName": "CNG Mother Station",
 					"minPlotArea": 1080,
 					"maxPlotArea": 2147483647,
-					"NormalFAR": 0.10,
+					"NormalFAR": 1.0,
 					"PurchasableFAR": 0.00,
 					"isActive": true,
-					"minRoad": 18,
+					"minRoad": 30,
 					"maxRoad": 999,
 					"minHeight": 0,
 					"maxHeight": 4.5,
-					"frontSetBack": 6.0,
+					"frontSetBack": 0.0,
 					"rearSetBack": 0.0,
 					"sideSetBack1": 0.0,
 					"sideSetBack2": 0.0,
 					"siteCoverage": 20,
 					"additionalRules": {
+						"minPlotLength": 36,
+						"minPlotBreadth": 30,
 						"singleStoreyOnly": true,
+						"minFrontage": 30,
+						"longerSideMustBeFrontage": true,
 						"minDistanceFromIntersection": {
 							"minorRoadLessThan30m": 50,
 							"majorRoad30mOrMore": 100
 						},
 						"minDistanceFromCenterLine": 15,
-						"minFrontage": 30
+						"canopyExcludedFromGroundCoverage": true
 					}
 				},
 				{
