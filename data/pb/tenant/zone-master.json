@@ -7467,6 +7467,17 @@
           "name": "Zone11"
         }
       ]
+    },
+    {
+      "tanentId": "pb.khanauri",
+      "zones": [
+        {
+          "code": "Zone",
+          "name": "Zone",
+          "isActive": "True",
+          "isDeleted": "True"
+        }
+      ]
     }
   ]
 }
