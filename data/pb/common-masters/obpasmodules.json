@@ -1,0 +1,31 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "obpasmodules": [
+    {
+      "name": "noc-service",
+      "code": "noc-service",
+      "active": true
+    },
+    {
+      "name": "clu-service",
+      "code": "clu-service",
+      "active": true
+    },
+    {
+      "name": "bpa-service",
+      "code": "bpa-service",
+      "active": true
+    },
+    {
+      "name": "layout-service",
+      "code": "layout-service",
+      "active": true
+    },
+    {
+      "name": "BPAREG",
+      "code": "BPAREG",
+      "active": true
+    }
+  ]
+}
