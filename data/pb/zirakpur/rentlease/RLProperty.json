@@ -1,0 +1,5288 @@
+{
+  "tenantId": "pb.zirakpur",
+  "moduleName": "rentAndLease",
+  "RLProperty": [
+    {
+      "propertyId": "PB-RL-ZRK20260000001",
+      "propertyName": "1 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "279.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000002",
+      "propertyName": "2 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "279.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000003",
+      "propertyName": "3 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "279.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000004",
+      "propertyName": "4 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "458.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000005",
+      "propertyName": "5 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000006",
+      "propertyName": "6 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "14.72",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "308.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000007",
+      "propertyName": "7 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000008",
+      "propertyName": "8 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000009",
+      "propertyName": "9 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000010",
+      "propertyName": "10 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000011",
+      "propertyName": "11 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000012",
+      "propertyName": "12 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "307.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000013",
+      "propertyName": "13 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "322.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000014",
+      "propertyName": "14 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "349.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000015",
+      "propertyName": "15 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000016",
+      "propertyName": "16 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "20.94",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000017",
+      "propertyName": "17 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "21.59",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000018",
+      "propertyName": "18 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000019",
+      "propertyName": "18-A - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000020",
+      "propertyName": "19 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "25.6",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "170.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000021",
+      "propertyName": "19-A - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "28.59",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000022",
+      "propertyName": "20 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.6",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "170.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000023",
+      "propertyName": "21 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "22",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000024",
+      "propertyName": "22 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.82",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000025",
+      "propertyName": "23 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.82",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000026",
+      "propertyName": "24 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.74",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "415.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000027",
+      "propertyName": "25 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.74",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "278.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000028",
+      "propertyName": "26 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.88",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000029",
+      "propertyName": "27 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.88",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000030",
+      "propertyName": "28 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.88",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000031",
+      "propertyName": "29 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.88",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "444",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000032",
+      "propertyName": "30 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "12.83",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000033",
+      "propertyName": "31 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "12.97",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000034",
+      "propertyName": "32 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "14.72",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "308.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000035",
+      "propertyName": "33 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "15.75",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000036",
+      "propertyName": "34 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "38.50",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000037",
+      "propertyName": "35 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "22.53",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000038",
+      "propertyName": "36 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "28.64",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000039",
+      "propertyName": "37 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "22",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "208.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000040",
+      "propertyName": "38 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "26",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "308.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000041",
+      "propertyName": "39 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "26",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000042",
+      "propertyName": "40 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "44",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "415.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000043",
+      "propertyName": "41 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "32",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "459.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000044",
+      "propertyName": "41-A - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "32",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "459.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000045",
+      "propertyName": "42 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.32",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "380.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000046",
+      "propertyName": "43 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "35",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000047",
+      "propertyName": "46 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "32",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000048",
+      "propertyName": "47 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "21",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000049",
+      "propertyName": "48 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "22.77",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000050",
+      "propertyName": "49 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "20.50",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000051",
+      "propertyName": "50 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "20.58",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000052",
+      "propertyName": "51 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "22.77",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000053",
+      "propertyName": "52 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "234",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000054",
+      "propertyName": "53 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000055",
+      "propertyName": "54 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "21.73",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000056",
+      "propertyName": "55 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "20.83",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000057",
+      "propertyName": "56 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "12.22",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000058",
+      "propertyName": "57 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.49",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000059",
+      "propertyName": "58 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "9.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000060",
+      "propertyName": "59 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "9.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "279.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000061",
+      "propertyName": "60 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.36",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000062",
+      "propertyName": "61 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "11.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000063",
+      "propertyName": "62 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.34",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000064",
+      "propertyName": "63 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.85",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000065",
+      "propertyName": "64 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "1492.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000066",
+      "propertyName": "65 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "282",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000067",
+      "propertyName": "66 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "232.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000068",
+      "propertyName": "67 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000069",
+      "propertyName": "68 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.36",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000070",
+      "propertyName": "69 - PATIALA CHOWK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "PATIALA CHOWK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PATIALA_CHOWK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000071",
+      "propertyName": "70 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000072",
+      "propertyName": "71 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000073",
+      "propertyName": "72 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000074",
+      "propertyName": "73 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "232.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000075",
+      "propertyName": "74 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "247.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000076",
+      "propertyName": "75 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "232.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000077",
+      "propertyName": "76 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "25.6",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "170.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000078",
+      "propertyName": "77 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "32",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000079",
+      "propertyName": "78 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000080",
+      "propertyName": "79 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "100.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000081",
+      "propertyName": "80 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000082",
+      "propertyName": "81 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000083",
+      "propertyName": "82 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000084",
+      "propertyName": "83 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000085",
+      "propertyName": "84 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000086",
+      "propertyName": "85 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000087",
+      "propertyName": "86 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "234",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000088",
+      "propertyName": "87 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000089",
+      "propertyName": "88 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000090",
+      "propertyName": "89 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000091",
+      "propertyName": "90 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000092",
+      "propertyName": "91 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "25.6",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "170.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000093",
+      "propertyName": "92 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000094",
+      "propertyName": "93 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000095",
+      "propertyName": "94 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000096",
+      "propertyName": "95 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10.66",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "156",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000097",
+      "propertyName": "96 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "234",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000098",
+      "propertyName": "97 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "234",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000099",
+      "propertyName": "98 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.85",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000100",
+      "propertyName": "99 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000101",
+      "propertyName": "100 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "192",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000102",
+      "propertyName": "101 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "144",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000103",
+      "propertyName": "102 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "370.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000104",
+      "propertyName": "103 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "690",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000105",
+      "propertyName": "104 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.82",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000106",
+      "propertyName": "105 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.77",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "919.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000107",
+      "propertyName": "106 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.82",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000108",
+      "propertyName": "107 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "7.11",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "307.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000109",
+      "propertyName": "108 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "19.43",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "234",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000110",
+      "propertyName": "109 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "13.33",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "237.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000111",
+      "propertyName": "110 - NEAR GOLD MARK",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "17.82",
+      "address": "NEAR GOLD MARK",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_GOLD_MARK_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000112",
+      "propertyName": "1 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000113",
+      "propertyName": "2 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000114",
+      "propertyName": "3 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000115",
+      "propertyName": "4 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000116",
+      "propertyName": "5 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000117",
+      "propertyName": "6 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000118",
+      "propertyName": "7 - NEAR BIG BAZAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.33",
+      "address": "NEAR BIG BAZAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "3811",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NEAR_BIG_BAZAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000119",
+      "propertyName": "3 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000120",
+      "propertyName": "4 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000121",
+      "propertyName": "9 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000122",
+      "propertyName": "10 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000123",
+      "propertyName": "14 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000124",
+      "propertyName": "15 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000125",
+      "propertyName": "16 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000126",
+      "propertyName": "17 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "41.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000127",
+      "propertyName": "19 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "919.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000128",
+      "propertyName": "20 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "919.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000129",
+      "propertyName": "21 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "940.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000130",
+      "propertyName": "22 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000131",
+      "propertyName": "23 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000132",
+      "propertyName": "25 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000133",
+      "propertyName": "27 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "16.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000134",
+      "propertyName": "30 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "835.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000135",
+      "propertyName": "32 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "693.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000136",
+      "propertyName": "37 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "24.89",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "216",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000137",
+      "propertyName": "38 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "605",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "123.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000138",
+      "propertyName": "39 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "605",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "123.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000139",
+      "propertyName": "40 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000140",
+      "propertyName": "41-A - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "100.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000141",
+      "propertyName": "42 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000142",
+      "propertyName": "43 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "28.89",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000143",
+      "propertyName": "44 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "33.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000144",
+      "propertyName": "46 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "236.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000145",
+      "propertyName": "47 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000146",
+      "propertyName": "48 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "603.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000147",
+      "propertyName": "54 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "534",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000148",
+      "propertyName": "55 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000149",
+      "propertyName": "56 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000150",
+      "propertyName": "57 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "506.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000151",
+      "propertyName": "59 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "41.67",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000152",
+      "propertyName": "60-A - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000153",
+      "propertyName": "65 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000154",
+      "propertyName": "66 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000155",
+      "propertyName": "68 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "489.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000156",
+      "propertyName": "71 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "603.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000157",
+      "propertyName": "72 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "693.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000158",
+      "propertyName": "73 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "603.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000159",
+      "propertyName": "79 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "693.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000160",
+      "propertyName": "81 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000161",
+      "propertyName": "82 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000162",
+      "propertyName": "83 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000163",
+      "propertyName": "85 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "397.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000164",
+      "propertyName": "86 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000165",
+      "propertyName": "87 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000166",
+      "propertyName": "88 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000167",
+      "propertyName": "89 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000168",
+      "propertyName": "90 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000169",
+      "propertyName": "91 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000170",
+      "propertyName": "92 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000171",
+      "propertyName": "96 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000172",
+      "propertyName": "97 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000173",
+      "propertyName": "98 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000174",
+      "propertyName": "107 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "415.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000175",
+      "propertyName": "108 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000176",
+      "propertyName": "109 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000177",
+      "propertyName": "110 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000178",
+      "propertyName": "111 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000179",
+      "propertyName": "112 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000180",
+      "propertyName": "113 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000181",
+      "propertyName": "114 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000182",
+      "propertyName": "115 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000183",
+      "propertyName": "116 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "396",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000184",
+      "propertyName": "117 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000185",
+      "propertyName": "118 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000186",
+      "propertyName": "120 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "460.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000187",
+      "propertyName": "121 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000188",
+      "propertyName": "122 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000189",
+      "propertyName": "124 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000190",
+      "propertyName": "129 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000191",
+      "propertyName": "130 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "528",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000192",
+      "propertyName": "131 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000193",
+      "propertyName": "132 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "516",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000194",
+      "propertyName": "133 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "528",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000195",
+      "propertyName": "134 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "528",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000196",
+      "propertyName": "135 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "559.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000197",
+      "propertyName": "136 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "580.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000198",
+      "propertyName": "137 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "580.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000199",
+      "propertyName": "138 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "580.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000200",
+      "propertyName": "142 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "559.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000201",
+      "propertyName": "144 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000202",
+      "propertyName": "145 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000203",
+      "propertyName": "146 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000204",
+      "propertyName": "147 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000205",
+      "propertyName": "148 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000206",
+      "propertyName": "149 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000207",
+      "propertyName": "150 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000208",
+      "propertyName": "156 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000209",
+      "propertyName": "160 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "559.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000210",
+      "propertyName": "162 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "559.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000211",
+      "propertyName": "164 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "354",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000212",
+      "propertyName": "165 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000213",
+      "propertyName": "166 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000214",
+      "propertyName": "169 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000215",
+      "propertyName": "170 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000216",
+      "propertyName": "171 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000217",
+      "propertyName": "172 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000218",
+      "propertyName": "173 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000219",
+      "propertyName": "175 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "337.2",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000220",
+      "propertyName": "176 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000221",
+      "propertyName": "176-A - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000222",
+      "propertyName": "178 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000223",
+      "propertyName": "179 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000224",
+      "propertyName": "180 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000225",
+      "propertyName": "181 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000226",
+      "propertyName": "182 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "34.5",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000227",
+      "propertyName": "183 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000228",
+      "propertyName": "184 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "274.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000229",
+      "propertyName": "185 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000230",
+      "propertyName": "186 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000231",
+      "propertyName": "187 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000232",
+      "propertyName": "188 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000233",
+      "propertyName": "189 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000234",
+      "propertyName": "190 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000235",
+      "propertyName": "191 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000236",
+      "propertyName": "192 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000237",
+      "propertyName": "193 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000238",
+      "propertyName": "195 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000239",
+      "propertyName": "196 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000240",
+      "propertyName": "197 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "386.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000241",
+      "propertyName": "198 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "386.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000242",
+      "propertyName": "201 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000243",
+      "propertyName": "202 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000244",
+      "propertyName": "203 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000245",
+      "propertyName": "204 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000246",
+      "propertyName": "206 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000247",
+      "propertyName": "207 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000248",
+      "propertyName": "215 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "398.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000249",
+      "propertyName": "216 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000250",
+      "propertyName": "220 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "396",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000251",
+      "propertyName": "221 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "396",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000252",
+      "propertyName": "222 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000253",
+      "propertyName": "223 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "432",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000254",
+      "propertyName": "227 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000255",
+      "propertyName": "228 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000256",
+      "propertyName": "229 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000257",
+      "propertyName": "239 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "34.5",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000258",
+      "propertyName": "240 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "30",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000259",
+      "propertyName": "241 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "30",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000260",
+      "propertyName": "242 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "41.67",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "232.8",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000261",
+      "propertyName": "243 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000262",
+      "propertyName": "245 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "66.67",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000263",
+      "propertyName": "247 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "470.4",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000264",
+      "propertyName": "248 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000265",
+      "propertyName": "249 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000266",
+      "propertyName": "250 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "369.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000267",
+      "propertyName": "251 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000268",
+      "propertyName": "252 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000269",
+      "propertyName": "253 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000270",
+      "propertyName": "254 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "83.34",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "330",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000271",
+      "propertyName": "256 - ADRESH NAGAR",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "77.78",
+      "address": "ADRESH NAGAR",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_ADRESH_NAGAR_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000272",
+      "propertyName": "257 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000273",
+      "propertyName": "258 - PENDING FOR LOCALITY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "55.56",
+      "address": "PENDING FOR LOCALITY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "465.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_PENDING_FOR_LOCALITY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000274",
+      "propertyName": "259 - SUKHANA COLONY",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "77.78",
+      "address": "SUKHANA COLONY",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "693.6",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SUKHANA_COLONY_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000275",
+      "propertyName": "- JTL Educational foundation",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "21.26 Acre",
+      "address": "Sonali",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_JTL_EDUCATIONAL_FOUNDATION_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000276",
+      "propertyName": "- NAVEDEC PROSTHETIC CENTER",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "31 KANAL 10 MARLE",
+      "address": "BHABAT",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_NAVEDEC_PROSTHETIC_CENTER_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000277",
+      "propertyName": "- SAI REGIONAL CENTRE",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "10 Acre",
+      "address": "DAYALPURA",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SAI_REGIONAL_CENTRE_RENT_COM"
+    },
+    {
+      "propertyId": "PB-RL-ZRK20260000278",
+      "propertyName": "- SPORTS COMPLEX,",
+      "allotmentType": "rent",
+      "propertySizeOrArea": "73300 Sq. Yd.",
+      "address": "Nabha Sahib",
+      "geoLocation": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "propertyImage": "",
+      "baseRent": "0",
+      "securityDeposit": 0,
+      "feesPeriodCycle": "MONTHLY",
+      "penaltyType": "Monthly",
+      "penaltyRate": 0.0,
+      "penaltyFlatAmount": 0,
+      "areaCode": "ZRK_SPORTS_COMPLEX_RENT_COM"
+    }
+  ]
+}
