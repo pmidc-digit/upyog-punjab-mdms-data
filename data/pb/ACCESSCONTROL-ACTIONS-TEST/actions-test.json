@@ -29429,6 +29429,94 @@
       "serviceCode": "RLREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900151,
+      "name": "rl payment search",
+      "url": "/collection-services/payments/rl-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900152,
+      "name": "chb payment search",
+      "url": "/collection-services/payments/chb-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900153,
+      "name": "pet payment search",
+      "url": "/collection-services/payments/pet-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900154,
+      "name": "adv payment search",
+      "url": "/collection-services/payments/adv-services/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+       {
+      "id": 8900155,
+      "name": "rl payment search",
+      "url": "/collection-services/payments/rl-services/_workflow",
+      "displayName": "Receipt Cancellation RL",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900156,
+      "name": "chb payment search",
+      "url": "/collection-services/payments/chb-services/_workflow",
+      "displayName": "Receipt Cancellation CHB",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900157,
+      "name": "pet payment search",
+      "url": "/collection-services/payments/pet-services/_workflow",
+      "displayName": "Receipt Cancellation PET",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900158,
+      "name": "adv payment search",
+      "url": "/collection-services/payments/adv-services/_workflow",
+      "displayName": "Receipt Cancellation ADV",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
