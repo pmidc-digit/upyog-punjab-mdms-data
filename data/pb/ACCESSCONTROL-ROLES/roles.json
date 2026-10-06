@@ -1561,6 +1561,30 @@
       "name": "DEV API Only",
       "description": "Default role for DEV API only access",
       "groupId": "030"
+    },
+    {
+      "code": "RL_REC_CANCEL",
+      "name": "RL Receipt Cancellation",
+      "description": "Allowed to Cancel RL Receipts",
+      "groupId": "032"
+    },
+    {
+      "code": "CHB_REC_CANCEL",
+      "name": "CHB Receipt Cancellation",
+      "description": "Allowed to Cancel CHB Receipts",
+      "groupId": "002"
+    },
+    {
+      "code": "ADV_REC_CANCEL",
+      "name": "ADV Receipt Cancellation",
+      "description": "Allowed to Cancel ADV Receipts",
+      "groupId": "001"
+    },
+    {
+      "code": "PET_REC_CANCEL",
+      "name": "PET Receipt Cancellation",
+      "description": "Allowed to Cancel PET Receipts",
+      "groupId": "003"
     }
   ]
 }

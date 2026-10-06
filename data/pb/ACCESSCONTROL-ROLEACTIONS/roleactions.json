@@ -72470,6 +72470,54 @@
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
-    }
+  },
+  {
+	  "rolecode":"RL_REC_CANCEL",
+	  "actionid": 8900151,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"ADV_REC_CANCEL",
+	  "actionid": 8900152,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"CHB_REC_CANCEL",
+	  "actionid": 8900153,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"PTR_REC_CANCEL",
+	  "actionid": 8900154,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"RL_REC_CANCEL",
+	  "actionid": 8900155,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"ADV_REC_CANCEL",
+	  "actionid": 8900156,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"CHB_REC_CANCEL",
+	  "actionid": 8900157,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	},
+  {
+	  "rolecode":"PTR_REC_CANCEL",
+	  "actionid": 8900158,
+	  "actioncode": "",
+	  "tenantId": "pb"
+	}
   ]
 }
