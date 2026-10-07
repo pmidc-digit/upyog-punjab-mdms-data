@@ -27468,6 +27468,24 @@
       "sidebarURL": "/digit-ui/citizen/obps-home"
     },
     {
+      "id": 882472,
+      "name": "BPA_CITIZEN_HOME_GEO_TAGGED_USER_MANUAL_LABEL",
+      "url": "digit-ui-card",
+      "displayName": "User Manuals",
+      "orderNumber": 11,
+      "parentModule": "OBPS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "https://sdc-uat.lgpunjab.gov.in/filestore/v1/files/viewfile/?name=pb%2FCLU%2FOctober%2F7%2F1791354501166uEKCPWLimv.pdf",
+      "leftIcon": "OBPSIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
       "id": 882467,
       "name": "BPA_CITIZEN_HOME_01_AMRITSAR_SAMPLE_DXF",
       "url": "digit-ui-card",
