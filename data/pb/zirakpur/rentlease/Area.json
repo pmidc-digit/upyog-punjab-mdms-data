@@ -1,0 +1,56 @@
+{
+  "tenantId": "pb.zirakpur",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Zirakpur - Patiala Chowk",
+      "code": "ZRK_PATIALA_CHOWK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Near Gold Mark",
+      "code": "ZRK_NEAR_GOLD_MARK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Near Big Bazar",
+      "code": "ZRK_NEAR_BIG_BAZAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Adresh Nagar",
+      "code": "ZRK_ADRESH_NAGAR_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Sukhana Colony",
+      "code": "ZRK_SUKHANA_COLONY_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Pending For Locality",
+      "code": "ZRK_PENDING_FOR_LOCALITY_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - JTL Educational Foundation",
+      "code": "ZRK_JTL_EDUCATIONAL_FOUNDATION_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Navedec Prosthetic Center",
+      "code": "ZRK_NAVEDEC_PROSTHETIC_CENTER_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Sai Regional Centre",
+      "code": "ZRK_SAI_REGIONAL_CENTRE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Zirakpur - Sports Complex",
+      "code": "ZRK_SPORTS_COMPLEX_RENT_COM",
+      "isActive": true
+    }
+  ]
+}

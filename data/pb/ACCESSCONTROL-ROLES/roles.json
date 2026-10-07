@@ -1530,7 +1530,13 @@
       "code": "VIEW_KIBANA_DASHBOARD",
       "name": "Kibana Dashboard",
       "description": "Kibana Dashboard",
-      "groupId": "014"
+      "groupId": "030"
+    },
+    {
+      "code": "VIEW_OBPS_KIBANA_DASHBOARD",
+      "name": "OBPS Kibana Dashboard",
+      "description": "OBPS Kibana Dashboard",
+      "groupId": "030"
     },
     {
       "code": "API_ONLY",
@@ -1550,11 +1556,35 @@
       "description": "Role to access by Labour Department",
       "groupId": "025"
     },
-	{
-	  "code": "DEV_API_ONLY",
+    {
+      "code": "DEV_API_ONLY",
       "name": "DEV API Only",
       "description": "Default role for DEV API only access",
-	  "groupId": "030"
-	}
+      "groupId": "030"
+    },
+    {
+      "code": "RL_REC_CANCEL",
+      "name": "RL Receipt Cancellation",
+      "description": "Allowed to Cancel RL Receipts",
+      "groupId": "032"
+    },
+    {
+      "code": "CHB_REC_CANCEL",
+      "name": "CHB Receipt Cancellation",
+      "description": "Allowed to Cancel CHB Receipts",
+      "groupId": "002"
+    },
+    {
+      "code": "ADV_REC_CANCEL",
+      "name": "ADV Receipt Cancellation",
+      "description": "Allowed to Cancel ADV Receipts",
+      "groupId": "001"
+    },
+    {
+      "code": "PET_REC_CANCEL",
+      "name": "PET Receipt Cancellation",
+      "description": "Allowed to Cancel PET Receipts",
+      "groupId": "003"
+    }
   ]
 }

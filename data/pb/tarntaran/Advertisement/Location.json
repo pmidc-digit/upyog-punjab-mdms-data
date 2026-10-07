@@ -1,0 +1,177 @@
+{
+  "tenantId": "pb.tarntaran",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Amritsar Byepass (Location 1)",
+      "code": "AMRITSAR_BYPASS_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Amritsar Byepass (Location 2)",
+      "code": "AMRITSAR_BYPASS_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Amritsar Byepass (Location 3 Right Side)",
+      "code": "AMRITSAR_BYPASS_3",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Amritsar Byepass (Location 4 Left Side)",
+      "code": "AMRITSAR_BYPASS_4",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Rohi Pull (Location 1 Right Side)",
+      "code": "ROHI_PULL_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Rohi Pull (Location 2 Right Side)",
+      "code": "ROHI_PULL_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Rohi Pull (Location 3 Left Side)",
+      "code": "ROHI_PULL_3",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Rohi Pull (Location 4 Left Side)",
+      "code": "ROHI_PULL_4",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Tehsil Bazar Chowk (Location 1 Right Side)",
+      "code": "TEHSIL_BAZAR_CHOWK_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Tehsil Bazar Chowk (Location 2 Left Side)",
+      "code": "TEHSIL_BAZAR_CHOWK_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Old Dc Office (Location 1)",
+      "code": "OLD_DC_OFFICE_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Old Dc Office (Location 2)",
+      "code": "OLD_DC_OFFICE_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Old Dc Office (Location 3)",
+      "code": "OLD_DC_OFFICE_3",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Near Baba Moter Agency Jandiala Road (Location 1 Right Side)",
+      "code": "BABA_MOTER_AGENCY_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Near Baba Moter Agency Jandiala Road (Location 2 Left Side)",
+      "code": "BABA_MOTER_AGENCY_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Manitoba Ilets Center 80 ft Road (Location 1 Right Side)",
+      "code": "MANITOBA_ILETS_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Manitoba Ilets Center 80 ft Road (Location 2 Left Side)",
+      "code": "MANITOBA_ILETS_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Jandiala Road Chowk",
+      "code": "JANDIALA_ROAD_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Chabhal Byepass Chowk",
+      "code": "CHABHAL_BYPASS_CHOWK",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    }
+  ]
+}

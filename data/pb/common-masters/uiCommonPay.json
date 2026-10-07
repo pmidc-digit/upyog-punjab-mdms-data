@@ -465,7 +465,8 @@
     {
       "code": "adv-services",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
-      "receiptKey": "adv-receipt",
+      "receiptKey": "adv-bill",
+      "cancelReceipt": true,
       "billKey": "consolidatedbill",
       "arrears": true,
       "buttons": [
@@ -482,6 +483,7 @@
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "petservice-receipt",
       "billKey": "pet-receipt-employee",
+      "cancelReceipt": true,
       "arrears": true,
       "buttons": [
         {
@@ -511,6 +513,7 @@
       "code": "chb-services",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "chbservice-receipt",
+      "cancelReceipt": true,
       "billKey": "consolidatedbill",
       "arrears": true,
       "buttons": [
@@ -589,6 +592,21 @@
           "label": "COMMON_BUTTON_HOME",
           "citizenUrl": "/obps-home",
           "employeeUrl": "/obps/inbox"
+        }
+      ]
+    },
+    {
+      "code": "rl-services",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "pet-receipt-employee",
+      "cancelReceipt": true,
+      "billKey": "pet-receipt-employee",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/citizen/rentandlease/home",
+          "employeeUrl": "/employee/rentandlease/inbox"
         }
       ]
     }

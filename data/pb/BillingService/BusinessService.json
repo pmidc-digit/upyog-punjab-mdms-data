@@ -2465,7 +2465,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt": true
     },
     {
       "businessService": "adv-services",
@@ -2476,7 +2477,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt": true
     },
     {
       "businessService": "sv-services",
@@ -2509,6 +2511,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
+      "cancelReceipt": true,
       "isActive": true
     },
     {

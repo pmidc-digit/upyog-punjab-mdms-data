@@ -1,0 +1,5256 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 5",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 6",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 7",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 8",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 9",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Pull Porrian - Shop No. 10",
+      "code": "ASR_PULL_PORRIAN_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 1",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 2",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 3",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 4",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 5",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 6",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 7",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 8",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 9",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 10",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 11",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 12",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 13",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 14",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 15",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Old Shops Goal Bagh - Shop No. 16",
+      "code": "ASR_OLD_SHOPS_GOAL_BAGH_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 1",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 2",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 3",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 4",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 6",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 8",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 9",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 10",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 11",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 12",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 13",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 14",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 15",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 16",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 17",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 18",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 19",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 20",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 21",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 22",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 23",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s P.B.N School - Shop No. 24 A",
+      "code": "ASR_O_S_P_B_N_SCHOOL_SHOP_NO_24_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 1",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 2",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 3",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 4",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 5",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 6",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 7",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 8",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 9",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 10",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 11",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 12",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 13",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 18",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 19",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 20",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 21",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Hathi Gate - Shop No. 23",
+      "code": "ASR_O_S_HATHI_GATE_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 1",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 2",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 3",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 4",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 5",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 6",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 7",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 8",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 9",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 10",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 11",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 12",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 13",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 14",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 15",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 16",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 17",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 18",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 20",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 21",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 22",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 23",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Beri Gate - Shop No. 24",
+      "code": "ASR_O_S_BERI_GATE_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 1",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 2",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 3",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 4",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 5",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 6",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 7",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 8",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 9",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 10",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 11",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 12",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 13",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 14",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 15",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 16",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 17",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 18",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 19",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 20",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 21",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 23",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 24",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 25",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 26",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 27",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 29",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 30",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 31",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 32",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 33",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 34",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 35",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 36",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 38",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 39",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 40",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 41",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_41_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 42",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_42_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 43",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_43_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 44",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_44_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 45",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_45_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 47",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_47_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 48",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_48_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 49",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_49_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 50",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_50_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 52",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_52_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 53",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_53_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 55",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_55_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 56",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_56_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 57",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_57_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Goal Bagh Taxi Stand - Shop No. 58",
+      "code": "ASR_GOAL_BAGH_TAXI_STAND_SHOP_NO_58_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 1",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 2",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 3",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 4",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 5",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 6",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 7",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 8",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 9",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 10",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 11",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 12",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 13",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 14",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 15",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Queens Road - Shop No. 16",
+      "code": "ASR_QUEENS_ROAD_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 1",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 1-A",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_1_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 2",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 2-A",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_2_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 3",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 4",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 5",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 6",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 7",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 8",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 10",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 11",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 12",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 13",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 14",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 15",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 16",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 17",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 18",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 19",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 20",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 21",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 22",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 23",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 24",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 25",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 26",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 27",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 28",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 29",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 30",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tyre Market - Shop No. 33",
+      "code": "ASR_TYRE_MARKET_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 1",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 6",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (A-Block) - Shop No. 7",
+      "code": "ASR_RAM_BAGH_A_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 1",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (B-Block) - Shop No. 6",
+      "code": "ASR_RAM_BAGH_B_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 6",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 7",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 8",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 9",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 10",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 11",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (C-Block) - Shop No. 12",
+      "code": "ASR_RAM_BAGH_C_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 1",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 7",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 8",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 9",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 10",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 11",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (D-Block) - Shop No. 12",
+      "code": "ASR_RAM_BAGH_D_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 1-A",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_1_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 1",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 6",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 7",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 8",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 11",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 12",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 13",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 14",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (E-Block) - Shop No. 16",
+      "code": "ASR_RAM_BAGH_E_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 1",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 2",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 3",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 4",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 5",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 6",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 7",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 8",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 9",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 10",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh (F-Block) - Shop No. 11",
+      "code": "ASR_RAM_BAGH_F_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 1",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 2",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 3",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 4",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 5",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 6",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 7",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 8",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 9",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 10",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 12",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 13",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 15",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 16",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 17",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 18",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 19",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 20",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 21",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 22",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 23",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 25",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 26",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 27",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 28",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 29",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 30",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 31",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 32",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 33",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 34",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 35",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 36",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 37",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_37_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 38",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chitra Talkies - Shop No. 39",
+      "code": "ASR_OPP_CHITRA_TALKIES_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 1-B",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_1_B_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 2-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_2_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 3-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_3_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 4-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_4_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 5-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_5_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 6-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_6_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 1-A",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_1_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 2-B",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_2_B_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 1-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_1_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 2-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_2_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 3-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_3_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 4-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_4_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 5-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_5_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Chitra Talkies - Shop No. 6-C",
+      "code": "ASR_CHITRA_TALKIES_SHOP_NO_6_C_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 1",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 2",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 3",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 4",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 5",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 6",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 7",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 8",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 9",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 10",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 12",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (A-Block) - Shop No. 13",
+      "code": "ASR_EMERGENCY_WARD_A_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 1",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 2",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 3",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 4",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 5",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 6",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 7",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 8",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 9",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Emergency Ward (B-Block) - Shop No. 10",
+      "code": "ASR_EMERGENCY_WARD_B_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 1",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 2",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 3",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 4",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 5",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 6",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 9",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 10",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 11",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 12",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 13",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 14",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 15",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 16",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 17",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 20",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lahori Gate - Shop No. 22",
+      "code": "ASR_O_S_LAHORI_GATE_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 1",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 2",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 3",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 4",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 5",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 6",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 7",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 8",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 9",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Lohgarh Gate - Shop No. 10",
+      "code": "ASR_O_S_LOHGARH_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 1",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 3",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 4",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 5",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 6",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 7",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 8",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 9",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 10",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 11",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 12",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 13",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 14",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 15",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 16",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 17",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 18",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 19",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 20",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 21",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 22",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 23",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 24",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 25",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 26",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 27",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 28",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 29",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 30",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 31",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 32",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 33",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 34",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 35",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 36",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 37",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_37_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 38",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 39",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 40",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 42",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_42_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 43",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_43_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 44",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_44_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 46",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_46_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 47",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_47_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 48",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_48_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 49",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_49_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 50",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_50_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No. 51",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_51_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Plot Shop Shop   No 1",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_PLOT_SHOP_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Gurudwara Shaheedan Sahib - Shop No 2",
+      "code": "ASR_OPP_GURUDWARA_SHAHEEDAN_SAHIB_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 1",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 2",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 3",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 4",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 5",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 6",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 7",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 8",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 9",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 10",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 11",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 12",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 14",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 15",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 16",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 20",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 21",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 25",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 26",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 27",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 28",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 29",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 30",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 31",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 32",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 33",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 39",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 40",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 41",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_41_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 42",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_42_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 47",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_47_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 48",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_48_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 52",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_52_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 53",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_53_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 60",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_60_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 62",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_62_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 64",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_64_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 66",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_66_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Guru Ram Dass Hospital - Shop No. 67",
+      "code": "ASR_OPP_GURU_RAM_DASS_HOSPITAL_SHOP_NO_67_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 1",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 2",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 3",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 4",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 5",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 6",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 7",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 8",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Nishant Cinema - Shop No. 9",
+      "code": "ASR_OPP_NISHANT_CINEMA_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 1",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 2",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 3",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 4",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 5",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 6",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 7",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 8",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 9",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 10",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 11",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 12",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 13",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 14",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 15",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 16",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 17",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 18",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 19",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Raj Cinema - Shop No. 20",
+      "code": "ASR_OPP_RAJ_CINEMA_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 1",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 2",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 3",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 4",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 5",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 6",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 7",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 8",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 9",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 10",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 11",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 12",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 13",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 14",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 15",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 16",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 17",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 18",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 19",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Krishna MKT - Shop No. 20",
+      "code": "ASR_OPP_KRISHNA_MKT_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 1",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 2",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 3",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 4",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 5",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 6",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 7",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 8",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 9",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 10",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 11",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 12",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 13",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 14",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 15",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 16",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 17",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 18",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 19",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 20",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 21",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 22",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 23",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 24",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 25",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 26",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 27",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 28",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 29",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 30",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 31",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Bhagtanwala Gate - Shop No. 32",
+      "code": "ASR_O_S_BHAGTANWALA_GATE_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 1",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 2",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 3",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 4",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 5",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 6",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 7",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 8",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 9",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - O/s Booth Bhagtanwala - Shop No. 10",
+      "code": "ASR_O_S_BOOTH_BHAGTANWALA_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 1",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 2",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 3",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 4",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 5",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Opp. Chandan Cinema - Shop No. 6",
+      "code": "ASR_OPP_CHANDAN_CINEMA_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 1",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 2",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 3",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 4",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 5",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 6",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 7",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 8",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 9",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 10",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 11",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 12",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 13",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 15",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 16",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 17",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 18",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 19",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (A-Block) - Shop No. 20",
+      "code": "ASR_BHUSHANPURA_A_BLOCK_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 1",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 2",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 3",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 4",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 5",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 6",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 7",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 8",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 9",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 10",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 11",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 12",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 13",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 14",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 15",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 16",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 17",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 18",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 19",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 20",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (B-Block) - Shop No. 21",
+      "code": "ASR_BHUSHANPURA_B_BLOCK_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 1",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 2",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 3",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 4",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 5",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 6",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 7",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 8",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 9",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 10",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 11",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 12",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 13",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 14",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 15",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 16",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 17",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 18",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 19",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 20",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 22",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 23",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 24",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 25",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Bhushanpura (C-Block) - Shop No. 26",
+      "code": "ASR_BHUSHANPURA_C_BLOCK_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 1",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 1 AA",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_1_AA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 2",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 2 A",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_2_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 3",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 4",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 5",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 6",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 7",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 8",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 9",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 10",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 11",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 12",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 13",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 14",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 15",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 16",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 17",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 18",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 19",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 20",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 21",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 22",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 23",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 24",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 25",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 26",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 27",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 28",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 29",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 30",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 31",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 32",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 33",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 34",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 34A",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_34A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Ground Floor) - Shop No. 35",
+      "code": "ASR_TIRKONI_MARKET_GROUND_FLOOR_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 1",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 2",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 3",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 4",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 5",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 6",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 7",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 8",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 9",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 10",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 11",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 12",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 13",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 14",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 15",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 16",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 17",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 18",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 19",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 20",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 21",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 22",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 23",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 24",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 25",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 26",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 27",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 28",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 29",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 30",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 31",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 32",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (First Floor) - Shop No. 33",
+      "code": "ASR_TIRKONI_MARKET_FIRST_FLOOR_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Second Floor) - Shop No. 34",
+      "code": "ASR_TIRKONI_MARKET_SECOND_FLOOR_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Tirkoni Market (Second Floor) - Shop No. 35",
+      "code": "ASR_TIRKONI_MARKET_SECOND_FLOOR_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 1",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 2",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 3",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 4",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 5",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 6",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 9",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 10",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 17",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 18",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 20",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 21",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 24",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 26",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 27",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 28",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 29",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 30",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 32",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 33",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 34",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 35",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 36",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 38",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 40",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 42",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_42_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 45",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_45_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 46",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_46_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 47",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_47_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 51",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_51_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 57",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_57_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 58",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_58_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 59",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_59_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 61",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_61_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 62",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_62_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 63",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_63_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 64",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_64_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 65",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_65_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 66",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_66_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 67",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_67_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 68",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_68_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh - Shop No. 69",
+      "code": "ASR_KOT_ATMA_SINGH_SHOP_NO_69_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 1",
+      "code": "ASR_SBS_MARKET_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 1A",
+      "code": "ASR_SBS_MARKET_SHOP_NO_1A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 2",
+      "code": "ASR_SBS_MARKET_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 3",
+      "code": "ASR_SBS_MARKET_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 4",
+      "code": "ASR_SBS_MARKET_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 5",
+      "code": "ASR_SBS_MARKET_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 7",
+      "code": "ASR_SBS_MARKET_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 8",
+      "code": "ASR_SBS_MARKET_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 9",
+      "code": "ASR_SBS_MARKET_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 10",
+      "code": "ASR_SBS_MARKET_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 11",
+      "code": "ASR_SBS_MARKET_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 13",
+      "code": "ASR_SBS_MARKET_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 14",
+      "code": "ASR_SBS_MARKET_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 16",
+      "code": "ASR_SBS_MARKET_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 18",
+      "code": "ASR_SBS_MARKET_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 19",
+      "code": "ASR_SBS_MARKET_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 22",
+      "code": "ASR_SBS_MARKET_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 23",
+      "code": "ASR_SBS_MARKET_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 26",
+      "code": "ASR_SBS_MARKET_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 27",
+      "code": "ASR_SBS_MARKET_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 28",
+      "code": "ASR_SBS_MARKET_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 29",
+      "code": "ASR_SBS_MARKET_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 30",
+      "code": "ASR_SBS_MARKET_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 31",
+      "code": "ASR_SBS_MARKET_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 32",
+      "code": "ASR_SBS_MARKET_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 33",
+      "code": "ASR_SBS_MARKET_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 34",
+      "code": "ASR_SBS_MARKET_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 35",
+      "code": "ASR_SBS_MARKET_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 36",
+      "code": "ASR_SBS_MARKET_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 38",
+      "code": "ASR_SBS_MARKET_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 39",
+      "code": "ASR_SBS_MARKET_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 43",
+      "code": "ASR_SBS_MARKET_SHOP_NO_43_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 44",
+      "code": "ASR_SBS_MARKET_SHOP_NO_44_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 45",
+      "code": "ASR_SBS_MARKET_SHOP_NO_45_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 46",
+      "code": "ASR_SBS_MARKET_SHOP_NO_46_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 47",
+      "code": "ASR_SBS_MARKET_SHOP_NO_47_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 50",
+      "code": "ASR_SBS_MARKET_SHOP_NO_50_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 51",
+      "code": "ASR_SBS_MARKET_SHOP_NO_51_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 52",
+      "code": "ASR_SBS_MARKET_SHOP_NO_52_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 53",
+      "code": "ASR_SBS_MARKET_SHOP_NO_53_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 54",
+      "code": "ASR_SBS_MARKET_SHOP_NO_54_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 59",
+      "code": "ASR_SBS_MARKET_SHOP_NO_59_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 61",
+      "code": "ASR_SBS_MARKET_SHOP_NO_61_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 62",
+      "code": "ASR_SBS_MARKET_SHOP_NO_62_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 63",
+      "code": "ASR_SBS_MARKET_SHOP_NO_63_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 64",
+      "code": "ASR_SBS_MARKET_SHOP_NO_64_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 65",
+      "code": "ASR_SBS_MARKET_SHOP_NO_65_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 66",
+      "code": "ASR_SBS_MARKET_SHOP_NO_66_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - SBS Market - Shop No. 68",
+      "code": "ASR_SBS_MARKET_SHOP_NO_68_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 1",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 2",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 4",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 5",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 6",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 7",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 8",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 9",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Inder Palace Road - Shop No. 10",
+      "code": "ASR_INDER_PALACE_ROAD_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 1",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 2",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 3",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 4",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 5",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 6",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 7",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 8",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 9",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 10",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 11",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 12",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 13",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Hukam Singh Road - Shop No. 14",
+      "code": "ASR_HUKAM_SINGH_ROAD_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 1",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 2",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 3",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 4",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 5",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 6",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 8",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 9",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 10",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 11",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 12",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 13",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 14",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No.   14  A",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_14_A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 15",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 20",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 21",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 22",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 23",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 26",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Katra Sher Singh - Shop No. 27",
+      "code": "ASR_KATRA_SHER_SINGH_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 1A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_1A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 2A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_2A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 3A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_3A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 4A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_4A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 4B",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_4B_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 5A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_5A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 6A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_6A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 7A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_7A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 8A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_8A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 9A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_9A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 10A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_10A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 11A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_11A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 12A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_12A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 13A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_13A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 13B",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_13B_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 14A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_14A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 15A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_15A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 16A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_16A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 17A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_17A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-1 - Shop No. 19A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_1_SHOP_NO_19A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 2A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_2A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 4A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_4A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 5A",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_5A_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 6+7",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_6_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 8",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 9",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 10",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Ram Bagh Sabji Mandi-2 - Shop No. 1 old",
+      "code": "ASR_RAM_BAGH_SABJI_MANDI_2_SHOP_NO_1_OLD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 1",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 3",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 4",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 5",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 6",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 7",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 8",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 9",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 10",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 11",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 12",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 13",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 14",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 15",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 17",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 18",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 20",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 22",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 24",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 25",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 26",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 27",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 28",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 29",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 30",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 31",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 32",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 33",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 34",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 35",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 36",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_36_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 37",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_37_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 38",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 39",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 40",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 41",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_41_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 42",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_42_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (Ground Floor) - Shop No. 43",
+      "code": "ASR_IDH_MARKET_GROUND_FLOOR_SHOP_NO_43_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 1",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 2",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 3",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 5",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 6",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 7",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 8",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 9",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 10",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 11",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 14",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 15",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 16",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 19",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 20",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 21",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 22",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 23",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 24",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 25",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 26",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 27",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - IDH Market (First Floor) - Shop No. 28",
+      "code": "ASR_IDH_MARKET_FIRST_FLOOR_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 1",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 2",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 3",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 4",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 5",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 8",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 9",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 12",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 13",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 14",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 16",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 17",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 18",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 19",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 20",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 21",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 22",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 23",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 24",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 25",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 26",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 27",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 28",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 29",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 31",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 32",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 33",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 38",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_38_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 39",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_39_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - D.D. Bhatia Market - Shop No. 40",
+      "code": "ASR_D_D_BHATIA_MARKET_SHOP_NO_40_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 1",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 3",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 4",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 5",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 6",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 7",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 8",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 9",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 10",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 11",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 12",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 13",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 14",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 15",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 16",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 17",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 18",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 19",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 21",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 22",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 23",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 24",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 25",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 26",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 27",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 28",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 29",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 30",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (A-Block) - Shop No. 31",
+      "code": "ASR_KOT_ATMA_SINGH_A_BLOCK_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 2",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 3",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 4",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 6",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 7",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 8",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 9",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 10",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 11",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 12",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 13",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 14",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 15",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 16",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 17",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 18",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 19",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 20",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 21",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 22",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 23",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 24",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 25",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 26",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_26_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 27",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 28",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 29",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 30",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_30_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 31",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_31_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 32",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_32_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 33",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_33_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 34",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_34_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Kot Atma Singh (B-Block) - Shop No. 35",
+      "code": "ASR_KOT_ATMA_SINGH_B_BLOCK_SHOP_NO_35_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 1",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 2",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 3",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 4",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 5",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 6",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 7",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 8",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 9",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 10",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 11",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 12",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 13",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 14",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 15",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (A-Block) - Shop No. 16",
+      "code": "ASR_MAHAN_SINGH_GATE_A_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 1",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 2",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 3",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 4",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 5",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 6",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 7",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 8",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 9",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 10",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 11",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 12",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 13",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 14",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 15",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 16",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 17",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Mahan Singh Gate (B-Block) - Shop No. 18",
+      "code": "ASR_MAHAN_SINGH_GATE_B_BLOCK_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 1",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_1_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 2",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_2_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 3",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_3_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 4",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_4_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 5",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_5_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 6",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_6_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 7",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_7_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 8",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_8_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 9",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_9_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 10",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_10_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 11",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_11_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 12",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 13",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_13_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 14",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_14_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 15",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_15_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 16",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_16_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 17",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_17_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 18",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 19",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_19_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 20",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 21",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_21_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 22",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_22_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 23",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_23_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 24",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_24_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Sheran Wala Gate - Shop No. 25",
+      "code": "ASR_SHERAN_WALA_GATE_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 12",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_12_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 18",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_18_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 20",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_20_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 25",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_25_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 27",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_27_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 28",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_28_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Amritsar - Majitha Road - Shop No. 29",
+      "code": "ASR_MAJITHA_ROAD_SHOP_NO_29_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
