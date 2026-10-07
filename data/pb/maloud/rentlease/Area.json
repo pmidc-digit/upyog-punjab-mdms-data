@@ -3,13 +3,18 @@
   "moduleName": "rentAndLease",
   "Area": [
     {
-      "name": "Maloud - Chomon Road Maloudh",
-      "code": "MLD_CHOMON_ROAD_MALOUDH_RENT_COM",
+      "name": "Maloud - Chomon Road Maloud",
+      "code": "MLD_CHOMON_ROAD_MALOUD_RENT_COM",
       "isActive": true
     },
     {
-      "name": "Maloud - Ward No 1 Bus stand Maloudh",
-      "code": "MLD_WARD_NO_1_BUS_STAND_MALOUDH_RENT_COM",
+      "name": "Maloud - Office Complex Maloud",
+      "code": "MLD_OFFICE_COMPLEX_MALOUD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maloud - Ward No 1 Bus Stand Maloud",
+      "code": "MLD_WARD_NO_1_BUS_STAND_MALOUD_RENT_COM",
       "isActive": true
     }
   ]
