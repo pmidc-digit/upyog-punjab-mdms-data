@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.barnala",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "ANNUAL",
+      "rate": 18,
+      "minAmount": 0,
+      "applicableAfterDays": 365,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "1/04/2025"
+    }
+  ]
+}

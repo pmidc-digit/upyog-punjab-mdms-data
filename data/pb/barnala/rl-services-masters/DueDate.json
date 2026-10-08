@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb.barnala",
+  "moduleName": "rl-services-masters",
+  "DueDate": [
+    {
+      "billingCycle": "MONTHLY",
+      "dueDay": 0
+    },
+    {
+      "billingCycle": "QUATERLY",
+      "dueDay": 0
+    },
+    {
+      "billingCycle": "BIANNUAL",
+      "dueDay": 0
+    },
+    {
+      "billingCycle": "ANNUAL",
+      "dueDay": 365
+    }
+  ]
+}
