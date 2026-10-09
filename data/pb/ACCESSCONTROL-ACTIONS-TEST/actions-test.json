@@ -29556,6 +29556,22 @@
       "quickAction": true,
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
+    },
+    {
+      "id": 8900159,
+      "name": "Property Search Mseva",
+      "url": "url",
+      "displayName": "Property Search Mseva",
+      "orderNumber": 4,
+      "queryParams": "",
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+       "code": "null",
+      "path": "Property Tax Mseva.Property Search Mseva",
+      "navigationURL": "pt-mutation/propertySearch",
+      "leftIcon": "social:people",
+      "rightIcon": ""
     }
   ]
 }

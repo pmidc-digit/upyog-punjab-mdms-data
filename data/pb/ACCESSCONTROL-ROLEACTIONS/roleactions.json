@@ -72602,6 +72602,47 @@
       "actionid": 224234,
       "actioncode": "",
       "tenantId": "pb"
-    }
+    },
+    {
+    "rolecode": "SUPERUSER",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT_CEMP",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },{
+    "rolecode": "PT_DOC_VERIFIER",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT_FIELD_INSPECTOR",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+  {
+    "rolecode": "PT_APPROVER",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+{
+    "rolecode": "PT_FIELD_INSPECTOR",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  },
+{
+    "rolecode": "EMPLOYEE",
+    "actionid": 8900159,
+    "actioncode": "",
+    "tenantId": "pb"
+  }
   ]
 }
