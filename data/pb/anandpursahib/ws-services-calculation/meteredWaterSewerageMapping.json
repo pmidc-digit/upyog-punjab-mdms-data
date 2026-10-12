@@ -1,0 +1,12 @@
+{
+  "tenantId": "pb.anandpursahib",
+  "moduleName": "ws-services-calculation",
+  "meteredWaterSewerageMapping": [
+    {
+      "waterequaltosewerage": true,
+      "criteria": "PLOT_SIZE",
+      "fromPlotSize": 500.0,
+      "toPlotSize": 60000.0
+    }
+  ]
+}

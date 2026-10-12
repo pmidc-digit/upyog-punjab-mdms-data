@@ -1,0 +1,17 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "ws-services-calculation",
+  "meteredWaterSewerageMapping": [
+    {
+      "waterequaltosewerage": true,
+      "criteria": "USAGE_CATEGORY",
+      "usageCategory": [
+        "NONRESIDENTIAL.COMMERCIAL",
+        "NONRESIDENTIAL.INDUSTRIAL",
+        "NONRESIDENTIAL.INSTITUTIONAL",
+        "RESIDENTIAL",
+        "MIXED"
+      ]
+    }
+  ]
+}
