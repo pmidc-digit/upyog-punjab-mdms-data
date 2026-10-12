@@ -5,161 +5,193 @@
     {
       "groupId": "001",
       "groupName": "Advertisement Service",
+      "groupCode": "adv-service",
       "description": "Roles related to Advertisement and Hoarding Services"
     },
     {
       "groupId": "002",
       "groupName": "Community Hall Booking",
+      "groupCode": "chb-service",
       "description": "Roles related to Community Hall Booking Services"
     },
     {
       "groupId": "003",
       "groupName": "Pet Service",
+      "groupCode": "pet-service",
       "description": "Roles related to Pet Registration Services"
     },
     {
       "groupId": "004",
       "groupName": "NOC Service",
+      "groupCode": "noc-service",
       "description": "Roles related to No Objection Certificate Services"
     },
     {
       "groupId": "005",
       "groupName": "FIRENOC Service",
+      "groupCode": "firenoc-service",
       "description": "Roles related to Fire NOC Services"
     },
     {
       "groupId": "006",
       "groupName": "Rent and Lease Service",
+      "groupCode": "rl-service",
       "description": "Roles related to Rent and Lease Services"
     },
     {
       "groupId": "007",
       "groupName": "Assets Management",
+      "groupCode": "assets-management",
       "description": "Roles related to Asset Management Services"
     },
     {
       "groupId": "008",
       "groupName": "Citizen Scorecard",
+      "groupCode": "citizen-scorecard",
       "description": "Roles related to Citizen Scorecard and Survey Services"
     },
     {
       "groupId": "009",
       "groupName": "NDC",
+      "groupCode": "ndc-service",
       "description": "Roles related to No Dues Certificate Services"
     },
     {
       "groupId": "010",
       "groupName": "BPA Registration",
+      "groupCode": "BPAREG",
       "description": "Roles related to Professional Registration Services"
     },
     {
       "groupId": "011",
       "groupName": "Challan Generation Service",
+      "groupCode": "challan-generation",
       "description": "Roles related to Challan Generation Services"
     },
     {
       "groupId": "012",
       "groupName": "Layout Service",
+      "groupCode": "layout-service",
       "description": "Roles related to Layout Services"
     },
     {
       "groupId": "013",
       "groupName": "CLU Service",
+      "groupCode": "clu-service",
       "description": "Roles related to CLU Services"
     },
     {
       "groupId": "014",
       "groupName": "Garbage Collection",
+      "groupCode": "gc-service",
       "description": "Roles related to Garbage Collection Services"
     },
     {
       "groupId": "015",
       "groupName": "SW Service",
+      "groupCode": "sw-service",
       "description": "Roles related to Sewerage Connection Services"
     },
     {
       "groupId": "016",
       "groupName": "SWACH BHARAT",
+      "groupCode": "swach-bharat",
       "description": "Roles related to Swachh Services"
     },
     {
       "groupId": "017",
       "groupName": "Water and Sewerage",
+      "groupCode": "ws-service",
       "description": "Roles related to Water and Sewerage Services"
     },
     {
       "groupId": "018",
       "groupName": "Property Tax Service",
+      "groupCode": "pt=service",
       "description": "Roles related to Property Tax Services"
     },
     {
       "groupId": "019",
       "groupName": "Trade License Service",
+      "groupCode": "tl-service",
       "description": "Roles related to Trade License Services"
     },
     {
       "groupId": "020",
       "groupName": "Finance Service",
+      "groupCode": "finance-service",
       "description": "Roles related to Finance Services"
     },
     {
       "groupId": "021",
       "groupName": "PGR Service",
+      "groupCode": "pgr-service",
       "description": "Roles related to Public Grievance Redressal Services"
     },
     {
       "groupId": "022",
       "groupName": "Localization Service",
+      "groupCode": "localization-service",
       "description": "Roles related to Localization and Language Services"
     },
     {
       "groupId": "023",
       "groupName": "HRMS",
+      "groupCode": "hrms-service",
       "description": "Roles related to HRMS"
     },
     {
       "groupId": "024",
       "groupName": "DSS",
+      "groupCode": "dashboard-service",
       "description": "Roles related to DSS"
     },
     {
       "groupId": "025",
       "groupName": "OBPAS",
+      "groupCode": "bpa-service",
       "description": "Roles related to Building Plan Approval Services"
     },
     {
       "groupId": "026",
       "groupName": "ST Vending Service",
+      "groupCode": "stv-service",
       "description": "Roles related to Street Vending Services"
     },
     {
       "groupId": "027",
       "groupName": "Universal Collection",
+      "groupCode": "uc-service",
       "description": "Roles related to Universal Collection Services"
     },
     {
       "groupId": "028",
       "groupName": "Punjab Admin",
+      "groupCode": "punjab-admin",
       "description": "Roles related to Punjab Admin"
     },
     {
       "groupId": "029",
       "groupName": "System",
+      "groupCode": "system",
       "description": "Roles related to System"
     },
     {
       "groupId": "030",
       "groupName": "Others",
+      "groupCode": "others",
       "description": "Roles related to Other purposes"
     },
     {
       "groupId": "031",
       "groupName": "Third-Party",
+      "groupCode": "third-party",
       "description": "Roles related to Third-Party"
     },
     {
       "groupId": "032",
       "groupName": "Rent-Lease-Services",
+      "groupCode": "rl-service",
       "description": "Roles related to Rl Allotment Services"
     }
   ]
