@@ -1585,6 +1585,12 @@
       "name": "PET Receipt Cancellation",
       "description": "Allowed to Cancel PET Receipts",
       "groupId": "003"
+    },
+    {
+      "code": "RECEIPT_SEARCH",
+      "name": "Receipt Search",
+      "description": "Allowed to Search Receipt",
+      "groupId": "025"
     }
   ]
 }
