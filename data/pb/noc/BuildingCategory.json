@@ -1,30 +1,75 @@
 {
-    "tenantId": "pb",
-    "moduleName": "NOC",
-    "BuildingCategory": [
+  "tenantId": "pb",
+  "moduleName": "NOC",
+  "BuildingCategory": [
     {
       "name": "Residential Plotted",
       "code": "RESIDENTIAL_PLOTTED",
       "propertyUsage": "RESIDENTIAL",
+      "category": "A",
+      "subCategory": [
+        "A-R"
+      ],
       "active": true
     },
     {
       "name": "Residential Independent Floors",
       "code": "RESIDENTIAL_INDEPENDENT_FLOORS",
       "propertyUsage": "RESIDENTIAL",
+      "category": "A",
+      "subCategory": [
+        "A-AIF"
+      ],
       "active": true
     },
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
       "propertyUsage": "NONRESIDENTIAL.COMMERCIAL",
+      "category": "F",
+      "subCategory": [
+        "F",
+        "F-RB",
+        "F-HM",
+        "F-MIP",
+        "F-MTP",
+        "F-SCC",
+        "F-PO",
+        "F-B",
+        "F-LB",
+        "F-D",
+        "F-CA",
+        "F-VGP",
+        "F-BU",
+        "F-PFSF",
+        "F-PFST",
+        "F-PFSS",
+        "F-PS",
+        "F-CNGS"
+      ],
       "active": true
     },
     {
       "name": "Industrial / Warehouse Building",
       "code": "INDUSTRIAL_WAREHOUSE_BUILDING",
       "propertyUsage": "NONRESIDENTIAL.INDUSTRIAL",
+      "category": "G",
+      "subCategory": [
+        "G-G",
+        "G-F",
+        "G-S",
+        "G-HI",
+        "G-WT",
+        "G-RSI",
+        "G-GIP",
+        "G-GIF",
+        "G-ITP",
+        "G-ITF",
+        "G-TI",
+        "G-KI",
+        "G-SI"
+      ],
       "active": true
     }
-    ]
-  }
+  ]
+}
