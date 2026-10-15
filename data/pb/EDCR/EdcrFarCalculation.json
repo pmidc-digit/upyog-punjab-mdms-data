@@ -607,7 +607,7 @@
 					"siteCoverage": 5
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 0,
 					"maxPlotArea": 41.82,
@@ -625,7 +625,7 @@
 					"siteCoverage": 80
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 41.82,
 					"maxPlotArea": 104.55,
@@ -643,7 +643,7 @@
 					"siteCoverage": 75
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 104.55,
 					"maxPlotArea": 209,
@@ -661,7 +661,7 @@
 					"siteCoverage": 65
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 209,
 					"maxPlotArea": 418.2,
@@ -679,7 +679,7 @@
 					"siteCoverage": 60
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 418.2,
 					"maxPlotArea": 2147483647,
@@ -2690,7 +2690,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 0,
 					"maxPlotArea": 100,
@@ -2708,7 +2708,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 101,
 					"maxPlotArea": 150,
@@ -2726,7 +2726,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 151,
 					"maxPlotArea": 200,
@@ -2744,7 +2744,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 201,
 					"maxPlotArea": 300,
@@ -2762,7 +2762,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 301,
 					"maxPlotArea": 500,
@@ -2780,7 +2780,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 501,
 					"maxPlotArea": 1000,
@@ -2798,7 +2798,7 @@
 					"siteCoverage": 40
 				},
 				{
-					"OccupancyType": "F",
+					"OccupancyType": "F-F",
 					"OccupancyName": "Commercial",
 					"minPlotArea": 1001,
 					"maxPlotArea": 2147483647,
