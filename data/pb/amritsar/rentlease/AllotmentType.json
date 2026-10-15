@@ -7,6 +7,12 @@
       "code": "RL_RENT",
       "name": "rent",
       "isActive": true
+    },
+	{
+      "id": "2",
+      "code": "RL_LEASE",
+      "name": "Lease",
+      "isActive": true
     }
   ]
 }
