@@ -1591,6 +1591,12 @@
       "name": "Receipt Search",
       "description": "Allowed to Search Receipt",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_CTP",
+      "name": "OBPAS BPA CTP",
+      "description": "CTP for Building Plan",
+      "groupId": "025"
     }
   ]
 }
