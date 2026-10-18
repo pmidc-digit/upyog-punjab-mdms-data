@@ -274,15 +274,12 @@
 				"Municipal Corporation"
 			],
 			"occupancyTypes": [
-				"P",
-				"Q",
-				"R",
+				"F",
 				"A"
 			],
 			"subOccupancyTypes": [
-				"P",
-				"Q",
-				"R",
+				"F-MIP",
+				"F-MTP",
 				"A-AF"
 			],
 			"minArea": 0.0,
@@ -295,15 +292,12 @@
 				"Municipal Council"
 			],
 			"occupancyTypes": [
-				"P",
-				"Q",
-				"R",
+				"F",
 				"A"
 			],
 			"subOccupancyTypes": [
-				"P",
-				"Q",
-				"R",
+				"F-MIP",
+				"F-MTP",
 				"A-AF"
 			],
 			"minArea": 0.0,
