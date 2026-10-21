@@ -3917,6 +3917,62 @@
       "validityPeriod": null
     },
     {
+      "code": "GOODS.SALESTORAGE.TST-140",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "ishazardous":false,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-141",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "ishazardous":false,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "GOODS.WHOLESALE.TST-140",
       "uom": null,
       "applicationDocument": [
