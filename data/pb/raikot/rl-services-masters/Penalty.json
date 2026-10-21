@@ -1,0 +1,16 @@
+{
+  "tenantId": "pb.raikot",
+  "moduleName": "rl-services-masters",
+  "Penalty": [
+    {
+      "billingCycle": "ANNUAL",
+      "rate": 10,
+      "minAmount": 0,
+      "applicableAfterDays": 60,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2026-27",
+      "startingDay": "1/04/2026"
+    }
+  ]
+}

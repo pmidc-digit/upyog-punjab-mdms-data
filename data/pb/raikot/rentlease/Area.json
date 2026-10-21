@@ -1,0 +1,31 @@
+{
+  "tenantId": "pb.raikot",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Opp. Tubewell No. 1 Raikot",
+      "code": "RKT_OPP_TUBEWELL_NO_1_RAIKOT_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Guru Teg Bahadur Market Near Committee Gate",
+      "code": "RKT_GURU_TEG_BAHADUR_MARKET_NEAR_COMMITTEE_GATE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Lal Bahadur Shashtri Market Near Talwandi Gate",
+      "code": "RKT_LAL_BAHADUR_SHASHTRI_MARKET_NEAR_TALWANDI_GATE_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Jain Bazaar Near Police Station",
+      "code": "RKT_JAIN_BAZAAR_NEAR_POLICE_STATION_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Near Gaushalla",
+      "code": "RKT_NEAR_GAUSHALLA_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
