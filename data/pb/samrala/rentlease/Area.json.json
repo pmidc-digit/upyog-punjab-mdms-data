@@ -1,0 +1,46 @@
+{
+  "tenantId": "pb.samrala",
+  "moduleName": "rentAndLease",
+  "Area": [
+    {
+      "name": "Main Chownk Samrala",
+      "code": "SMR_MAIN_CHOWNK_SAMRALA_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Chandigarh Road",
+      "code": "SMR_CHANDIGARH_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Water Tank Road",
+      "code": "SMR_WATER_TANK_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Bus Stand Samrala, Ludhiana Road",
+      "code": "SMR_BUS_STAND_SAMRALA_LUDHIANA_ROAD_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Behlolpur Road, Old Sabji Mandi",
+      "code": "SMR_BEHLOLPUR_ROAD_OLD_SABJI_MANDI_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Chaubara Main Chownk",
+      "code": "SMR_CHAUBARA_MAIN_CHOWNK_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Kang Patti Shops",
+      "code": "SMR_KANG_PATTI_SHOPS_RENT_COM",
+      "isActive": true
+    },
+    {
+      "name": "Maayi Jassa Dharamashala",
+      "code": "SMR_MAAYI_JASSA_DHARAMASHALA_RENT_COM",
+      "isActive": true
+    }
+  ]
+}
