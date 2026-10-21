@@ -6617,6 +6617,34 @@
       "type": "TL",
       "validityPeriod": null
     },
+     {
+      "code": "SERVICES.NGBS.TST-295",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "ishazardous":false,
+      "type": "TL",
+      "validityPeriod": null
+    },
     {
       "code": "ARCHITECT.CLASSA",
       "uom": null,
