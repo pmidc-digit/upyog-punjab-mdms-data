@@ -25,13 +25,7 @@
                 "FIRENOC",
                 "MCS",
                 "NDC",
-                "SW_OLD"
-            ]
-        },
-        {
-            "gateway": "OBPASRAZORPAY",
-            "active": true,
-            "businessService": [
+                "SW_OLD",
                 "BPA.NC_APP_FEE",
                 "BPA.NC_OC_APP_FEE",
                 "obpas_noc",
@@ -42,7 +36,19 @@
                 "CLU.PAY2",
                 "BPA.NC_SAN_FEE",
                 "BPA.NC_OC_SAN_FEE"
-
+            ]
+        },
+                {
+            "gateway": "CCAVENUE",
+            "active": true,
+            "businessService": [
+                "adv-services",
+                "WS",
+                "WS.ONE_TIME_FEE_OLD",
+                "WS.ONE_TIME_FEE",
+                "PT",
+                "chb-services",
+                "WS_OLD"
             ]
         },
         {
