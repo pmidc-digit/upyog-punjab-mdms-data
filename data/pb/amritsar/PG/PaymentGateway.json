@@ -15,6 +15,26 @@
                 "WS_OLD"
             ]
         },
+                {
+            "gateway": "CCAVANUE",
+            "active": true,
+            "businessService": [
+                "GC.ONE_TIME_FEE",
+                "SW",
+                "TL",
+                "SW.ONE_TIME_FEE",
+                "TLS",
+                "Challan_Generation",
+                "pet-services",
+                "SW.ONE_TIME_FEE_OLD",
+                "rl-services",
+                "WS_OLD",
+                "FIRENOC",
+                "MCS",
+                "NDC",
+                "SW_OLD"
+            ]
+        },
         {
             "gateway": "OBPASRAZORPAY",
             "active": true,
