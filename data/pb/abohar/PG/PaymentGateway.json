@@ -29,6 +29,19 @@
             ]
         },
         {
+            "gateway": "CCAVANUE",
+            "active": true,
+            "businessService": [
+                "adv-services",
+                "WS",
+                "WS.ONE_TIME_FEE_OLD",
+                "WS.ONE_TIME_FEE",
+                "PT",
+                "chb-services",
+                "WS_OLD"
+            ]
+        },
+        {
             "gateway": "OBPASRAZORPAY",
             "active": true,
             "businessService": [
