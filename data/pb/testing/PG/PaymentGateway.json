@@ -1,7 +1,7 @@
 {
     "tenantId": "pb.testing",
     "moduleName": "PAYMENT",
-    "PaymentGateway": [
+     "PaymentGateway": [
         {
             "gateway": "RAZORPAY",
             "active": true,
@@ -13,19 +13,29 @@
                 "TLS",
                 "Challan_Generation",
                 "pet-services",
-                "adv-services",
                 "SW.ONE_TIME_FEE_OLD",
-                "WS",
                 "rl-services",
                 "WS.ONE_TIME_FEE_OLD",
                 "WS.ONE_TIME_FEE",
                 "PT",
                 "chb-services",
-                "WS_OLD",
                 "FIRENOC",
                 "MCS",
                 "NDC",
                 "SW_OLD"
+            ]
+        },
+        {
+            "gateway": "CCAVANUE",
+            "active": true,
+            "businessService": [
+                "adv-services",
+                "WS",
+                "WS.ONE_TIME_FEE_OLD",
+                "WS.ONE_TIME_FEE",
+                "PT",
+                "chb-services",
+                "WS_OLD"
             ]
         },
         {
