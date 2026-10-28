@@ -16,7 +16,38 @@
             ],
             "terminateActionRoles": [
                 "CITIZEN"
-            ]
+            ],
+            "hrmsSearchPath": {
+                "searchUrl": "http://localhost:8080/bpa-services/v1/bpa/_search?tenantId={0}&applicationNo={1}",
+                "mdmsPath": null,
+                "params": [
+                    {
+                        "key": "assignedtenattids",
+                        "value": "$.BPA.[0].tenantId",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "zones",
+                        "value": "$.BPA.[0].additionalDetails.zonenumber",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "categories",
+                        "value": "$.BPA.[0].additionalDetails.categories",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "subcategories",
+                        "value": "$.BPA.[0].additionalDetails.subcategories",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "modulename",
+                        "value": "bpa-service",
+                        "mdmsMapping": null
+                    }
+                ]
+            }
         },
         {
             "moduleName": "clu-service",
@@ -44,7 +75,38 @@
             ],
             "terminateActionRoles": [
                 "CITIZEN"
-            ]
+            ],
+            "hrmsSearchPath": {
+                "searchUrl": "http://localhost:8080/noc-services/v1/noc/_search?tenantId={0}&applicationNo={1}",
+                "mdmsPath": "NOC.BuildingCategory",
+                "params": [
+                    {
+                        "key": "assignedtenattids",
+                        "value": "$.Noc.*.tenantId",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "zones",
+                        "value": "$.Noc.*.nocDetails.additionalDetails.siteDetails.zone",
+                        "mdmsMapping": null
+                    },
+                    {
+                        "key": "categories",
+                        "value": "$.Noc.*.nocDetails.additionalDetails.siteDetails.specificationBuildingCategory",
+                        "mdmsMapping": "$.MdmsRes.NOC.BuildingCategory.[?(@.name == '{0}')].category"
+                    },
+                    {
+                        "key": "subcategories",
+                        "value": "$.Noc.*.nocDetails.additionalDetails.siteDetails.specificationBuildingCategory",
+                        "mdmsMapping": "$.MdmsRes.NOC.BuildingCategory.[?(@.name == '{0}')].subCategory.*"
+                    },
+                    {
+                        "key": "modulename",
+                        "value": "noc-service",
+                        "mdmsMapping": null
+                    }
+                ]
+            }
         }
     ]
 }
