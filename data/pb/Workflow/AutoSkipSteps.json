@@ -18,7 +18,7 @@
                 "CITIZEN"
             ],
             "hrmsSearchPath": {
-                "searchUrl": "http://localhost:8080/bpa-services/v1/bpa/_search?tenantId={0}&applicationNo={1}",
+                "searchUrl": "http://bpa-services.egov:8080/bpa-services/v1/bpa/_search?tenantId={0}&applicationNo={1}",
                 "mdmsPath": null,
                 "params": [
                     {
@@ -77,7 +77,7 @@
                 "CITIZEN"
             ],
             "hrmsSearchPath": {
-                "searchUrl": "http://localhost:8080/noc-services/v1/noc/_search?tenantId={0}&applicationNo={1}",
+                "searchUrl": "http://noc-services.egov:8080/noc-services/v1/noc/_search?tenantId={0}&applicationNo={1}",
                 "mdmsPath": "NOC.BuildingCategory",
                 "params": [
                     {
