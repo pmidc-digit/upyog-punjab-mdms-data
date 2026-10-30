@@ -21,9 +21,7 @@
 				"BPA_TOWNPLANNER",
 				"BPA_SUPERVISOR",
 				"BPA_APPROVER",
-				"NOC_APPROVER",
-				"BPA_FIELD_INSPECTOR",
-				"OBPAS_NOC_JE"
+				"BPA_FIELD_INSPECTOR"
             ],
             "hrmsSearchPath": {
                 "searchUrl": "http://bpa-services.egov:8080/bpa-services/v1/bpa/_search?tenantId={0}&applicationNo={1}",
@@ -74,11 +72,7 @@
 				"BPA_ARCHITECT",
 				"BPA_ENGINEER",
 				"BPA_TOWNPLANNER",
-				"BPA_SUPERVISOR",
-				"BPA_APPROVER",
-				"NOC_APPROVER",
-				"BPA_FIELD_INSPECTOR",
-				"OBPAS_NOC_JE"
+				"BPA_SUPERVISOR"
             ]
         },
         {
@@ -95,9 +89,7 @@
 				"BPA_ENGINEER",
 				"BPA_TOWNPLANNER",
 				"BPA_SUPERVISOR",
-				"BPA_APPROVER",
 				"NOC_APPROVER",
-				"BPA_FIELD_INSPECTOR",
 				"OBPAS_NOC_JE"
             ],
             "hrmsSearchPath": {
