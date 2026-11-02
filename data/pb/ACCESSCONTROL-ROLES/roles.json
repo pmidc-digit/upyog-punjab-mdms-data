@@ -1326,6 +1326,12 @@
       "name": "Receipt Search",
       "description": "Allowed to Search Receipt",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_BPA_LOW_RISE_APPROVER",
+      "name": "OBPAS BPA LOW RISE APPROVER",
+      "description": "Low rise approver Building Plan",
+      "groupId": "025"
     }
   ]
 }
