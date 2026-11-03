@@ -29,7 +29,7 @@
         {
             "moduleName": "BPA",
             "BusinessService": "NOC-SERVICES",
-            "roles": ["NOC_CEMP", "NOC_DOC_VERIFIER","NOC_FIELD_INSPECTOR","FIRE_NOC_APPROVER","NOC_APPROVER"],
+            "roles": ["NOC_CEMP", "NOC_DOC_VERIFIER","NOC_FIELD_INSPECTOR","FIRE_NOC_APPROVER","NOC_APPROVER","OBPAS_NOC_APPROVER"],
             "active": false,
             "locality":false,
             "localityModule":"noc-services",
