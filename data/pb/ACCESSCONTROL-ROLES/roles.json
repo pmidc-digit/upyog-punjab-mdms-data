@@ -372,7 +372,7 @@
       "code": "NOC_APPROVER",
       "name": "NoC Approver",
       "description": "Fire NOC Approver",
-      "groupId": "004"
+      "groupId": "005"
     },
     {
       "code": "WS_CEMP",
@@ -1332,6 +1332,12 @@
       "name": "OBPAS BPA LOW RISE APPROVER",
       "description": "Low rise approver Building Plan",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_NOC_APPROVER",
+      "name": "OBPAS NoC Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
     }
   ]
 }
