@@ -25697,6 +25697,43 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/obps-home"
+    },
+    {
+      "id": 89555200001,
+      "name": "District Wise and ULB Wise Status of the Files",
+      "url": "url",
+      "displayName": "District Wise and ULB Wise Status of the Files",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.District Wise and ULB Wise Status of the Files",
+      "navigationURL": "report/rainmaker-obpas_bpa/DistrictUlbWiseFileStatus",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89555210002,
+      "name": "District Wise and ULB Wise Status of the Files",
+      "url": "/report/rainmaker-obpas_bpa/DistrictUlbWiseFileStatus/metadata/_get",
+      "displayName": "District Wise and ULB Wise Status of the Files",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89555220003,
+      "name": "District Wise and ULB Wise Status of the Files",
+      "url": "/report/rainmaker-obpas_bpa/DistrictUlbWiseFileStatus/_get",
+      "displayName": "District Wise and ULB Wise Status of the Files",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
