@@ -308,58 +308,6 @@
         }
       ]
     },
-     {
-      "key": "ADVREPORTS",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "ADV REPORTS",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/payername"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/ownername1"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/applicant_name"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
     {
       "key": "PETREPORTS",
       "roleAttributeAccessList": [
