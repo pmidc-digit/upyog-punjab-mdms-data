@@ -25734,6 +25734,54 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 208711,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Sewerage_disconnection_connection_fees/_search",
+      "displayName": "Sewerage Disconnection Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 208712,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OM.Sewerage_disconnection_connection_fees/_workflow",
+      "displayName": "Sewerage Disconnection Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 208713,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Water_connection_disconnection_fees/_search",
+      "displayName": "Water Disconnection Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 208714,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OM.Water_connection_disconnection_fees/_workflow",
+      "displayName": "Water Disconnection Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
