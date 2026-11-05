@@ -2318,8 +2318,11 @@
 					"isActive": true,
 					"minRoad": 18,
 					"maxRoad": 999,
+					"minRoadWithinMasterPlan": 18,
+					"minRoadOtherAreas": 12,
 					"minHeight": 4,
 					"maxHeight": 999,
+					"parkingOnGroundBasement": 50,
 					"frontSetBack": [
 						{
 							"roadType": "NH",
@@ -2330,11 +2333,15 @@
 							"setback": 25
 						},
 						{
+							"roadType": "MDR",
+							"setback": 20
+						},
+						{
 							"roadType": "SR",
 							"setback": 20
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 18
 						}
 					],
@@ -2348,11 +2355,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
@@ -2366,11 +2377,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
@@ -2384,11 +2399,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
@@ -2403,9 +2422,12 @@
 					"PurchasableFAR": 0,
 					"isActive": true,
 					"minRoad": 25,
+					"minRoadWithinMasterPlan": 25,
+					"minRoadOtherAreas": 18,
 					"maxRoad": 999,
 					"minHeight": 4,
 					"maxHeight": 999,
+					"parkingOnGroundBasement": 50,
 					"frontSetBack": [
 						{
 							"roadType": "NH",
@@ -2416,11 +2438,15 @@
 							"setback": 25
 						},
 						{
+							"roadType": "MDR",
+							"setback": 20
+						},
+						{
 							"roadType": "SR",
 							"setback": 20
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 18
 						}
 					],
@@ -2434,11 +2460,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
@@ -2452,11 +2482,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
@@ -2470,11 +2504,15 @@
 							"setback": 6
 						},
 						{
+							"roadType": "MDR",
+							"setback": 6
+						},
+						{
 							"roadType": "SR",
 							"setback": 6
 						},
 						{
-							"roadType": "Other",
+							"roadType": "OTHER",
 							"setback": 6
 						}
 					],
