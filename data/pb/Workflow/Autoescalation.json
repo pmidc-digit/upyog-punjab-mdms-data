@@ -127,7 +127,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_MC",
@@ -139,7 +140,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_MC_HIGH",
@@ -187,7 +189,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_MC_HIGH",
@@ -199,7 +202,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_MC_OTH",
@@ -247,7 +251,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_MC_OTH",
@@ -259,7 +264,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP",
@@ -307,7 +313,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP",
@@ -319,7 +326,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP_HIGH",
@@ -367,7 +375,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP_HIGH",
@@ -379,7 +388,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP_OTH",
@@ -427,7 +437,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     },
     {
       "businessService": "BPA_NP_OTH",
@@ -439,7 +450,8 @@
       "stateSLA": 86400000,
       "businessSLA": null,
       "topic": "bpa-auto-escalation",
-      "comment": "Auto Jumped."
+      "comment": "Auto Jumped.",
+	    "terminateRoles":["OBPAS_BPA_LOW_RISE_APPROVER"]
     }
   ]
 }
