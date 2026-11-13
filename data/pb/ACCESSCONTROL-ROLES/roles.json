@@ -1344,6 +1344,30 @@
       "name": "OBPAS BPA ATP OBSERVATION",
       "description": "Low rise approver Building Plan",
       "groupId": "025"
+    },
+    {
+      "code": "NOC_RESIDENTIAL_APPROVER",
+      "name": "NoC Residential Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_COMMERCIAL_APPROVER",
+      "name": "NoC Commercial Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_INDUSTRIAL_APPROVER",
+      "name": "NoC Industrial Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_GROUP_HOUSING_APPROVER",
+      "name": "NoC Group Housing Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
     }
   ]
 }
