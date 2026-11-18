@@ -25782,6 +25782,18 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1488,
+      "name": "Esign Upload",
+      "url": "/egov-esign/upload",
+      "displayName": "esign upload",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
