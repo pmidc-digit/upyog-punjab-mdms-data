@@ -896,6 +896,22 @@
 	{
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "rt.use_of_land_and_occupation_charges.receipt.id"
+    },
+    {
+      "format": "PB-NOC-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_NOC_APPLICATION_MGR]",
+      "idname": "noc.application.number.mgr"
+    },
+    {
+      "format": "PB-CLU-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_CLU_APPLICATION_MGR]",
+      "idname": "clu.application.number.mgr"
+    },
+    {
+      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN_MGR]",
+      "idname": "egov.idgen.bpa.applicationNum.mgr"
+    },
+    {
+      "format": "PB-LAYOUT-[DISTRICT.CODE]-[ULB.CODE]-[SEQ_EG_LAYOUT_APPLICATION_MGR]",
+      "idname": "layout.application.number.mgr"
     }
   ]
 }
