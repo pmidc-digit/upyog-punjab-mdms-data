@@ -101,6 +101,24 @@
       "order": "2",
       "isRequired": false
     },
+    { "category": "TAX",
+      "service": "PT",
+      "name": "Pt  oTS Interset removal",
+      "code": "OTS_INTEREST_WAVEOFF_REMOVAL",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    { "category": "TAX",
+      "service": "PT",
+      "name": "Pt  oTS penalty Removal",
+      "code": "OTS_PENALTY_WAVEOFF_REMOVAL",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
     {
       "category": "TAX",
       "service": "PT",
