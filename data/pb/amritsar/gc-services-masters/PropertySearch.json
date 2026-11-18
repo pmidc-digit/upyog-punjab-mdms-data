@@ -1,0 +1,10 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "gc-services-masters",
+  "PropertySearch": [
+    {
+      "code": "allowCitizenToUseAnyProperty",
+      "enabled": true
+    }
+  ]
+}
