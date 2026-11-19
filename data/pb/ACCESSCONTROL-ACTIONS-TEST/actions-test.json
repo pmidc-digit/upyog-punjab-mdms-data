@@ -25794,6 +25794,43 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900801,
+      "name": "ULB Wise BPA Application Status Report",
+      "url": "url",
+      "displayName": "ULB Wise BPA Application Status Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "BUILDING PLAN REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "path": "BUILDING PLAN REPORTS.ULB Wise BPA Application Status Report",
+      "navigationURL": "report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900802,
+      "name": "ULB Wise BPA Application Status Report",
+      "url": "/report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport/metadata/_get",
+      "displayName": "ULB Wise BPA Application Status Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900803,
+      "name": "ULB Wise BPA Application Status Report",
+      "url": "/report/rainmaker-obpas_bpa/ULBWiseBPAApplicationStatusReport/_get",
+      "displayName": "ULB Wise BPA Application Status Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "OBPASBPAREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
