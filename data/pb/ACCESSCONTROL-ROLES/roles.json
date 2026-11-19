@@ -1368,6 +1368,12 @@
       "name": "NoC Group Housing Approver",
       "description": "OBPAS NOC Approver",
       "groupId": "004"
+    },
+    {
+      "code": "OBPAS",
+      "name": "OBPAS",
+      "description": "OBPAS orphan role",
+      "groupId": "025"
     }
   ]
 }
