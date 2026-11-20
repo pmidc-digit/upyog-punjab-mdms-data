@@ -45586,7 +45586,7 @@
     },
     {
       "rolecode": "HRMS_ADMIN",
-      "actionid": 8900804,
+      "actionid": 8900805,
       "actioncode": "",
       "tenantId": "pb"
     },
@@ -45653,6 +45653,18 @@
     {
       "rolecode": "OBPAS_BPA_CTP",
       "actionid": 111782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPS_ADMIN",
+      "actionid": 8900805,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "OBPS_ADMIN",
+      "actionid": 1782,
       "actioncode": "",
       "tenantId": "pb"
     }
