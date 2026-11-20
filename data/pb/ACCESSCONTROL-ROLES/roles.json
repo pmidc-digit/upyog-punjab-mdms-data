@@ -1380,6 +1380,12 @@
       "name": "OBPAS BPA CTP",
       "description": "CTP for Building Plan",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_LAYOUT_CTP",
+      "name": "OBPAS_LAYOUT_CTP",
+      "description": "OBPAS Layout workflow Chief Town Planner",
+      "groupId": "012"
     }
   ]
 }
