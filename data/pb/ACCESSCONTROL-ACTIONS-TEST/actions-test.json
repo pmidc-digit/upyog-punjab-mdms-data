@@ -25831,6 +25831,22 @@
       "serviceCode": "OBPASBPAREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900804,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Employee Search By Jurisdiction",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "HRMS.Search",
+      "navigationURL": "/digit-ui/employee/hrms/empJurisSearch",
+      "leftIcon": "social:people",
+      "rightIcon": ""
     }
   ]
 }
