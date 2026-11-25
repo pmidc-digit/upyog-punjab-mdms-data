@@ -35421,6 +35421,12 @@
       "tenantId": "pb"
     },
     {
+      "rolecode": "OBPAS_ADMIN",
+      "actionid": 8900806,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2200024,
       "actioncode": "",
@@ -37820,7 +37826,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 111782,
@@ -41889,7 +41894,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 237812,
@@ -42214,7 +42218,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000934,
@@ -42257,7 +42260,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000935,
@@ -42300,7 +42302,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 89000936,
@@ -42343,7 +42344,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000929,
@@ -42380,7 +42380,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000930,
@@ -42417,7 +42416,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000931,
@@ -42454,7 +42452,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "EMPLOYEE",
       "actionid": 89000932,
@@ -42491,14 +42488,12 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 89000937,
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "CITIZEN",
       "actionid": 89000938,
@@ -42811,7 +42806,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "PGR_REPORT_VIEWER",
       "actionid": 1553,
@@ -44252,7 +44246,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "OBPAS_BPA_MTP",
       "actionid": 1757,
@@ -44614,60 +44607,60 @@
       "tenantId": "pb"
     },
     {
-	  "rolecode":"RL_REC_CANCEL",
-	  "actionid": 8900151,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"ADV_REC_CANCEL",
-	  "actionid": 8900158,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"CHB_REC_CANCEL",
-	  "actionid": 8900152,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"PTR_REC_CANCEL",
-	  "actionid": 8900153,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"RL_REC_CANCEL",
-	  "actionid": 8900155,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"ADV_REC_CANCEL",
-	  "actionid": 8900154,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"CHB_REC_CANCEL",
-	  "actionid": 8900156,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-  {
-	  "rolecode":"PTR_REC_CANCEL",
-	  "actionid": 8900157,
-	  "actioncode": "",
-	  "tenantId": "pb"
-	},
-	   {
+      "rolecode": "RL_REC_CANCEL",
+      "actionid": 8900151,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_REC_CANCEL",
+      "actionid": 8900158,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_REC_CANCEL",
+      "actionid": 8900152,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTR_REC_CANCEL",
+      "actionid": 8900153,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "RL_REC_CANCEL",
+      "actionid": 8900155,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "ADV_REC_CANCEL",
+      "actionid": 8900154,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHB_REC_CANCEL",
+      "actionid": 8900156,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTR_REC_CANCEL",
+      "actionid": 8900157,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 224234,
       "actioncode": "",
       "tenantId": "pb"
     },
-   {
+    {
       "rolecode": "WS_CEMP",
       "actionid": 224234,
       "actioncode": "",
@@ -44746,53 +44739,54 @@
       "tenantId": "pb"
     },
     {
-    "rolecode": "SUPERUSER",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
-    "rolecode": "PTCEMP",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
-    "rolecode": "PT_DOC_VERIFIER",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
-    "rolecode": "PT_FIELD_INSPECTOR",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
-    "rolecode": "PT_APPROVER",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
-    "rolecode": "EMPLOYEE",
-    "actionid": 8900159,
-    "actioncode": "",
-    "tenantId": "pb"
-  },
-  {
+      "rolecode": "SUPERUSER",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8900159,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 89000936,
       "actioncode": "",
       "tenantId": "pb"
     },
-  {
+    {
       "rolecode": "SW_CEMP",
       "actionid": 89000936,
       "actioncode": "",
       "tenantId": "pb"
-    },{
+    },
+    {
       "rolecode": "SW_CEMP",
       "actionid": 89000936,
       "actioncode": "",
@@ -45020,7 +45014,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	  {
+    {
       "rolecode": "UC_EMP",
       "actionid": 208711,
       "actioncode": "",
@@ -45032,7 +45026,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 208712,
       "actioncode": "",
@@ -45062,7 +45056,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-	{
+    {
       "rolecode": "MISC_REC_CANCEL",
       "actionid": 208714,
       "actioncode": "",
