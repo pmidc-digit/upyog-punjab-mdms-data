@@ -25847,6 +25847,80 @@
       "navigationURL": "/digit-ui/employee/hrms/empJurisSearch",
       "leftIcon": "social:people",
       "rightIcon": ""
+    },
+    {
+      "id": 89008047,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "url",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "OBPAS CLU REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "path": "OBPAS CLU REPORTS.ULB Wise CLU Application Status Report",
+      "navigationURL": "report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 89008058,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "/report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport/metadata/_get",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 89008069,
+      "name": "ULB Wise CLU Application Status Report",
+      "url": "/report/rainmaker-obpas_clu/ULBWiseCLUApplicationStatusReport/_get",
+      "displayName": "ULB Wise CLU Application Status Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "OBPASCLUREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900807,
+      "name": "ULB Wise NOC Application Status Report",
+      "url": "url",
+      "displayName": "ULB Wise NOC Application Status Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "OBPAS NOC REPORTS",
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "path": "OBPAS NOC REPORTS.ULB Wise NOC Application Status Report",
+      "navigationURL": "report/rainmaker-obpas_noc/ULBWiseNOCApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 8900808,
+      "name": "ULB Wise NOC Application Status Report",
+      "url": "/report/rainmaker-obpas_noc/ULBWiseNOCApplicationStatusReport/metadata/_get",
+      "displayName": "ULB Wise NOC Application Status Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 8900809,
+      "name": "ULB Wise NOC Application Status Report",
+      "url": "/report/rainmaker-obpas_noc/ULBWiseNOCApplicationStatusReport/_get",
+      "displayName": "ULB Wise NOC Application Status Report",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "OBPASNOCREPORTS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
