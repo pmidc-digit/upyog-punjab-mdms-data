@@ -22194,7 +22194,6 @@
       "code": "RNL",
       "path": ""
     },
-
     {
       "id": 8900913,
       "name": "Rent And Lease Inbox",
@@ -24880,7 +24879,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
-
     {
       "id": 89000938,
       "name": "PT_MY_PROPERTIES",
@@ -24917,7 +24915,6 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/mseva-ui/citizen/pt-home"
     },
-
     {
       "id": 89000940,
       "name": "PT_CREATE_PROPERTY",
@@ -25561,7 +25558,7 @@
       "parentModule": "rainmaker-pt",
       "enabled": true,
       "serviceCode": "PT",
-       "code": "null",
+      "code": "null",
       "path": "Property Tax Mseva.Property Search Mseva",
       "navigationURL": "pt-mutation/propertySearch",
       "leftIcon": "social:people",
@@ -25921,6 +25918,20 @@
       "serviceCode": "OBPASNOCREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8900806,
+      "name": "OBPASADMIN",
+      "url": "url",
+      "displayName": "Transfer Appointment",
+      "orderNumber": 99,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "OBPASADMIN",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/transferAppointment/jurisdiction",
+      "path": "Transfer Appointment.Jurisdiction Management",
+      "leftIcon": "social:people"
     }
   ]
 }
