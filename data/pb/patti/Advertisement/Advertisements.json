@@ -1,0 +1,40 @@
+{
+  "tenantId": "pb.patti",
+  "moduleName": "Advertisement",
+  "Advertisements": [
+    {
+      "id": 1,
+      "poleNo": "1",
+      "name": "Bus Stand (Location 1)",
+      "adType": "UNIPOLAR",
+      "width": 10,
+      "height": 20,
+      "imageSrc": "",
+      "light": "With Light",
+      "amount": 200.0,
+      "available": true,
+      "locationCode": "BUSSTAND_1",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true,
+      "scheduleType": "DAILY",
+      "rentalType": "DAILY"
+    },
+    {
+      "id": 2,
+      "poleNo": "2",
+      "name": "Bus Stand (Location 2)",
+      "adType": "UNIPOLAR",
+      "width": 10,
+      "height": 20,
+      "imageSrc": "",
+      "light": "With Light",
+      "amount": 200.0,
+      "available": true,
+      "locationCode": "BUSSTAND_2",
+      "feeType": "ADV_BOOKING_FEES",
+      "taxApplicable": true,
+      "scheduleType": "DAILY",
+      "rentalType": "DAILY"
+    }
+  ]
+}
