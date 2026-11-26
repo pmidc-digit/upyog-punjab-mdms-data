@@ -25840,7 +25840,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "path": "HRMS.Search",
+      "path": "Transfer Appointment.Search employee By Jurisdiction",
       "navigationURL": "/digit-ui/employee/hrms/empJurisSearch",
       "leftIcon": "social:people",
       "rightIcon": ""
@@ -25923,7 +25923,7 @@
       "id": 8900806,
       "name": "OBPASADMIN",
       "url": "url",
-      "displayName": "Transfer Appointment",
+      "displayName": "Jurisdiction Management",
       "orderNumber": 99,
       "parentModule": "",
       "enabled": true,
