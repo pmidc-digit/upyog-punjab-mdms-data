@@ -1,0 +1,42 @@
+{
+  "tenantId": "pb.bhulath",
+  "moduleName": "Advertisement",
+  "Location": [
+    {
+      "name": "Bhulath To Nadala (Location 1)",
+      "code": "BHULATH_1",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Bhulath To Nadala (Location 2)",
+      "code": "BHULATH_2",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Bhulath To Kartarpur (Location 3)",
+      "code": "BHULATH_3",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    },
+    {
+      "name": "Bhulath To Kartarpur (Location 4)",
+      "code": "BHULATH_4",
+      "active": true,
+      "geo_tag": {
+        "latitude": 31.45,
+        "longitude": 74.93
+      }
+    }
+  ]
+}
