@@ -1408,6 +1408,12 @@
       "name": "NoC Group Housing Rollback Approver",
       "description": "OBPAS NOC Approver",
       "groupId": "004"
+    },
+    {
+      "code": "OBPAS_UPDATE_FEE",
+      "name": "OBPAS Services Update FEE",
+      "description": "OBPAS Services workflow Update FEE",
+      "groupId": "025"
     }
   ]
 }
