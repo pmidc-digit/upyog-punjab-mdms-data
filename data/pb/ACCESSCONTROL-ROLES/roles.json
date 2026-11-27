@@ -1414,6 +1414,12 @@
       "name": "OBPAS Services Update FEE",
       "description": "OBPAS Services workflow Update FEE",
       "groupId": "025"
+    },
+    {
+      "code": "OBPAS_NOC_ROLLBACK_APPROVER",
+      "name": "OBPAS NoC Rollback Approver",
+      "description": "OBPAS NOC Rollback Approver",
+      "groupId": "004"
     }
   ]
 }
