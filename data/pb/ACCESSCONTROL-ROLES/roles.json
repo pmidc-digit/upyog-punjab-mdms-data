@@ -1384,6 +1384,30 @@
       "name": "OBPAS_LAYOUT_CTP",
       "description": "OBPAS Layout workflow Chief Town Planner",
       "groupId": "012"
+    },
+    {
+      "code": "NOC_RESIDENTIAL_ROLLBACK_APPROVER",
+      "name": "NoC Residential Rollback Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_COMMERCIAL_ROLLBACK_APPROVER",
+      "name": "NoC Commercial Rollback Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_INDUSTRIAL_ROLLBACK_APPROVER",
+      "name": "NoC Industrial Rollback Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
+    },
+    {
+      "code": "NOC_GROUP_HOUSING_ROLLBACK_APPROVER",
+      "name": "NoC Group Housing Rollback Approver",
+      "description": "OBPAS NOC Approver",
+      "groupId": "004"
     }
   ]
 }
